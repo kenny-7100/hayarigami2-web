@@ -7,7 +7,17 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "extract:game": "python3 scripts/extract_game.py",
+    "prepare:game": "python3 scripts/extract_game.py && python3 scripts/compile_prologue.py && python3 scripts/compile_assets.py",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs",
+    "test:python": "python3 -m unittest discover -s scripts -p \"test_*.py\"",
+    "audit:chapter": "python3 scripts/audit_chapter.py",
+    "check:game": "node --experimental-strip-types scripts/check_game.mjs",
+    "qa:replay": "node --experimental-strip-types scripts/replay_route.mjs",
+    "qa:fixtures": "node --experimental-strip-types tests/generate-chapter-one-browser-fixtures.mjs",
+    "verify": "npm run check:game && npm run test:python && npm test && npm run lint && npm run check:qa && npm run build",
+    "check:qa": "tsc -p tsconfig.qa.json"
   },
   "dependencies": {
     "react": "^19.2.8",
