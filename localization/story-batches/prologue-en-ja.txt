@@ -1,0 +1,45 @@
+index|en|ja
+0|“A rumour passed from one friend to another, and then to a friend of a friend.”|「友人から友人へ、そしてそのまた友人へと、口伝えに広まっていく噂」
+1|“A strange, compelling tale whose truth is impossible to pin down.”|「奇妙で、どこか人を惹きつける。真偽の定かでない噂」
+2|“A rumour poised between fact and fiction—just plausible enough to make you wonder.”|「本当とも嘘ともつかないからこそ、つい信じかけてしまう噂」
+3|These are descriptions of urban legends offered by Brunvand, a leading American scholar in the field.|アメリカの都市伝説研究の第一人者、ブルンヴァンは、都市伝説をこのように定義している。
+4|A friend of a friend.|友人の友人。
+5|Friend of a Friend|Friend of a Friend
+6|…There are moments when you feel just how powerless a human being can be. This was one of them.|……人間というのは、ときに自分の無力さを思い知らされる生き物だ。たとえば、今のように。
+7|“We called you here because we want you to keep an eye on someone. Discreetly.”|「君を呼んだのは、ある人物を監視してもらいたいからだ。極秘にな」
+8|Summoned out of the blue, then ordered to spy on someone. Didn't Japan's Constitution say something about respecting individual rights? Or had I misheard?|呼び出されたかと思えば、いきなり誰かを監視しろと言われる。日本国憲法には『個人の権利を尊重する』とあったはずだが、私の聞き違いだっただろうか。
+9|“Well… everyone does have a right to privacy…”\nI already knew what the answer would be. Still, I thought I'd make sure.|「その……しかし、人にはプライバシーの権利というものが……」\nどんな答えが返ってくるかは分かっていたが、念のため、異を唱えてみた。
+10|“If they never find out, their privacy hasn't been violated, has it? Besides, we do this all the time.”|「相手に気づかれなければ、プライバシーの侵害にはならんだろう？　どうせ、いつものことだ」
+11|There it was. Give people a taste of power, and their arrogance grows and grows—until one day they mistake themselves for gods.|そういうことだ。権力の甘みを少しでも覚えると、人間は際限なく傲慢になり、いつしか自分を神だと思い込む。
+12|The gods before me had formed their own secret society in a shadowy world off limits to the rest of us. In the name of what they called justice, they busied themselves with their little clandestine pursuits.|目の前の神々は、自分たちの信じる正義の名のもとに、暗い禁域で秘密結社を作り、飽きることなく裏の活動にいそしんでいる。
+13|Did anyone out there have the slightest idea?|世間の人々は、気づいているのだろうか。
+14|Even privacy, a basic human right guaranteed by the Constitution, was being violated day after day…|プライバシーという、憲法で保障された基本的人権さえ、日々侵され続けていることに……。
+15|And this went far beyond following people, tapping phones or chasing them with cameras.|尾行や盗聴、パパラッチなどという程度の話ではない。
+16|The more you learned of the truth, the more the NSA and ECHELON began to look like small-time operations.|真相を知れば知るほど、NSAやエシュロンなど、まだ小さな話に思えてくる。
+17|In recent years, the United States had set up a system to monitor convicted offenders by GPS. But was it really only being used on criminals?|近年、アメリカではGPSを利用して前科者を監視するシステムが作られた。だが、本当に犯罪者だけを対象にしているのだろうか。
+18|Perhaps it was time people realised they might be the ones under surveillance.|そろそろ、自分自身も監視されているかもしれないと気づいていい頃ではないか。
+19|“So, who are we watching this time?”|「それで、今度は誰を監視するんです？」
+20|A trace of contempt crept into my voice as I addressed the gods. Whatever else I might do, I had no intention of showing these people respect.|神々に向ける私の口調には、わずかな侮りが混じっていた。どうあっても、この連中に敬意を払う気にはなれなかった。
+21|“You know him. You've dealt with him on several occasions. His name is—”|「君も知っている人物だ。何度も関わっているだろう。名前は――」
+22|“{name1} {name0}… I see. Does he really still need watching?”|「なるほど、{name0}{name1}……ですか。あの人を、まだ監視する必要があるんですか？」
+23|“From the spirit-board incident at private Hanamine High School to the ‘oni’ incident in Machida, I've taken a keen interest in his every move.”|「私立花峰高校の『コックリさん』事件にせよ、町田市の『鬼』事件にせよ、彼の一挙手一投足に興味がある」
+24|“We want to pay particular attention to any case he handles from now on. Depending on the circumstances, we may even lend a hand.”|「これからも、彼の担当する事件には特別に目を配っておきたい。状況によっては、手を貸しても構わん」
+25|These self-important, arrogant, hypocritical gods were as nauseating as ever.|独りよがりで、傲慢で、偽善に満ちた神々。相変わらず、反吐が出る。
+26|The thought that they were the ones with the truth in their hands sent a chill through me.|真実を握っているのがこの連中なのだと思うと、背筋が寒くなる。
+27|After all, they could indulge in this sordid business of prying into other people's lives without the slightest restraint.|他人の私生活をひそかに覗く、こんな醜悪な真似を、何のためらいもなく実行できるのだから。
+28|The god standing in the middle was a politician. The housewives who watched him on television had voted him their best-dressed man.|中央に立つ神は政治家で、毎日テレビを見る主婦たちから、最も着こなしのよい男に選ばれている。
+29|Who could guess at the darkness beneath those fine clothes? A perfect example of how little a face can tell you about the person behind it.|その服の下に潜む闇を、誰が知っているだろう。人は見かけによらないという言葉の、見本のようなものだ。
+30|Facts were the only things you could trust. Yet people either mistook appearances for facts, or had their eyes and ears covered until they forgot the truth altogether.|信じられるのは事実だけだ。それなのに、人は虚像を事実と思い込むか、目と耳を塞がれて、いつしか事実そのものを忘れてしまう。
+31|“What's wrong? Is there a problem?”|「どうした？　何か問題でもあるのか？」
+32|My failure to give a prompt reply must have annoyed him. The housewives' favourite god was sounding a little put out.|私がすぐに返事をしなかったせいだろう。主婦たちに人気の神が、少し不機嫌そうに尋ねた。
+33|“No problem. Something just occurred to me. Gentlemen, you've all been in love for the first time, haven't you?”|「問題ありません。ただ、ふと思ったんです。先生方にも、初恋の経験はありますよね？」
+34|Perhaps the unexpected question had thrown them, or perhaps they simply chose to ignore it. Either way, an awkward silence settled over the room.|唐突な問いに戸惑ったのか、それとも聞き流したのか。一瞬、場が静まり返った。
+35|“That first love you keep buried deep inside.”|「誰にも言えず、自分の胸の奥にしまっておく初恋です」
+36|“How would you feel if even that were under surveillance?”|「それさえ監視されていたら、どんな気分になるでしょうね？」
+37|It wasn't a question for the gods. It was a bitter little joke at my own expense—and at the inescapable fact that, in the end, I was one of them.|神々に答えを求めたわけではない。結局、私もこの連中と同類なのだという、逃れようのない事実に向けた自嘲だった。
+38|“I heard this from a friend of a friend…”|「これは、友人の友人から聞いた話なんですが……」
+39|Encyclopedia\nDuring an investigation, you'll encounter terms drawn from many fields of knowledge.|データベースについて\n捜査中には、さまざまな専門分野の用語が登場します。
+40|For example, “a secret society in a shadowy world off limits to the rest of us”… That term has now been added to your encyclopedia.|たとえば、「暗い禁域で秘密結社を作り」……という文章。このように、用語がデータベースへ追加されます。
+41|Select Encyclopedia beneath the story to look up the terms you've discovered at any time.|物語の下にある「データベース」から、取得した用語をいつでも調べられます。
+42|There are 200 entries in all. Some terms only appear along particular lines of investigation.|データベースは全200項目。捜査の進め方によっては、出会わない用語もあります。
+43|You won't find every entry in a single investigation. And once you've collected enough of them, a new, hidden incident may come to light…|一度の捜査で、すべてを集めることはできません。また、取得率が一定に達すると、新たな隠された事件が姿を現すかもしれません……。

@@ -39,11 +39,11 @@ const correct = {
   14: 4613,
   15: 4660,
 };
-export function walk(route, { bad = false, inspect = () => {} } = {}) {
+export function walk(route, { bad = false, inspect = () => {}, bundle = data } = {}) {
   const trace = JSON.parse(
     readFileSync(`tests/fixtures/route-${route}.json`),
   ).trace;
-  let state = run(data, { ...createState(data), script: 10001 }),
+  let state = run(bundle, { ...createState(bundle), script: 10001 }),
     index = 0,
     steps = 0;
   const visited = new Set();
@@ -51,14 +51,14 @@ export function walk(route, { bad = false, inspect = () => {} } = {}) {
     assert.notEqual(state.mode, "error", state.error);
     visited.add(state.script);
     inspect(state);
-    if (state.mode === "page") state = advance(data, state);
+    if (state.mode === "page") state = advance(bundle, state);
     else if (state.mode === "choice") {
       const entry = trace[index++];
       assert.ok(entry, `Missing choice ${state.script}:${state.pc}`);
       assert.deepEqual(entry.slice(0, 2), [state.script, state.pc]);
-      state = choose(data, state, entry[2]);
+      state = choose(bundle, state, entry[2]);
     } else if (state.mode === "logic") {
-      for (const f of data.logic.fields.filter((f) =>
+      for (const f of (bundle.logics?.[2] ?? bundle.logic).fields.filter((f) =>
         logicCondition(state, f),
       )) {
         const choices = f.choices.filter(
@@ -69,11 +69,11 @@ export function walk(route, { bad = false, inspect = () => {} } = {}) {
         const choice = bad
           ? choices.find((c) => c.id !== expected)
           : (choices.find((c) => c.id === expected) ?? choices[0]);
-        if (choice) state = setAnswer(data, state, f.id, choice.id);
+        if (choice) state = setAnswer(bundle, state, f.id, choice.id);
       }
-      state = finishLogic(data, state);
+      state = finishLogic(bundle, state);
     } else if (state.mode === "confirm")
-      state = confirmResult(data, state, true);
+      state = confirmResult(bundle, state, true);
     else assert.fail(state.mode);
   }
   assert.equal(state.mode, "ended");

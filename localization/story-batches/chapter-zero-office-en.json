@@ -1,0 +1,1265 @@
+{
+  "version": 1,
+  "locale": "en",
+  "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+  "note": "Translate complete passages in context. Preserve every required ref. Draft only; importing is not review.",
+  "entries": [
+    {
+      "key": "page.10201:70388.ab1b038e",
+      "source": "[{\"text\":\"对上述事件的各种可能性一一进行确认，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"将数目庞大的档案进行适当地分类和整理，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"这就是我们编纂室的工作。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "对上述事件的各种可能性一一进行确认，\n将数目庞大的档案进行适当地分类和整理，\n这就是我们编纂室的工作。",
+      "route": "chapter-zero-science-success",
+      "step": 30,
+      "script": 10201,
+      "context": [
+        {
+          "key": "page.10201:70160.d1a2d3d0",
+          "text": "说不定那个无头骑手，\n是个戴着黑色头盔的人在驾车飞速行驶。",
+          "step": 28
+        },
+        {
+          "key": "page.10201:70272.f522c8a7",
+          "text": "以惊人速度奔跑的老太婆，\n也许是被车碾轧后缠在车身上的受害者。",
+          "step": 29
+        },
+        {
+          "key": "page.10201:70388.ab1b038e",
+          "text": "对上述事件的各种可能性一一进行确认，\n将数目庞大的档案进行适当地分类和整理，\n这就是我们编纂室的工作。",
+          "step": 30
+        },
+        {
+          "key": "page.10201:70552.64a44145",
+          "text": "只不过，就算我对工作内容加以说明，\n还是没人相信。\n即便如此，我依然为能从事这项工作\n而感到自豪。",
+          "step": 31
+        },
+        {
+          "key": "page.10201:70728.134fe16a",
+          "text": "金钱、时尚、价值观亦或是爱情。\n正因为生活在这个一切都快速流逝的时代，\n才需要有人用心聆听那些喃喃细语。\n就像我们这样。",
+          "step": 32
+        }
+      ],
+      "parts": [
+        {
+          "text": "Our job in the Compilation Office was to examine each possible explanation for these incidents, then sort and organise the enormous collection of files accordingly."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10201:70552.64a44145",
+      "source": "[{\"text\":\"只不过，就算我对工作内容加以说明，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"还是没人相信。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"即便如此，\",\"color\":0,\"size\":0},{\"text\":\"我依然为能从事这项工作\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"而感到自豪。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "只不过，就算我对工作内容加以说明，\n还是没人相信。\n即便如此，我依然为能从事这项工作\n而感到自豪。",
+      "route": "chapter-zero-science-success",
+      "step": 31,
+      "script": 10201,
+      "context": [
+        {
+          "key": "page.10201:70272.f522c8a7",
+          "text": "以惊人速度奔跑的老太婆，\n也许是被车碾轧后缠在车身上的受害者。",
+          "step": 29
+        },
+        {
+          "key": "page.10201:70388.ab1b038e",
+          "text": "对上述事件的各种可能性一一进行确认，\n将数目庞大的档案进行适当地分类和整理，\n这就是我们编纂室的工作。",
+          "step": 30
+        },
+        {
+          "key": "page.10201:70552.64a44145",
+          "text": "只不过，就算我对工作内容加以说明，\n还是没人相信。\n即便如此，我依然为能从事这项工作\n而感到自豪。",
+          "step": 31
+        },
+        {
+          "key": "page.10201:70728.134fe16a",
+          "text": "金钱、时尚、价值观亦或是爱情。\n正因为生活在这个一切都快速流逝的时代，\n才需要有人用心聆听那些喃喃细语。\n就像我们这样。",
+          "step": 32
+        },
+        {
+          "key": "page.10301:71336.5afc30fa",
+          "text": "「前辈，我准备回家了，您呢？」",
+          "step": 33
+        }
+      ],
+      "parts": [
+        {
+          "text": "Of course, even when I explained what we did, no one believed me. Even so, I was proud of my work."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10201:70728.134fe16a",
+      "source": "[{\"text\":\"金钱、时尚、价值观亦或是爱情。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"正因为生活在这个一切都快速流逝的时代，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"才需要有人用心聆听那些喃喃细语。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"就像我们这样。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "金钱、时尚、价值观亦或是爱情。\n正因为生活在这个一切都快速流逝的时代，\n才需要有人用心聆听那些喃喃细语。\n就像我们这样。",
+      "route": "chapter-zero-science-success",
+      "step": 32,
+      "script": 10201,
+      "context": [
+        {
+          "key": "page.10201:70388.ab1b038e",
+          "text": "对上述事件的各种可能性一一进行确认，\n将数目庞大的档案进行适当地分类和整理，\n这就是我们编纂室的工作。",
+          "step": 30
+        },
+        {
+          "key": "page.10201:70552.64a44145",
+          "text": "只不过，就算我对工作内容加以说明，\n还是没人相信。\n即便如此，我依然为能从事这项工作\n而感到自豪。",
+          "step": 31
+        },
+        {
+          "key": "page.10201:70728.134fe16a",
+          "text": "金钱、时尚、价值观亦或是爱情。\n正因为生活在这个一切都快速流逝的时代，\n才需要有人用心聆听那些喃喃细语。\n就像我们这样。",
+          "step": 32
+        },
+        {
+          "key": "page.10301:71336.5afc30fa",
+          "text": "「前辈，我准备回家了，您呢？」",
+          "step": 33
+        },
+        {
+          "key": "page.10301:71464.7d549798",
+          "text": "说话的是一个大块头。\n他如果板起脸，眼睛一瞪，\n足以让穷凶极恶的犯人闭嘴。",
+          "step": 34
+        }
+      ],
+      "parts": [
+        {
+          "text": "Money, fashion, values, even love. In an age when everything slips past so quickly, someone needs to stop and listen to the quiet murmurs left behind. Someone like us."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:71336.5afc30fa",
+      "source": "[{\"text\":\"「前辈，\",\"color\":0,\"size\":0},{\"text\":\"我准备回家了，\",\"color\":0,\"size\":0},{\"text\":\"您呢？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "「前辈，我准备回家了，您呢？」",
+      "route": "chapter-zero-science-success",
+      "step": 33,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10201:70552.64a44145",
+          "text": "只不过，就算我对工作内容加以说明，\n还是没人相信。\n即便如此，我依然为能从事这项工作\n而感到自豪。",
+          "step": 31
+        },
+        {
+          "key": "page.10201:70728.134fe16a",
+          "text": "金钱、时尚、价值观亦或是爱情。\n正因为生活在这个一切都快速流逝的时代，\n才需要有人用心聆听那些喃喃细语。\n就像我们这样。",
+          "step": 32
+        },
+        {
+          "key": "page.10301:71336.5afc30fa",
+          "text": "「前辈，我准备回家了，您呢？」",
+          "step": 33
+        },
+        {
+          "key": "page.10301:71464.7d549798",
+          "text": "说话的是一个大块头。\n他如果板起脸，眼睛一瞪，\n足以让穷凶极恶的犯人闭嘴。",
+          "step": 34
+        },
+        {
+          "key": "page.10301:71608.33188b95",
+          "text": "叫我『前辈』的这个人是\n〔小暮宗一郎〕巡查部长。\n也是编纂室的同事。",
+          "step": 35
+        }
+      ],
+      "parts": [
+        {
+          "text": "“Sir, I am heading home. Will you be leaving as well?”"
+        }
+      ],
+      "translatorNotes": "Kogure’s formal 前辈 is rendered sir consistently in this scene; preserve the rank/age tension in the following narration rather than substituting an unrelated nickname."
+    },
+    {
+      "key": "page.10301:71464.7d549798",
+      "source": "[{\"text\":\"说话的是一个大块头。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"他\",\"color\":0,\"size\":0},{\"text\":\"如\",\"color\":0,\"size\":0},{\"text\":\"果板起脸，眼睛一瞪，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"足以让\",\"color\":0,\"size\":0},{\"text\":\"穷凶极恶的犯人闭嘴。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "说话的是一个大块头。\n他如果板起脸，眼睛一瞪，\n足以让穷凶极恶的犯人闭嘴。",
+      "route": "chapter-zero-science-success",
+      "step": 34,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10201:70728.134fe16a",
+          "text": "金钱、时尚、价值观亦或是爱情。\n正因为生活在这个一切都快速流逝的时代，\n才需要有人用心聆听那些喃喃细语。\n就像我们这样。",
+          "step": 32
+        },
+        {
+          "key": "page.10301:71336.5afc30fa",
+          "text": "「前辈，我准备回家了，您呢？」",
+          "step": 33
+        },
+        {
+          "key": "page.10301:71464.7d549798",
+          "text": "说话的是一个大块头。\n他如果板起脸，眼睛一瞪，\n足以让穷凶极恶的犯人闭嘴。",
+          "step": 34
+        },
+        {
+          "key": "page.10301:71608.33188b95",
+          "text": "叫我『前辈』的这个人是\n〔小暮宗一郎〕巡查部长。\n也是编纂室的同事。",
+          "step": 35
+        },
+        {
+          "key": "page.10301:71728.83114ee0",
+          "text": "因为小暮的职位是巡查部长，\n而我是警部补，所以他叫我前辈\n也没什么不妥……但我还是不大习惯。",
+          "step": 36
+        }
+      ],
+      "parts": [
+        {
+          "text": "The man who spoke was huge. If he set his jaw and fixed someone with a glare, he could silence even the most hardened criminal."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:71608.33188b95",
+      "source": "[{\"text\":\"叫我『前辈』的这个人是\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"〔小暮宗一郎〕\",\"size\":0,\"keyword\":4600},{\"text\":\"巡查部长。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"也是编纂室的同事。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "叫我『前辈』的这个人是\n〔小暮宗一郎〕巡查部长。\n也是编纂室的同事。",
+      "route": "chapter-zero-science-success",
+      "step": 35,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:71336.5afc30fa",
+          "text": "「前辈，我准备回家了，您呢？」",
+          "step": 33
+        },
+        {
+          "key": "page.10301:71464.7d549798",
+          "text": "说话的是一个大块头。\n他如果板起脸，眼睛一瞪，\n足以让穷凶极恶的犯人闭嘴。",
+          "step": 34
+        },
+        {
+          "key": "page.10301:71608.33188b95",
+          "text": "叫我『前辈』的这个人是\n〔小暮宗一郎〕巡查部长。\n也是编纂室的同事。",
+          "step": 35
+        },
+        {
+          "key": "page.10301:71728.83114ee0",
+          "text": "因为小暮的职位是巡查部长，\n而我是警部补，所以他叫我前辈\n也没什么不妥……但我还是不大习惯。",
+          "step": 36
+        },
+        {
+          "key": "page.10301:71908.26251b43",
+          "text": "原因之一，从外表看\n小暮是个十分威严的刑警。",
+          "step": 37
+        }
+      ],
+      "parts": [
+        {
+          "text": "The man who called me “sir” was Sergeant "
+        },
+        {
+          "ref": 2,
+          "text": "Soichiro Kogure"
+        },
+        {
+          "text": ", my colleague in the Compilation Office."
+        }
+      ],
+      "translatorNotes": "Provisional glossary: 小暮宗一郎 = Soichiro Kogure; 巡查部长 = Sergeant; 警部补 = Assistant Inspector. Must align with keyword 4600 and later character descriptions."
+    },
+    {
+      "key": "page.10301:71728.83114ee0",
+      "source": "[{\"text\":\"因为小暮的职位是巡查部长，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"而我是警部补，所以他叫我前辈\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"也没什么不妥……\",\"color\":0,\"size\":0},{\"text\":\"但我还是不大习惯。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "因为小暮的职位是巡查部长，\n而我是警部补，所以他叫我前辈\n也没什么不妥……但我还是不大习惯。",
+      "route": "chapter-zero-science-success",
+      "step": 36,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:71464.7d549798",
+          "text": "说话的是一个大块头。\n他如果板起脸，眼睛一瞪，\n足以让穷凶极恶的犯人闭嘴。",
+          "step": 34
+        },
+        {
+          "key": "page.10301:71608.33188b95",
+          "text": "叫我『前辈』的这个人是\n〔小暮宗一郎〕巡查部长。\n也是编纂室的同事。",
+          "step": 35
+        },
+        {
+          "key": "page.10301:71728.83114ee0",
+          "text": "因为小暮的职位是巡查部长，\n而我是警部补，所以他叫我前辈\n也没什么不妥……但我还是不大习惯。",
+          "step": 36
+        },
+        {
+          "key": "page.10301:71908.26251b43",
+          "text": "原因之一，从外表看\n小暮是个十分威严的刑警。",
+          "step": 37
+        },
+        {
+          "key": "page.10301:72020.3fdb1d5a",
+          "text": "另一点就是，我今年２4岁，\n而他已经２８岁了，我年纪比他小。",
+          "step": 38
+        }
+      ],
+      "parts": [
+        {
+          "text": "Kogure was a sergeant and I was an assistant inspector, so there was nothing improper about the way he addressed me... but I still could not get used to it."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:71908.26251b43",
+      "source": "[{\"text\":\"原因之一，从外表看\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"小暮\",\"color\":0,\"size\":0},{\"text\":\"是个十分威严的刑警。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "原因之一，从外表看\n小暮是个十分威严的刑警。",
+      "route": "chapter-zero-science-success",
+      "step": 37,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:71608.33188b95",
+          "text": "叫我『前辈』的这个人是\n〔小暮宗一郎〕巡查部长。\n也是编纂室的同事。",
+          "step": 35
+        },
+        {
+          "key": "page.10301:71728.83114ee0",
+          "text": "因为小暮的职位是巡查部长，\n而我是警部补，所以他叫我前辈\n也没什么不妥……但我还是不大习惯。",
+          "step": 36
+        },
+        {
+          "key": "page.10301:71908.26251b43",
+          "text": "原因之一，从外表看\n小暮是个十分威严的刑警。",
+          "step": 37
+        },
+        {
+          "key": "page.10301:72020.3fdb1d5a",
+          "text": "另一点就是，我今年２4岁，\n而他已经２８岁了，我年纪比他小。",
+          "step": 38
+        },
+        {
+          "key": "page.10301:72128.ab166ae4",
+          "text": "虽然刚见面时，我就拜托过他很多次，\n要他改变一下称呼，但他却固执己见，\n我只好放弃。\n所以直到今天——依然如此。",
+          "step": 39
+        }
+      ],
+      "parts": [
+        {
+          "text": "For one thing, he looked every inch the imposing detective."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:72020.3fdb1d5a",
+      "source": "[{\"text\":\"另一点就是，我今年２4岁，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"而他已经２８岁了，我年纪比他小。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "另一点就是，我今年２4岁，\n而他已经２８岁了，我年纪比他小。",
+      "route": "chapter-zero-science-success",
+      "step": 38,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:71728.83114ee0",
+          "text": "因为小暮的职位是巡查部长，\n而我是警部补，所以他叫我前辈\n也没什么不妥……但我还是不大习惯。",
+          "step": 36
+        },
+        {
+          "key": "page.10301:71908.26251b43",
+          "text": "原因之一，从外表看\n小暮是个十分威严的刑警。",
+          "step": 37
+        },
+        {
+          "key": "page.10301:72020.3fdb1d5a",
+          "text": "另一点就是，我今年２4岁，\n而他已经２８岁了，我年纪比他小。",
+          "step": 38
+        },
+        {
+          "key": "page.10301:72128.ab166ae4",
+          "text": "虽然刚见面时，我就拜托过他很多次，\n要他改变一下称呼，但他却固执己见，\n我只好放弃。\n所以直到今天——依然如此。",
+          "step": 39
+        },
+        {
+          "key": "page.10301:72312.f1cf9341",
+          "text": "小暮粗大的手里\n提着皱巴巴的皮包。",
+          "step": 40
+        }
+      ],
+      "parts": [
+        {
+          "text": "For another, I was twenty-four. He was twenty-eight. I was the younger of us."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:72128.ab166ae4",
+      "source": "[{\"text\":\"虽然刚见面时，我就拜托过他很多次，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"要他改变一下称呼，但他却固执己见，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"我只好放弃。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"所以直到今天———\",\"color\":0,\"size\":0},{\"text\":\"依然如此。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "虽然刚见面时，我就拜托过他很多次，\n要他改变一下称呼，但他却固执己见，\n我只好放弃。\n所以直到今天——依然如此。",
+      "route": "chapter-zero-science-success",
+      "step": 39,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:71908.26251b43",
+          "text": "原因之一，从外表看\n小暮是个十分威严的刑警。",
+          "step": 37
+        },
+        {
+          "key": "page.10301:72020.3fdb1d5a",
+          "text": "另一点就是，我今年２4岁，\n而他已经２８岁了，我年纪比他小。",
+          "step": 38
+        },
+        {
+          "key": "page.10301:72128.ab166ae4",
+          "text": "虽然刚见面时，我就拜托过他很多次，\n要他改变一下称呼，但他却固执己见，\n我只好放弃。\n所以直到今天——依然如此。",
+          "step": 39
+        },
+        {
+          "key": "page.10301:72312.f1cf9341",
+          "text": "小暮粗大的手里\n提着皱巴巴的皮包。",
+          "step": 40
+        },
+        {
+          "key": "page.10301:72540.dcd0ef2",
+          "text": "正好我的工作也做完了。\n我一边断开电脑的电源，\n一边冲着里屋的会客室喊：",
+          "step": 41
+        }
+      ],
+      "parts": [
+        {
+          "text": "When we first met, I asked him repeatedly to call me something else. He would not budge, and eventually I gave up.\nSo, to this day, nothing had changed."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:72312.f1cf9341",
+      "source": "[{\"text\":\"小暮粗大的手里\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"提着皱巴巴的皮包。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "小暮粗大的手里\n提着皱巴巴的皮包。",
+      "route": "chapter-zero-science-success",
+      "step": 40,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:72020.3fdb1d5a",
+          "text": "另一点就是，我今年２4岁，\n而他已经２８岁了，我年纪比他小。",
+          "step": 38
+        },
+        {
+          "key": "page.10301:72128.ab166ae4",
+          "text": "虽然刚见面时，我就拜托过他很多次，\n要他改变一下称呼，但他却固执己见，\n我只好放弃。\n所以直到今天——依然如此。",
+          "step": 39
+        },
+        {
+          "key": "page.10301:72312.f1cf9341",
+          "text": "小暮粗大的手里\n提着皱巴巴的皮包。",
+          "step": 40
+        },
+        {
+          "key": "page.10301:72540.dcd0ef2",
+          "text": "正好我的工作也做完了。\n我一边断开电脑的电源，\n一边冲着里屋的会客室喊：",
+          "step": 41
+        },
+        {
+          "key": "page.10301:72744.b25f31f2",
+          "text": "「警部，我们要回去了，\n之后的事就拜托你了，可以吗？」",
+          "step": 42
+        }
+      ],
+      "parts": [
+        {
+          "text": "A battered leather bag hung from Kogure’s large hand."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:72540.dcd0ef2",
+      "source": "[{\"text\":\"正好我的工作也做完了。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"我一边断开电脑的电源，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一边冲着里屋的会客室喊：\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "正好我的工作也做完了。\n我一边断开电脑的电源，\n一边冲着里屋的会客室喊：",
+      "route": "chapter-zero-science-success",
+      "step": 41,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:72128.ab166ae4",
+          "text": "虽然刚见面时，我就拜托过他很多次，\n要他改变一下称呼，但他却固执己见，\n我只好放弃。\n所以直到今天——依然如此。",
+          "step": 39
+        },
+        {
+          "key": "page.10301:72312.f1cf9341",
+          "text": "小暮粗大的手里\n提着皱巴巴的皮包。",
+          "step": 40
+        },
+        {
+          "key": "page.10301:72540.dcd0ef2",
+          "text": "正好我的工作也做完了。\n我一边断开电脑的电源，\n一边冲着里屋的会客室喊：",
+          "step": 41
+        },
+        {
+          "key": "page.10301:72744.b25f31f2",
+          "text": "「警部，我们要回去了，\n之后的事就拜托你了，可以吗？」",
+          "step": 42
+        },
+        {
+          "key": "page.10301:72896.10aaf06e",
+          "text": "没人回答我。\n只有一只雪白的胳膊从沙发后面伸出来，\n在空中轻轻地摆了摆。",
+          "step": 43
+        }
+      ],
+      "parts": [
+        {
+          "text": "I had just finished my work, too. As I switched off the computer, I called towards the reception room at the back."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:72744.b25f31f2",
+      "source": "[{\"text\":\"「警部，我们要回去了，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"之后的事就拜托你了，可以吗？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "「警部，我们要回去了，\n之后的事就拜托你了，可以吗？」",
+      "route": "chapter-zero-science-success",
+      "step": 42,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:72312.f1cf9341",
+          "text": "小暮粗大的手里\n提着皱巴巴的皮包。",
+          "step": 40
+        },
+        {
+          "key": "page.10301:72540.dcd0ef2",
+          "text": "正好我的工作也做完了。\n我一边断开电脑的电源，\n一边冲着里屋的会客室喊：",
+          "step": 41
+        },
+        {
+          "key": "page.10301:72744.b25f31f2",
+          "text": "「警部，我们要回去了，\n之后的事就拜托你了，可以吗？」",
+          "step": 42
+        },
+        {
+          "key": "page.10301:72896.10aaf06e",
+          "text": "没人回答我。\n只有一只雪白的胳膊从沙发后面伸出来，\n在空中轻轻地摆了摆。",
+          "step": 43
+        },
+        {
+          "key": "page.10301:73036.989fde83",
+          "text": "编纂室的头儿……就是这位〔犬童兰子〕警部。\n把工作交给我和小暮之后，\n警部这一天就在电视机前度过了。",
+          "step": 44
+        }
+      ],
+      "parts": [
+        {
+          "text": "“Inspector, we are heading home. Can we leave the rest to you?”"
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:72896.10aaf06e",
+      "source": "[{\"text\":\"没人回答我。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"只有一只雪白的胳膊从沙发后面伸出来，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"在空中轻轻地摆了摆。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "没人回答我。\n只有一只雪白的胳膊从沙发后面伸出来，\n在空中轻轻地摆了摆。",
+      "route": "chapter-zero-science-success",
+      "step": 43,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:72540.dcd0ef2",
+          "text": "正好我的工作也做完了。\n我一边断开电脑的电源，\n一边冲着里屋的会客室喊：",
+          "step": 41
+        },
+        {
+          "key": "page.10301:72744.b25f31f2",
+          "text": "「警部，我们要回去了，\n之后的事就拜托你了，可以吗？」",
+          "step": 42
+        },
+        {
+          "key": "page.10301:72896.10aaf06e",
+          "text": "没人回答我。\n只有一只雪白的胳膊从沙发后面伸出来，\n在空中轻轻地摆了摆。",
+          "step": 43
+        },
+        {
+          "key": "page.10301:73036.989fde83",
+          "text": "编纂室的头儿……就是这位〔犬童兰子〕警部。\n把工作交给我和小暮之后，\n警部这一天就在电视机前度过了。",
+          "step": 44
+        },
+        {
+          "key": "page.10301:73188.5afd242",
+          "text": "因为她非常喜欢〔博彩〕，\n所以常常在我们伏案工作的时候，\n认真地看着赛马转播。",
+          "step": 45
+        }
+      ],
+      "parts": [
+        {
+          "text": "There was no reply. Only a pale arm rose from behind the sofa and gave a slight wave."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:73036.989fde83",
+      "source": "[{\"text\":\"编纂室的头儿……就是这位\",\"color\":0,\"size\":0},{\"text\":\"〔犬童兰子〕\",\"size\":0,\"keyword\":4615},{\"text\":\"警部。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"把工作交给我和小暮之后，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"警部这一天就在电视机前度过了。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "编纂室的头儿……就是这位〔犬童兰子〕警部。\n把工作交给我和小暮之后，\n警部这一天就在电视机前度过了。",
+      "route": "chapter-zero-science-success",
+      "step": 44,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:72744.b25f31f2",
+          "text": "「警部，我们要回去了，\n之后的事就拜托你了，可以吗？」",
+          "step": 42
+        },
+        {
+          "key": "page.10301:72896.10aaf06e",
+          "text": "没人回答我。\n只有一只雪白的胳膊从沙发后面伸出来，\n在空中轻轻地摆了摆。",
+          "step": 43
+        },
+        {
+          "key": "page.10301:73036.989fde83",
+          "text": "编纂室的头儿……就是这位〔犬童兰子〕警部。\n把工作交给我和小暮之后，\n警部这一天就在电视机前度过了。",
+          "step": 44
+        },
+        {
+          "key": "page.10301:73188.5afd242",
+          "text": "因为她非常喜欢〔博彩〕，\n所以常常在我们伏案工作的时候，\n认真地看着赛马转播。",
+          "step": 45
+        },
+        {
+          "key": "page.10301:73360.dfb8fa2b",
+          "text": "我和小暮对警部的这种态度早已习惯了，\n事到如今也没打算多说什么。",
+          "step": 46
+        }
+      ],
+      "parts": [
+        {
+          "text": "Our boss in the Compilation Office was Inspector "
+        },
+        {
+          "ref": 1,
+          "text": "Ranko Inudo"
+        },
+        {
+          "text": ". After leaving the work to Kogure and me, she had spent the day in front of the television."
+        }
+      ],
+      "translatorNotes": "Provisional glossary: 犬童兰子 = Ranko Inudo; 警部 = Inspector. Keyword 4615 retains identity."
+    },
+    {
+      "key": "page.10301:73188.5afd242",
+      "source": "[{\"text\":\"因为她非常喜欢\",\"color\":0,\"size\":0},{\"text\":\"〔博彩〕\",\"size\":0,\"keyword\":4601},{\"text\":\"，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"所以常常在我们伏案工作的时候，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"认真地看着赛马转播。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "因为她非常喜欢〔博彩〕，\n所以常常在我们伏案工作的时候，\n认真地看着赛马转播。",
+      "route": "chapter-zero-science-success",
+      "step": 45,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:72896.10aaf06e",
+          "text": "没人回答我。\n只有一只雪白的胳膊从沙发后面伸出来，\n在空中轻轻地摆了摆。",
+          "step": 43
+        },
+        {
+          "key": "page.10301:73036.989fde83",
+          "text": "编纂室的头儿……就是这位〔犬童兰子〕警部。\n把工作交给我和小暮之后，\n警部这一天就在电视机前度过了。",
+          "step": 44
+        },
+        {
+          "key": "page.10301:73188.5afd242",
+          "text": "因为她非常喜欢〔博彩〕，\n所以常常在我们伏案工作的时候，\n认真地看着赛马转播。",
+          "step": 45
+        },
+        {
+          "key": "page.10301:73360.dfb8fa2b",
+          "text": "我和小暮对警部的这种态度早已习惯了，\n事到如今也没打算多说什么。",
+          "step": 46
+        },
+        {
+          "key": "page.10301:73504.84d86c37",
+          "text": "留下沉浸在电视节目中的警部，\n我和小暮离开了编纂室。",
+          "step": 47
+        }
+      ],
+      "parts": [
+        {
+          "text": "She loved "
+        },
+        {
+          "ref": 1,
+          "text": "gambling"
+        },
+        {
+          "text": ". While we worked at our desks, she would often be engrossed in a horse race on television."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:73360.dfb8fa2b",
+      "source": "[{\"text\":\"我和小暮\",\"color\":0,\"size\":0},{\"text\":\"对警部的这种态度早已习惯了，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"事到如今也没打算多说什么。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "我和小暮对警部的这种态度早已习惯了，\n事到如今也没打算多说什么。",
+      "route": "chapter-zero-science-success",
+      "step": 46,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:73036.989fde83",
+          "text": "编纂室的头儿……就是这位〔犬童兰子〕警部。\n把工作交给我和小暮之后，\n警部这一天就在电视机前度过了。",
+          "step": 44
+        },
+        {
+          "key": "page.10301:73188.5afd242",
+          "text": "因为她非常喜欢〔博彩〕，\n所以常常在我们伏案工作的时候，\n认真地看着赛马转播。",
+          "step": 45
+        },
+        {
+          "key": "page.10301:73360.dfb8fa2b",
+          "text": "我和小暮对警部的这种态度早已习惯了，\n事到如今也没打算多说什么。",
+          "step": 46
+        },
+        {
+          "key": "page.10301:73504.84d86c37",
+          "text": "留下沉浸在电视节目中的警部，\n我和小暮离开了编纂室。",
+          "step": 47
+        },
+        {
+          "key": "page.10401:73992.2db35b6a",
+          "text": "白天还热热闹闹挤满了人的警视厅，\n现在已是人影稀疏。",
+          "step": 48
+        }
+      ],
+      "parts": [
+        {
+          "text": "Kogure and I were used to the inspector’s ways. Neither of us intended to say anything about it now."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10301:73504.84d86c37",
+      "source": "[{\"text\":\"留下沉浸在电视节目中的警部，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"我和小暮离开了编纂室。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "留下沉浸在电视节目中的警部，\n我和小暮离开了编纂室。",
+      "route": "chapter-zero-science-success",
+      "step": 47,
+      "script": 10301,
+      "context": [
+        {
+          "key": "page.10301:73188.5afd242",
+          "text": "因为她非常喜欢〔博彩〕，\n所以常常在我们伏案工作的时候，\n认真地看着赛马转播。",
+          "step": 45
+        },
+        {
+          "key": "page.10301:73360.dfb8fa2b",
+          "text": "我和小暮对警部的这种态度早已习惯了，\n事到如今也没打算多说什么。",
+          "step": 46
+        },
+        {
+          "key": "page.10301:73504.84d86c37",
+          "text": "留下沉浸在电视节目中的警部，\n我和小暮离开了编纂室。",
+          "step": 47
+        },
+        {
+          "key": "page.10401:73992.2db35b6a",
+          "text": "白天还热热闹闹挤满了人的警视厅，\n现在已是人影稀疏。",
+          "step": 48
+        },
+        {
+          "key": "page.10401:74100.6ff3455d",
+          "text": "我和小暮像往常一样，\n一边说些无关紧要的闲话，\n一边穿过用大理石铺建的大厅。",
+          "step": 49
+        }
+      ],
+      "parts": [
+        {
+          "text": "Leaving the inspector absorbed in her programme, Kogure and I left the Compilation Office."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:73992.2db35b6a",
+      "source": "[{\"text\":\"白天还热热闹闹挤满了人的警视厅，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"现在已是人影稀疏。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "白天还热热闹闹挤满了人的警视厅，\n现在已是人影稀疏。",
+      "route": "chapter-zero-science-success",
+      "step": 48,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10301:73360.dfb8fa2b",
+          "text": "我和小暮对警部的这种态度早已习惯了，\n事到如今也没打算多说什么。",
+          "step": 46
+        },
+        {
+          "key": "page.10301:73504.84d86c37",
+          "text": "留下沉浸在电视节目中的警部，\n我和小暮离开了编纂室。",
+          "step": 47
+        },
+        {
+          "key": "page.10401:73992.2db35b6a",
+          "text": "白天还热热闹闹挤满了人的警视厅，\n现在已是人影稀疏。",
+          "step": 48
+        },
+        {
+          "key": "page.10401:74100.6ff3455d",
+          "text": "我和小暮像往常一样，\n一边说些无关紧要的闲话，\n一边穿过用大理石铺建的大厅。",
+          "step": 49
+        },
+        {
+          "key": "page.10401:74244.fdefc006",
+          "text": "伴随着我们有节奏的脚步声的，\n是大楼各处传来的电话铃和紧急通讯的声音。",
+          "step": 50
+        }
+      ],
+      "parts": [
+        {
+          "text": "The Metropolitan Police headquarters had been packed and bustling during the day. Now, only a few people remained."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:74100.6ff3455d",
+      "source": "[{\"text\":\"我和小暮\",\"color\":0,\"size\":0},{\"text\":\"像往常一样，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一边说些无关紧要的闲话，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一边穿过用大理石铺建的大厅。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "我和小暮像往常一样，\n一边说些无关紧要的闲话，\n一边穿过用大理石铺建的大厅。",
+      "route": "chapter-zero-science-success",
+      "step": 49,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10301:73504.84d86c37",
+          "text": "留下沉浸在电视节目中的警部，\n我和小暮离开了编纂室。",
+          "step": 47
+        },
+        {
+          "key": "page.10401:73992.2db35b6a",
+          "text": "白天还热热闹闹挤满了人的警视厅，\n现在已是人影稀疏。",
+          "step": 48
+        },
+        {
+          "key": "page.10401:74100.6ff3455d",
+          "text": "我和小暮像往常一样，\n一边说些无关紧要的闲话，\n一边穿过用大理石铺建的大厅。",
+          "step": 49
+        },
+        {
+          "key": "page.10401:74244.fdefc006",
+          "text": "伴随着我们有节奏的脚步声的，\n是大楼各处传来的电话铃和紧急通讯的声音。",
+          "step": 50
+        },
+        {
+          "key": "page.10401:74448.5a47ed09",
+          "text": "突然，一个声音让我不由得驻足回望。",
+          "step": 51
+        }
+      ],
+      "parts": [
+        {
+          "text": "Kogure and I crossed the marble-floored lobby, chatting about nothing in particular, just as we always did."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:74244.fdefc006",
+      "source": "[{\"text\":\"伴随着我们有节奏的脚步声的，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"是大楼各处传来的电话铃和紧急通讯的声音。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "伴随着我们有节奏的脚步声的，\n是大楼各处传来的电话铃和紧急通讯的声音。",
+      "route": "chapter-zero-science-success",
+      "step": 50,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10401:73992.2db35b6a",
+          "text": "白天还热热闹闹挤满了人的警视厅，\n现在已是人影稀疏。",
+          "step": 48
+        },
+        {
+          "key": "page.10401:74100.6ff3455d",
+          "text": "我和小暮像往常一样，\n一边说些无关紧要的闲话，\n一边穿过用大理石铺建的大厅。",
+          "step": 49
+        },
+        {
+          "key": "page.10401:74244.fdefc006",
+          "text": "伴随着我们有节奏的脚步声的，\n是大楼各处传来的电话铃和紧急通讯的声音。",
+          "step": 50
+        },
+        {
+          "key": "page.10401:74448.5a47ed09",
+          "text": "突然，一个声音让我不由得驻足回望。",
+          "step": 51
+        },
+        {
+          "key": "page.10401:74568.d1063e53",
+          "text": "只见一个女人跪坐在大理石地板上，\n怎么看都像是鞋跟断了。",
+          "step": 52
+        }
+      ],
+      "parts": [
+        {
+          "text": "The steady sound of our footsteps mingled with ringing phones and urgent communications from elsewhere in the building."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:74448.5a47ed09",
+      "source": "[{\"text\":\"突然，一个声音让我不由得驻足回望。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "突然，一个声音让我不由得驻足回望。",
+      "route": "chapter-zero-science-success",
+      "step": 51,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10401:74100.6ff3455d",
+          "text": "我和小暮像往常一样，\n一边说些无关紧要的闲话，\n一边穿过用大理石铺建的大厅。",
+          "step": 49
+        },
+        {
+          "key": "page.10401:74244.fdefc006",
+          "text": "伴随着我们有节奏的脚步声的，\n是大楼各处传来的电话铃和紧急通讯的声音。",
+          "step": 50
+        },
+        {
+          "key": "page.10401:74448.5a47ed09",
+          "text": "突然，一个声音让我不由得驻足回望。",
+          "step": 51
+        },
+        {
+          "key": "page.10401:74568.d1063e53",
+          "text": "只见一个女人跪坐在大理石地板上，\n怎么看都像是鞋跟断了。",
+          "step": 52
+        },
+        {
+          "key": "page.10401:74732.7463e853",
+          "text": "她的裙子铺开在地上，\n随身携带的物品也散落在四周。",
+          "step": 53
+        }
+      ],
+      "parts": [
+        {
+          "text": "Then a sudden noise made me stop and turn."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:74568.d1063e53",
+      "source": "[{\"text\":\"只见一个女人跪坐在大理石地板上，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"怎么看都像是鞋跟断了。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "只见一个女人跪坐在大理石地板上，\n怎么看都像是鞋跟断了。",
+      "route": "chapter-zero-science-success",
+      "step": 52,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10401:74244.fdefc006",
+          "text": "伴随着我们有节奏的脚步声的，\n是大楼各处传来的电话铃和紧急通讯的声音。",
+          "step": 50
+        },
+        {
+          "key": "page.10401:74448.5a47ed09",
+          "text": "突然，一个声音让我不由得驻足回望。",
+          "step": 51
+        },
+        {
+          "key": "page.10401:74568.d1063e53",
+          "text": "只见一个女人跪坐在大理石地板上，\n怎么看都像是鞋跟断了。",
+          "step": 52
+        },
+        {
+          "key": "page.10401:74732.7463e853",
+          "text": "她的裙子铺开在地上，\n随身携带的物品也散落在四周。",
+          "step": 53
+        },
+        {
+          "key": "page.10401:74824.18afabff",
+          "text": "地上有个大纸袋，还有从里面\n掉落出来的手帕和手机。\n每样东西都单独装在小塑料袋里。",
+          "step": 54
+        }
+      ],
+      "parts": [
+        {
+          "text": "A woman was kneeling on the marble floor. It looked as though the heel of her shoe had broken."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:74732.7463e853",
+      "source": "[{\"text\":\"她的裙子铺开在地上，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"随身携带的物品也散落在四周。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "她的裙子铺开在地上，\n随身携带的物品也散落在四周。",
+      "route": "chapter-zero-science-success",
+      "step": 53,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10401:74448.5a47ed09",
+          "text": "突然，一个声音让我不由得驻足回望。",
+          "step": 51
+        },
+        {
+          "key": "page.10401:74568.d1063e53",
+          "text": "只见一个女人跪坐在大理石地板上，\n怎么看都像是鞋跟断了。",
+          "step": 52
+        },
+        {
+          "key": "page.10401:74732.7463e853",
+          "text": "她的裙子铺开在地上，\n随身携带的物品也散落在四周。",
+          "step": 53
+        },
+        {
+          "key": "page.10401:74824.18afabff",
+          "text": "地上有个大纸袋，还有从里面\n掉落出来的手帕和手机。\n每样东西都单独装在小塑料袋里。",
+          "step": 54
+        },
+        {
+          "key": "page.10401:74976.14e5fb26",
+          "text": "「你没事吧？」",
+          "step": 55
+        }
+      ],
+      "parts": [
+        {
+          "text": "Her skirt spread out on the floor, with her belongings scattered around her."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:74824.18afabff",
+      "source": "[{\"text\":\"地上有个大纸袋，还有从里面\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"掉落出来的手帕和手机。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"每样东西都单独装在小塑料袋里。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "地上有个大纸袋，还有从里面\n掉落出来的手帕和手机。\n每样东西都单独装在小塑料袋里。",
+      "route": "chapter-zero-science-success",
+      "step": 54,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10401:74568.d1063e53",
+          "text": "只见一个女人跪坐在大理石地板上，\n怎么看都像是鞋跟断了。",
+          "step": 52
+        },
+        {
+          "key": "page.10401:74732.7463e853",
+          "text": "她的裙子铺开在地上，\n随身携带的物品也散落在四周。",
+          "step": 53
+        },
+        {
+          "key": "page.10401:74824.18afabff",
+          "text": "地上有个大纸袋，还有从里面\n掉落出来的手帕和手机。\n每样东西都单独装在小塑料袋里。",
+          "step": 54
+        },
+        {
+          "key": "page.10401:74976.14e5fb26",
+          "text": "「你没事吧？」",
+          "step": 55
+        },
+        {
+          "key": "page.10401:75032.cf0dd2d0",
+          "text": "我和小暮跑到她跟前，\n把散落的东西捡起放回到纸袋里。\n我把东西递过去，那个女人轻轻按住脚踝，\n抬头用一双大眼睛看着我们。",
+          "step": 56
+        }
+      ],
+      "parts": [
+        {
+          "text": "There was a large paper bag on the floor, along with a handkerchief and a mobile phone that had fallen out of it. Each item was sealed in a separate little plastic bag."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:74976.14e5fb26",
+      "source": "[{\"text\":\"「你没事吧？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "「你没事吧？」",
+      "route": "chapter-zero-science-success",
+      "step": 55,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10401:74732.7463e853",
+          "text": "她的裙子铺开在地上，\n随身携带的物品也散落在四周。",
+          "step": 53
+        },
+        {
+          "key": "page.10401:74824.18afabff",
+          "text": "地上有个大纸袋，还有从里面\n掉落出来的手帕和手机。\n每样东西都单独装在小塑料袋里。",
+          "step": 54
+        },
+        {
+          "key": "page.10401:74976.14e5fb26",
+          "text": "「你没事吧？」",
+          "step": 55
+        },
+        {
+          "key": "page.10401:75032.cf0dd2d0",
+          "text": "我和小暮跑到她跟前，\n把散落的东西捡起放回到纸袋里。\n我把东西递过去，那个女人轻轻按住脚踝，\n抬头用一双大眼睛看着我们。",
+          "step": 56
+        },
+        {
+          "key": "page.10401:75308.d519a1ee",
+          "text": "她异样的目光令我不由自主屏住呼吸。\n那空洞无神的眼眸，仿佛把照进瞳孔的\n光线全都吸收掉了。",
+          "step": 57
+        }
+      ],
+      "parts": [
+        {
+          "text": "“Are you all right?”"
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:75032.cf0dd2d0",
+      "source": "[{\"text\":\"我和小暮跑到她跟前，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"把散落的东西捡起放回到纸袋里。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"我把东西递过去，那个女人轻轻按住脚踝，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"抬头用一双大眼睛看着我们。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "我和小暮跑到她跟前，\n把散落的东西捡起放回到纸袋里。\n我把东西递过去，那个女人轻轻按住脚踝，\n抬头用一双大眼睛看着我们。",
+      "route": "chapter-zero-science-success",
+      "step": 56,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10401:74824.18afabff",
+          "text": "地上有个大纸袋，还有从里面\n掉落出来的手帕和手机。\n每样东西都单独装在小塑料袋里。",
+          "step": 54
+        },
+        {
+          "key": "page.10401:74976.14e5fb26",
+          "text": "「你没事吧？」",
+          "step": 55
+        },
+        {
+          "key": "page.10401:75032.cf0dd2d0",
+          "text": "我和小暮跑到她跟前，\n把散落的东西捡起放回到纸袋里。\n我把东西递过去，那个女人轻轻按住脚踝，\n抬头用一双大眼睛看着我们。",
+          "step": 56
+        },
+        {
+          "key": "page.10401:75308.d519a1ee",
+          "text": "她异样的目光令我不由自主屏住呼吸。\n那空洞无神的眼眸，仿佛把照进瞳孔的\n光线全都吸收掉了。",
+          "step": 57
+        },
+        {
+          "key": "page.10401:75460.6485f446",
+          "text": "那是一双如同燃烧殆尽的炭火般乌黑的眼眸。\n慢慢地，她眨了眨眼，像是相机对准了焦点似的，\n双眼恢复了生气。",
+          "step": 58
+        }
+      ],
+      "parts": [
+        {
+          "text": "Kogure and I hurried over and put the scattered belongings back into the paper bag. As I handed it to her, she held her ankle lightly and looked up at us with wide eyes."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:75308.d519a1ee",
+      "source": "[{\"text\":\"她异样的目光令我不由自主屏住呼吸。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"那空洞无神的眼眸，仿佛把照进瞳孔的\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"光线全都吸收掉了。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "她异样的目光令我不由自主屏住呼吸。\n那空洞无神的眼眸，仿佛把照进瞳孔的\n光线全都吸收掉了。",
+      "route": "chapter-zero-science-success",
+      "step": 57,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10401:74976.14e5fb26",
+          "text": "「你没事吧？」",
+          "step": 55
+        },
+        {
+          "key": "page.10401:75032.cf0dd2d0",
+          "text": "我和小暮跑到她跟前，\n把散落的东西捡起放回到纸袋里。\n我把东西递过去，那个女人轻轻按住脚踝，\n抬头用一双大眼睛看着我们。",
+          "step": 56
+        },
+        {
+          "key": "page.10401:75308.d519a1ee",
+          "text": "她异样的目光令我不由自主屏住呼吸。\n那空洞无神的眼眸，仿佛把照进瞳孔的\n光线全都吸收掉了。",
+          "step": 57
+        },
+        {
+          "key": "page.10401:75460.6485f446",
+          "text": "那是一双如同燃烧殆尽的炭火般乌黑的眼眸。\n慢慢地，她眨了眨眼，像是相机对准了焦点似的，\n双眼恢复了生气。",
+          "step": 58
+        },
+        {
+          "key": "page.10401:75676.a850a1d2",
+          "text": "「风海……君？」\n「啊……？」\n「前辈，你们认识吗？」",
+          "step": 59
+        }
+      ],
+      "parts": [
+        {
+          "text": "There was something about her gaze that made me catch my breath. Her empty, lifeless eyes seemed to swallow every ray of light that entered them."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:75460.6485f446",
+      "source": "[{\"text\":\"那是一双如同燃烧殆尽的炭火般乌黑的眼眸。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"慢慢地，\",\"color\":0,\"size\":0},{\"text\":\"她\",\"color\":0,\"size\":0},{\"text\":\"眨了眨眼，像是相机对准了焦点似的，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"双眼恢复了生气。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "那是一双如同燃烧殆尽的炭火般乌黑的眼眸。\n慢慢地，她眨了眨眼，像是相机对准了焦点似的，\n双眼恢复了生气。",
+      "route": "chapter-zero-science-success",
+      "step": 58,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10401:75032.cf0dd2d0",
+          "text": "我和小暮跑到她跟前，\n把散落的东西捡起放回到纸袋里。\n我把东西递过去，那个女人轻轻按住脚踝，\n抬头用一双大眼睛看着我们。",
+          "step": 56
+        },
+        {
+          "key": "page.10401:75308.d519a1ee",
+          "text": "她异样的目光令我不由自主屏住呼吸。\n那空洞无神的眼眸，仿佛把照进瞳孔的\n光线全都吸收掉了。",
+          "step": 57
+        },
+        {
+          "key": "page.10401:75460.6485f446",
+          "text": "那是一双如同燃烧殆尽的炭火般乌黑的眼眸。\n慢慢地，她眨了眨眼，像是相机对准了焦点似的，\n双眼恢复了生气。",
+          "step": 58
+        },
+        {
+          "key": "page.10401:75676.a850a1d2",
+          "text": "「风海……君？」\n「啊……？」\n「前辈，你们认识吗？」",
+          "step": 59
+        },
+        {
+          "key": "page.10401:75792.8b80ca4f",
+          "text": "我仔细地端详着她的脸……\n一下子屏住了呼吸。",
+          "step": 60
+        }
+      ],
+      "parts": [
+        {
+          "text": "They were black as burnt-out coals. Then she blinked slowly, and life returned to her eyes, as though a camera had come into focus."
+        }
+      ],
+      "translatorNotes": ""
+    },
+    {
+      "key": "page.10401:75676.a850a1d2",
+      "source": "[{\"text\":\"「\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"……君？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「啊……？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「前辈，你们认识吗？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "text": "「风海……君？」\n「啊……？」\n「前辈，你们认识吗？」",
+      "route": "chapter-zero-science-success",
+      "step": 59,
+      "script": 10401,
+      "context": [
+        {
+          "key": "page.10401:75308.d519a1ee",
+          "text": "她异样的目光令我不由自主屏住呼吸。\n那空洞无神的眼眸，仿佛把照进瞳孔的\n光线全都吸收掉了。",
+          "step": 57
+        },
+        {
+          "key": "page.10401:75460.6485f446",
+          "text": "那是一双如同燃烧殆尽的炭火般乌黑的眼眸。\n慢慢地，她眨了眨眼，像是相机对准了焦点似的，\n双眼恢复了生气。",
+          "step": 58
+        },
+        {
+          "key": "page.10401:75676.a850a1d2",
+          "text": "「风海……君？」\n「啊……？」\n「前辈，你们认识吗？」",
+          "step": 59
+        },
+        {
+          "key": "page.10401:75792.8b80ca4f",
+          "text": "我仔细地端详着她的脸……\n一下子屏住了呼吸。",
+          "step": 60
+        },
+        {
+          "key": "page.10401:75880.e945d59d",
+          "text": "「难道你是……橘……！？」\n「果然是风海君啊」",
+          "step": 61
+        }
+      ],
+      "parts": [
+        {
+          "text": "“"
+        },
+        {
+          "ref": 1
+        },
+        {
+          "text": "...?”\n“Huh...?”\n“Sir, do you know her?”"
+        }
+      ],
+      "translatorNotes": ""
+    }
+  ]
+}

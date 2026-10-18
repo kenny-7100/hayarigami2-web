@@ -90,7 +90,7 @@ test("rejects incompatible or malformed saves and invalid Unicode names", () => 
   ])
     assert.throws(() => validateSave(data, { ...page, ...patch }));
   const input = states.find((s) => s.mode === "input");
-  for (const name of ["", "123456", "a\u0000", "a\u202e"])
+  for (const name of ["", "a".repeat(33), "a\u0000", "a\u202e"])
     assert.throws(() => submitName(data, input, name));
   assert.equal(submitName(data, input, "林😀").names[0], "林😀");
 });

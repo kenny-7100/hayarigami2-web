@@ -2,6 +2,7 @@
 import { createRoot } from "react-dom/client";
 import { useState } from "react";
 import { Reader } from "../src/App";
+import { useLocale } from "../src/i18n/useLocale";
 import { parseGameData, validateSave } from "../src/game/engine";
 import type { GameData, GameState } from "../src/game/engine";
 import "../src/index.css";
@@ -15,6 +16,7 @@ export function Harness({
   data: GameData;
   fixtures: Record<string, GameState>;
 }) {
+  const locale = useLocale();
   const [selected, setSelected] = useState(
     params.get("scene") ?? Object.keys(fixtures)[0],
   );
@@ -75,7 +77,7 @@ export function Harness({
         <iframe
           title="验收视口"
           key={`${selected}-${viewport.join("-")}`}
-          src={`?bundle=${bundle}&embedded=1&scene=${encodeURIComponent(selected)}`}
+          src={`?bundle=${bundle}&embedded=1&scene=${encodeURIComponent(selected)}&lang=${locale}${params.get("stress") === "1" ? "&stress=1" : ""}`}
           style={{
             display: "block",
             border: 0,

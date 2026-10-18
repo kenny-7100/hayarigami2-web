@@ -1,0 +1,122 @@
+index|id|vi|tr
+0|Profil karakter|Hồ sơ nhân vật|Karakter profili
+1|Siapa nama keluargamu?|Họ của bạn là gì?|Soyadın nedir?
+2|Siapa nama depanmu?|Tên của bạn là gì?|Adın nedir?
+3|Masukkan 1–{max} karakter. Nama ini akan digunakan sepanjang cerita.|Nhập từ 1 đến {max} ký tự. Tên này sẽ được dùng xuyên suốt câu chuyện.|1–{max} karakter gir. Bu isim hikâye boyunca kullanılacak.
+4|Nama keluarga|Họ|Soyadı
+5|Nama depan|Tên|Adı
+6|Konfirmasi dan lanjut →|Xác nhận và tiếp tục →|Onayla ve devam et →
+7|Riwayat dialog akan muncul di sini setelah cerita dimulai.|Lịch sử hội thoại sẽ xuất hiện ở đây khi bạn bắt đầu đọc.|Hikâyeye başladığında diyalog geçmişin burada görünecek.
+8|Terbaru lebih dulu|Mới nhất trước|En yeniden eskiye
+9|Tampilkan dialog sebelumnya|Xem hội thoại trước đó|Önceki diyalogları göster
+10|Simpanan dimuat|Đã tải bản lưu|Kayıt yüklendi
+11|Progres disimpan di peramban ini|Đã lưu tiến trình trong trình duyệt này|İlerleme bu tarayıcıya kaydedildi
+12|Audio tidak dapat diputar. Pilih Suara untuk mencoba lagi.|Không thể phát âm thanh. Chọn Âm thanh để thử lại.|Ses başlatılamadı. Yeniden denemek için Ses düğmesini seç.
+13|Timpa simpanan manual ini?|Ghi đè bản lưu thủ công này?|Bu elle kaydın üzerine yazılsın mı?
+14|Memulai ulang akan mengganti simpanan otomatis. Simpanan manual tetap tersimpan. Lanjutkan?|Bắt đầu lại sẽ thay thế bản lưu tự động. Các bản lưu thủ công vẫn được giữ lại. Tiếp tục?|Yeniden başlamak otomatik kaydın üzerine yazar. Elle yapılan kayıtlar korunur. Devam edilsin mi?
+15|Kasus Nol · Kegelapan|Vụ án số không · Bóng tối|Sıfırıncı Vaka · Karanlık
+16|Kembali ke judul|Về màn hình tiêu đề|Başlık ekranına dön
+17|Hayarigami|Hayarigami|Hayarigami
+18|Legenda urban · Kasus polisi penuh misteri|Truyền thuyết đô thị · Những vụ án kỳ bí|Şehir efsaneleri · Açıklanamayan polis vakaları
+19|Suara aktif|Âm thanh bật|Ses açık
+20|Suara nonaktif|Âm thanh tắt|Ses kapalı
+21|Simpanan|Bản lưu|Kayıtlar
+22|Pengaturan|Cài đặt|Ayarlar
+23|Layar judul|Màn hình tiêu đề|Başlık ekranı
+24|Mulai permainan|Bắt đầu trò chơi|Oyuna başla
+25|Lanjutkan permainan|Chơi tiếp|Oyuna devam et
+26|Mulai prolog|Bắt đầu mở đầu|Önsöze başla
+27|Pilih bab|Chọn chương|Bölüm seç
+28|Progres disimpan secara otomatis|Tiến trình được lưu tự động|İlerleme otomatik kaydedilir
+29|Cerita|Câu chuyện|Hikâye
+30|Adegan|Cảnh|Sahne
+31|Adegan saat ini|Cảnh hiện tại|Geçerli sahne
+32|Kredit|Đội ngũ thực hiện|Emeği geçenler
+33|Lanjutkan kredit →|Tiếp danh sách →|Künye devamı →
+34|Lewati kredit|Bỏ qua danh sách|Künyeyi atla
+35|Prolog selesai|Đã đọc xong mở đầu|Önsöz tamamlandı
+36|{chapter} · Penyelidikan berakhir|{chapter} · Kết thúc điều tra|{chapter} · Soruşturma sona erdi
+37|Penyelidikan baru saja dimulai.|Cuộc điều tra chỉ vừa bắt đầu.|Soruşturma daha yeni başladı.
+38|Bab selesai|Đã đọc xong chương|Bölüm tamamlandı
+39|Penyelidikan berakhir untuk saat ini|Cuộc điều tra tạm khép lại|Soruşturmada sona gelindi
+40|· Nilai deduksi|· Điểm suy luận|· Çıkarım puanı
+41|Jalur penyelidikan lain masih menyimpan petunjuk. Kamu bisa menyelidiki lagi tanpa kehilangan jalur yang sudah selesai.|Hướng điều tra còn lại vẫn còn manh mối. Bạn có thể điều tra lại mà vẫn giữ kết quả của hướng đã hoàn thành.|Diğer soruşturma yolunda hâlâ ipuçları var. Tamamladığın yolu kaybetmeden yeniden soruşturabilirsin.
+42|Buka berkas kasus berikutnya dan mulai Kegelapan.|Mở hồ sơ vụ án tiếp theo và bắt đầu điều tra Bóng tối.|Sıradaki dosyayı aç ve Karanlık vakasına başla.
+43|Muat simpanan untuk menjelajahi pilihan dan kesimpulan lain.|Tải bản lưu để khám phá những lựa chọn và kết quả suy luận khác.|Başka seçimleri ve çıkarımları keşfetmek için bir kayıt yükle.
+44|Mulai {chapter} →|Bắt đầu {chapter} →|{chapter} bölümüne başla →
+45|Selidiki kembali|Điều tra lại chương này|Yeniden soruştur
+46|Lengkapi bagan hubungan di atas, lalu pilih Selesai untuk melanjutkan.|Hoàn thành sơ đồ quan hệ bên trên, rồi chọn Hoàn tất để tiếp tục.|Yukarıdaki ilişki şemasını doldur, ardından devam etmek için Bitir düğmesini seç.
+47|Lanjut tanpa menyimpan manual|Tiếp tục không lưu thủ công|Elle kaydetmeden devam et
+48|Lanjutkan penyuntingan|Tiếp tục chỉnh sửa|Düzenlemeye devam et
+49|Pilih slot simpanan|Chọn ô lưu|Kayıt yuvası seç
+50|Konfirmasi deduksi|Xác nhận suy luận|Çıkarımları onayla
+51|Cerita tidak dapat dilanjutkan|Không thể tiếp tục câu chuyện|Hikâyeye devam edilemiyor
+52|Bagian cerita ini tidak dapat dimuat. Muat simpanan sebelumnya dan coba lagi.|Không thể tải đoạn truyện này. Hãy tải bản lưu trước đó rồi thử lại.|Hikâyenin bu kısmı yüklenemedi. Önceki bir kaydı yükleyip yeniden dene.
+53|Muat simpanan|Tải bản lưu|Kayıt yükle
+54|Keberanian|Dũng khí|Cesaret
+55|Memerlukan {cost} keberanian|Tiêu hao {cost} dũng khí|Cesaret bedeli: {cost}
+56|Lanjut|Tiếp tục|Devam et
+57|Alat baca|Công cụ đọc|Okuma araçları
+58|Bagan hubungan|Sơ đồ suy luận|İlişki şeması
+59|Riwayat dialog|Lịch sử hội thoại|Diyalog geçmişi
+60|Buku kata kunci|Sổ tay từ khóa|Anahtar sözcük defteri
+61|Ensiklopedia|Từ điển thuật ngữ|Ansiklopedi
+62|Tutup pemberitahuan|Đóng thông báo|Bildirimi kapat
+63|Simpan dan muat|Lưu và tải|Kaydet ve yükle
+64|Entri yang ditemukan|Thuật ngữ đã phát hiện|Keşfedilen maddeler
+65|Pengaturan permainan|Cài đặt trò chơi|Oyun ayarları
+66|Tutup panel|Đóng bảng|Paneli kapat
+67|Daftar bab|Danh sách chương|Bölümler
+68|Kasus utama|Cốt truyện chính|Ana vakalar
+69|Kisah karakter|Truyện nhân vật|Karakter hikâyeleri
+70|Simpanan hanya disimpan di peramban ini pada perangkat ini. Menghapus data situs juga menghapus simpananmu.|Bản lưu chỉ được giữ trong trình duyệt hiện tại trên thiết bị này. Xóa dữ liệu trang web cũng sẽ xóa các bản lưu.|Kayıtlar yalnızca bu cihazdaki bu tarayıcıda saklanır. Site verilerini silmek kayıtlarını da siler.
+71|Simpanan otomatis|Bản lưu tự động|Otomatik kayıt
+72|Simpanan manual {number}|Bản lưu thủ công {number}|Elle kayıt {number}
+73|Prolog|Mở đầu|Önsöz
+74|Slot kosong|Ô trống|Boş yuva
+75|Simpan|Lưu|Kaydet
+76|Muat|Tải|Yükle
+77|Kata kunci yang ditemukan dalam cerita dicatat di sini untuk membantu melengkapi bagan hubungan.|Từ khóa thu được trong câu chuyện được ghi lại ở đây để tham khảo khi hoàn thiện sơ đồ suy luận.|Hikâyede keşfedilen anahtar sözcükler, ilişki şemasını tamamlamana yardımcı olmak için burada tutulur.
+78|Belum ada kata kunci yang ditemukan.|Chưa thu được từ khóa nào.|Henüz anahtar sözcük keşfedilmedi.
+79|Entri yang ditemukan dalam cerita dikumpulkan di sini dan dapat dibaca kapan saja.|Thuật ngữ phát hiện trong câu chuyện được lưu ở đây để tra cứu bất cứ lúc nào.|Hikâyede keşfettiğin maddeler, istediğin zaman bakabilmen için burada toplanır.
+80|Belum ada entri yang ditemukan.|Chưa phát hiện thuật ngữ nào.|Henüz madde keşfedilmedi.
+81|Ukuran teks|Cỡ chữ|Yazı boyutu
+82|Kecil|Nhỏ|Küçük
+83|Standar|Tiêu chuẩn|Standart
+84|Besar|Lớn|Büyük
+85|Volume|Âm lượng|Ses düzeyi
+86|Nonaktifkan suara|Tắt âm thanh trò chơi|Sesi kapat
+87|Aktifkan suara|Bật âm thanh trò chơi|Sesi aç
+88|Tekan Spasi, Enter, atau panah kanan untuk melanjutkan, atau ketuk Lanjut. Tekan Esc untuk menutup panel.|Nhấn phím cách, Enter hoặc mũi tên phải để đọc tiếp, hoặc chạm Tiếp tục. Nhấn Esc để đóng bảng.|Devam etmek için Boşluk, Enter veya sağ ok tuşuna bas ya da Devam et düğmesine dokun. Paneli kapatmak için Esc tuşuna bas.
+89|Sumber daya permainan tidak dapat dimuat. Coba lagi nanti.|Không thể tải tài nguyên trò chơi. Vui lòng thử lại sau.|Oyun kaynakları yüklenemedi. Lütfen daha sonra yeniden dene.
+90|Sumber daya permainan tidak dapat dimuat. Periksa koneksi lalu coba lagi.|Không thể tải tài nguyên trò chơi. Kiểm tra kết nối rồi thử lại.|Oyun kaynakları yüklenemedi. Bağlantını kontrol edip yeniden dene.
+91|Hayarigami 2|Hayarigami 2|Hayarigami 2
+92|Memuat permainan…|Đang tải trò chơi…|Oyun yükleniyor…
+93|Muat ulang|Tải lại|Yeniden yükle
+94|Perbesaran|Thu phóng|Yakınlaştırma
+95|Perbesaran bagan|Thu phóng sơ đồ|Şema yakınlaştırması
+96|Lihat seluruh bagan|Xem toàn bộ sơ đồ|Şemanın tamamını göster
+97|Perbesar bagan atau pilih karakter untuk membaca profilnya.|Phóng to sơ đồ hoặc chọn nhân vật để xem thông tin.|Şemayı yakınlaştırabilir veya profilini okumak için bir karakter seçebilirsin.
+98|Pilih hubungan pada bagan atau dari daftar di bawah, lalu isi dengan kata kunci yang telah ditemukan.|Chọn một quan hệ trên sơ đồ hoặc từ danh sách bên dưới, rồi điền từ khóa đã thu được.|Şemadan veya aşağıdaki listeden bir ilişki seç, ardından keşfettiğin bir anahtar sözcüğü ata.
+99|Karakter dan hubungan dalam kasus|Nhân vật và quan hệ trong vụ án|Vakadaki karakterler ve ilişkiler
+100|Belum diisi|Chưa điền|Atanmamış
+101|Tutup profil karakter|Đóng thông tin nhân vật|Karakter profilini kapat
+102|Pilih hubungan yang akan diisi|Chọn quan hệ cần điền|Bir ilişki seç
+103|Pilih hubungan|Hãy chọn quan hệ|İlişki seç
+104|Hubungan|Quan hệ|İlişki
+105|Isi kata kunci|Điền từ khóa|Anahtar sözcük ata
+106|Biarkan kosong|Để trống|Boş bırak
+107|Selesai dan kembali ke cerita →|Hoàn tất và trở về câu chuyện →|Bitir ve hikâyeye dön →
+108|Temuan pada bagian ini|Thông tin thu được trong đoạn này|Bu bölümdeki keşifler
+109|Entri ensiklopedia ditambahkan|Đã thêm vào từ điển|Ansiklopedi maddesi eklendi
+110|Kata kunci ditemukan|Đã thu được từ khóa|Anahtar sözcük keşfedildi
+111|Penyimpanan simpanan lokal tidak tersedia.|Không thể mở bộ nhớ lưu cục bộ.|Yerel kayıt depolaması kullanılamıyor.
+112|Halaman lain sedang menggunakan penyimpanan. Tutup tab permainan lama lalu coba lagi.|Trang khác đang sử dụng bộ nhớ lưu. Đóng các thẻ trò chơi cũ rồi thử lại.|Başka bir sayfa kayıt depolamasını kullanıyor. Eski oyun sekmelerini kapatıp yeniden dene.
+113|Simpanan tidak dapat dimuat.|Không thể tải bản lưu.|Kayıt yüklenemedi.
+114|Pemuatan terhenti.|Quá trình tải đã bị gián đoạn.|Yükleme kesintiye uğradı.
+115|Gagal menyimpan: ruang penyimpanan penuh atau dinonaktifkan oleh peramban.|Lưu thất bại: bộ nhớ đã đầy hoặc bị trình duyệt vô hiệu hóa.|Kaydetme başarısız: depolama dolu veya bu tarayıcıda devre dışı.
+116|Penyimpanan terhenti. Coba lagi.|Quá trình lưu bị gián đoạn. Hãy thử lại.|Kaydetme kesintiye uğradı. Lütfen yeniden dene.
+117|Simpanan ini tidak ditemukan.|Không tìm thấy bản lưu này.|Bu kayıt bulunamadı.
+118|{keyword}: lihat kata kunci|{keyword}: xem từ khóa|{keyword}: anahtar sözcüğü görüntüle
+119|Hubungan {number}: {keyword}|Quan hệ {number}: {keyword}|İlişki {number}: {keyword}
+120|Hubungan {number}|Quan hệ {number}|İlişki {number}

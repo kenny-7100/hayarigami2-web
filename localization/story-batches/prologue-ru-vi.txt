@@ -1,0 +1,45 @@
+index|ru|vi
+0|«Слух, который передают из уст в уста: от друга к другу, а затем к другу друга».|“Những lời đồn truyền miệng từ người bạn này sang người bạn khác, rồi đến bạn của một người bạn.”
+1|«Странный, притягательный рассказ, в котором невозможно отличить правду от вымысла».|“Những lời đồn kỳ lạ mà cuốn hút, chẳng thể phân biệt thật giả.”
+2|«Слух на грани правды и вымысла — достаточно правдоподобный, чтобы поневоле задуматься».|“Những lời đồn nửa thật nửa giả, khiến người ta bán tín bán nghi.”
+3|Так определяет городские легенды Брунванд, один из ведущих американских исследователей в этой области.|Đó là cách Brunvand, nhà nghiên cứu hàng đầu của Mỹ trong lĩnh vực này, định nghĩa truyền thuyết đô thị.
+4|Друг друга.|Bạn của một người bạn.
+5|Friend of a Friend|Friend of a Friend
+6|…Порой человек особенно остро ощущает собственное бессилие. Сейчас был как раз такой момент.|…Có những lúc con người thấm thía sự bất lực của chính mình. Chẳng hạn như lúc này.
+7|«Мы вызвали вас, чтобы поручить наблюдение за одним человеком. Тайное».|“Chúng tôi gọi cậu đến vì muốn cậu giám sát một người. Phải tiến hành bí mật.”
+8|Меня вызвали — и тут же велели за кем-то шпионить. Разве в Конституции Японии не сказано об уважении прав личности? Или я ослышался?|Vừa bị gọi đến, tôi đã nhận lệnh theo dõi một người nào đó. Chẳng phải Hiến pháp Nhật Bản có ghi “tôn trọng quyền cá nhân” sao? Hay tôi nghe nhầm?
+9|«Но… у каждого человека есть право на частную жизнь…»\nЯ заранее знал, что услышу в ответ. И всё же на всякий случай попытался возразить.|“Nhưng… ai cũng có quyền riêng tư…”\nDù biết trước câu trả lời, tôi vẫn thử phản đối, chỉ để chắc chắn hơn.
+10|«Если человек ни о чём не узнает, значит, и частную жизнь его никто не нарушил. Разве нет? К тому же мы постоянно этим занимаемся».|“Chỉ cần đối phương không phát hiện thì đâu thể coi là xâm phạm đời tư, đúng không? Đằng nào đó cũng là chuyện thường ngày rồi.”
+11|Вот так. Стоит человеку хоть немного вкусить власти, и его высокомерие растёт без конца — пока однажды он не возомнит себя богом.|Đúng là như vậy. Một khi đã nếm chút ngọt ngào của quyền lực, con người sẽ ngày càng ngạo mạn, cho đến một ngày tự coi mình là thần.
+12|Боги передо мной создали своё тайное общество в тёмном, запретном для посторонних мире. Во имя того, что они считали справедливостью, они без устали вершили свои закулисные дела.|Những vị thần trước mặt tôi đã lập hội kín trong một vùng cấm tăm tối. Nhân danh thứ mà họ tin là công lý, họ say sưa tiến hành những hoạt động ngầm không biết mệt.
+13|Догадывались ли об этом остальные?|Người đời có nhận ra không?
+14|Даже право на частную жизнь — основное право человека, гарантированное Конституцией, — нарушалось день за днём…|Ngay cả quyền riêng tư, một quyền cơ bản được Hiến pháp bảo đảm, cũng liên tục bị xâm phạm…
+15|И дело было далеко не только в слежке, прослушке или папарацци.|Chuyện này vượt xa mức độ bám đuôi, nghe lén hay săn ảnh.
+16|Чем больше узнаёшь правду, тем ничтожнее на её фоне кажутся даже АНБ и «Эшелон».|Càng hiểu rõ sự thật, người ta càng thấy những thứ như NSA hay hệ thống ECHELON chỉ là chuyện nhỏ so với nó.
+17|В последние годы в США создали систему GPS-наблюдения за людьми с судимостью. Но действительно ли её использовали только против преступников?|Những năm gần đây, Mỹ đã xây dựng một hệ thống dùng định vị GPS để giám sát những người có tiền án. Nhưng nó thực sự chỉ được dùng với tội phạm thôi sao?
+18|Возможно, людям уже пора понять, что под наблюдением могут находиться и они сами.|Có lẽ cũng đã đến lúc mọi người nhận ra rằng chính mình có thể đang bị theo dõi.
+19|«И за кем мы будем следить на этот раз?»|“Vậy lần này các vị định giám sát ai?”
+20|В моём голосе, обращённом к богам, прозвучало лёгкое презрение. Что бы ни случилось, уважать этих людей я не собирался.|Giọng tôi khi nói với các vị thần thoáng vẻ khinh miệt. Dù thế nào, tôi cũng không muốn tỏ lòng kính trọng với đám người này.
+21|«Вы его знаете. Не раз с ним сталкивались. Его зовут…»|“Cậu cũng biết người này. Hai người đã tiếp xúc nhiều lần rồi. Tên anh ta là…”
+22|«{name1} {name0}… Понятно. Неужели за ним всё ещё нужно следить?»|“Ra là {name0} {name1}… Vẫn còn cần giám sát người đó sao?”
+23|«И в деле о Коккури-сан в частной старшей школе Ханамине, и в деле об они в Матида меня интересует каждый его шаг».|“Dù là vụ ‘Kokkuri-san’ ở trường trung học tư thục Hanamine, hay vụ ‘quỷ’ ở thành phố Machida, tôi đều rất quan tâm đến từng động thái của anh ta.”
+24|«В дальнейшем мы хотим уделять особое внимание каждому его делу. Если обстоятельства потребуют, можем и помочь».|“Từ nay, bất cứ vụ án nào do anh ta phụ trách, chúng tôi đều muốn đặc biệt chú ý. Tùy tình hình, cũng có thể ra tay giúp đỡ.”
+25|Самодовольные, надменные, лицемерные боги. От них, как всегда, тошнило.|Những vị thần tự cho mình là đúng, ngạo mạn và giả dối. Vẫn khiến tôi buồn nôn như mọi khi.
+26|При мысли о том, что именно в их руках находится истина, меня пробирал холод.|Nghĩ đến việc chính bọn họ đang nắm giữ sự thật, tôi không khỏi lạnh sống lưng.
+27|Ведь они могли без малейших колебаний предаваться такому мерзкому занятию, как тайное подглядывание за чужой жизнью.|Bởi họ có thể ngang nhiên thực hiện hành vi xấu xa ấy: bí mật dò xét đời tư của người khác.
+28|Бог, стоявший в центре, был политиком. Домохозяйки, каждый день наблюдавшие его по телевизору, признали его самым элегантно одетым мужчиной.|Vị thần đứng chính giữa là một chính khách. Những bà nội trợ hằng ngày ngồi trước màn hình ti vi đã nhất trí bầu ông ta là người đàn ông ăn mặc đẹp nhất.
+29|Кто мог знать, какая тьма скрывается под этим нарядом? Вот уж поистине: внешность обманчива.|Ai biết được bóng tối ẩn dưới lớp áo ấy? Đúng là ví dụ điển hình cho câu biết mặt mà chẳng biết lòng.
+30|Верить можно было только фактам. Но люди либо принимали видимость за действительность, либо им так долго закрывали глаза и уши, что они постепенно забывали саму правду.|Chỉ có sự thật mới đáng tin. Thế nhưng người ta hoặc coi vẻ ngoài giả tạo là sự thật, hoặc bị bịt mắt bưng tai đến mức dần quên mất sự thật.
+31|«Что такое? Есть какая-то проблема?»|“Sao vậy? Có vấn đề gì à?”
+32|Видимо, его раздражало, что я не ответил сразу. Любимец домохозяек спросил с заметным недовольством.|Có lẽ vì tôi không trả lời ngay. Vị thần được các bà nội trợ yêu mến hỏi với vẻ hơi khó chịu.
+33|«Никаких проблем. Просто мне кое-что пришло в голову. Господа, у вас ведь тоже была первая любовь?»|“Không có vấn đề gì. Tôi chỉ chợt nghĩ, các vị cũng từng có mối tình đầu, phải không?”
+34|То ли неожиданный вопрос поставил их в тупик, то ли они решили его не замечать. Так или иначе, в комнате на миг повисла неловкая тишина.|Có lẽ câu hỏi đột ngột khiến họ bối rối, hoặc họ cố tình làm ngơ. Dù sao, căn phòng cũng thoáng rơi vào im lặng ngượng ngập.
+35|«Та первая любовь, которую хранят в глубине души и никому не доверяют».|“Mối tình đầu chỉ có thể chôn sâu trong lòng mình.”
+36|«Что бы вы почувствовали, если бы даже за ней следили?»|“Nếu đến cả điều ấy cũng bị giám sát, các vị sẽ cảm thấy thế nào?”
+37|Я не ждал ответа от богов. Это была горькая насмешка над самим собой — и над неизбежным фактом: в конечном счёте я ничем от них не отличался.|Tôi không đặt câu hỏi ấy để chờ các vị thần trả lời. Đó là lời tự giễu trước sự thật không thể trốn tránh: rốt cuộc, tôi cũng cùng một giuộc với họ.
+38|«Эту историю я слышал от друга моего друга…»|“Chuyện này tôi nghe từ bạn của một người bạn…”
+39|Энциклопедия\nВо время расследования вам встретятся термины из самых разных областей знания.|Từ điển thuật ngữ\nTrong quá trình điều tra, bạn sẽ gặp những thuật ngữ thuộc nhiều lĩnh vực chuyên môn khác nhau.
+40|Например: «…создали своё тайное общество в тёмном, запретном для посторонних мире». Подобные термины добавляются в энциклопедию.|Ví dụ: “…lập hội kín trong một vùng cấm tăm tối.” Những thuật ngữ như thế sẽ được thêm vào từ điển.
+41|Выберите «Энциклопедия» под текстом истории, чтобы в любой момент прочитать о найденных терминах.|Chọn “Từ điển thuật ngữ” bên dưới phần truyện để tra cứu những thuật ngữ đã tìm thấy bất cứ lúc nào.
+42|Всего в энциклопедии 200 статей. Некоторые термины встречаются лишь на определённых путях расследования.|Từ điển có tổng cộng 200 mục. Tùy theo hướng điều tra, một số thuật ngữ có thể không xuất hiện.
+43|За одно расследование собрать все статьи невозможно. А когда вы найдёте достаточно много, возможно, откроется новое, скрытое дело…|Bạn không thể thu thập đầy đủ chỉ trong một lần điều tra. Và khi đã tìm được đủ số mục, biết đâu một vụ án mới còn ẩn giấu sẽ xuất hiện…

@@ -7,6 +7,7 @@
 | [PROJECT_STATUS](PROJECT_STATUS.md) | 当前完成范围、已知边界、下一章审计与待办 |
 | [CHAPTER_WORKFLOW](CHAPTER_WORKFLOW.md) | 从原始审计到章节验收的步骤与完成条件 |
 | [TOOLING](TOOLING.md) | 可复制命令、输入输出、失败诊断与通用浏览器入口 |
+| [I18N](I18N.md) | 多语言架构、翻译进度、验收缺口（进行中） |
 | [UI_DESIGN](UI_DESIGN.md) | 游戏界面设计约束、响应式布局和交互验收清单 |
 | [ARCHITECTURE](ARCHITECTURE.md) | 离线管线、运行时、数据与修改位置 |
 | [DEBUGGING](DEBUGGING.md) | 前几章踩坑、排错顺序和证据定位 |
@@ -21,3 +22,5 @@
 | [PORTING](PORTING.md) | 最初资源勘察历史，不作为当前缺口列表 |
 
 稳定依据是原始资源与经验证的行为，其次是当前代码/测试；文档用于解释这些证据。若历史文字与现有实现矛盾，复查后修正文档，不回退已验证功能。
+
+- [100 项玩家视角评审与决策](reviews/PLAYER_REVIEW_2026-10-19.md)：多章节抽样、采纳原因、实现边界与验收依据。

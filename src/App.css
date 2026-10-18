@@ -116,7 +116,7 @@ dialog::backdrop { background: #050907bd; }
 .chapter-menu button { display: flex; width: 100%; justify-content: space-between; align-items: center; gap: 12px; border-top: 1px solid #ffffff12; padding: 16px 12px; text-align: left; font-family: "Songti SC", serif; }
 .chapter-menu button span { color: #c4b38a; flex-shrink: 0; }
 .notice, .panel-notice { display: flex; align-items: center; justify-content: space-between; gap: 12px; background: #ded5bd; color: #17231b; padding: 8px 12px; font-size: 14px; line-height: 1.6; }
-.notice { position: fixed; bottom: max(16px, env(safe-area-inset-bottom)); left: 50%; transform: translateX(-50%); z-index: 5; width: max-content; max-width: calc(100% - 32px); box-shadow: 0 8px 30px #0006; border-radius: 4px; }
+.notice { position: relative; flex: 0 0 auto; margin: 12px auto; width: max-content; max-width: calc(100% - 32px); border-radius: 4px; }
 .notice button, .panel-notice button { flex-shrink: 0; }
 .panel-notice { flex: 0 0 auto; margin-top: 12px; }
 .backlog article { padding: 20px 0; border-bottom: 1px solid #ffffff16; }
@@ -215,3 +215,63 @@ dialog::backdrop { background: #050907bd; }
   .title-subtitle { margin-bottom: 14px; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
+
+/* Localized UI uses logical alignment; original scene and graph geometry stay LTR. */
+.language-picker { display: inline-flex; align-items: center; gap: 6px; min-width: 0; color: var(--gold); }
+.language-picker > span { font-size: 12px; white-space: nowrap; }
+.language-picker select { background: #111a16; color: var(--ink); border: 1px solid var(--line); border-radius: 3px; min-height: 44px; max-width: 160px; padding: 8px; font: inherit; }
+.topbar, .top-actions { flex-wrap: wrap; }
+.top-actions { justify-content: flex-end; }
+.title-menu h1 { white-space: normal; overflow-wrap: anywhere; }
+.start-actions button, .chapter-menu button, .story-choices button, .collection-feedback button { text-align: start; }
+.story-text, .dialogue-content, .dialog-head h2, .save-slot > div { overflow-wrap: anywhere; }
+.dialogue-content > *, .save-slot > div { min-width: 0; }
+.scene-composition, .logic-scroll { direction: ltr; }
+[dir="rtl"] .settings label span, [dir="rtl"] .logic-detail button { float: left; }
+[dir="rtl"] .story-text { letter-spacing: normal; }
+.story-text:lang(ar), .story-text:lang(ur) { font-family: "Noto Naskh Arabic", "Geeza Pro", serif; line-height: 2; }
+@media (max-width: 700px) {
+  .topbar { align-items: flex-start; }
+  .top-actions { flex: 1 1 100%; justify-content: space-between; }
+  .language-picker select { font-size: 16px; max-width: 140px; }
+}
+
+[dir="rtl"] .forward-arrow { display: inline-block; transform: scaleX(-1); }
+.language-picker { direction: ltr; }
+
+:where(:lang(ar), :lang(ur), :lang(hi), :lang(mr), :lang(bn), :lang(ta), :lang(te)) :is(.brand, .title-menu h1, .title-subtitle) { letter-spacing: normal; }
+
+/* Short decisions share the game's palette, with actions kept in view on small screens. */
+.game-confirmation { width: min(440px, calc(100% - 32px)); padding: 28px; border-color: #a4946b; }
+.game-confirmation::backdrop { background: #050907a8; }
+.confirmation-copy { min-height: 0; overflow-y: auto; overscroll-behavior: contain; }
+.confirmation-copy h2 { margin: 0 0 16px; color: #d1bf92; font-size: 24px; font-weight: 500; }
+.confirmation-copy p { margin: 0; color: #ddd6c7; line-height: 1.85; overflow-wrap: anywhere; }
+.confirmation-actions { display: flex; justify-content: flex-end; gap: 12px; padding-top: 26px; flex: 0 0 auto; }
+.confirmation-actions button { min-height: 44px; min-width: 96px; white-space: normal; overflow-wrap: anywhere; }
+@media (max-width: 480px) {
+  .game-confirmation { padding: 22px; }
+  .confirmation-actions > button { flex: 1; min-width: 0; }
+}
+
+/* Player review: quiet lookup tools and clear, reachable controls. */
+.collection-search { position: sticky; top: 0; z-index: 1; background: #151f19; box-shadow: 0 -20px 0 #151f19; padding: 0 0 16px; border-bottom: 1px solid #c4b38a33; margin-bottom: 16px; }
+.terms > .collection-search { padding: 0 0 16px; border-top: 0; }
+.collection-search label { display: block; font-size: 14px; color: #c4b38a; margin-bottom: 8px; }
+.collection-search > div { display: flex; gap: 8px; align-items: center; }
+.collection-search input { min-width: 0; flex: 1; width: 100%; min-height: 44px; background: #0f1913; color: #eee9de; border: 1px solid #73785b; border-radius: 3px; padding: 8px 12px; font-size: 16px; }
+.collection-search button { flex: 0 1 auto; border: 1px solid #c4b38a44; font-size: 14px; overflow-wrap: anywhere; }
+.collection-selected { background: #c4b38a10; box-shadow: inset 3px 0 #c4b38a; padding-inline: 12px !important; }
+[dir="rtl"] .collection-selected { box-shadow: inset -3px 0 #c4b38a; }
+.logic-scroll g[role="button"] { cursor: pointer; }
+.logic-scroll g[role="button"]:focus-visible { outline: 3px solid #755315; outline-offset: 3px; }
+.logic-field.readonly { cursor: default; }
+.logic-field.readonly:hover rect { stroke: #baa777; stroke-width: 2; }
+.logic-detail, .logic-editor { scroll-margin-block: 20px; }
+.logic-detail p { overflow-wrap: anywhere; }
+.story-text span:lang(ar), .story-text span:lang(ur) { letter-spacing: normal; font-family: "Noto Naskh Arabic", "Geeza Pro", serif; }
+span.story-keyword { cursor: text; text-decoration: none; }
+.story-choices button:disabled { opacity: .7; border-style: dashed; }
+.settings input, .logic-toolbar input { min-height: 44px; }
+.name-form input[aria-invalid="true"] { border-color: #e19b88; }
+.name-form [role="alert"] { color: #f3b9a9; }

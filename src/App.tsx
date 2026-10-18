@@ -1,3 +1,13 @@
+import { GameConfirmation } from "./components/GameConfirmation";
+import { SearchField } from "./components/SearchField";
+import { matchesSearch } from "./game/search";
+import { playerNameLimit } from "./i18n/names";
+import { useGameText } from "./i18n/useGameText";
+import { useGameCatalog } from "./i18n/gameContext";
+import { localizeChoice, localizePage } from "./i18n/gameCatalog";
+import { GameLocaleProvider } from "./i18n/GameLocaleProvider";
+import { LanguagePicker } from "./i18n/LanguagePicker";
+import { useTranslation } from "./i18n/useTranslation";
 import { StoryText, CollectionFeedback } from "./game/StoryText";
 import { useEffect, useRef, useState } from "react";
 import type { FormEvent } from "react";
@@ -34,6 +44,7 @@ function NameInput({
   state: GameState;
   onSubmit: (name: string) => void;
 }) {
+  const { t } = useTranslation();
   const [value, setValue] = useState(state.names[state.input!.field]);
   const [error, setError] = useState("");
   function submit(e: FormEvent) {
@@ -41,27 +52,29 @@ function NameInput({
     try {
       onSubmit(value);
     } catch (e) {
-      setError(message(e));
+      setError(message(e) === "INVALID_PLAYER_NAME" ? "姓名需为 1–32 个可见字符，不能包含控制字符。" : message(e));
     }
   }
   return (
     <form className="name-form" onSubmit={submit}>
-      <span className="eyebrow">人物档案</span>
-      <h2>你的{state.input!.field === 0 ? "姓氏" : "名字"}是？</h2>
-      <p>请输入 1–{state.input!.maxLength} 个字符，随后将用于故事中的称呼。</p>
+      <span className="eyebrow">{t("人物档案")}</span>
+      <h2>{t(state.input!.field === 0 ? "你的姓氏是？" : "你的名字是？")}</h2>
+      <p>{t("请输入 1–{max} 个字符，随后将用于故事中的称呼。", { max: playerNameLimit })}</p>
       <label>
-        {state.input!.field === 0 ? "姓氏" : "名字"}
+        {state.input!.field === 0 ? t("姓氏") : t("名字")}
         <input
           autoFocus
           value={value}
-          onChange={(e) => setValue(e.target.value)}
+          onChange={(e) => { setValue(e.target.value); setError(""); }}
           autoComplete="off"
+          spellCheck={false}
+          dir="auto"
+          aria-invalid={!!error}
+          aria-describedby={error ? "name-error" : undefined}
         />
       </label>
-      {error && <p role="alert">{error}</p>}
-      <button className="primary" type="submit">
-        确认并继续 →
-      </button>
+      {error && <p id="name-error" role="alert">{t(error)}</p>}
+      <button className="primary" type="submit">{t("确认并继续 →")}</button>
     </form>
   );
 }
@@ -88,45 +101,64 @@ function Backlog({
   state: GameState | null;
   fontSize: number;
 }) {
+  const { t } = useTranslation();
   const [count, setCount] = useState(100);
+  const [query, setQuery] = useState("");
+  const catalog = useGameCatalog();
   const history = state?.history ?? [];
+  const matching = history.filter(page => matchesSearch(localizePage(catalog, page, state?.names ?? []).text, query));
   return (
     <div className="backlog" style={{ fontSize }}>
+      {!!history.length && <SearchField value={query} onChange={value => { setQuery(value); setCount(100); }} />}
+      {!!history.length && !matching.length && <p role="status">{t("没有匹配的内容")}</p>}
       {!history.length ? (
-        <p>开始阅读后，剧情会记录在这里。</p>
+        <p>{t("开始阅读后，剧情会记录在这里。")}</p>
       ) : (
-        <p className="backlog-order">最近的记录在前</p>
+        <p className="backlog-order">{t("最近的记录在前")}</p>
       )}
-      {history
+      {matching
         .slice(-count)
         .reverse()
         .map((p, i) => (
           <article key={`${p.id}-${history.length - i}`}>
-            <p><StoryText page={p} /></p>
+            <p><StoryText page={p} names={state?.names} /></p>
           </article>
         ))}
-      {history.length > count && (
-        <button className="secondary" onClick={() => setCount(count + 100)}>
-          查看更早的记录
-        </button>
+      {matching.length > count && (
+        <button className="secondary" onClick={() => setCount(count + 100)}>{t("查看更早的记录")}</button>
       )}
     </div>
   );
 }
-export function Reader({
+export function Reader(props: { data: GameData; initialState?: GameState | null }) {
+  return <GameLocaleProvider sourceSha256={props.data.sourceSha256}><ReaderContent {...props} /></GameLocaleProvider>;
+}
+function ReaderContent({
   data,
   initialState = null,
 }: {
   data: GameData;
   initialState?: GameState | null;
 }) {
+  const { locale, t } = useTranslation();
+  const g = useGameText();
+  const catalog = useGameCatalog();
+  const chapters = data.chapters?.map(chapter => ({ ...chapter, title: g(`chapter.${chapter.id}.title`, chapter.title) }));
   const [state, setState] = useState<GameState | null>(initialState);
   const [slots, setSlots] = useState<SaveSlot[]>([]);
   const [panel, setPanel] = useState<Panel>(null);
+  const [confirmation, setConfirmation] = useState<{ kind: "start"; entry: number } | { kind: "save"; id: string } | null>(null);
   const [notice, setNotice] = useState("");
   const [collectionFocus, setCollectionFocus] = useState<number | null>(null);
+  const [collectionQuery, setCollectionQuery] = useState("");
   function openCollection(panel: "terms" | "keywords", id: number) {
+    setCollectionQuery("");
     setCollectionFocus(id);
+    setPanel(panel);
+  }
+  function openNotebook(panel: "terms" | "keywords") {
+    setCollectionQuery("");
+    setCollectionFocus(null);
     setPanel(panel);
   }
   const [sound, setSound] = useState(false);
@@ -171,7 +203,15 @@ export function Reader({
   useEffect(() => { if (state) latestProgress.current = state; }, [state]);
   useEffect(() => { if (state?.mode === "error") console.error(state.error); }, [state?.mode, state?.error]);
   const dialog = useRef<HTMLDialogElement>(null);
+  const panelBody = useRef<HTMLDivElement>(null);
   const audio = useRef<HTMLAudioElement>(null);
+  useEffect(() => {
+    if (!panel && !confirmation) return;
+    const root = document.documentElement;
+    const previous = root.style.overflow;
+    root.style.overflow = "hidden";
+    return () => { root.style.overflow = previous; };
+  }, [panel, confirmation]);
   useEffect(() => {
     try {
       localStorage.setItem("hs2.fontSize", String(fontSize));
@@ -213,7 +253,10 @@ export function Reader({
     };
   }, [state]);
   useEffect(() => {
-    if (panel) dialog.current?.showModal();
+    if (panel) {
+      dialog.current?.showModal();
+      panelBody.current?.scrollTo(0, 0);
+    }
     else dialog.current?.close();
   }, [panel]);
   useEffect(() => {
@@ -238,7 +281,7 @@ export function Reader({
   useEffect(() => {
     const handler = (e: KeyboardEvent) => {
       if (
-        panel ||
+        panel || confirmation ||
         (!state || !["page", "credits"].includes(state.mode)) ||
         e.repeat ||
         e.ctrlKey ||
@@ -260,7 +303,7 @@ export function Reader({
     };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
-  }, [data, panel, state]);
+  }, [data, panel, confirmation, state]);
   async function restore(id: string) {
     setBusy(true);
     try {
@@ -275,10 +318,13 @@ export function Reader({
       setBusy(false);
     }
   }
-  async function save(id: string) {
+  async function save(id: string, confirmed = false) {
     if (!state) return;
-    if (slots.some((s) => s.id === id) && !window.confirm("覆盖这个手动存档？"))
+    if (!confirmed && slots.some((s) => s.id === id)) {
+      setConfirmation({ kind: "save", id });
       return;
+    }
+    const trigger = document.activeElement instanceof HTMLElement ? document.activeElement : null;
     setBusy(true);
     try {
       await saveGame(id, state);
@@ -288,14 +334,16 @@ export function Reader({
       setNotice(message(e));
     } finally {
       setBusy(false);
+      requestAnimationFrame(() => {
+        if (trigger?.isConnected && document.activeElement === document.body && dialog.current?.open) trigger.focus();
+      });
     }
   }
-  function start(entry = data.entry) {
-    if (
-      slots.some((s) => s.id === "auto") &&
-      !window.confirm("重新开始会替换自动存档。手动存档会保留。继续？")
-    )
+  function start(entry = data.entry, confirmed = false) {
+    if (!confirmed && slots.some((s) => s.id === "auto")) {
+      setConfirmation({ kind: "start", entry });
       return;
+    }
     setNotice("");
     setPanel(null);
     setSceneSession((n) => n + 1);
@@ -304,13 +352,13 @@ export function Reader({
     setState(enterChapter(data, { ...base, randomIndex: crypto.getRandomValues(new Uint32Array(1))[0] % 1000 }, entry));
   }
   const chapter = state
-    ? data.chapters?.find(
+    ? chapters?.find(
         (c) => state.script >= c.minScript && state.script <= c.maxScript,
-      ) ?? data.chapters?.find(c => c.entry === state.chapterEntry)
+      ) ?? chapters?.find(c => c.entry === state.chapterEntry)
     : undefined;
   const nextEntry = state && !chapter ? 10001 : chapter?.next;
   const nextTitle =
-    data.chapters?.find((c) => c.entry === nextEntry)?.title ?? "第零话 · 黒闇";
+    chapters?.find((c) => c.entry === nextEntry)?.title ?? "第零话 · 黒闇";
   const saveConfirmation = !!state && state.mode === "confirm" && data.scripts[state.script].instructions.some(t => t.op === 1006);
   const canSave =
     !!state &&
@@ -322,16 +370,16 @@ export function Reader({
       <header className="topbar">
         <button
           className="brand"
-          aria-label="返回标题"
+          aria-label={t("返回标题")}
           onClick={() => {
             setState(null);
             setPanel(null);
           }}
-        >
-          流行之神<span>２</span>
-          <small>都市传说 · 警察怪异事件</small>
+        >{t("流行之神")}<span>２</span>
+          <small>{t("都市传说 · 警察怪异事件")}</small>
         </button>
         <div className="top-actions">
+          <LanguagePicker />
           <button
             aria-pressed={sound}
             onClick={() => {
@@ -339,31 +387,39 @@ export function Reader({
               setNotice("");
             }}
           >
-            声音 {sound ? "开" : "关"}
+            {t(sound ? "声音 开" : "声音 关")}
           </button>
-          <button onClick={() => setPanel("saves")}>存档</button>
-          <button onClick={() => setPanel("settings")}>设置</button>
+          <button onClick={() => setPanel("saves")}>{t("存档")}</button>
+          <button onClick={() => setPanel("settings")}>{t("设置")}</button>
         </div>
       </header>
+      {notice && !panel && (
+        <div className="notice" role="status">
+          {t(notice)}
+          <button aria-label={t("关闭通知")} onClick={() => setNotice("")}>
+            ×
+          </button>
+        </div>
+      )}
       {!state ? (
-        <section className="hero" aria-label="游戏标题">
+        <section className="hero" aria-label={t("游戏标题")}>
           <img className="title-art" src={asset("PIC1.PNG")} alt="" />
           <div className="title-menu">
-            <h1>流行之神<span>２</span></h1>
-            <p className="title-subtitle">都市传说 · 警察怪异事件</p>
-            <nav className="start-actions" aria-label="开始游戏">
-              {slots.some(s => s.id === "auto") && <button className="primary" disabled={busy} onClick={() => restore("auto")}>继续游戏 <span aria-hidden="true">→</span></button>}
-              <button className={slots.some(s => s.id === "auto") ? "secondary" : "primary"} onClick={() => start()}>开始序章</button>
-              <button className="secondary" onClick={() => setPanel("chapters")}>选择章节</button>
+            <h1>{t("流行之神")}<span>２</span></h1>
+            <p className="title-subtitle">{t("都市传说 · 警察怪异事件")}</p>
+            <nav className="start-actions" aria-label={t("开始游戏")}>
+              {slots.some(s => s.id === "auto") && <button className="primary" disabled={busy} onClick={() => restore("auto")}>{t("继续游戏")}<span className="forward-arrow" aria-hidden="true">→</span></button>}
+              <button className={slots.some(s => s.id === "auto") ? "secondary" : "primary"} onClick={() => start()}>{t("开始序章")}</button>
+              <button className="secondary" onClick={() => setPanel("chapters")}>{t("选择章节")}</button>
             </nav>
-            <p className="save-hint">进度自动保存</p>
+            <p className="save-hint">{t("进度自动保存")}</p>
           </div>
         </section>
       ) : (
-        <section className={`reader${state.mode === "ended" ? " reader-ended" : ""}`} aria-label="剧情阅读区">
+        <section className={`reader${state.mode === "ended" ? " reader-ended" : ""}`} aria-label={t("剧情阅读区")}>
           <div
             className={`scene-stage stage-${state.stageEffect}`}
-            aria-label="故事场景"
+            aria-label={t("故事场景")}
           >
             {state.mode === "logic" ? (
               <LogicBoard data={data} state={state} onChange={setState} />
@@ -380,7 +436,7 @@ export function Reader({
                 ref={sceneSvg}
                 className="scene-composition"
                 viewBox="0 0 480 272"
-                aria-label="当前故事场景"
+                aria-label={t("当前故事场景")}
               >
                 {Object.entries(state.layers)
                   .sort(([a], [b]) => Number(a) - Number(b))
@@ -440,33 +496,33 @@ export function Reader({
                 />
               ) : state.mode === "credits" ? (
                 <div className="credit-card" aria-live="polite">
-                  <h2>制作名单</h2>
-                  {state.creditLines?.map((line, i) => <p key={i}>{line}</p>)}
-                  <button className="next primary" onClick={() => setState(advance(data, state))}>继续片尾 →</button>
-                  <button className="secondary" onClick={() => setState(run(data, { ...state, mode: "running", script: state.chapterEntry === 90001 ? 7099 : 6099, pc: 0, creditLines: [], callStack: [] }))}>跳过片尾</button>
+                  <h2>{t("制作名单")}</h2>
+                  {state.creditLines?.map((line, i) => <p key={i}>{g(`label.${line}`, line)}</p>)}
+                  <button className="next primary" onClick={() => setState(advance(data, state))}>{t("继续片尾 →")}</button>
+                  <button className="secondary" onClick={() => setState(run(data, { ...state, mode: "running", script: state.chapterEntry === 90001 ? 7099 : 6099, pc: 0, creditLines: [], callStack: [] }))}>{t("跳过片尾")}</button>
                 </div>
               ) : state.mode === "ended" ? (
                 <div className="ending">
                   <h1>
                     {!chapter
-                      ? "序章 · 已读完"
-                      : `${chapter?.title ?? data.title} · 本次调查结束`}
+                      ? t("序章 · 已读完")
+                      : t("{chapter} · 本次调查结束", { chapter: chapter?.title ?? data.title })}
                   </h1>
                   {!chapter ? (
-                    <p>调查才刚刚开始。</p>
+                    <p>{t("调查才刚刚开始。")}</p>
                   ) : (
                     <p>
                       {[18401, 29000, 39000, 44142, 47099, 58102, 64502, 75090, 80101, 90701].includes(state.script)
-                        ? "本篇已读完" : "调查告一段落"}
-                      {chapter.id < 7 && <> · 推理得分 {readVariable(state, 10)}</>}
-                      {chapter.id === 3 && state.script === 44142 && <><br />另一条调查路线仍有线索，重新调查可保留已完成路线。</>}
+                        ? t("本篇已读完") : t("调查告一段落")}
+                      {chapter.id < 7 && <>{t("· 推理得分")}<bdi>{new Intl.NumberFormat(locale).format(readVariable(state, 10))}</bdi></>}
+                      {chapter.id === 3 && state.script === 44142 && <><br />{t("另一条调查路线仍有线索，重新调查可保留已完成路线。")}</>}
 
                     </p>
                   )}
                   <p>
                     {!chapter
-                      ? "翻开下一份案件档案，开始调查《黒闇》。"
-                      : "可以读取存档，探索不同的选择与推理结果。"}
+                      ? t("翻开下一份案件档案，开始调查《黒闇》。")
+                      : t("可以读取存档，探索不同的选择与推理结果。")}
                   </p>
                   {nextEntry && data.scripts[nextEntry] && (
                     <button
@@ -475,36 +531,34 @@ export function Reader({
                         setState(enterChapter(data, state, nextEntry))
                       }
                     >
-                      进入{nextTitle} →
+                      {t("进入{chapter} →", { chapter: nextTitle })}
                     </button>
                   )}
-                  {chapter && <button className="secondary" onClick={() => setState(enterChapter(data, state, chapter.entry))}>重新调查本篇</button>}
-                  <button className="secondary" onClick={() => setState(null)}>
-                    返回标题
-                  </button>
+                  {chapter && <button className="secondary" onClick={() => setState(enterChapter(data, state, chapter.entry))}>{t("重新调查本篇")}</button>}
+                  <button className="secondary" onClick={() => setState(null)}>{t("返回标题")}</button>
                 </div>
               ) : state.mode === "logic" ? (
-                <p>整理上方的关系图后，点击“完成整理”继续。</p>
+                <p>{t("整理上方的关系图后，点击“完成整理”继续。")}</p>
               ) : state.mode === "confirm" ? (
                 <div className="confirmation">
-                  <p>{state.prompt}</p>
+                  <p>{g(`prompt.${state.script}.${state.pc}`, state.prompt)}</p>
                   <button
                     onClick={() => setState(confirmResult(data, state, false))}
                   >
-                    {saveConfirmation ? "暂不手动保存" : "继续修改"}
+                    {saveConfirmation ? t("暂不手动保存") : t("继续修改")}
                   </button>
                   <button
                     className="primary"
                     onClick={() => { setState(confirmResult(data, state, true)); if (saveConfirmation) setPanel("saves"); }}
                   >
-                    {saveConfirmation ? "选择存档位置" : "确认提交"}
+                    {saveConfirmation ? t("选择存档位置") : t("确认提交")}
                   </button>
                 </div>
               ) : state.mode === "error" ? (
                 <div className="ending">
-                  <h2>剧情暂时无法继续</h2>
-                  <p role="alert">暂时无法读取这段剧情，请读取之前的存档重试。</p>
-                  <button onClick={() => setPanel("saves")}>读取存档</button>
+                  <h2>{t("剧情暂时无法继续")}</h2>
+                  <p role="alert">{t("暂时无法读取这段剧情，请读取之前的存档重试。")}</p>
+                  <button onClick={() => setPanel("saves")}>{t("读取存档")}</button>
                 </div>
               ) : (
                 <>
@@ -514,12 +568,11 @@ export function Reader({
                     key={state.page?.id}
                     style={{ fontSize }}
                   >
-                    {state.page && <StoryText page={state.page} onKeyword={(id) => openCollection("keywords", id)} />}
+                    {state.page && <StoryText page={state.page} names={state.names} onKeyword={(id) => openCollection("keywords", id)} />}
                   </article>
                   {state.mode === "choice" ? (
                     <div className="story-choices">
-                      <p className="courage">
-                        勇气 {readVariable(state, 8)} / {readVariable(state, 9)}
+                      <p className="courage">{t("勇气")} <bdi>{new Intl.NumberFormat(locale).format(readVariable(state, 8))} / {new Intl.NumberFormat(locale).format(readVariable(state, 9))}</bdi>
                       </p>
                       {state.choices.map((c, i) => (
                         <button
@@ -529,8 +582,8 @@ export function Reader({
                           }
                           onClick={() => setState(choose(data, state, i))}
                         >
-                          {c.text}
-                          {c.cost > 0 && <small>消耗 {c.cost} 点勇气</small>}
+                          {localizeChoice(catalog, `choice.${state.script}.${state.pc}.${i}`, c, state.names)}
+                          {c.cost > 0 && <small>{t("消耗 {cost} 点勇气", { cost: c.cost })}</small>}
                         </button>
                       ))}
                     </div>
@@ -539,35 +592,24 @@ export function Reader({
                       <button
                         className="next primary"
                         onClick={() => setState(advance(data, state))}
-                      >
-                        继续 <span>→</span>
+                      >{t("继续")}<span className="forward-arrow" aria-hidden="true">→</span>
                       </button>
                     </div>
                   )}
                 </>
               )}
               <CollectionFeedback page={state.mode === "page" || state.mode === "choice" ? state.page : null} data={data} session={sceneSession} onOpen={openCollection} />
-              <nav className="reader-tools" aria-label="阅读工具">
+              <nav className="reader-tools" aria-label={t("阅读工具")}>
                 {state.logicAvailable && state.mode === "page" && (
-                  <button onClick={() => setState(openLogic(state))}>
-                    推理关系图
-                  </button>
+                  <button onClick={() => setState(openLogic(state))}>{t("推理关系图")}</button>
                 )}
-                <button onClick={() => setPanel("history")}>回看记录</button>
-                <button onClick={() => setPanel("keywords")}>关键词手帖</button>
-                <button onClick={() => setPanel("terms")}>术语辞典</button>
+                <button onClick={() => setPanel("history")}>{t("回看记录")}</button>
+                <button onClick={() => openNotebook("keywords")}>{t("关键词手帖")}</button>
+                <button onClick={() => openNotebook("terms")}>{t("术语辞典")}</button>
               </nav>
             </div>
           </div>
         </section>
-      )}
-      {notice && !panel && (
-        <div className="notice" role="status">
-          {notice}
-          <button aria-label="关闭通知" onClick={() => setNotice("")}>
-            ×
-          </button>
-        </div>
       )}
       <AudioScene data={data} state={state} enabled={sound} volume={volume} />
       <audio
@@ -579,6 +621,13 @@ export function Reader({
       <dialog
         ref={dialog}
         aria-labelledby="panel-title"
+        onKeyDown={event => {
+          if (event.key !== "Tab" || event.altKey || event.ctrlKey || event.metaKey) return;
+          const controls = Array.from(event.currentTarget.querySelectorAll<HTMLElement>('button:not(:disabled), input:not(:disabled), select:not(:disabled), [tabindex="0"]'));
+          const first = controls[0], last = controls.at(-1);
+          if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last?.focus(); }
+          else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first?.focus(); }
+        }}
         onCancel={() => setPanel(null)}
         onClose={() => setPanel(null)}
       >
@@ -586,18 +635,18 @@ export function Reader({
           <h2 id="panel-title">
             {
               {
-                history: "回看记录",
-                saves: "保存与读取",
-                terms: "已发现的术语",
-                keywords: "关键词手帖",
-                settings: "游戏设置",
-                chapters: "选择章节",
+                history: t("回看记录"),
+                saves: t("保存与读取"),
+                terms: t("已发现的术语"),
+                keywords: t("关键词手帖"),
+                settings: t("游戏设置"),
+                chapters: t("选择章节"),
               }[panel ?? "settings"]
             }
           </h2>
           <button
             autoFocus
-            aria-label="关闭面板"
+            aria-label={t("关闭面板")}
             onClick={() => setPanel(null)}
           >
             ×
@@ -605,36 +654,34 @@ export function Reader({
         </div>
         {notice && (
           <div className="panel-notice" role="status">
-            {notice}
-            <button aria-label="关闭通知" onClick={() => setNotice("")}>
+            {t(notice)}
+            <button aria-label={t("关闭通知")} onClick={() => setNotice("")}>
               ×
             </button>
           </div>
         )}
-        <div className="dialog-body">
-          {panel === "chapters" && <nav className="chapter-menu" aria-label="章节列表">
-            {[{ title: "本篇", chapters: data.chapters?.filter(c => c.id < 4) ?? [] }, { title: "人物篇", chapters: data.chapters?.filter(c => c.id >= 4) ?? [] }].map(group => <section key={group.title}>
+        <div className="dialog-body" ref={panelBody} key={panel}>
+          {panel === "chapters" && <nav className="chapter-menu" aria-label={t("章节列表")}>
+            {[{ title: t("本篇"), chapters: chapters?.filter(c => c.id < 4) ?? [] }, { title: t("人物篇"), chapters: chapters?.filter(c => c.id >= 4) ?? [] }].map(group => <section key={group.title}>
               <h3>{group.title}</h3>
-              {group.chapters.map(c => <button key={c.id} onClick={() => start(c.entry)}>{c.title}<span aria-hidden="true">→</span></button>)}
+              {group.chapters.map(c => <button key={c.id} onClick={() => start(c.entry)}>{c.title}<span className="forward-arrow" aria-hidden="true">→</span></button>)}
             </section>)}
           </nav>}
 
           {panel === "history" && <Backlog state={state} fontSize={fontSize} />}
           {panel === "saves" && (
             <div className="save-list">
-              <p>
-                存档仅保存在此设备的当前浏览器；清除网站数据会同时清除存档。
-              </p>
+              <p>{t("存档仅保存在此设备的当前浏览器；清除网站数据会同时清除存档。")}</p>
               {["auto", "slot1", "slot2", "slot3"].map((id, i) => {
                 const slot = slots.find((s) => s.id === id);
                 return (
-                  <div className="save-slot" key={id}>
+                  <section className="save-slot" key={id} aria-labelledby={`save-${id}`}>
                     <div>
-                      <h3>{i === 0 ? "自动存档" : `手动存档 ${i}`}</h3>
+                      <h3 id={`save-${id}`}>{i === 0 ? t("自动存档") : t("手动存档 {number}", { number: i })}</h3>
                       <p>
                         {slot
-                          ? `${data.chapters?.find(c => c.entry === slot.state.chapterEntry || (slot.state.script >= c.minScript && slot.state.script <= c.maxScript))?.title ?? "序章"} · ${new Date(slot.savedAt).toLocaleString()}`
-                          : "尚无存档"}
+                          ? `${chapters?.find(c => c.entry === slot.state.chapterEntry || (slot.state.script >= c.minScript && slot.state.script <= c.maxScript))?.title ?? t("序章")} · ${new Date(slot.savedAt).toLocaleString(locale)}`
+                          : t("尚无存档")}
                       </p>
                     </div>
                     <div>
@@ -642,39 +689,39 @@ export function Reader({
                         <button
                           disabled={!canSave || busy}
                           onClick={() => save(id)}
-                        >
-                          保存
-                        </button>
+                        >{t("保存")}</button>
                       )}
                       <button
                         disabled={!slot || busy}
                         onClick={() => restore(id)}
-                      >
-                        读取
-                      </button>
+                      >{t("读取")}</button>
                     </div>
-                  </div>
+                  </section>
                 );
               })}
             </div>
           )}
           {panel === "keywords" && (
             <div className="terms">
-              <p>阅读中获得的关键词记录于此，供整理推理关系时参考。</p>
-              {!state?.flags.some(id => data.keywords?.[id]) && <p>尚未获得关键词。</p>}
-              <ul className="keyword-notebook">{state?.flags.filter(id => data.keywords?.[id]).reverse().sort((a, b) => Number(b === collectionFocus) - Number(a === collectionFocus)).map(id => <li key={id}>{data.keywords![id]}</li>)}</ul>
+              <SearchField value={collectionQuery} onChange={setCollectionQuery} />
+              <p>{t("阅读中获得的关键词记录于此，供整理推理关系时参考。")}</p>
+              {!state?.flags.some(id => data.keywords?.[id]) && <p>{t("尚未获得关键词。")}</p>}
+              {!!collectionQuery && !state?.flags.some(id => data.keywords?.[id] && matchesSearch(g(`keywords.${id}`, data.keywords[id]), collectionQuery)) && <p role="status">{t("没有匹配的内容")}</p>}
+              <ul className="keyword-notebook">{state?.flags.filter(id => data.keywords?.[id] && matchesSearch(g(`keywords.${id}`, data.keywords[id]), collectionQuery)).reverse().sort((a, b) => Number(b === collectionFocus) - Number(a === collectionFocus)).map(id => <li className={id === collectionFocus ? "collection-selected" : undefined} key={id} dir="auto">{g(`keywords.${id}`, data.keywords![id])}</li>)}</ul>
             </div>
           )}
           {panel === "terms" && (
             <div className="terms">
-              <p>阅读中发现的术语会收录于此，可以随时查阅。</p>
-              {!state?.unlocked.length && <p>尚未发现术语。</p>}
-              {state?.unlocked.slice().reverse().sort((a, b) => Number(b === collectionFocus) - Number(a === collectionFocus)).map((id) => (
-                <div key={id}>
-                  <h3>{data.terms[id]}</h3>
+              <SearchField value={collectionQuery} onChange={setCollectionQuery} />
+              <p>{t("阅读中发现的术语会收录于此，可以随时查阅。")}</p>
+              {!state?.unlocked.length && <p>{t("尚未发现术语。")}</p>}
+              {!!collectionQuery && !state?.unlocked.some(id => matchesSearch(`${g(`terms.${id}`, data.terms[id])} ${g(`definitions.${id}`, data.definitions?.[id] ?? "")}`, collectionQuery)) && <p role="status">{t("没有匹配的内容")}</p>}
+              {state?.unlocked.filter(id => matchesSearch(`${g(`terms.${id}`, data.terms[id])} ${g(`definitions.${id}`, data.definitions?.[id] ?? "")}`, collectionQuery)).reverse().sort((a, b) => Number(b === collectionFocus) - Number(a === collectionFocus)).map((id) => (
+                <div className={id === collectionFocus ? "collection-selected" : undefined} key={id} dir="auto">
+                  <h3>{g(`terms.${id}`, data.terms[id])}</h3>
                   <p className="term-definition">
                     {formatGameText(
-                      data.definitions?.[id] ?? "",
+                      g(`definitions.${id}`, data.definitions?.[id] ?? ""),
                       state?.names ?? ["风海", "纯也"],
                     )}
                   </p>
@@ -684,8 +731,7 @@ export function Reader({
           )}
           {panel === "settings" && (
             <div className="settings">
-              <label>
-                文字大小 <span>{fontSize <= 18 ? "较小" : fontSize <= 22 ? "标准" : "较大"}</span>
+              <label>{t("文字大小")}<span>{fontSize <= 18 ? t("较小") : fontSize <= 22 ? t("标准") : t("较大")}</span>
                 <input
                   type="range"
                   min="16"
@@ -694,8 +740,7 @@ export function Reader({
                   onChange={(e) => setFontSize(Number(e.target.value))}
                 />
               </label>
-              <label>
-                声音音量 <span>{Math.round(volume * 100)}%</span>
+              <label>{t("声音音量")}<bdi>{new Intl.NumberFormat(locale, { style: "percent", maximumFractionDigits: 0 }).format(volume)}</bdi>
                 <input
                   type="range"
                   min="0"
@@ -706,21 +751,31 @@ export function Reader({
                 />
               </label>
               <button className="secondary" onClick={() => setSound(!sound)}>
-                {sound ? "关闭" : "开启"}游戏声音
+                {t(sound ? "关闭游戏声音" : "开启游戏声音")}
               </button>
               <hr />
-              <p>
-                键盘空格、回车或右方向键继续阅读；手机点击“继续”。关闭面板可按
-                Esc。
-              </p>
+              <p>{t("键盘空格、回车或右方向键继续阅读；手机点击“继续”。关闭面板可按 Esc。")}</p>
             </div>
           )}
         </div>
       </dialog>
+      {confirmation && <GameConfirmation
+        title={t(confirmation.kind === "start" ? "重新开始" : "覆盖存档")}
+        message={t(confirmation.kind === "start" ? "重新开始会替换自动存档。手动存档会保留。继续？" : "覆盖这个手动存档？")}
+        confirmLabel={t(confirmation.kind === "start" ? "重新开始" : "保存")}
+        onResolve={confirmed => {
+          setConfirmation(null);
+          if (!confirmed) return;
+          if (confirmation.kind === "start") start(confirmation.entry, true);
+          else void save(confirmation.id, true);
+        }}
+      />}
     </main>
   );
 }
 export default function App() {
+  const { locale, t } = useTranslation();
+  useEffect(() => { document.title = t("流行之神 2"); }, [locale, t]);
   const [data, setData] = useState<GameData | null>(null);
   const [error, setError] = useState("");
   useEffect(() => {
@@ -741,9 +796,9 @@ export default function App() {
   if (!data)
     return (
       <main className="loading">
-        <h1>流行之神 2</h1>
-        <p role="status">{error || "正在加载游戏…"}</p>
-        {error && <button onClick={() => location.reload()}>重新加载</button>}
+        <h1>{t("流行之神 2")}</h1>
+        <p role="status">{(error && t(error)) || t("正在加载游戏…")}</p>
+        {error && <button onClick={() => location.reload()}>{t("重新加载")}</button>}
       </main>
     );
   return <Reader data={data} />;

@@ -1,0 +1,122 @@
+index|es|fr
+0|Perfil del personaje|Fiche du personnage
+1|¿Cuál es tu apellido?|Quel est votre nom de famille ?
+2|¿Cuál es tu nombre?|Quel est votre prénom ?
+3|Introduce entre 1 y {max} caracteres. Este nombre se usará durante la historia.|Saisissez entre 1 et {max} caractères. Ce nom sera utilisé tout au long de l’histoire.
+4|Apellido|Nom de famille
+5|Nombre|Prénom
+6|Confirmar y continuar →|Confirmer et continuer →
+7|El historial de diálogos aparecerá aquí cuando empieces.|L’historique des dialogues apparaîtra ici une fois l’histoire commencée.
+8|Más recientes primero|Les plus récents d’abord
+9|Ver diálogos anteriores|Afficher les dialogues précédents
+10|Partida cargada|Sauvegarde chargée
+11|Progreso guardado en este navegador|Progression enregistrée dans ce navigateur
+12|No se ha podido iniciar el audio. Pulsa Sonido para reintentarlo.|Le son n’a pas pu démarrer. Sélectionnez Son pour réessayer.
+13|¿Sobrescribir esta partida guardada manualmente?|Écraser cette sauvegarde manuelle ?
+14|Empezar de nuevo reemplazará el autoguardado. Se conservarán las partidas guardadas manualmente. ¿Continuar?|Recommencer remplacera la sauvegarde automatique. Les sauvegardes manuelles seront conservées. Continuer ?
+15|Caso cero · Oscuridad|Affaire zéro · Ténèbres
+16|Volver al título|Retour au titre
+17|Hayarigami|Hayarigami
+18|Leyendas urbanas · Casos policiales inexplicables|Légendes urbaines · Affaires de police inexpliquées
+19|Sonido activado|Son activé
+20|Sonido desactivado|Son désactivé
+21|Partidas|Sauvegardes
+22|Ajustes|Paramètres
+23|Pantalla de título|Écran titre
+24|Iniciar juego|Commencer à jouer
+25|Continuar partida|Continuer
+26|Empezar prólogo|Commencer le prologue
+27|Elegir capítulo|Choisir un chapitre
+28|El progreso se guarda automáticamente|La progression est sauvegardée automatiquement
+29|Historia|Histoire
+30|Escena|Scène
+31|Escena actual|Scène actuelle
+32|Créditos|Générique
+33|Continuar créditos →|Suite du générique →
+34|Omitir créditos|Passer le générique
+35|Prólogo completado|Prologue terminé
+36|{chapter} · Investigación concluida|{chapter} · Enquête terminée
+37|La investigación no ha hecho más que empezar.|L’enquête ne fait que commencer.
+38|Capítulo completado|Chapitre terminé
+39|Investigación concluida|Enquête terminée
+40|· Puntuación de deducción|· Score de déduction
+41|La otra vía de investigación aún guarda pistas. Puedes investigar de nuevo sin perder la ruta completada.|L’autre piste recèle encore des indices. Vous pouvez reprendre l’enquête sans perdre le parcours déjà terminé.
+42|Abre el siguiente expediente y comienza Oscuridad.|Ouvrez le dossier suivant et commencez Ténèbres.
+43|Carga una partida para explorar otras decisiones y deducciones.|Chargez une sauvegarde pour explorer d’autres choix et déductions.
+44|Comenzar {chapter} →|Commencer {chapter} →
+45|Investigar de nuevo|Reprendre l’enquête
+46|Completa el diagrama de relaciones de arriba y pulsa Finalizar para continuar.|Complétez le schéma des relations ci-dessus, puis terminez pour continuer.
+47|Continuar sin guardar manualmente|Continuer sans sauvegarde manuelle
+48|Seguir editando|Poursuivre les modifications
+49|Elegir espacio de guardado|Choisir un emplacement
+50|Confirmar deducciones|Valider les déductions
+51|No se puede continuar la historia|Impossible de poursuivre l’histoire
+52|No se ha podido cargar esta parte de la historia. Carga una partida anterior y vuelve a intentarlo.|Cette partie de l’histoire n’a pas pu être chargée. Chargez une sauvegarde antérieure et réessayez.
+53|Cargar partida|Charger une sauvegarde
+54|Valor|Courage
+55|Consume {cost} de valor|Coût en courage : {cost}
+56|Continuar|Continuer
+57|Herramientas de lectura|Outils de lecture
+58|Diagrama de relaciones|Schéma des relations
+59|Historial de diálogos|Historique des dialogues
+60|Cuaderno de palabras clave|Carnet de mots-clés
+61|Enciclopedia|Encyclopédie
+62|Cerrar aviso|Fermer la notification
+63|Guardar y cargar|Sauvegarder et charger
+64|Entradas descubiertas|Entrées découvertes
+65|Ajustes del juego|Paramètres du jeu
+66|Cerrar panel|Fermer le panneau
+67|Capítulos|Chapitres
+68|Casos principales|Affaires principales
+69|Historias de personajes|Histoires des personnages
+70|Las partidas solo se guardan en este navegador y dispositivo. Borrar los datos del sitio también eliminará las partidas.|Les sauvegardes sont stockées uniquement dans ce navigateur, sur cet appareil. Effacer les données du site supprime aussi les sauvegardes.
+71|Autoguardado|Sauvegarde automatique
+72|Partida manual {number}|Sauvegarde manuelle {number}
+73|Prólogo|Prologue
+74|Espacio vacío|Emplacement vide
+75|Guardar|Sauvegarder
+76|Cargar|Charger
+77|Aquí se registran las palabras clave descubiertas en la historia para ayudarte a completar el diagrama de relaciones.|Les mots-clés découverts dans l’histoire sont conservés ici pour vous aider à compléter le schéma des relations.
+78|Aún no has descubierto palabras clave.|Aucun mot-clé découvert pour le moment.
+79|Las entradas descubiertas en la historia se recopilan aquí para consultarlas cuando quieras.|Les entrées découvertes au fil de l’histoire sont regroupées ici et consultables à tout moment.
+80|Aún no has descubierto entradas.|Aucune entrée découverte pour le moment.
+81|Tamaño del texto|Taille du texte
+82|Pequeño|Petite
+83|Normal|Standard
+84|Grande|Grande
+85|Volumen|Volume
+86|Desactivar sonido|Désactiver le son
+87|Activar sonido|Activer le son
+88|Pulsa Espacio, Intro o la flecha derecha para avanzar, o toca Continuar. Pulsa Esc para cerrar un panel.|Appuyez sur Espace, Entrée ou la flèche droite pour avancer, ou touchez Continuer. Échap ferme le panneau.
+89|No se han podido cargar los recursos del juego. Inténtalo más tarde.|Impossible de charger les ressources du jeu. Réessayez plus tard.
+90|No se han podido cargar los recursos del juego. Comprueba tu conexión y vuelve a intentarlo.|Impossible de charger les ressources du jeu. Vérifiez votre connexion et réessayez.
+91|Hayarigami 2|Hayarigami 2
+92|Cargando juego…|Chargement du jeu…
+93|Volver a cargar|Recharger
+94|Zoom|Zoom
+95|Zoom del diagrama|Zoom du schéma
+96|Ver diagrama completo|Afficher tout le schéma
+97|Amplía el diagrama o selecciona un personaje para leer su perfil.|Agrandissez le schéma ou sélectionnez un personnage pour consulter sa fiche.
+98|Selecciona una relación en el diagrama o en la lista inferior y asígnale una palabra clave descubierta.|Choisissez une relation sur le schéma ou dans la liste ci-dessous, puis attribuez-lui un mot-clé découvert.
+99|Personajes y relaciones del caso|Personnages et relations de l’affaire
+100|Sin asignar|Non renseignée
+101|Cerrar perfil del personaje|Fermer la fiche du personnage
+102|Seleccionar una relación|Sélectionner une relation
+103|Elige una relación|Choisissez une relation
+104|Relación|Relation
+105|Asignar palabra clave|Attribuer un mot-clé
+106|Dejar en blanco|Laisser vide
+107|Finalizar y volver a la historia →|Terminer et reprendre l’histoire →
+108|Descubrimientos de este pasaje|Découvertes de ce passage
+109|Entrada añadida a la enciclopedia|Entrée ajoutée à l’encyclopédie
+110|Palabra clave descubierta|Mot-clé découvert
+111|El almacenamiento local de partidas no está disponible.|Le stockage local des sauvegardes est indisponible.
+112|Otra página está usando el almacenamiento. Cierra las pestañas anteriores del juego y vuelve a intentarlo.|Une autre page utilise le stockage des sauvegardes. Fermez les anciens onglets du jeu et réessayez.
+113|No se ha podido cargar la partida.|La sauvegarde n’a pas pu être chargée.
+114|La carga se ha interrumpido.|Le chargement a été interrompu.
+115|Error al guardar: el almacenamiento está lleno o desactivado en este navegador.|Échec de la sauvegarde : le stockage est plein ou désactivé dans ce navigateur.
+116|El guardado se ha interrumpido. Vuelve a intentarlo.|La sauvegarde a été interrompue. Réessayez.
+117|No se ha encontrado esta partida.|Cette sauvegarde est introuvable.
+118|{keyword}: ver palabra clave|{keyword} : consulter le mot-clé
+119|Relación {number}: {keyword}|Relation {number} : {keyword}
+120|Relación {number}|Relation {number}

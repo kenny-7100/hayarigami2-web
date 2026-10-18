@@ -1,0 +1,480 @@
+{
+  "locale": "es",
+  "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+  "strings": {
+    "chapter.0.title": {
+      "source": "第零话 · 黒闇",
+      "text": "Caso cero · Oscuridad",
+      "status": "draft"
+    },
+    "chapter.1.title": {
+      "source": "第一话 · 予知夢",
+      "text": "Caso uno · Sueños premonitorios",
+      "status": "draft"
+    },
+    "chapter.2.title": {
+      "source": "第二话 · 心霊写真",
+      "text": "Caso dos · Fotografías de espíritus",
+      "status": "draft"
+    },
+    "chapter.3.title": {
+      "source": "最终话 · 流行り神",
+      "text": "Caso final · Hayarigami",
+      "status": "draft"
+    },
+    "chapter.4.title": {
+      "source": "小暮篇 · エレベーター幽霊",
+      "text": "Kogure · El fantasma del ascensor",
+      "status": "draft"
+    },
+    "chapter.5.title": {
+      "source": "贺茂泉篇 · 座敷わらし",
+      "text": "Kamoizumi · El zashiki-warashi",
+      "status": "draft"
+    },
+    "chapter.6.title": {
+      "source": "由香篇 · 作られた都市伝説",
+      "text": "Yuka · Leyendas urbanas fabricadas",
+      "status": "draft"
+    },
+    "chapter.7.title": {
+      "source": "道明寺篇",
+      "text": "Domyoji",
+      "status": "draft"
+    },
+    "chapter.8.title": {
+      "source": "人见篇 · よみがえり",
+      "text": "Hitomi · Resurrección",
+      "status": "draft"
+    },
+    "terms.1": {
+      "source": "秘密结社",
+      "text": "Sociedad secreta",
+      "status": "draft"
+    },
+    "terms.2": {
+      "source": "ＮＳＡ",
+      "text": "NSA",
+      "status": "draft"
+    },
+    "terms.3": {
+      "source": "梯队系统",
+      "text": "ECHELON",
+      "status": "draft"
+    }
+  },
+  "rich": {
+    "page.1:55172.963699c0": {
+      "source": "[{\"text\":\"　　　　　　　　『这是在朋友的朋友之间\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"　　　　　　　　　口耳相传而来的传闻』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Un rumor que pasa de un amigo a otro, y de este al amigo de un amigo»."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.1:55388.da3d1386": {
+      "source": "[{\"text\":\"『离奇而又充满魅力\",\"color\":0,\"size\":0},{\"text\":\"，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"真假莫辨的传闻』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Un relato extraño y fascinante, cuya veracidad nadie logra determinar»."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.1:55564.7fe7fb8f": {
+      "source": "[{\"text\":\"　　　　　　　　　　『半真半假，故而\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"　　　　　　　　令人将信将疑的传闻』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Un rumor a medio camino entre la verdad y la mentira, lo bastante creíble para sembrar la duda»."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.1:55772.e257a226": {
+      "source": "[{\"text\":\"这是由美国都市传说研究的第\",\"color\":0,\"size\":0},{\"text\":\"一人\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"布鲁范德给都市传说下的定义\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Así describía las leyendas urbanas Brunvand, uno de los grandes pioneros estadounidenses en su estudio."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.1:55956.9ffc688c": {
+      "source": "[{\"text\":\"　　　　　　 朋友的朋友\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "El amigo de un amigo."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.1:56136.22e0132": {
+      "source": "[{\"text\":\"   Ｆｒｉｅｎｄ　Ｏｆ　Ａ　Ｆｒｉｅｎｄ\",\"color\":1,\"size\":3},{\"text\":\"\\n\",\"color\":1,\"size\":3},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "ref": 0,
+          "text": "Friend of a Friend"
+        },
+        {
+          "ref": 1
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:56952.3a89b6f2": {
+      "source": "[{\"text\":\"……人类这种生物，有时候会深刻地感受到\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自己的无能为力。\",\"color\":0,\"size\":0},{\"text\":\"譬如现在，就是如此。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "…Hay momentos en que uno comprende hasta qué punto puede ser impotente un ser humano. Este era uno de ellos."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:57076.94fdf2ea": {
+      "source": "[{\"text\":\"「把你叫出来不为别的，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"是想让你去监视某个人。\",\"color\":0,\"size\":0},{\"text\":\"要秘密进行」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Te hemos llamado porque queremos que vigiles a alguien. Con discreción»."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:57196.3132c984": {
+      "source": "[{\"text\":\"被叫出来，然后又突然被命令去监视某个人。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"日本的宪法里应该有写『尊重个人权利』吧，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"难道是我听错了？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Me hacían venir sin previo aviso y, de pronto, me ordenaban espiar a alguien. ¿No decía la Constitución japonesa algo sobre respetar los derechos individuales? ¿O lo había oído mal?"
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:57368.da259650": {
+      "source": "[{\"text\":\"「那个……\",\"color\":0,\"size\":0},{\"text\":\"可是，每个人都有隐私权……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"虽然\",\"color\":0,\"size\":0},{\"text\":\"知道答案会是什么，但为了更确定，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"我还是试着反驳了一下。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Bueno… todo el mundo tiene derecho a la intimidad…»\nYa sabía qué me responderían. Aun así, quise cerciorarme."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:57544.3d868f3c": {
+      "source": "[{\"text\":\"「只要不被对方发现，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"就不会构成\",\"color\":0,\"size\":0},{\"text\":\"侵犯个人隐私了吧？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"反正都是家常便饭了」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Si no se entera, no habremos vulnerado su intimidad, ¿no crees? Además, esto es el pan de cada día»."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:57676.14fcc6f4": {
+      "source": "[{\"text\":\"就是这样。\",\"color\":0,\"size\":0},{\"text\":\"一旦尝到点拥有权力的甜头，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"人类就会变得越来越傲慢，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"终有一天把自己当成了神。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Ahí estaba. Basta con probar las mieles del poder para que la arrogancia crezca sin freno, hasta que un día uno acaba creyéndose un dios."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:57808.d22b67bd": {
+      "source": "[{\"text\":\"我面前的诸神，就是以他们坚信的所谓\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"正义之名，在阴暗的禁区里秘密结社，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"乐此\",\"color\":0,\"size\":0},{\"text\":\"不疲地从事着暗中活动。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Los dioses que tenía delante habían formado su propia sociedad secreta, en un mundo de sombras vedado a los demás. En nombre de lo que ellos llamaban justicia, se entregaban con entusiasmo a sus actividades clandestinas."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:57948.21ddec76": {
+      "source": "[{\"text\":\"世人会有所察觉吗？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "¿La gente sospecharía algo?"
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:58012.1ec2f02": {
+      "source": "[{\"text\":\"就连个人隐私这种宪法赋予的基本人权\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"都在不断地受着侵犯……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Hasta la intimidad, un derecho fundamental amparado por la Constitución, se vulneraba día tras día…"
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:58120.21de6ef5": {
+      "source": "[{\"text\":\"这可不仅仅是跟踪、窃听、狗仔队、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"这种程度的问题。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Y no me refería solo a seguir a alguien, pincharle el teléfono o perseguirlo con una cámara."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:58224.b62e954b": {
+      "source": "[{\"text\":\"越了解真相，就越觉得ＮＳ\",\"color\":0,\"size\":0},{\"text\":\"Ａ和梯队系统\",\"color\":0,\"size\":0},{\"text\":\"之\",\"color\":0,\"size\":0},{\"text\":\"类的\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"不过是小巫见大巫了。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Cuanto más se sabía de la verdad, más insignificantes parecían la NSA y sistemas como ECHELON."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:58356.e1bef324": {
+      "source": "[{\"text\":\"近几年，美国建立了通过ＧＰＳ卫星定位，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"对有犯罪前科的人进行监视的系统。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"不过，那个真的只被用在罪犯身上吗？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "En los últimos años, Estados Unidos había creado un sistema para vigilar mediante GPS a personas con antecedentes penales. Pero ¿de verdad se usaba solo con delincuentes?"
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:58580.4132b5b2": {
+      "source": "[{\"text\":\"人们差不多也该察觉到，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自己也有被监视的可能吧。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Quizá ya iba siendo hora de que la gente comprendiera que también podía estar bajo vigilancia."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:58684.67ff617c": {
+      "source": "[{\"text\":\"「那么，这次又打算监视谁呢？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Entonces, ¿a quién vamos a vigilar esta vez?»"
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:58744.3b35e4eb": {
+      "source": "[{\"text\":\"我跟诸神说话时的口气带着点轻蔑，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"无论如何，我也不想对这群家伙表示敬意。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Había una nota de desprecio en mi voz al dirigirme a aquellos dioses. Hiciera lo que hiciera, no pensaba mostrarles respeto."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.2:58928.dde82924": {
+      "source": "[{\"text\":\"「这个人你也认识，都打过多次交道了。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"他的名字是———」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Lo conoces. Habéis tratado en varias ocasiones. Se llama…»"
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:59396.24b42269": {
+      "source": "[{\"text\":\"「\",\"color\":0,\"size\":0},{\"text\":\"原来是\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"……\",\"color\":0,\"size\":0},{\"text\":\"啊。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"这个人还有监视的必要吗？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«"
+        },
+        {
+          "ref": 3
+        },
+        {
+          "text": " "
+        },
+        {
+          "ref": 2
+        },
+        {
+          "text": "… Ya veo. ¿De verdad sigue siendo necesario vigilarlo?»"
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:59492.e9067990": {
+      "source": "[{\"text\":\"「无论是私立花峰高中的『笔仙』事件，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"还是町田市的『鬼』事件，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"我对他的一举一动都很感兴趣」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Desde el incidente de la tabla de espíritus en el instituto privado Hanamine hasta el caso del “oni” en Machida, me interesa cada uno de sus movimientos»."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:59660.c715c528": {
+      "source": "[{\"text\":\"「从今往后，只要是他负责的案子，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"我们都想给予特别的关注。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"视情况施以援手也是可以的」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«A partir de ahora queremos prestar especial atención a todos los casos de los que se ocupe. Según las circunstancias, incluso podríamos echarle una mano»."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:59860.fde0df9e": {
+      "source": "[{\"text\":\"这些自以为是、傲慢虚伪的神，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"还是像往常一样令人作呕。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Aquellos dioses engreídos, arrogantes e hipócritas seguían dándome las mismas náuseas de siempre."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:59972.c57dba8a": {
+      "source": "[{\"text\":\"一想到他们才是掌握事实真相的人，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"就实在有些不寒而栗。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Pensar que eran ellos quienes tenían la verdad en sus manos me producía un escalofrío."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:60060.6bc0b23f": {
+      "source": "[{\"text\":\"因为他们可以肆无忌惮地实施\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"这种秘密窥探他人隐私的丑恶行径。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Porque podían entregarse sin el menor freno a aquella repugnante costumbre de hurgar a escondidas en la vida ajena."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:60184.b429ccca": {
+      "source": "[{\"text\":\"站在正中间的神，作为政治家，被每天守在\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"电视机前的主妇们一致评为最佳着装者。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "El dios que estaba en el centro era un político. Las amas de casa que lo veían a diario en televisión lo habían elegido como el hombre mejor vestido."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:60308.7a1a824d": {
+      "source": "[{\"text\":\"着装之下的黑暗，谁又能知道呢？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"这就是知人知面不知心的典型范例吧。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "¿Quién podía imaginar la oscuridad que se ocultaba bajo aquella ropa? El ejemplo perfecto de lo poco que revelan las apariencias."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:60432.32ec58af": {
+      "source": "[{\"text\":\"能相信的只有事实。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"但人们要么就是把假象当成了事实，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"要么就是被封眼堵耳而\",\"color\":0,\"size\":0},{\"text\":\"逐渐忘却了事实。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Solo se podía confiar en los hechos. Pero la gente confundía las apariencias con la realidad, o dejaba que le taparan los ojos y los oídos hasta olvidar la verdad."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:60588.8423a781": {
+      "source": "[{\"text\":\"「怎么了？\",\"color\":0,\"size\":0},{\"text\":\" 有什么问题吗？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«¿Qué ocurre? ¿Hay algún problema?»"
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:60660.b3a22eb7": {
+      "source": "[{\"text\":\"大概是由于我没有爽快地给他们答复吧，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"获得主妇们好评的神有些不高兴地问道。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Mi falta de respuesta inmediata debía de haberlo molestado. El dios favorito de las amas de casa empezaba a impacientarse."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:60780.9f3dcdac": {
+      "source": "[{\"text\":\"「没问题。\",\"color\":0,\"size\":0},{\"text\":\"我只是突然想到，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"各位老师都有过初恋的经验吧？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Ninguno. Solo se me ha ocurrido una cosa. Señores, todos habrán tenido un primer amor, ¿verdad?»"
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:60896.2db06cdc": {
+      "source": "[{\"text\":\"面对我这突如其来的提问，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"也许他们是不知所措，又或是置若罔闻，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一时之间竟陷入冷场。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Quizá aquella pregunta inesperada los había desconcertado, o quizá habían decidido ignorarla. En cualquier caso, se hizo un silencio incómodo."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:61028.a9ad007c": {
+      "source": "[{\"text\":\"「只能埋藏在自己心底的初恋」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Ese primer amor que uno guarda en lo más hondo, sin contárselo a nadie»."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:61092.32b3da41": {
+      "source": "[{\"text\":\"「如果连这都要被监视的话，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"会是怎样的心情呢？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«¿Cómo se sentirían si hasta eso estuviera vigilado?»"
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:61188.e64162e1": {
+      "source": "[{\"text\":\"这不是我对诸神们的提问。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"而是对我与这群家伙终归是同类\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"这一无法逃避的事实所发出的自嘲。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "No era una pregunta para los dioses. Era una burla amarga dirigida a mí mismo, y a la certeza ineludible de que, al fin y al cabo, yo era uno de ellos."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:61336.859c5ad9": {
+      "source": "[{\"text\":\"「这件事是从朋友的朋友那里听来的……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "«Esto me lo contó el amigo de un amigo…»"
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:61528.1ced0323": {
+      "source": "[{\"text\":\"【游戏说明『资料库』】\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"在调查过程中，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"会出现涉及到各种专业知识的术语。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Enciclopedia\nDurante la investigación encontrarás términos procedentes de distintas disciplinas."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:61644.2fe4ab7e": {
+      "source": "[{\"text\":\"例如：在阴暗的禁区里『秘密结社\",\"color\":0,\"size\":0},{\"text\":\"』\",\"color\":0,\"size\":0},{\"text\":\"……，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"像这样就被收录到资料库里了。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Por ejemplo: «una sociedad secreta, en un mundo de sombras vedado a los demás»… Ese término ya se ha añadido a la enciclopedia."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:61796.89f1a8cb": {
+      "source": "[{\"text\":\"只要按下\",\"color\":0,\"size\":0},{\"text\":\"「菜单」\",\"color\":0,\"size\":0},{\"text\":\"键选择『资料库』，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"随时都可以\",\"color\":0,\"size\":0},{\"text\":\"查阅这些专业术语。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "Selecciona Enciclopedia debajo del texto para consultar en cualquier momento los términos que hayas descubierto."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:61936.781f94e7": {
+      "source": "[{\"text\":\"资料库总共包含２００个条目。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"由于调查路线的不同，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"有些\",\"color\":0,\"size\":0},{\"text\":\"专业术语不一定会出现。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "La enciclopedia contiene 200 entradas. Algunos términos solo aparecen en determinadas vías de investigación."
+        }
+      ],
+      "status": "draft"
+    },
+    "page.3:62068.f4c66f50": {
+      "source": "[{\"text\":\"所以只完成一次调查，是无法全部收集到的。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"另外，资料库的取得率达到一定比例后，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"也许会触发隐藏的新事件……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+      "parts": [
+        {
+          "text": "No podrás reunirlas todas en una sola investigación. Y cuando hayas descubierto suficientes, quizá salga a la luz un nuevo caso oculto…"
+        }
+      ],
+      "status": "draft"
+    }
+  }
+}

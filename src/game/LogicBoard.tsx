@@ -1,3 +1,6 @@
+import { shortenChartLabel } from "../i18n/format";
+import { useGameText } from "../i18n/useGameText";
+import { useTranslation } from "../i18n/useTranslation";
 import { useRef, useState } from "react";
 import type { GameData, GameState } from "./engine";
 import { finishLogic, logicCondition, setAnswer, getLogic } from "./engine";
@@ -13,22 +16,48 @@ export default function LogicBoard({
   onChange: (state: GameState) => void;
   readOnly?: boolean;
 }) {
+  const { t } = useTranslation();
+  const g = useGameText();
+  const keyword = (id: number) => data.keywords?.[id] ? g(`keywords.${id}`, data.keywords[id]) : undefined;
   const [selected, setSelected] = useState<number | null>(null);
-  const [detail, setDetail] = useState("");
+  const [detail, setDetail] = useState<number | null>(null);
   const [zoom, setZoom] = useState(1);
   const scrollArea = useRef<HTMLDivElement>(null);
+  const editor = useRef<HTMLDivElement>(null);
+  const detailPanel = useRef<HTMLDivElement>(null);
+  const detailTrigger = useRef<SVGGElement | null>(null);
+  function selectField(id: number) {
+    if (readOnly) return;
+    setSelected(id);
+    requestAnimationFrame(() => {
+      editor.current?.scrollIntoView({ block: "nearest" });
+      editor.current?.querySelector<HTMLSelectElement>('select[data-keyword-select]')?.focus({ preventScroll: true });
+    });
+  }
+  function showDetail(id: number, trigger: SVGGElement) {
+    detailTrigger.current = trigger;
+    setDetail(id);
+    requestAnimationFrame(() => {
+      detailPanel.current?.scrollIntoView({ block: "nearest" });
+      detailPanel.current?.querySelector('button')?.focus({ preventScroll: true });
+    });
+  }
+  function closeDetail() {
+    setDetail(null);
+    detailTrigger.current?.focus();
+  }
   const diagram = getLogic(data, state);
   if (!diagram) return null;
   const fields = diagram.fields.filter((f) => logicCondition(state, f));
   const active = fields.find((f) => f.id === selected);
+  const selectedChoice = active?.choices.find(choice => choice.id === (state.answers[active.id] ?? 0));
   return (
-    <section className="logic-board" aria-label="推理关系图">
+    <section className="logic-board" aria-label={t("推理关系图")}>
       <div className="logic-toolbar">
-        <h2>推理关系图</h2>
-        <label>
-          缩放{" "}
+        <h2>{t("推理关系图")}</h2>
+        <label>{t("缩放")}{" "}
           <input
-            aria-label="关系图缩放"
+            aria-label={t("关系图缩放")}
             type="range"
             min="1"
             max="3"
@@ -42,15 +71,13 @@ export default function LogicBoard({
             setZoom(1);
             scrollArea.current?.scrollTo(0, 0);
           }}
-        >
-          查看全图
-        </button>
+        >{t("查看全图")}</button>
       </div>
-      <p className="logic-hint">{readOnly ? "可放大关系图，点击人物查看说明。" : "点击关系栏或从下方列表选择，填入已获得的关键词。"}</p>
+      <p className="logic-hint">{readOnly ? t("可放大关系图，点击人物查看说明。") : t("点击关系栏或从下方列表选择，填入已获得的关键词。")}</p>
       <div className="logic-scroll" ref={scrollArea}>
         <svg
           role="group"
-          aria-label="案件人物与关系"
+          aria-label={t("案件人物与关系")}
           viewBox={`0 0 ${diagram.width} ${diagram.height}`}
           style={{
             width: `calc(min(100%, ${(56 * diagram.width) / diagram.height}svh) * ${zoom})`,
@@ -66,20 +93,20 @@ export default function LogicBoard({
                 (v) => v.flag === 0 || !state.flags.includes(v.flag),
               );
               const text =
-                diagram.descriptions[variant?.description ?? n.description];
+                g(`logic.${diagram.id}.description.${variant?.description ?? n.description}`, diagram.descriptions[variant?.description ?? n.description] ?? "");
               return (
                 <g
                   key={i}
                   role={text ? "button" : undefined}
                   tabIndex={text ? 0 : undefined}
                   aria-label={text?.split("\n")[0]}
-                  onClick={() => {
-                    if (text) setDetail(text);
+                  onClick={(e) => {
+                    if (text) showDetail(variant?.description ?? n.description, e.currentTarget);
                   }}
                   onKeyDown={(e) => {
                     if (text && (e.key === "Enter" || e.key === " ")) {
                       e.preventDefault();
-                      setDetail(text);
+                      showDetail(variant?.description ?? n.description, e.currentTarget);
                     }
                   }}
                 >
@@ -97,38 +124,39 @@ export default function LogicBoard({
           {fields.map((f) => (
             <g
               key={f.id}
-              role="button"
-              tabIndex={0}
-              aria-label={`关系 ${f.id + 1}：${data.keywords?.[state.answers[f.id]] ?? "未填写"}`}
-              onClick={() => setSelected(f.id)}
+              role={readOnly ? "img" : "button"}
+              tabIndex={readOnly ? undefined : 0}
+              aria-pressed={readOnly ? undefined : selected === f.id}
+              aria-label={t("关系 {number}：{keyword}", { number: f.id + 1, keyword: keyword(state.answers[f.id]) ?? t("未填写") })}
+              onClick={() => selectField(f.id)}
               onKeyDown={(e) => {
                 if (e.key === "Enter" || e.key === " ") {
                   e.preventDefault();
-                  setSelected(f.id);
+                  selectField(f.id);
                 }
               }}
-              className={`logic-field ${selected === f.id ? "selected" : ""}`}
+              className={`logic-field ${readOnly ? "readonly" : ""} ${selected === f.id ? "selected" : ""}`}
             >
+              <title>{keyword(state.answers[f.id]) ?? t("关系 {number}", { number: f.id + 1 })}</title>
               <rect x={f.x - 66} y={f.y - 19} width={132} height={38} rx={5} />
               <text x={f.x} y={f.y + 6} textAnchor="middle">
-                {data.keywords?.[state.answers[f.id]] ?? `关系 ${f.id + 1}`}
+                {shortenChartLabel(keyword(state.answers[f.id]) ?? t("关系 {number}", { number: f.id + 1 }))}
               </text>
             </g>
           ))}
         </svg>
       </div>
-      {detail && (
-        <div className="logic-detail">
-          <button aria-label="关闭人物说明" onClick={() => setDetail("")}>
+      {detail !== null && (
+        <div className="logic-detail" ref={detailPanel} onKeyDown={event => { if (event.key === "Escape") { event.stopPropagation(); closeDetail(); } }}>
+          <button aria-label={t("关闭人物说明")} onClick={closeDetail}>
             ×
           </button>
-          <p>{detail}</p>
+          <p dir="auto">{g(`logic.${diagram.id}.description.${detail}`, diagram.descriptions[detail])}</p>
         </div>
       )}
       {!readOnly && (
-        <div className="logic-editor">
-          <label>
-            选择要整理的关系{" "}
+        <div className="logic-editor" ref={editor}>
+          <label>{t("选择要整理的关系")}{" "}
             <select
               value={selected ?? ""}
               onChange={(e) =>
@@ -137,19 +165,18 @@ export default function LogicBoard({
                 )
               }
             >
-              <option value="">请选择关系</option>
+              <option value="">{t("请选择关系")}</option>
               {fields.map((f) => (
-                <option key={f.id} value={f.id}>
-                  关系 {f.id + 1} ·{" "}
-                  {data.keywords?.[state.answers[f.id]] ?? "未填写"}
+                <option key={f.id} value={f.id}>{t("关系 {number}", { number: f.id + 1 })} ·{" "}
+                  {keyword(state.answers[f.id]) ?? t("未填写")}
                 </option>
               ))}
             </select>
           </label>
           {active && (
-            <label>
-              填写关键词{" "}
+            <label>{t("填写关键词")}{" "}
               <select
+                data-keyword-select
                 value={state.answers[active.id] ?? 0}
                 onChange={(e) =>
                   onChange(
@@ -162,8 +189,8 @@ export default function LogicBoard({
                   .map((c) => (
                     <option key={c.id} value={c.id}>
                       {c.id === 0
-                        ? "保留空白"
-                        : `${data.keywords?.[c.id]} · ${c.description}`}
+                        ? t("保留空白")
+                        : `${keyword(c.id)} · ${g(`logic.${diagram.id}.field.${active.id}.choice.${c.id}`, c.description)}`}
                     </option>
                   ))}
               </select>
@@ -171,19 +198,13 @@ export default function LogicBoard({
           )}
           {active && (
             <p>
-              {
-                active.choices.find(
-                  (c) => c.id === (state.answers[active.id] ?? 0),
-                )?.description
-              }
+              {selectedChoice ? g(`logic.${diagram.id}.field.${active.id}.choice.${selectedChoice.id}`, selectedChoice.description) : ""}
             </p>
           )}
           <button
             className="primary"
             onClick={() => onChange(finishLogic(data, state))}
-          >
-            完成整理，返回剧情 →
-          </button>
+          >{t("完成整理，返回剧情 →")}</button>
         </div>
       )}
     </section>

@@ -1,7 +1,15 @@
+import { useGameText } from "../i18n/useGameText";
+import { useGameCatalog } from "../i18n/gameContext";
+import { localizePage } from "../i18n/gameCatalog";
+import { localeDefinitions } from "../i18n/locale";
+import { useTranslation } from "../i18n/useTranslation";
 import { useEffect, useRef } from 'react';
 import type { Page, GameData } from './engine';
 
-export function StoryText({ page, onKeyword }: { page: Page; onKeyword?: (id: number) => void }) {
+export function StoryText({ page: original, names = [], onKeyword }: { page: Page; names?: string[]; onKeyword?: (id: number) => void }) {
+  const catalog = useGameCatalog();
+  const page = localizePage(catalog, original, names);
+  const { t } = useTranslation();
   const spans = page.spans ?? [];
   const parts = spans.map((span, index) => {
     const before = page.text.slice(index ? spans[index - 1].end : 0, span.start);
@@ -9,16 +17,18 @@ export function StoryText({ page, onKeyword }: { page: Page; onKeyword?: (id: nu
     const className = `text-color-${span.color} ${span.keyword !== undefined ? 'story-keyword' : ''} ${span.fresh ? 'keyword-new' : ''}`;
     const style = { fontSize: `${Math.max(0.8, 1 + span.size * 0.065)}em` };
     return <span key={index}>{before}{span.keyword !== undefined && onKeyword
-      ? <button data-keyword={span.keyword} className={className} style={style} onClick={() => onKeyword(span.keyword!)} aria-label={`${label}，查看关键词`}>{label}</button>
-      : <span className={className} style={style}>{label}</span>}</span>;
+      ? <button data-keyword={span.keyword} className={className} style={style} onClick={() => onKeyword(span.keyword!)} aria-label={t("{keyword}，查看关键词", { keyword: label })}>{label}</button>
+      : <span className={className} style={style}>{span.name !== undefined ? <bdi dir="auto">{label}</bdi> : label}</span>}</span>;
   });
-  return <>{parts}{page.text.slice(spans.at(-1)?.end ?? 0)}</>;
+  return <span lang={page !== original ? catalog?.locale : undefined} dir={page !== original && catalog ? localeDefinitions[catalog.locale].direction : "auto"}>{parts}{page.text.slice(spans.at(-1)?.end ?? 0)}</span>;
 }
 
 /** First mount / restored saves display receipts without replaying acquisition. */
 export function CollectionFeedback({ page, data, session, onOpen }: {
   page: Page | null; data: GameData; session: number; onOpen: (panel: 'terms' | 'keywords', id: number) => void;
 }) {
+  const { t } = useTranslation();
+  const g = useGameText();
   const root = useRef<HTMLDivElement>(null);
   const previous = useRef({ page, session });
   useEffect(() => {
@@ -39,7 +49,7 @@ export function CollectionFeedback({ page, data, session, onOpen }: {
       if (!source || !target) return;
       const from = source.getBoundingClientRect(), to = target.getBoundingClientRect();
       const ghost = document.createElement('span');
-      ghost.textContent = data.keywords?.[event.id] ?? '';
+      ghost.textContent = g(`keywords.${event.id}`, data.keywords?.[event.id] ?? '');
       ghost.className = 'collection-flight';
       ghost.setAttribute('aria-hidden', 'true');
       Object.assign(ghost.style, { left: `${from.left}px`, top: `${from.top}px`, maxWidth: `${Math.min(from.width, window.innerWidth - from.left)}px` });
@@ -52,10 +62,10 @@ export function CollectionFeedback({ page, data, session, onOpen }: {
       ], { duration: 1000, delay: i * 140, easing: 'ease-in-out', fill: 'both' }));
     });
     return () => { animations.forEach(animation => animation.cancel()); ghosts.forEach(ghost => ghost.remove()); };
-  }, [page, session, data]);
-  return <div ref={root} className="collection-feedback" aria-live="polite" aria-label="本段收录">
+  }, [page, session, data, g]);
+  return <div ref={root} className="collection-feedback" aria-live="polite" aria-label={t("本段收录")}>
     {page?.acquisitions?.map((event, i) => <button key={`${event.kind}-${event.id}-${i}`} onClick={() => onOpen(event.kind === 'term' ? 'terms' : 'keywords', event.id)}>
-      <span aria-hidden="true">✦</span> {event.kind === 'term' ? '辞典已收录' : '获得关键词'} · {event.kind === 'term' ? data.terms[event.id] : data.keywords?.[event.id]} <span aria-hidden="true">↗</span>
+      <span aria-hidden="true">✦</span> {event.kind === 'term' ? t("辞典已收录") : t("获得关键词")} · {event.kind === 'term' ? g(`terms.${event.id}`, data.terms[event.id]) : g(`keywords.${event.id}`, data.keywords?.[event.id] ?? '')} <span aria-hidden="true">↗</span>
     </button>)}
   </div>;
 }

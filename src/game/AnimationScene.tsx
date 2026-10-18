@@ -79,7 +79,7 @@ export default function AnimationScene({
   state: GameState;
 }) {
   return (
-    <g aria-label="场景动画">
+    <g aria-hidden="true">
       {Object.entries(state.animations)
         .sort(([, a], [, b]) => a.z - b.z)
         .map(([slot, a]) => (

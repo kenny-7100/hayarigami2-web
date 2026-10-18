@@ -1,0 +1,122 @@
+index|de|pt
+0|Charakterprofil|Perfil da personagem
+1|Wie lautet dein Nachname?|Qual é o seu sobrenome?
+2|Wie lautet dein Vorname?|Qual é o seu nome?
+3|Gib 1–{max} Zeichen ein. Dieser Name wird in der Geschichte verwendet.|Digite de 1 a {max} caracteres. Este nome será usado ao longo da história.
+4|Nachname|Sobrenome
+5|Vorname|Nome
+6|Bestätigen und weiter →|Confirmar e continuar →
+7|Sobald du beginnst, erscheinen hier die bisherigen Dialoge.|O histórico de diálogos aparecerá aqui quando você começar.
+8|Neueste zuerst|Mais recentes primeiro
+9|Ältere Dialoge anzeigen|Ver diálogos anteriores
+10|Spielstand geladen|Jogo carregado
+11|Fortschritt in diesem Browser gespeichert|Progresso salvo neste navegador
+12|Der Ton konnte nicht gestartet werden. Wähle Ton, um es erneut zu versuchen.|Não foi possível iniciar o áudio. Selecione Som para tentar novamente.
+13|Diesen manuellen Spielstand überschreiben?|Substituir este salvamento manual?
+14|Ein Neustart ersetzt die automatische Speicherung. Manuelle Spielstände bleiben erhalten. Fortfahren?|Recomeçar substituirá o salvamento automático. Os salvamentos manuais serão mantidos. Continuar?
+15|Fall null · Finsternis|Caso zero · Escuridão
+16|Zum Titelbildschirm|Voltar ao título
+17|Hayarigami|Hayarigami
+18|Urbane Legenden · Unerklärliche Polizeifälle|Lendas urbanas · Casos policiais inexplicáveis
+19|Ton an|Som ligado
+20|Ton aus|Som desligado
+21|Spielstände|Jogos salvos
+22|Einstellungen|Configurações
+23|Titelbildschirm|Tela de título
+24|Spiel starten|Iniciar jogo
+25|Fortsetzen|Continuar jogo
+26|Prolog beginnen|Iniciar prólogo
+27|Kapitel wählen|Selecionar capítulo
+28|Der Fortschritt wird automatisch gespeichert|O progresso é salvo automaticamente
+29|Geschichte|História
+30|Szene|Cena
+31|Aktuelle Szene|Cena atual
+32|Mitwirkende|Créditos
+33|Abspann fortsetzen →|Continuar créditos →
+34|Abspann überspringen|Pular créditos
+35|Prolog abgeschlossen|Prólogo concluído
+36|{chapter} · Ermittlung beendet|{chapter} · Investigação encerrada
+37|Die Ermittlungen haben gerade erst begonnen.|A investigação está apenas começando.
+38|Kapitel abgeschlossen|Capítulo concluído
+39|Ermittlung vorerst beendet|Investigação encerrada
+40|· Deduktionswertung|· Pontuação de dedução
+41|Ein anderer Ermittlungsweg birgt noch Hinweise. Du kannst erneut ermitteln, ohne den abgeschlossenen Weg zu verlieren.|Ainda há pistas no outro caminho de investigação. Você pode investigar de novo sem perder o caminho já concluído.
+42|Öffne die nächste Fallakte und beginne Finsternis.|Abra o próximo arquivo e comece a investigar Escuridão.
+43|Lade einen Spielstand, um andere Entscheidungen und Schlussfolgerungen zu erkunden.|Carregue um jogo salvo para explorar outras escolhas e deduções.
+44|{chapter} beginnen →|Iniciar {chapter} →
+45|Erneut ermitteln|Investigar novamente
+46|Vervollständige das Beziehungsdiagramm oben und wähle Abschließen, um fortzufahren.|Complete o diagrama de relações acima e selecione Concluir para continuar.
+47|Ohne manuelles Speichern fortfahren|Continuar sem salvar manualmente
+48|Weiter bearbeiten|Continuar editando
+49|Speicherplatz wählen|Escolher espaço para salvar
+50|Schlussfolgerungen bestätigen|Confirmar deduções
+51|Die Geschichte kann nicht fortgesetzt werden|Não foi possível continuar a história
+52|Dieser Teil der Geschichte konnte nicht geladen werden. Lade einen früheren Spielstand und versuche es erneut.|Não foi possível carregar esta parte da história. Carregue um salvamento anterior e tente novamente.
+53|Spielstand laden|Carregar jogo
+54|Mut|Coragem
+55|Kostet {cost} Mut|Custo de coragem: {cost}
+56|Weiter|Continuar
+57|Lesewerkzeuge|Ferramentas de leitura
+58|Beziehungsdiagramm|Diagrama de relações
+59|Dialogverlauf|Histórico de diálogos
+60|Schlüsselwortnotizen|Caderno de palavras-chave
+61|Lexikon|Enciclopédia
+62|Mitteilung schließen|Fechar aviso
+63|Speichern und laden|Salvar e carregar
+64|Entdeckte Einträge|Verbetes descobertos
+65|Spieleinstellungen|Configurações do jogo
+66|Fenster schließen|Fechar painel
+67|Kapitel|Capítulos
+68|Hauptfälle|Casos principais
+69|Charaktergeschichten|Histórias das personagens
+70|Spielstände werden nur in diesem Browser auf diesem Gerät gespeichert. Beim Löschen der Websitedaten werden auch deine Spielstände gelöscht.|Os jogos são salvos apenas neste navegador e dispositivo. Limpar os dados do site também apagará seus salvamentos.
+71|Automatischer Spielstand|Salvamento automático
+72|Manueller Spielstand {number}|Salvamento manual {number}
+73|Prolog|Prólogo
+74|Leerer Speicherplatz|Espaço vazio
+75|Speichern|Salvar
+76|Laden|Carregar
+77|Hier werden die entdeckten Schlüsselwörter gesammelt, die dir beim Ausfüllen des Beziehungsdiagramms helfen.|As palavras-chave descobertas na história ficam aqui para ajudar a completar o diagrama de relações.
+78|Noch keine Schlüsselwörter entdeckt.|Nenhuma palavra-chave descoberta ainda.
+79|Entdeckte Lexikoneinträge werden hier gesammelt und können jederzeit nachgelesen werden.|Os verbetes descobertos na história ficam reunidos aqui para consulta a qualquer momento.
+80|Noch keine Einträge entdeckt.|Nenhum verbete descoberto ainda.
+81|Textgröße|Tamanho do texto
+82|Klein|Pequeno
+83|Standard|Padrão
+84|Groß|Grande
+85|Lautstärke|Volume
+86|Ton ausschalten|Desligar som
+87|Ton einschalten|Ligar som
+88|Mit Leertaste, Eingabetaste oder Rechtspfeil weiterlesen, oder Weiter antippen. Esc schließt das Fenster.|Pressione Espaço, Enter ou a seta para a direita para avançar, ou toque em Continuar. Esc fecha o painel.
+89|Die Spieldaten konnten nicht geladen werden. Bitte versuche es später erneut.|Não foi possível carregar os recursos do jogo. Tente novamente mais tarde.
+90|Die Spieldaten konnten nicht geladen werden. Prüfe deine Verbindung und versuche es erneut.|Não foi possível carregar os recursos do jogo. Verifique sua conexão e tente novamente.
+91|Hayarigami 2|Hayarigami 2
+92|Spiel wird geladen…|Carregando jogo…
+93|Neu laden|Recarregar
+94|Zoom|Zoom
+95|Diagrammzoom|Zoom do diagrama
+96|Ganzes Diagramm anzeigen|Ver diagrama inteiro
+97|Vergrößere das Diagramm oder wähle eine Person, um ihr Profil zu lesen.|Amplie o diagrama ou selecione uma personagem para ler seu perfil.
+98|Wähle eine Beziehung im Diagramm oder in der Liste unten und weise ihr ein entdecktes Schlüsselwort zu.|Selecione uma relação no diagrama ou na lista abaixo e atribua uma palavra-chave descoberta.
+99|Personen und Beziehungen des Falls|Personagens e relações do caso
+100|Nicht zugewiesen|Não preenchida
+101|Charakterprofil schließen|Fechar perfil da personagem
+102|Beziehung auswählen|Selecionar uma relação
+103|Wähle eine Beziehung|Escolha uma relação
+104|Beziehung|Relação
+105|Schlüsselwort zuweisen|Atribuir palavra-chave
+106|Leer lassen|Deixar em branco
+107|Abschließen und zur Geschichte →|Concluir e voltar à história →
+108|Entdeckungen in diesem Abschnitt|Descobertas deste trecho
+109|Lexikoneintrag hinzugefügt|Verbete adicionado à enciclopédia
+110|Schlüsselwort entdeckt|Palavra-chave descoberta
+111|Der lokale Speicher für Spielstände ist nicht verfügbar.|O armazenamento local de jogos salvos não está disponível.
+112|Eine andere Seite verwendet den Speicher. Schließe ältere Spiel-Tabs und versuche es erneut.|Outra página está usando o armazenamento. Feche as abas antigas do jogo e tente novamente.
+113|Der Spielstand konnte nicht geladen werden.|Não foi possível carregar o jogo salvo.
+114|Das Laden wurde unterbrochen.|O carregamento foi interrompido.
+115|Speichern fehlgeschlagen: Der Speicher ist voll oder in diesem Browser deaktiviert.|Falha ao salvar: o armazenamento está cheio ou desativado neste navegador.
+116|Das Speichern wurde unterbrochen. Bitte versuche es erneut.|O salvamento foi interrompido. Tente novamente.
+117|Dieser Spielstand wurde nicht gefunden.|Este salvamento não foi encontrado.
+118|{keyword}: Schlüsselwort ansehen|{keyword}: ver palavra-chave
+119|Beziehung {number}: {keyword}|Relação {number}: {keyword}
+120|Beziehung {number}|Relação {number}

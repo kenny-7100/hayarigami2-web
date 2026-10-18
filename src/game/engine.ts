@@ -1,3 +1,6 @@
+import { validPlayerName } from "../i18n/names.ts";
+import { validRichParts } from "../i18n/richText.ts";
+import type { RichPart } from "../i18n/richText.ts";
 import { plainStyle, presentText, validStyle, validSpans } from "./text.ts";
 import type { TextStyle, TextSpan, Acquisition } from "./text.ts";
 import type { AnimationData } from "./animation.ts";
@@ -39,6 +42,7 @@ export type Layer = {
 };
 export type Choice = {
   text: string;
+  parts?: RichPart[];
   flag: number;
   cost: number;
   disabled: boolean;
@@ -94,6 +98,7 @@ export type GameData = {
   scope: string;
 };
 export type Page = {
+  parts?: RichPart[];
   id: string;
   script: number;
   offset: number;
@@ -165,6 +170,7 @@ export type GameState = {
   layers: Record<string, Layer>;
   music: number | null;
   bufferSpans?: TextSpan[];
+  bufferParts?: RichPart[];
   textStyles?: TextStyle[];
   pendingAcquisitions?: Acquisition[];
   buffer: string;
@@ -260,9 +266,12 @@ function matches(state: GameState, args: number[]): boolean {
   );
 }
 function publish(data: GameData, state: GameState) {
-  const { text, spans } = presentText(state.buffer, state.bufferSpans ?? [], data.pageText?.[state.blockOffset]);
+  const replacement = data.pageText?.[state.blockOffset];
+  const parts = replacement !== undefined ? [{ text: replacement }] : state.bufferParts;
+  const { text, spans } = presentText(state.buffer, state.bufferSpans ?? [], replacement);
   state.buffer = "";
   state.bufferSpans = [];
+  state.bufferParts = [];
   if (!text) return false;
   const page: Page = {
     id: `${state.script}:${state.blockOffset}`,
@@ -271,6 +280,7 @@ function publish(data: GameData, state: GameState) {
     text,
     background: visibleBackground(state),
     spans,
+    ...(parts?.length ? { parts } : {}),
     acquisitions: state.pendingAcquisitions ?? [],
   };
   state.pendingAcquisitions = [];
@@ -320,6 +330,7 @@ export function run(data: GameData, previous: GameState): GameState {
         case 3:
           state.buffer = "";
           state.bufferSpans = [];
+          state.bufferParts = [];
           state.blockOffset = instruction.offset;
           break;
         case 4:
@@ -400,6 +411,7 @@ export function run(data: GameData, previous: GameState): GameState {
             throw new Error("选项嵌套无效");
           state.option = {
             text: "",
+            parts: [],
             flag: signed(a[0]),
             cost: a[1] & 255,
             disabled: !!(a[1] >>> 8),
@@ -602,7 +614,7 @@ export function run(data: GameData, previous: GameState): GameState {
         case 213:
           if (a[0] !== 0 && a[0] !== 1)
             throw new Error(`未支持的名字字段 ${a[0]}`);
-          appendText(state, state.names[a[0]]);
+          appendText(state, state.names[a[0]], undefined, a[0]);
           break;
         case 401:
           if (!data.backgrounds[a[0]]) throw new Error(`未转换背景 ${a[0]}`);
@@ -719,12 +731,7 @@ export function submitName(
 ): GameState {
   if (state.mode !== "input" || !state.input) return state;
   const name = value.trim();
-  if (
-    !name ||
-    Array.from(name).length > state.input.maxLength ||
-    /[\p{Cc}\p{Cf}]/u.test(name)
-  )
-    throw new Error(`请输入 1–${state.input.maxLength} 个可见字符`);
+  if (!validPlayerName(name)) throw new Error("INVALID_PLAYER_NAME");
   const next = structuredClone(state);
   next.names[state.input.field] = name;
   next.input = null;
@@ -784,6 +791,7 @@ export function validateSave(data: GameData, raw: unknown): GameState {
     typeof p.text === "string" &&
     p.text.length < 10000 &&
     validSpans(p.spans, p.text, data.keywords) &&
+    validRichParts(p.parts, data.keywords ?? {}) &&
     validAcquisitions(p.acquisitions) &&
     typeof p.id === "string" &&
     !!data.scripts[p.script] &&
@@ -801,13 +809,7 @@ export function validateSave(data: GameData, raw: unknown): GameState {
     ) ||
     !Array.isArray(s.names) ||
     s.names.length !== 2 ||
-    !s.names.every(
-      (n) =>
-        typeof n === "string" &&
-        Array.from(n).length > 0 &&
-        Array.from(n).length <= 5 &&
-        !/[\p{Cc}\p{Cf}]/u.test(n),
-    ) ||
+    !s.names.every(validPlayerName) ||
     !Array.isArray(s.flags) ||
     !s.flags.every((x) => Number.isInteger(x) && x >= 0 && x < 65536) ||
     !Array.isArray(s.unlocked) ||
@@ -834,6 +836,7 @@ export function validateSave(data: GameData, raw: unknown): GameState {
     !Array.isArray(s.adapted) ||
     !s.adapted.every((x) => WEB_PRESENTATION.has(x) || x === 205 || x === 206) ||
     !validSpans(s.bufferSpans, s.buffer, data.keywords) ||
+    !validRichParts(s.bufferParts, data.keywords ?? {}) ||
     !validAcquisitions(s.pendingAcquisitions) ||
     !Array.isArray(s.textStyles) || s.textStyles.length < 1 || s.textStyles.length > 256 || !s.textStyles.every(validStyle)
   )
@@ -920,6 +923,7 @@ export function validateSave(data: GameData, raw: unknown): GameState {
         !c ||
         typeof c.text !== "string" ||
         c.text.length > 10000 ||
+        !validRichParts(c.parts, data.keywords ?? {}) ||
         !Number.isInteger(c.flag) ||
         !Number.isInteger(c.cost) ||
         c.cost < 0 ||
@@ -987,12 +991,16 @@ export function validateSave(data: GameData, raw: unknown): GameState {
 }
 
 const signed = (value: number) => (value << 16) >> 16;
-function appendText(state: GameState, text: string, style?: Omit<TextSpan, "start" | "end">) {
-  if (state.option) state.option.text += text;
-  else {
-    const active = style ?? state.textStyles?.at(-1) ?? plainStyle;
-    if (text.length && (active.color || active.size || "keyword" in active))
-      (state.bufferSpans ??= []).push({ ...active, start: state.buffer.length, end: state.buffer.length + text.length });
+function appendText(state: GameState, text: string, style?: Omit<TextSpan, "start" | "end">, name?: number) {
+  const active = style ?? state.textStyles?.at(-1) ?? plainStyle;
+  const part: RichPart = { text, ...(name !== undefined ? { name } : {}), ...active };
+  if (state.option) {
+    state.option.text += text;
+    (state.option.parts ??= []).push(part);
+  } else {
+    (state.bufferParts ??= []).push(part);
+    if (text.length && (active.color || active.size || "keyword" in active || name !== undefined))
+      (state.bufferSpans ??= []).push({ ...active, ...(name !== undefined ? { name } : {}), start: state.buffer.length, end: state.buffer.length + text.length });
     state.buffer += text;
   }
 }

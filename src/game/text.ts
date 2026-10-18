@@ -1,6 +1,6 @@
 /** Unicode presentation metadata; never decodes native font bytes. */
 export type TextStyle = { color: number; size: number };
-export type TextSpan = TextStyle & { start: number; end: number; keyword?: number; fresh?: boolean };
+export type TextSpan = TextStyle & { start: number; end: number; keyword?: number; fresh?: boolean; name?: number };
 export type Acquisition = { kind: 'keyword' | 'term'; id: number };
 export const plainStyle: TextStyle = { color: 0, size: 0 };
 export const cleanText = (text: string) => text.trim().replace(/—{3}/g, '——').replace(/\n{3,}/g, '\n\n');
@@ -47,5 +47,5 @@ export function validStyle(s: TextStyle): boolean {
   return !!s && Number.isInteger(s.color) && s.color >= 0 && s.color <= 15 && Number.isInteger(s.size) && s.size >= -10 && s.size <= 10;
 }
 export function validSpans(spans: TextSpan[] | undefined, text: string, keywords: Record<string, string> = {}): boolean {
-  return spans === undefined || (Array.isArray(spans) && spans.length <= 10000 && spans.every((s, i) => validStyle(s) && Number.isInteger(s.start) && Number.isInteger(s.end) && s.start >= (i ? spans[i - 1].end : 0) && s.end > s.start && s.end <= text.length && (s.keyword === undefined || !!keywords[s.keyword]) && (s.fresh === undefined || typeof s.fresh === 'boolean')));
+  return spans === undefined || (Array.isArray(spans) && spans.length <= 10000 && spans.every((s, i) => validStyle(s) && Number.isInteger(s.start) && Number.isInteger(s.end) && s.start >= (i ? spans[i - 1].end : 0) && s.end > s.start && s.end <= text.length && (s.keyword === undefined || !!keywords[s.keyword]) && (s.fresh === undefined || typeof s.fresh === 'boolean') && (s.name === undefined || s.name === 0 || s.name === 1)));
 }

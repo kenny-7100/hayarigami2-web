@@ -1,0 +1,417 @@
+{
+  "{chapter} · 本次调查结束": [
+    "src/App.tsx"
+  ],
+  "{keyword}，查看关键词": [
+    "src/game/StoryText.tsx"
+  ],
+  "· 推理得分": [
+    "src/App.tsx"
+  ],
+  "人物档案": [
+    "src/App.tsx"
+  ],
+  "人物篇": [
+    "src/App.tsx"
+  ],
+  "你的名字是？": [
+    "src/App.tsx"
+  ],
+  "你的姓氏是？": [
+    "src/App.tsx"
+  ],
+  "保存": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "保存与读取": [
+    "src/App.tsx"
+  ],
+  "保存失败：本地空间不足或被浏览器禁用": [
+    "src/game/storage.ts"
+  ],
+  "保存被中断，请重试": [
+    "src/game/storage.ts"
+  ],
+  "保留空白": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "关系 {number}": [
+    "src/game/LogicBoard.tsx",
+    "src/game/LogicBoard.tsx",
+    "src/game/LogicBoard.tsx"
+  ],
+  "关系 {number}：{keyword}": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "关系图缩放": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "关键词手帖": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "关闭人物说明": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "关闭游戏声音": [
+    "src/App.tsx"
+  ],
+  "关闭通知": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "关闭面板": [
+    "src/App.tsx"
+  ],
+  "制作名单": [
+    "src/App.tsx"
+  ],
+  "剧情暂时无法继续": [
+    "src/App.tsx"
+  ],
+  "剧情阅读区": [
+    "src/App.tsx"
+  ],
+  "勇气": [
+    "src/App.tsx"
+  ],
+  "取消": [
+    "src/components/GameConfirmation.tsx"
+  ],
+  "另一条调查路线仍有线索，重新调查可保留已完成路线。": [
+    "src/App.tsx"
+  ],
+  "可以读取存档，探索不同的选择与推理结果。": [
+    "src/App.tsx"
+  ],
+  "可放大关系图，点击人物查看说明。": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "名字": [
+    "src/App.tsx"
+  ],
+  "回看记录": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "填写关键词": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "声音 关": [
+    "src/App.tsx"
+  ],
+  "声音 开": [
+    "src/App.tsx"
+  ],
+  "声音尚未播放，请点击“声音”重试。": [
+    "src/App.tsx"
+  ],
+  "声音音量": [
+    "src/App.tsx"
+  ],
+  "姓名需为 1–32 个可见字符，不能包含控制字符。": [
+    "src/App.tsx"
+  ],
+  "姓氏": [
+    "src/App.tsx"
+  ],
+  "存档": [
+    "src/App.tsx"
+  ],
+  "存档仅保存在此设备的当前浏览器；清除网站数据会同时清除存档。": [
+    "src/App.tsx"
+  ],
+  "存档已保存到此浏览器": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "存档空间被其他页面占用，请关闭旧页面后重试": [
+    "src/game/storage.ts"
+  ],
+  "完成整理，返回剧情 →": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "尚无存档": [
+    "src/App.tsx"
+  ],
+  "尚未发现术语。": [
+    "src/App.tsx"
+  ],
+  "尚未获得关键词。": [
+    "src/App.tsx"
+  ],
+  "已发现的术语": [
+    "src/App.tsx"
+  ],
+  "已恢复存档": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "序章 · 已读完": [
+    "src/App.tsx"
+  ],
+  "序章": [
+    "src/App.tsx"
+  ],
+  "开启游戏声音": [
+    "src/App.tsx"
+  ],
+  "开始序章": [
+    "src/App.tsx"
+  ],
+  "开始游戏": [
+    "src/App.tsx"
+  ],
+  "开始阅读后，剧情会记录在这里。": [
+    "src/App.tsx"
+  ],
+  "当前故事场景": [
+    "src/App.tsx"
+  ],
+  "手动存档 {number}": [
+    "src/App.tsx"
+  ],
+  "推理关系图": [
+    "src/App.tsx",
+    "src/game/LogicBoard.tsx",
+    "src/game/LogicBoard.tsx"
+  ],
+  "搜索": [
+    "src/components/SearchField.tsx"
+  ],
+  "故事场景": [
+    "src/App.tsx"
+  ],
+  "整理上方的关系图后，点击“完成整理”继续。": [
+    "src/App.tsx"
+  ],
+  "文 / A": [
+    "src/i18n/LanguagePicker.tsx"
+  ],
+  "文字大小": [
+    "src/App.tsx"
+  ],
+  "无法打开本地存档空间": [
+    "src/game/storage.ts"
+  ],
+  "暂不手动保存": [
+    "src/App.tsx"
+  ],
+  "暂时无法读取这段剧情，请读取之前的存档重试。": [
+    "src/App.tsx"
+  ],
+  "最近的记录在前": [
+    "src/App.tsx"
+  ],
+  "未填写": [
+    "src/game/LogicBoard.tsx",
+    "src/game/LogicBoard.tsx"
+  ],
+  "本段收录": [
+    "src/game/StoryText.tsx"
+  ],
+  "本篇": [
+    "src/App.tsx"
+  ],
+  "本篇已读完": [
+    "src/App.tsx"
+  ],
+  "术语辞典": [
+    "src/App.tsx"
+  ],
+  "查看全图": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "查看更早的记录": [
+    "src/App.tsx"
+  ],
+  "标准": [
+    "src/App.tsx"
+  ],
+  "案件人物与关系": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "正在加载游戏…": [
+    "src/App.tsx",
+    "src/i18n/GameLocaleProvider.tsx"
+  ],
+  "没有匹配的内容": [
+    "src/App.tsx",
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "没有找到这个存档": [
+    "src/game/storage.ts"
+  ],
+  "流行之神 2": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "流行之神": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "消耗 {cost} 点勇气": [
+    "src/App.tsx"
+  ],
+  "清除搜索": [
+    "src/components/SearchField.tsx"
+  ],
+  "游戏标题": [
+    "src/App.tsx"
+  ],
+  "游戏设置": [
+    "src/App.tsx"
+  ],
+  "游戏资源暂时无法加载，请检查网络后重试。": [
+    "src/App.tsx",
+    "src/i18n/GameLocaleProvider.tsx"
+  ],
+  "游戏资源暂时无法加载，请稍后重试。": [
+    "src/App.tsx"
+  ],
+  "点击关系栏或从下方列表选择，填入已获得的关键词。": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "确认并继续 →": [
+    "src/App.tsx"
+  ],
+  "确认提交": [
+    "src/App.tsx"
+  ],
+  "章节列表": [
+    "src/App.tsx"
+  ],
+  "第零话 · 黒闇": [
+    "src/App.tsx"
+  ],
+  "纯也": [
+    "src/App.tsx"
+  ],
+  "继续": [
+    "src/App.tsx"
+  ],
+  "继续修改": [
+    "src/App.tsx"
+  ],
+  "继续游戏": [
+    "src/App.tsx"
+  ],
+  "继续片尾 →": [
+    "src/App.tsx"
+  ],
+  "缩放": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "翻开下一份案件档案，开始调查《黒闇》。": [
+    "src/App.tsx"
+  ],
+  "自动存档": [
+    "src/App.tsx"
+  ],
+  "获得关键词": [
+    "src/game/StoryText.tsx"
+  ],
+  "覆盖存档": [
+    "src/App.tsx"
+  ],
+  "覆盖这个手动存档？": [
+    "src/App.tsx"
+  ],
+  "设置": [
+    "src/App.tsx"
+  ],
+  "语言": [
+    "src/i18n/LanguagePicker.tsx"
+  ],
+  "请输入 1–{max} 个字符，随后将用于故事中的称呼。": [
+    "src/App.tsx"
+  ],
+  "请选择关系": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "读取": [
+    "src/App.tsx"
+  ],
+  "读取存档": [
+    "src/App.tsx"
+  ],
+  "读取存档失败": [
+    "src/game/storage.ts"
+  ],
+  "读取存档被中断": [
+    "src/game/storage.ts"
+  ],
+  "调查告一段落": [
+    "src/App.tsx"
+  ],
+  "调查才刚刚开始。": [
+    "src/App.tsx"
+  ],
+  "跳过片尾": [
+    "src/App.tsx"
+  ],
+  "较大": [
+    "src/App.tsx"
+  ],
+  "较小": [
+    "src/App.tsx"
+  ],
+  "辞典已收录": [
+    "src/game/StoryText.tsx"
+  ],
+  "返回标题": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "进入{chapter} →": [
+    "src/App.tsx"
+  ],
+  "进度自动保存": [
+    "src/App.tsx"
+  ],
+  "选择存档位置": [
+    "src/App.tsx"
+  ],
+  "选择章节": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "选择要整理的关系": [
+    "src/game/LogicBoard.tsx"
+  ],
+  "都市传说 · 警察怪异事件": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "重新加载": [
+    "src/App.tsx",
+    "src/i18n/GameLocaleProvider.tsx"
+  ],
+  "重新开始": [
+    "src/App.tsx",
+    "src/App.tsx"
+  ],
+  "重新开始会替换自动存档。手动存档会保留。继续？": [
+    "src/App.tsx"
+  ],
+  "重新调查本篇": [
+    "src/App.tsx"
+  ],
+  "键盘空格、回车或右方向键继续阅读；手机点击“继续”。关闭面板可按 Esc。": [
+    "src/App.tsx"
+  ],
+  "阅读中发现的术语会收录于此，可以随时查阅。": [
+    "src/App.tsx"
+  ],
+  "阅读中获得的关键词记录于此，供整理推理关系时参考。": [
+    "src/App.tsx"
+  ],
+  "阅读工具": [
+    "src/App.tsx"
+  ],
+  "风海": [
+    "src/App.tsx"
+  ]
+}
