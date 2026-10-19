@@ -1,5 +1,6 @@
 import { animationScale } from "./animation";
 import type { AnimationData, AnimationDraw } from "./animation";
+import { decodedImage } from "./media";
 
 // Textured triangle strips preserve four vertex colors and subtractive light.
 export async function createAnimationRenderer(canvas: HTMLCanvasElement, data: AnimationData, id = 0) {
@@ -51,9 +52,7 @@ export async function createAnimationRenderer(canvas: HTMLCanvasElement, data: A
     if (!gl.getProgramParameter(program, gl.LINK_STATUS)) throw new Error(gl.getProgramInfoLog(program) ?? "Animation program failed");
     // Present only complete scenes, after every atlas has decoded.
     const images = await Promise.all(Object.entries(data.textures).map(async ([key, texture]) => {
-      const img = new Image();
-      img.src = `${import.meta.env.BASE_URL}game/${texture.file}`;
-      await img.decode();
+      const img = await decodedImage(texture.file);
       return { key, img };
     }));
     for (const { key, img } of images) {

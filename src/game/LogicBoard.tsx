@@ -4,7 +4,7 @@ import { useTranslation } from "../i18n/useTranslation";
 import { useRef, useState } from "react";
 import type { GameData, GameState } from "./engine";
 import { finishLogic, logicCondition, setAnswer, getLogic } from "./engine";
-const asset = (file: string) => `${import.meta.env.BASE_URL}game/${file}`;
+import { mediaUrl as asset } from "./media";
 export default function LogicBoard({
   data,
   state,

@@ -279,3 +279,7 @@ span.story-keyword { cursor: text; text-decoration: none; }
 .evidence-caption { width: var(--reader-width); margin: 0 auto 12px; color: var(--gold, #c5b47d); padding: .5rem 0; font-size: .9rem; overflow-wrap: anywhere; }
 .evidence-caption summary { cursor: pointer; width: fit-content; padding: .35rem 0; }
 .evidence-caption p { color: var(--text, #eee9dc); line-height: 1.8; white-space: pre-wrap; }
+
+.media-status { position: sticky; top: 0; z-index: 30; padding: 12px 20px; background: #153c30; color: #f3e7bb; border-bottom: 1px solid #9c8950; overflow-wrap: anywhere; }
+.media-status button { margin-inline-start: 16px; }
+.media-status details { margin-top: 8px; font-size: 14px; }

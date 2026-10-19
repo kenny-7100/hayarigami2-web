@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import type { GameData, GameState } from "./engine";
-const asset = (file: string) => `${import.meta.env.BASE_URL}game/${file}`;
+import { mediaUrl as asset } from "./media";
 function Track({
   file,
   enabled,
@@ -36,7 +36,7 @@ function Track({
       ref={ref}
       src={file ? asset(file) : undefined}
       loop={loop}
-      preload="none"
+      preload="auto"
     />
   );
 }
@@ -56,22 +56,25 @@ export default function AudioScene({
   useEffect(() => {
     if (!enabled || !events) return;
     const playing: HTMLAudioElement[] = [];
-    const timers = events.map((event) =>
-      window.setTimeout(() => {
+    const timers = events.map((event) => {
+      const file = data[event.kind]?.[event.id];
+      if (!file) return undefined;
+      const audio = new Audio(asset(file));
+      audio.preload = "auto";
+      audio.volume = volume * event.volume;
+      audio.load();
+      playing.push(audio);
+      return window.setTimeout(() => {
         if (document.hidden) return;
-        const file = data[event.kind]?.[event.id];
-        if (!file) return;
-        const audio = new Audio(asset(file));
-        audio.volume = volume * event.volume;
-        playing.push(audio);
         void audio.play().catch(() => undefined);
-      }, event.delay * 1000),
-    );
+      }, event.delay * 1000);
+    });
     const stop = () => {
       for (const t of timers) clearTimeout(t);
       for (const a of playing) {
         a.pause();
         a.removeAttribute("src");
+        a.load();
       }
     };
     const visibility = () => {

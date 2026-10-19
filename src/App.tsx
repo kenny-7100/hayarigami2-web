@@ -34,8 +34,10 @@ import "./App.css";
 import AudioScene from "./game/AudioScene";
 import LogicBoard from "./game/LogicBoard";
 import AnimationScene from "./game/AnimationScene";
+import { useMediaState } from "./game/useMediaState";
+import { mediaUrl } from "./game/media";
 import { backgroundGeometry, readingLayers } from "./game/scene";
-const asset = (name: string) => `${import.meta.env.BASE_URL}game/${name}`;
+const asset = mediaUrl;
 const message = (e: unknown) => (e instanceof Error ? e.message : String(e));
 type Panel = "history" | "saves" | "terms" | "keywords" | "settings" | "chapters" | null;
 function NameInput({
@@ -145,7 +147,7 @@ function ReaderContent({
   const g = useGameText();
   const catalog = useGameCatalog();
   const chapters = data.chapters?.map(chapter => ({ ...chapter, title: g(`chapter.${chapter.id}.title`, chapter.title) }));
-  const [state, setState] = useState<GameState | null>(initialState);
+  const { state, setState, mediaLoading, mediaStatus, mediaError, retryMedia } = useMediaState(data, initialState);
   const [slots, setSlots] = useState<SaveSlot[]>([]);
   const [panel, setPanel] = useState<Panel>(null);
   const [confirmation, setConfirmation] = useState<{ kind: "start"; entry: number } | { kind: "save"; id: string } | null>(null);
@@ -282,7 +284,7 @@ function ReaderContent({
   useEffect(() => {
     const handler = (e: KeyboardEvent) => {
       if (
-        panel || confirmation ||
+        mediaLoading || panel || confirmation ||
         (!state || !["page", "credits"].includes(state.mode)) ||
         e.repeat ||
         e.ctrlKey ||
@@ -304,15 +306,14 @@ function ReaderContent({
     };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
-  }, [data, panel, confirmation, state]);
+  }, [data, panel, confirmation, state, mediaLoading, setState]);
   async function restore(id: string) {
     setBusy(true);
     try {
       const restored = await loadGame(data, id);
-      setSceneSession((n) => n + 1);
-      setState(restored);
       setPanel(null);
-      setNotice("已恢复存档");
+      const restoredMedia = await setState(restored, () => setSceneSession((n) => n + 1));
+      if (restoredMedia) setNotice("已恢复存档");
     } catch (e) {
       setNotice(message(e));
     } finally {
@@ -340,17 +341,17 @@ function ReaderContent({
       });
     }
   }
-  function start(entry = data.entry, confirmed = false) {
+  async function start(entry = data.entry, confirmed = false) {
     if (!confirmed && slots.some((s) => s.id === "auto")) {
       setConfirmation({ kind: "start", entry });
       return;
     }
     setNotice("");
     setPanel(null);
-    setSceneSession((n) => n + 1);
     const previous = state ?? latestProgress.current ?? slots.find(s => s.id === "auto")?.state;
     const base = previous ? validateSave(data, previous) : createState(data);
-    setState(enterChapter(data, { ...base, randomIndex: crypto.getRandomValues(new Uint32Array(1))[0] % 1000 }, entry));
+    await setState(enterChapter(data, { ...base, randomIndex: crypto.getRandomValues(new Uint32Array(1))[0] % 1000 }, entry),
+      () => setSceneSession((n) => n + 1));
   }
   const chapter = state
     ? chapters?.find(
@@ -367,7 +368,12 @@ function ReaderContent({
       state.mode,
     );
   return (
-    <main className={`app ${state ? "reading" : "landing"}`}>
+    <main className={`app ${state ? "reading" : "landing"}`} aria-busy={mediaLoading}
+      onClickCapture={event => { if (mediaLoading) { event.preventDefault(); event.stopPropagation(); } }}>
+      {(mediaStatus || mediaError) && <div className="media-status" role={mediaError ? "alert" : "status"}>
+        {t(mediaError ? "场景资源加载失败，请检查网络后重试。" : mediaStatus)}
+        {mediaError && <><button onClick={() => void retryMedia()}>{t("重试")}</button><details><summary>{t("详情")}</summary>{mediaError}</details></>}
+      </div>}
       <header className="topbar">
         <button
           className="brand"
@@ -623,7 +629,7 @@ function ReaderContent({
         ref={audio}
         src={state?.music ? asset(data.music[state.music]) : undefined}
         loop
-        preload="none"
+        preload="auto"
       />
       <dialog
         ref={dialog}
