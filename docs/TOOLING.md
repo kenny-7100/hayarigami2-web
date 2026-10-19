@@ -113,3 +113,14 @@ node --experimental-strip-types --test tests/remaining-chapters.test.mjs
 路线可携带 `randomIndex`（0–999）和一个 `previousRoute` 对象。后者必须是一条完整、明确结局的先前真实路线，重放完成后调用 enterChapter 进入当前章，不直接设置通关旗标。片尾 `credits` 是可保存停顿。旧字段 `penalty` 仅断言原变量 1；在后几章该变量常存放评分比较基准，不能一概称为“错误次数”。
 
 `tests/fixtures/remaining/` 中 38 条缩减轨迹覆盖每章全部静态可达记录与选择位置。探索脚本用于发现路线，验收以固化夹具重放为准。完整历史往返测试需要数分钟；不要把浏览器夹具的 100 页截断带入回归以追求更快通过。
+
+## 第一话简中全译校验
+
+```sh
+npm run i18n:extract              # 原严格路线 + 第一话固定种子分支采集
+npm run i18n:check:chapter-one    # 本章富文本/静态文本/源覆盖指纹门禁
+node --experimental-strip-types tests/generate-zh-hans-fixtures.mjs
+# 独立测试存储 /tests/qa.html?bundle=zh-hans&lang=zh-Hans
+```
+
+输出 `output/localization/chapter-one-source-coverage.json` 和 `chapter-one-zh-Hans.json`。固定种子 300 次完整路线、科学/灵异夹具、空推理提示，另以 isolated 标记源中未在路线运行的文本块。不将 isolated 当作可达剧情。`i18n:extract` 重建后自动运行采集器，避免覆盖回两条主线的小语料。删除译文、源文漂移、旧 game.json 指纹都会使门禁失败。此门禁是已撰写完整性门禁，不会把 draft 自动改为 reviewed，也不取代全游戏发布门禁。修改游戏源后，必须重新提取并调查基准变化。

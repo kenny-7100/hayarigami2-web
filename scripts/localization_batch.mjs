@@ -13,7 +13,7 @@ export function prepareBatch(corpus, catalog, { route, limit = 20 } = {}) {
     version: 1, locale: catalog.locale, sourceSha256: catalog.sourceSha256,
     note: 'Translate complete passages in context. Preserve every required ref. Draft only; importing is not review.',
     entries: selected.map(entry => {
-      const nearby = corpus.filter(item => item.route === entry.route && Math.abs(item.step - entry.step) <= 2);
+      const nearby = corpus.filter(item => item.route === entry.route && item.trial === entry.trial && Math.abs(item.step - entry.step) <= 2);
       return {
         key: entry.key, source: entry.source, text: entry.text, route: entry.route, step: entry.step,
         script: entry.script, context: nearby.map(item => ({ key: item.key, text: item.text, step: item.step })),

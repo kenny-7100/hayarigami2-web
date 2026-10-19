@@ -1,3 +1,4 @@
+import { visibleEvidence } from "./game/evidenceText";
 import { GameConfirmation } from "./components/GameConfirmation";
 import { SearchField } from "./components/SearchField";
 import { matchesSearch } from "./game/search";
@@ -487,6 +488,12 @@ function ReaderContent({
             )}
           </div>
           <div className="dialogue-panel">
+            {locale === "zh-Hans" && visibleEvidence(state).length > 0 && (
+              <details className="evidence-caption" key={visibleEvidence(state).join("|")}>
+                <summary>查看画面文字</summary>
+                {visibleEvidence(state).map(text => <p key={text}>{text}</p>)}
+              </details>
+            )}
             <div className="dialogue-content">
               {state.mode === "input" ? (
                 <NameInput

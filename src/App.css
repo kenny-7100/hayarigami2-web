@@ -275,3 +275,7 @@ span.story-keyword { cursor: text; text-decoration: none; }
 .settings input, .logic-toolbar input { min-height: 44px; }
 .name-form input[aria-invalid="true"] { border-color: #e19b88; }
 .name-form [role="alert"] { color: #f3b9a9; }
+
+.evidence-caption { width: var(--reader-width); margin: 0 auto 12px; color: var(--gold, #c5b47d); padding: .5rem 0; font-size: .9rem; overflow-wrap: anywhere; }
+.evidence-caption summary { cursor: pointer; width: fit-content; padding: .35rem 0; }
+.evidence-caption p { color: var(--text, #eee9dc); line-height: 1.8; white-space: pre-wrap; }

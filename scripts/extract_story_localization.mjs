@@ -4,6 +4,7 @@ import { createState, run, advance, submitName } from '../src/game/engine.ts';
 import { richKey, sourceSignature } from '../src/i18n/richText.ts';
 import { walk } from '../tests/chapter-walk.mjs';
 import { replayRoute } from './replay_route.mjs';
+import { localizationRoute } from './localization_routes.mjs';
 const data = JSON.parse(readFileSync('public/game/game.json', 'utf8'));
 const entries = new Map();
 function add(id, parts, context) {
@@ -47,8 +48,8 @@ if (!process.argv.includes('--prologue-only')) {
   }
   const files = readdirSync('tests/fixtures').filter(file => /^chapter-(?:one|[2-8])-.+\.json$/.test(file));
   for (const file of files) {
-    const route = JSON.parse(readFileSync(`tests/fixtures/${file}`, 'utf8'));
-    if (route.entry && route.trace) replayRoute(data, route, { inspect: (state, step) => inspect(state, step, file) });
+    const route = localizationRoute(file, JSON.parse(readFileSync(`tests/fixtures/${file}`, 'utf8')));
+    replayRoute(data, route, { inspect: (state, step) => inspect(state, step, file) });
   }
   for (let chapter = 2; chapter <= 8; chapter++) {
     const fixture = JSON.parse(readFileSync(`tests/fixtures/remaining/chapter-${chapter}.json`, 'utf8'));

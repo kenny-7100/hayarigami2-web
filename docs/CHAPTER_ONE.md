@@ -47,3 +47,7 @@ node --experimental-strip-types tests/generate-chapter-one-browser-fixtures.mjs
 
 
 2026-10-19 更新：原先未绘制的场景动画已接入原生 Web 关键帧渲染，同时修复背景源尺寸和裁剪。上文早期动画适配范围由 [场景修复记录](SCENE_RENDERING.md) 补充修订。
+
+## 2026-10-19 简体中文全章译稿
+
+第一话《预知梦》6,050 条富文本和 300 条静态文本已补齐，包含科学/灵异主线、错误选项、条件分支、关系说明与 31 篇辞典。正文源读取覆盖 15,260 / 15,260；其中 14 条是隔离文本块，并非完整路线可达证明。旧 27220 指令 72 无条件转向 27221 后的死代码也翻译存档，不修改其控制流。新门禁 `npm run i18n:check:chapter-one`，详细人工译法与实测范围见 reviews/ZH_HANS_TRANSLATION_CHECKPOINT.md 和 localization/ZH_HANS_STYLE.md。草稿状态与独立审校状态分开记录。
