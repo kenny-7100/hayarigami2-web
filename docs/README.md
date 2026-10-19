@@ -12,6 +12,8 @@
 | [UI_DESIGN](UI_DESIGN.md) | 游戏界面设计约束、响应式布局和交互验收清单 |
 | [ARCHITECTURE](ARCHITECTURE.md) | 离线管线、运行时、数据与修改位置 |
 | [DEBUGGING](DEBUGGING.md) | 前几章踩坑、排错顺序和证据定位 |
+| [BUGFIX_WORKFLOW](BUGFIX_WORKFLOW.md) | 手动 bug 反馈、中文定位、证据包、修复和分层回归 |
+| [问题台账](bugs/README.md) | 实际问题记录与模板，不自动登记推测 |
 | [CHAPTER_TEMPLATE](CHAPTER_TEMPLATE.md) | 后续章节实现/验收记录模板与 AI 任务交接 |
 | [CHAPTER_ZERO](CHAPTER_ZERO.md) | 第零话具体证据、路线与例外 |
 | [CHAPTER_ONE](CHAPTER_ONE.md) | 第一话具体证据、语言、路线与例外 |

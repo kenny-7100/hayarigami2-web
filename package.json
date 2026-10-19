@@ -28,7 +28,8 @@
     "i18n:check:chapter-three": "node --experimental-strip-types scripts/check_chapter_three_translation.mjs",
     "i18n:check:chapter-two": "node --experimental-strip-types scripts/check_chapter_two_translation.mjs",
     "i18n:check:remaining": "node --experimental-strip-types scripts/check_remaining_translation.mjs",
-    "i18n:check:zh-Hans": "npm run i18n:check -- --locale zh-Hans && npm run i18n:check:chapter-one && npm run i18n:check:chapter-two && npm run i18n:check:chapter-three && npm run i18n:check:remaining"
+    "i18n:check:zh-Hans": "npm run i18n:check -- --locale zh-Hans && npm run i18n:check:chapter-one && npm run i18n:check:chapter-two && npm run i18n:check:chapter-three && npm run i18n:check:remaining",
+    "qa:bug": "node --experimental-strip-types scripts/bug_workbench.mjs"
   },
   "dependencies": {
     "react": "^19.2.8",

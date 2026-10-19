@@ -175,3 +175,15 @@ node --experimental-strip-types tests/generate-remaining-zh-hans-fixtures.mjs
 浏览器包提供各真实路线最长中文段落（按译文长度选取）、选项、关键词前后、关系图/确认、结尾与片尾，以及出现过的图片检查点。历史最多留 100 页仅供 UI 操作，完整历史与存档验证仍由 `npm run verify` 执行。准备检查点不等于浏览器验收通过。
 
 批量修订已支持 `--keys <JSON数组文件>`，详情见翻译工作流；不会放松逐条源签名与并发冲突保护。验收与媒体边界见 [全部剩余简中](reviews/REMAINING_ZH_HANS.md)。
+
+## 手动 bug 定位与证据包
+
+```sh
+npm run qa:bug -- locate --text '你明天再来' --entry 70001
+npm run qa:bug -- report --id yuka-wall-text --text '你明天再来' --entry 70001
+# 可选：附已有、同版 QA 检查点，便于继续调查
+npm run qa:bug -- report --id yuka-wall-repro --text '你明天再来' --entry 70001 --bundle remaining-zh-hans --scene media-3005
+node --experimental-strip-types --test tests/bug-workbench.test.mjs
+```
+
+默认 zh-Hans；可加 `--locale`、`--limit`（1–50，默认 10），entry 是真实入口。locate 不写文件；report 写 `output/qa/bug-<id>/`，拒绝覆盖。完整流程和结果解释见 [BUGFIX_WORKFLOW](BUGFIX_WORKFLOW.md)。没有匹配不是无 bug；多个匹配也不能直接选择第一个。工具只绑定版本和现有 QA 候选，不抓取浏览器玩家现场、不认定真实路线、不自动上传任何内容。
