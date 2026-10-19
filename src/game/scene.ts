@@ -1,4 +1,26 @@
 import type { GameData, Layer } from "./engine.ts";
+import { createState, run } from "./engine.ts";
+import type { GameState } from "./engine.ts";
+
+const legacyPoliceLayers = new WeakMap<GameData, Record<string, Layer>>();
+export function readingLayers(data: GameData, state: GameState) {
+  if (state.mode !== "page") return state.layers;
+  if (state.readingLayers) return state.readingLayers;
+  // Old saves at this verified, straight-line opening already discarded the
+  // exterior. Recompute it from source; never replace the saved VM state.
+  if (state.script === 10201 && state.pc === 57 && state.page?.id === "10201:67532") {
+    let layers = legacyPoliceLayers.get(data);
+    if (!layers) {
+      const opening = run(data, { ...createState(data), script: 10201 });
+      if (opening.mode !== "page" || opening.page?.id !== state.page.id || !opening.readingLayers)
+        throw new Error("警视厅阅读画面与源脚本不匹配");
+      layers = opening.readingLayers;
+      legacyPoliceLayers.set(data, layers);
+    }
+    return layers;
+  }
+  return state.layers;
+}
 
 // Background commands operate in texture pixels, not a pre-fitted 480×272 image.
 // Signed sizes also mirror backgrounds (e.g. chapter one, script 20756).

@@ -163,11 +163,14 @@ export type GameState = {
       x: number;
       y: number;
       z: number;
+      color?: number[];
     }
   >;
+  animationSettings?: Record<string, { x: number; y: number; z: number; alpha: number; color?: number[] }>;
   names: string[];
   input: { field: number; maxLength: number } | null;
   layers: Record<string, Layer>;
+  readingLayers?: Record<string, Layer>;
   music: number | null;
   bufferSpans?: TextSpan[];
   bufferParts?: RichPart[];
@@ -273,6 +276,7 @@ function publish(data: GameData, state: GameState) {
   state.bufferSpans = [];
   state.bufferParts = [];
   if (!text) return false;
+  if (visibleBackground(state) !== null) delete state.readingLayers;
   const page: Page = {
     id: `${state.script}:${state.blockOffset}`,
     script: state.script,
@@ -297,6 +301,7 @@ export function run(data: GameData, previous: GameState): GameState {
   state.audioSequence++;
   state.stageEffect = "none";
   const initialFrames = state.frames;
+  let textLayers: Record<string, Layer> | undefined;
   let activeOffset = state.blockOffset;
   try {
     for (let steps = 0; steps < 10000; steps++) {
@@ -306,6 +311,8 @@ export function run(data: GameData, previous: GameState): GameState {
       if (!instruction) throw new Error("剧情到达边界但未执行结束指令");
       activeOffset = instruction.offset;
       if (instruction.text !== undefined) {
+        if (!state.option && !textLayers && instruction.text.trim())
+          textLayers = structuredClone(state.layers);
         appendText(state, instruction.text);
         continue;
       }
@@ -328,6 +335,8 @@ export function run(data: GameData, previous: GameState): GameState {
           state.secondaryMusic = null;
           return state;
         case 3:
+          textLayers = undefined;
+          delete state.readingLayers;
           state.buffer = "";
           state.bufferSpans = [];
           state.bufferParts = [];
@@ -575,22 +584,35 @@ export function run(data: GameData, previous: GameState): GameState {
             x: 0,
             y: 0,
             z: 10000,
+            ...state.animationSettings?.[a[2]],
           };
           break;
         case 2405:
           delete state.animations[a[0]];
+          if (state.animationSettings) delete state.animationSettings[a[0]];
           break;
         case 2406:
+          (state.animationSettings ??= {})[a[4]] = {
+            ...(state.animationSettings?.[a[4]] ?? { alpha: 1 }),
+            x: signed(a[0]), y: signed(a[1]), z: signed(a[2]),
+          };
           if (state.animations[a[4]])
             Object.assign(state.animations[a[4]], {
               x: signed(a[0]),
               y: signed(a[1]),
-              z: a[2],
+              z: signed(a[2]),
             });
           break;
         case 2407:
-          if (state.animations[a[3]])
-            state.animations[a[3]].alpha = Math.min(1, (a[1] >>> 8) / 128);
+          (state.animationSettings ??= {})[a[3]] = {
+            ...(state.animationSettings?.[a[3]] ?? { x: 0, y: 0, z: 10000 }),
+            alpha: Math.min(1, (a[1] >>> 8) / 128),
+            color: [a[0] & 255, a[0] >>> 8, a[1] & 255, a[1] >>> 8],
+          };
+          if (state.animations[a[3]]) {
+            state.animations[a[3]].alpha = state.animationSettings[a[3]].alpha;
+            state.animations[a[3]].color = state.animationSettings[a[3]].color;
+          }
           break;
         case 1401:
           if (state.callStack?.length && state.script >= 6100 && state.script < 6300 && instruction.label) (state.creditLines ??= []).push(instruction.label);
@@ -618,6 +640,10 @@ export function run(data: GameData, previous: GameState): GameState {
           break;
         case 401:
           if (!data.backgrounds[a[0]]) throw new Error(`未转换背景 ${a[0]}`);
+          // A block can preload its next backdrop after printing its text.
+          // Keep the reading image separate from the VM's next-scene state.
+          if (textLayers?.[a[1]]?.alpha && textLayers[a[1]].asset !== a[0])
+            state.readingLayers = textLayers;
           state.layers[a[1]] = { asset: a[0], alpha: 0 };
           break;
         case 402:
@@ -841,6 +867,12 @@ export function validateSave(data: GameData, raw: unknown): GameState {
     !Array.isArray(s.textStyles) || s.textStyles.length < 1 || s.textStyles.length > 256 || !s.textStyles.every(validStyle)
   )
     throw new Error("存档内容校验失败");
+  if (s.readingLayers !== undefined && (
+    !s.readingLayers || typeof s.readingLayers !== "object" || Array.isArray(s.readingLayers) ||
+    Object.values(s.readingLayers).some(l => !l || !data.backgrounds[l.asset] ||
+      !Number.isFinite(l.alpha) || l.alpha < 0 || l.alpha > 1 ||
+      [l.x, l.y, l.width, l.height].some(v => v !== undefined && !Number.isFinite(v)))
+  )) throw new Error("存档阅读画面无效");
   if (
     !Array.isArray(s.audioEvents) ||
     s.audioEvents.length > 1000 ||
@@ -867,6 +899,13 @@ export function validateSave(data: GameData, raw: unknown): GameState {
     (s.secondaryMusic !== null && !data.secondary?.[s.secondaryMusic])
   )
     throw new Error("存档音频状态无效");
+  const validAnimationColor = (color: unknown) => color === undefined ||
+    (Array.isArray(color) && color.length === 4 && color.every(n => Number.isInteger(n) && n >= 0 && n <= 255));
+  if (s.animationSettings !== undefined && (
+    !s.animationSettings || typeof s.animationSettings !== "object" || Array.isArray(s.animationSettings) ||
+    Object.entries(s.animationSettings).some(([slot, a]) => !/^[01]$/.test(slot) || !a ||
+      ![a.x, a.y, a.z, a.alpha].every(Number.isFinite) || a.alpha < 0 || a.alpha > 1 || !validAnimationColor(a.color))
+  )) throw new Error("存档动画设置无效");
   if (
     !["none", "shake", "flash"].includes(s.stageEffect) ||
     !s.animations ||
@@ -885,6 +924,7 @@ export function validateSave(data: GameData, raw: unknown): GameState {
         !Number.isFinite(a.alpha) ||
         a.alpha < 0 ||
         a.alpha > 1 ||
+        !validAnimationColor(a.color) ||
         ![a.x, a.y, a.z].every(Number.isFinite),
     )
   )

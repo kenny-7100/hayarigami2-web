@@ -1,9 +1,89 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync, existsSync } from "node:fs";
-import { sampleAnimation, animationTime } from "../src/game/animation.ts";
-import { createState, run, validateSave } from "../src/game/engine.ts";
+import { sampleAnimation, sampleSceneAnimation, animationTime, animationScale, animationPosition } from "../src/game/animation.ts";
+import { createState, run, advance, validateSave } from "../src/game/engine.ts";
 const data = JSON.parse(readFileSync("public/game/game.json"));
+test("native screen-coordinate animations are not scaled down twice", () => {
+  for (const id of [500, 5600, 6000, 6100, 6200, 6300, 6400]) assert.deepEqual(animationScale(id), [1, 1]);
+  for (const id of [100, 200, 600, 700, 1000]) assert.deepEqual(animationScale(id), [0.75, 272 / 448]);
+  assert.deepEqual(animationPosition(5600, 114, 0), [152, 0]);
+  assert.deepEqual(animationPosition(100, 114, 0), [114, 0]);
+});
+test("script 38401 preserves position and color configured before animation start", () => {
+  let s = run(data, { ...createState(data), script: 38401 });
+  s = advance(data, advance(data, s));
+  assert.equal(s.page.id, "38401:2045212");
+  assert.equal(s.animations[0].x, 114);
+  assert.equal(s.animations[0].z, 13000);
+  assert.deepEqual(s.animations[0].color, [128, 128, 128, 128]);
+  assert.deepEqual(validateSave(data, JSON.parse(JSON.stringify(s))), s);
+  for (const bad of [{ color: [128, 128, 128, 256] }, { x: Infinity }]) {
+    const copy = structuredClone(s);
+    Object.assign(copy.animationSettings[0], bad);
+    assert.throws(() => validateSave(data, copy), /动画设置/);
+  }
+  const next = advance(data, s);
+  assert.equal(next.animations[1].x, 114);
+  assert.equal(next.animationSettings[0], undefined);
+});
+test("opening sky follows story time while lamp loops keep moving", () => {
+  const s = run(data, createState(data));
+  const a = s.animations[0];
+  const draws = elapsed => sampleSceneAnimation(data.animationData[100], a, s.frames, elapsed);
+  const sky = list => list.filter(d => d.texture.file === "animation-100-2-2.png");
+  assert.deepEqual(sky(draws(0)), sky(draws(10000)));
+  assert.notDeepEqual(sky(draws(0)), sky(sampleSceneAnimation(data.animationData[100], a, s.frames + 420, 0)));
+  assert.notDeepEqual(draws(0), draws(37));
+});
+test("full-scene fades wait for reading and credit-card progress", () => {
+  for (const [id, variant, age] of [[300, 2, 240], [300, 1, 120], [6100, 500, 264], [6200, 500, 264], [1400, 10, 60]]) {
+    const a = data.animationData[id];
+    const playback = { id, variant, startedAt: 0 };
+    // Parent effects must not reach their black terminal frame just because
+    // the reader takes longer. Independent looping children may still move.
+    const atStart = sampleSceneAnimation(a, playback, age, 0);
+    const later = sampleSceneAnimation(a, playback, age, 12000);
+    const curtain = d => d.cell.width <= 32 && d.cell.height <= 32 && d.cell.blend === 0;
+    assert.deepEqual(later.filter(curtain), atStart.filter(curtain), `${id}:${variant}`);
+    assert.ok(later.some(d => d.opacity > 0));
+  }
+});
+test("native per-vertex color products saturate before alpha normalization", () => {
+  const a = data.animationData[100];
+  const glow = sampleAnimation(a, 1, 0).find(d => d.cell.width === 64 && d.cell.height === 64 && !d.cell.flipX);
+  assert.deepEqual(glow.colors, a.colors[4]);
+  assert.equal(glow.opacity, 192 / 255);
+  const child = sampleAnimation(a, 1, 1500).find(d => d.texture.file === "animation-100-0-0.png");
+  assert.deepEqual(child.colors, a.colors[2]);
+});
+test("car movement at the 100-frame loop is present in source, not an added shake", () => {
+  const a = data.animationData[100];
+  const car = time => sampleAnimation(a, 5, time).find(d => d.texture.file === "animation-100-0-0.png").transform;
+  assert.equal(car(0), car(100));
+  assert.equal(car(6), car(99));
+  assert.match(car(0), /translate\(0 3\)/);
+  assert.match(car(6), /translate\(0 0\)/);
+});
+test("slow reading keeps the opening car visible while its child animation moves", () => {
+  const s = run(data, createState(data));
+  assert.equal(s.page.id, "1:55172");
+  const playback = s.animations[0];
+  const animation = data.animationData[playback.id];
+  const start = sampleSceneAnimation(animation, playback, s.frames, 0);
+  const later = sampleSceneAnimation(animation, playback, s.frames, 6000);
+  const curtain = draws => draws.filter(d => d.texture.file === "animation-100-5-3.png" && d.cell.width === 16 && d.transform.includes("scale(40 30)"));
+  assert.equal(curtain(start).length, 0);
+  assert.equal(curtain(later).length, 0);
+  assert.notDeepEqual(start, later);
+  assert.ok(later.some(d => d.texture.file === "animation-100-0-0.png" && d.opacity === 1));
+  // Source intentionally fades to black before the Friend of a Friend card.
+  const end = sampleSceneAnimation(animation, playback, 2890, 0);
+  assert.ok(curtain(end).some(d => d.opacity === 1));
+  const ordinary = { id: 200, variant: 2, startedAt: 30 };
+  assert.deepEqual(sampleSceneAnimation(data.animationData[200], ordinary, 60, 90),
+    sampleAnimation(data.animationData[200], 2, 120));
+});
 test("every referenced animation variant has converted atlases and finite sampled geometry", () => {
   const variants = new Set(
     Object.values(data.scripts).flatMap((s) =>

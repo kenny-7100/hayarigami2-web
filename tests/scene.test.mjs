@@ -1,11 +1,38 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { backgroundGeometry } from "../src/game/scene.ts";
-import { createState, run, validateSave } from "../src/game/engine.ts";
+import { backgroundGeometry, readingLayers } from "../src/game/scene.ts";
+import { createState, run, advance, validateSave } from "../src/game/engine.ts";
 import { sceneFixtures } from "./scene-fixtures.mjs";
 const data = JSON.parse(readFileSync("public/game/game.json"));
 const fixtures = sceneFixtures(data);
+test("chapter-zero exterior survives in-block preload without changing the next scene or old saves", () => {
+  let s = run(data, { ...createState(data), script: 10001 });
+  for (let i = 0; i < 14; i++) s = advance(data, s);
+  assert.equal(s.page.id, "10201:67532");
+  assert.equal(s.pc, 57);
+  assert.equal(s.layers[0].asset, 105);
+  assert.equal(s.layers[0].alpha, 0);
+  const displayed = readingLayers(data, s)[0];
+  assert.deepEqual(displayed, { asset: 100, alpha: 1, x: 0, y: -320 });
+  coversScene(backgroundGeometry(data, displayed));
+  const restored = validateSave(data, JSON.parse(JSON.stringify(s)));
+  assert.deepEqual(restored, s);
+  const legacy = structuredClone(s);
+  delete legacy.readingLayers;
+  const legacyRestored = validateSave(data, legacy);
+  assert.deepEqual(readingLayers(data, legacyRestored), s.readingLayers);
+  assert.deepEqual(legacyRestored.layers, s.layers);
+  const next = advance(data, restored);
+  assert.equal(next.page.id, "10201:67764");
+  assert.equal(next.readingLayers, undefined);
+  assert.equal(readingLayers(data, next)[0].asset, 105);
+  assert.equal(readingLayers(data, next)[0].alpha, 1);
+  assert.equal(readingLayers(data, next)[0].y, -380);
+  assert.deepEqual(advance(data, legacyRestored), next);
+  restored.readingLayers[0].asset = -1;
+  assert.throws(() => validateSave(data, restored), /阅读画面/);
+});
 function coversScene(g) {
   assert.ok(
     g.left <= 0 && g.top <= 0 && g.right >= 480 && g.bottom >= 272,
@@ -23,6 +50,17 @@ test("compiled native background dimensions match all PNG headers", () => {
     assert.equal(texture.width, png.readUInt32BE(16));
     assert.equal(texture.height, png.readUInt32BE(20));
   }
+});
+test("chapter-one falling pole keeps its image until advancing into the source impact blackout", () => {
+  const s = run(data, { ...createState(data), script: 20756, pc: 465 });
+  assert.equal(s.page.id, "20756:1627476");
+  assert.equal(s.layers[1].asset, 1299);
+  assert.equal(s.layers[1].alpha, 0);
+  assert.deepEqual(readingLayers(data, s)[1], { asset: 1298, alpha: 0.625 });
+  const next = advance(data, validateSave(data, JSON.parse(JSON.stringify(s))));
+  assert.equal(next.page.id, "20756:1627756");
+  assert.equal(next.readingLayers, undefined);
+  assert.equal(readingLayers(data, next)[1].alpha, 0);
 });
 test("actual tall panorama remains on screen after a -380px camera move", () => {
   const layer = fixtures.panorama.layers[0];
@@ -80,4 +118,6 @@ test("reported dark narration is explicitly cleared by source and has no active 
   const code = data.scripts[10201].instructions;
   assert.deepEqual(code[215].args, [32896, 128, 0, 2]);
   assert.equal(code[215].op, 403);
+  assert.equal(s.readingLayers, undefined);
+  assert.equal(readingLayers(data, s), s.layers);
 });

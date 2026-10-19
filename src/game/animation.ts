@@ -22,9 +22,27 @@ export type AnimationDraw = {
   texture: AnimationData["textures"][string];
   transform: string;
   opacity: number;
+  colors: number[];
   x: number;
   y: number;
 };
+// 0881581c-08815888 selects native screen coordinates for these assets;
+// 08860c70/08862c90 bypasses the usual 640x448 conversion.
+export function animationScale(id: number): [number, number] {
+  return [500, 5600, 6000, 6100, 6200, 6300, 6400].includes(id)
+    ? [1, 1] : [480 / 640, 272 / 448];
+}
+export function animationPosition(id: number, x: number, y: number): [number, number] {
+  const scale = animationScale(id);
+  return [Math.trunc(Math.trunc(x * 640 / 480) * scale[0]),
+    Math.trunc(Math.trunc(y * 448 / 272) * scale[1])];
+}
+// These full-scene cinematics end in authored fades. Reading pages and credit
+// cards advance their story clock; ambient/particle animations keep real time.
+export function storyAnimation(playback: { id: number; variant: number }) {
+  return [100, 1700, 300, 400, 6000, 6100, 6200, 6300, 6400].includes(playback.id) ||
+    (playback.id === 1400 && playback.variant === 10);
+}
 // Control keys: 1 loop start, 2/3 loop back, 4/5 hold. Child animations have
 // independent clocks, including when their parent is held on frame zero.
 export function animationTime(frames: number[][], elapsed: number) {
@@ -47,6 +65,8 @@ export function sampleAnimation(
   data: AnimationData,
   variant: number,
   elapsed: number,
+  rootTime?: number,
+  tint: number[] = [128, 128, 128, 128],
 ): AnimationDraw[] {
   const output: AnimationDraw[] = [];
   const framesOf = (node: number[]) =>
@@ -55,20 +75,23 @@ export function sampleAnimation(
     id: number,
     ticks: number,
     parent: string,
-    alpha: number,
+    parentColors: number[],
     stack: number[],
+    storyTicks?: number,
   ) {
     const v = data.variants[id];
     if (!v) throw new Error(`Missing animation variant ${id}`);
     if (stack.includes(id) || stack.length > 16) return; // Native recursion guard.
-    const { time, clock } = animationTime(
-      framesOf(data.nodes[v.start]),
-      Math.max(0, ticks),
-    );
+    const controls = framesOf(data.nodes[v.start]);
+    const loops = controls.some(f => [2, 3].includes(f[1] & 255));
+    const sampled = animationTime(controls, Math.max(0,
+      storyTicks !== undefined && !loops ? storyTicks : ticks));
+    const time = sampled.time;
+    const clock = storyTicks !== undefined && !loops ? ticks : sampled.clock;
     function visitNode(
       index: number,
       transform: string,
-      opacity: number,
+      inheritedColors: number[],
       seen: Set<number>,
     ) {
       if (index < 0) return;
@@ -90,17 +113,18 @@ export function sampleAnimation(
         if (f[1] & 255 && next && next[0] > f[0]) {
           const ratio = Math.min(1, (time - f[0]) / (next[0] - f[0]));
           pose = pose.map(
-            (n, i) => n + (data.transforms[next[3]][i] - n) * ratio,
+            (n, i) => n + Math.trunc((data.transforms[next[3]][i] - n) * ratio),
           );
           colors = colors.map(
-            (n, i) => n + (data.colors[next[4]][i] - n) * ratio,
+            (n, i) => n + Math.trunc((data.colors[next[4]][i] - n) * ratio),
           );
         }
       }
       const world = `${transform} translate(${pose[0]} ${pose[1]}) rotate(${pose[6]}) scale(${pose[4] / 100} ${pose[5] / 100})`;
-      const ownAlpha =
-        (opacity * (colors[3] + colors[7] + colors[11] + colors[15])) / 512;
-      visitNode(node[3], world, ownAlpha, new Set(seen));
+      // Native 0885d7e4/0885d840: saturating per-channel product / 128,
+      // including alpha, at every level of the node tree.
+      const tint = colors.map((n, i) => Math.min(255, (n * inheritedColors[i]) >> 7));
+      visitNode(node[3], world, tint, new Set(seen));
       let trigger: number[] | undefined;
       for (const key of keys) {
         if (key[0] > time) break;
@@ -112,7 +136,8 @@ export function sampleAnimation(
         if (command.length !== 3)
           throw new Error("Invalid child animation command");
         const childTime = Math.max(0, clock - trigger[0]) + command[1];
-        visitVariant(command[0], childTime, world, ownAlpha, [...stack, id]);
+        visitVariant(command[0], childTime, world, tint, [...stack, id],
+          storyTicks === undefined || loops ? undefined : Math.max(0, storyTicks - trigger[0]) + command[1]);
       } else if (f) {
         const cell = data.cells[f[2]];
         if (cell)
@@ -120,16 +145,28 @@ export function sampleAnimation(
             cell,
             texture: data.textures[cell.texture],
             transform: world,
-            opacity: Math.min(1, Math.max(0, ownAlpha)),
+            opacity: Math.max(tint[3], tint[7], tint[11], tint[15]) / 255,
+            colors: tint,
             x: -pose[2],
             y: -pose[3],
           });
       }
-      visitNode(node[4], transform, opacity, new Set(seen));
+      visitNode(node[4], transform, inheritedColors, new Set(seen));
     }
-    visitNode(v.start + 1, parent, alpha, new Set());
+    visitNode(v.start + 1, parent, parentColors, new Set());
   }
-  visitVariant(variant, elapsed, "", 1, []);
+  visitVariant(variant, elapsed, "", Array.from({ length: 4 }, () => tint).flat(), [], rootTime);
   // Native render queue draws the later sibling/background first.
   return output.reverse();
+}
+
+export function sampleSceneAnimation(
+  data: AnimationData,
+  playback: { id: number; variant: number; startedAt?: number; color?: number[] },
+  frames: number,
+  elapsed: number,
+) {
+  const scriptAge = Math.max(0, frames - (playback.startedAt ?? frames));
+  const rootTime = storyAnimation(playback) ? scriptAge : undefined;
+  return sampleAnimation(data, playback.variant, scriptAge + elapsed, rootTime, playback.color);
 }

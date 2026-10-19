@@ -34,7 +34,7 @@ import "./App.css";
 import AudioScene from "./game/AudioScene";
 import LogicBoard from "./game/LogicBoard";
 import AnimationScene from "./game/AnimationScene";
-import { backgroundGeometry } from "./game/scene";
+import { backgroundGeometry, readingLayers } from "./game/scene";
 const asset = (name: string) => `${import.meta.env.BASE_URL}game/${name}`;
 const message = (e: unknown) => (e instanceof Error ? e.message : String(e));
 type Panel = "history" | "saves" | "terms" | "keywords" | "settings" | "chapters" | null;
@@ -439,7 +439,7 @@ function ReaderContent({
                 viewBox="0 0 480 272"
                 aria-label={t("当前故事场景")}
               >
-                {Object.entries(state.layers)
+                {Object.entries(readingLayers(data, state))
                   .sort(([a], [b]) => Number(a) - Number(b))
                   .filter(([, l]) => l.alpha > 0)
                   .map(([slot, l]) => {
