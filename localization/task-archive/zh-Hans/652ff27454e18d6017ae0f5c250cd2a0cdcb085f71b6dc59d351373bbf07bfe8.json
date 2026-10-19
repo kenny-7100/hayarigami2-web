@@ -1,0 +1,440 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 70001,
+    "title": "由香篇 · 作られた都市伝説",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 5914,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "definitions.165",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "顔は人、体は犬で人の言葉を話すとされる\n噂の生き物。\n\nレストランのゴミ箱を漁っている最中に発見、\n高速道路で車より速く走るなど代表的な\n話の他、某大学のＤＮＡ実験に使われた\n生き物である、母人面犬と子人面犬が駅前で\n発見されるなど、諸説は様々。\n共通する点として「ほっといてくれ」「勝手だろ」等\n捨て台詞を吐いて去るというスタイルがある。\n都市伝説の中では一度は耳にしたことのある\nポピュラーな存在で、学校の怪談としても\n有名なこの話だが、科学的根拠や研究結果\nなどは報告されていない。\n人面犬が話題になったのは１９８０年代末期\nであった。 当時は各地で目撃例が報告され、\n挙げ句の果てには追跡の為の特別班が\nマスコミに編成されたようである。 それに便乗\nして、「人面魚」なども登場した。 ちなみに\n人面魚は実在する金色の鯉の頭部の模様が\n人の顔に良く似ているからである。 また、\n類似のものとしては火星の岩の「人面岩」、\n「人面蜘蛛」「人面スイカ」がある。\n特にスイカは２００７年にネット通販していること\nから知っている方も多いことだろう。\nこの人面犬の都市伝説は発祥が近年で、\n日本で生まれた可能性が高いことから、\n芸能マスコミ業界において、「自分が世に\n広めた」と主張する複数の者がいる。\nその誰が本当の「人面犬の親」なのかは\n定かではないが、この現状は少なくとも\n「都市伝説が発生、醸成、伝播」する為の\n条件を満たしていると言えよう。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "传闻中长着人脸、狗身，还会说人话的生物。\n\n代表性的故事包括：在餐厅垃圾桶里翻找食物时被人发现；在高速公路上跑得比汽车还快。也有说它是某大学DNA实验的产物，或有人在车站前见过母子两只人面犬。版本众多，共同之处是，它往往会丢下一句『别管我』『关你什么事』之类的话，然后离去。\n\n这是都市传说中广为人知的存在，也常出现在校园怪谈里，但并没有相关的科学依据或研究报告。人面犬在1980年代末引发热议，各地纷纷传出目击消息，据说媒体甚至组织了专门的追踪小组。趁着这股热潮，『人面鱼』等说法也随之出现。不过，人面鱼确有其物，指的是头部花纹酷似人脸的金色鲤鱼。类似的还有火星上的『人面岩』、『人面蜘蛛』和『人面西瓜』。尤其是西瓜，2007年还曾在网上销售，想必不少人听说过。\n\n人面犬传说产生较晚，而且很可能起源于日本，因此娱乐与媒体行业里，有好几个人都声称是自己将它传播开的。究竟谁才是真正的『人面犬之父』，尚不明确。但至少，这种状况本身已经满足了都市传说产生、酝酿和传播的条件。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.166",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "怪人アンサー",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "回答怪人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.166",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "携帯電話を１０台用意し、１番目の携帯から\n２番目の携帯、２番目の携帯から３番目の携帯と\n順番に電話をしていくと１０番目にかけた相手先\nに怪人アンサーが出るという。\nこの怪人アンサーは何でも答えてくれるのだが、\nひとつだけ逆に質問してくると言われ、\nその問いに答えられないと体の一部を\nもぎとられるという。 実は怪人アンサーは\n頭部だけで生まれてきたらしく、\n足りない体のパーツを集めて完全な人間に\nなろうとしているらしい、という都市伝説。\n\nこの都市伝説の流布には特殊な背景がある。\nこの怪人アンサーが広がりを見せたのは\n２００２年８月１０日前後。 ネット上の掲示板に\nこの都市伝説がとある人物によって大々的に\n投稿されたことによる。 つまりは個人的悪趣味\nによる、捏造されたものだったのだ。\nそのことがマスコミによってＴＶ番組などで\n放映され、捏造した人間がＴＶに登場。\nことの経緯を暴露してしまったのだ。\nその結果、この怪人アンサーの伝説は\n都市伝説的側面を失ってしまい、現在に至る。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "准备10部手机，从第1部打给第2部，再从第2部打给第3部，依次拨打下去。据说，拨到第10个对象时，接电话的就会是『回答怪人』。它无所不答，但也会反过来问你一个问题。如果答不上来，身体的一部分就会被扯走。传说它出生时只有头部，正在收集缺少的身体部件，想变成一个完整的人。\n\n这则都市传说的传播有着特殊背景。它开始广为流传，是在2002年8月10日前后，起因是有人在网络论坛上大规模发布这个故事。也就是说，它其实是个人出于恶趣味捏造的。后来，媒体在电视节目等渠道报道了此事，编造故事的人也上了电视，公开了整个过程。于是，『回答怪人』失去了作为来源不明的都市传说的神秘性，成为如今这样的故事。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.196",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ぴちぴちジーンズ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "紧身牛仔裤"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.196",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "タイトフィットのジーンズは今の若い女性達\nを中心に今尚流行している。 そのなかで、\nこんな話を聞いたことはないだろうか。\n\n彼氏とデートの日。 彼女はオシャレしようと、\n実寸より少し小さめのタイトなジーンズを履い\nていくことにした。 お腹を思いっきり引っ込め、\nジッパーをあげて、彼氏のもとへ急いだ。\n映画に食事と、いつものデートを楽しみ、\nそろそろホテルでも行こうかというころ、\n彼女は足のしびれを覚える。 しばらくしても\nそれは治まらず、酷くなる一方。\nホテルの部屋に入ったときには両脚の感覚が\nなくなっていた。\n部屋に入りすぐさまジーンズを脱ごうとするが、\n皮膚と一体化したかのようにビクともしない。\n彼氏に手伝って貰っても状況は変わら\nなかった。 次第に彼女の顔から血の気が\n失せていき、足の爪先は赤とも紫ともつかない、\nものすごい色に変わっていた。\nホテルの部屋にはジーンズを切り裂ける刃物が\nなく、彼氏は彼女をタクシーに乗せ病院へ\n向かった。\n彼女の足は壊死が始まっており、\n両脚は切断する他ない、\nという悲劇的な結末が待っていた……。\n\nこれは、何事も無理せずほどほどに、\nという警告のメッセージかもしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "紧身牛仔裤至今仍很受年轻女性欢迎。你是否听过这样的故事？\n\n与男友约会那天，一位女子为了打扮漂亮，决定穿上比自己实际尺码小一点的紧身牛仔裤。她拼命收腹，拉上拉链，匆匆去见男友。看电影、吃饭，两人照常享受约会。到了商量要不要去酒店的时候，她开始觉得腿麻。过了一阵，不但没有缓解，反而越来越严重。走进酒店房间时，两条腿已经失去知觉。\n\n她立刻想脱下牛仔裤，可裤子像与皮肤融为一体，怎么也脱不下来。男友帮忙也无济于事。她的脸色渐渐失去血色，脚趾变成一种介于红紫之间、令人害怕的颜色。房间里没有能剪开牛仔裤的工具，男友只好带她坐出租车赶往医院。\n\n等待她的，是双腿已经开始坏死、只能截肢的悲惨结局……\n\n这则故事，也许是在警告人们：凡事适可而止，不要勉强。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.153",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "アフロヘアーの惨劇",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "爆炸头的惨剧"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.153",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ある国で、アフロヘアーの男とその彼女が\n遊園地にやってきた。 ジェットコースターに\n乗ろうということになり、はしゃぐカップル。\n彼女の方は、そのジェットコースターの\nスピード感をひとしきり楽しんだ。\n乗り物が完全に静止した時、彼女は彼氏が\n沈黙していた理由を知ることになる。\n彼は、顔面から頭部にかけての皮を剥がれて\n事切れていた。\n実は、大きく膨れ上がった髪が、柱の頂点付近で\n座席を吊り上げていたリフターの歯車に\n巻き込まれ、座席が落下を開始した時に\n頭髪もろとも頭部の皮が剥がれてしまった\nのだった。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "某个国家里，一名留着爆炸头的男子与女友来到游乐园。两人兴高采烈地决定去坐过山车。女友尽情享受了那种飞驰的速度感。直到车完全停下来，她才明白，男友为什么一直没有出声。\n\n他从脸部到头顶的皮肤都被剥去了，已经断气。原来，那团蓬松的头发在高处卷进了吊起座椅的升降装置齿轮。座椅开始下落时，头发连同头部皮肤，一起被扯了下来。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.109",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "天使",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "天使"
+        },
+        "notes": "宗教及传说中天使的通行简中名称，与本章人物外貌比喻一致，保留标题。"
+      },
+      {
+        "key": "definitions.109",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "\n天子の使。 勅使。 エンジェルの由来となった、\nギリシア語のアンゲロスは、派遣された者、\n使者、告知者を意味する。\n\n聖書では神に奉仕し神の使信を人間に伝え、\nまた神の命令を実行に移す天上的存在が\nこの名前で呼ばれ、人間を守護するものとして\n扱われている。 神と人間の中間に位置し、\n純粋に可知的もしくは精神的な世界を構成\nする存在として多くの思想家の研究対象と\nされる為、メルヘンや神話の中だけでなく\n学問の世界からも注目されている。\n\n光り輝く白の中に天使が出現するというイメージ\nが多く用いられるが、白は神々しい荘厳さに\n加わる天使と霊達の表現であり、キリストの\n復活と不死性の象徴であるとされ、白あるいは\n光は魂のイメージを表現している。\n\nその誕生は天地創造の１日目、ないしは２日目\nか５日目であるとされている。 いずれの日に\n生まれたとしても、天地の創造とともに生まれた\nという意見が主流だが、一方で神が新しい\n望みを抱くと、それを叶える為に生まれて\nくる存在こそが天使だ———とする説も\nあるようだ。\n天使と言えば欠かせないのが、その背中に\n生えた美しい翼だが、マルコム・ゴドウィンという\n人物は、天使に体重があり、重力を受ける\n存在だった場合、実際空を飛ぶ為には\nどれくらいの大きさをした翼が必要であるか\n計算している。\n\n「長身の天使の体重を二〇〇ポンド\n（約九〇キログラム）とすると、三六フィート\n（一二メーター）ないし、一二〇フィート\n（四〇メーター）の翼幅が必要となる。 これは\nハングライダーの大きさに相当するが、この種\nの翼は滑空と上昇気流を受けての滑翔にしか\n用いることが出来ない」\n（マルコム・ゴドウィン『天使の世界』）",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "『天使』也有天子的使者、敕使之意。英语angel源自希腊语angelos，意为被派遣者、使者、传告者。\n\n《圣经》中，侍奉神、向人类传达神谕，并执行神命令的天界存在，被称为天使，也被视为守护人类的存在。它们处于神与人之间，构成纯粹可由理智认识的、或精神性的世界，因此也成为许多思想家的研究对象。天使不仅出现于童话和神话，也受到学术界关注。\n\n人们常以耀眼的白光表现天使现身。白色既用来表现参与神圣庄严景象的天使与灵体，也被视为基督复活和不死的象征；白色或光，因而常与灵魂的形象相联。\n\n关于天使的诞生，有创世第1天、第2天或第5天等说法。无论具体是哪一天，主流观点认为，它们与天地创造同时诞生。另有一种说法：每当神产生新的愿望，为了实现那愿望而诞生的存在，就是天使。\n\n提到天使，当然少不了背后美丽的羽翼。马尔科姆·戈德温曾计算：如果天使具有体重、也受重力影响，为了真正飞行，需要多大的翅膀？\n\n『假设一位高大的天使重二百磅，约九十千克，就需要三十六英尺（十二米）至一百二十英尺（四十米）的翼展。这相当于悬挂式滑翔机的大小，但这样的翅膀只能用于滑翔，或借助上升气流滑翔。』\n——马尔科姆·戈德温《天使的世界》"
+        },
+        "notes": "引文单位换算按原作近似值保留，不另作物理学结论；创世日数保留，书名及人名译为简中。"
+      },
+      {
+        "key": "terms.156",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "写真屋",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "照相馆"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.156",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "写真屋ではアナログカメラのフィルム現像の\n時に、気に入った写真を勝手に焼き増し、\nコレクションにしているという都市伝説。\n\nデジタルカメラの普及により、自分で操作して\nプリント出来たり自宅で印刷出来るようになって\nからは写真屋自体の利用が少なくなる昨今、\n写真屋に関する都市伝説も\n少なくなってきている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "有一种都市传说称，照相馆在冲洗胶卷时，会擅自把喜欢的照片多印几张，留作收藏。\n\n随着数码相机普及，人们可以自行操作设备冲印，也可以在家打印照片，照相馆的使用机会逐渐减少。与照相馆有关的都市传说，也随之少了。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.182",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ネットロア",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "网络传说"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.182",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "民間伝承や民俗学、民話といったものを\nフォークロアと呼ぶが、それらがインターネットを\n介して広まったものをネットロアという。\n１日を銀行に振り込まれた預金に例え、\n我々が意識せずに過ごしている日々や時間の\n有限性、そして友人と呼べる存在の大切さ\nを明快な文章で説いた、北アメリカ発の\n「友情の週間」なるメールが、ネットロアの\n原型と言われている。\n\nネットロアで有名な話として「世界がもし１００人\nの村だったら」が挙げられる。\nこれは２００１年に絵本として出版され、\n現在までにシリーズ４冊が刊行されている。\nＥメールが生んだこの物語は、\n希望のメルヘンとして、世界中を駆けめぐり、\n現代の民話として今も確かに息づいている。\n\nこれらの話はインターネットという舞台を得て、\n瞬く間に世界へと広がって行ったのだが、\nその一方でインターネットは、玉石混淆、\nあらゆる情報をいともたやすく拡散させて\nしまう特性もある。 ほんの出来心で作った\n偽りの怪談が、いつしか世の人々に知れ渡り、\n恐怖で締め上げてしまう……。\nそんな可能性もあるのだということを、\n心して貰いたい。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "民间传承、民俗学和民间故事等，英语称为folklore；通过互联网传播的这类内容，则称为netlore，即网络传说。\n\n据说，来自北美的一封名为『友谊周』的邮件，是网络传说的雏形。它把1天比作存入银行的款项，用明快的文字说明：我们习以为常的日子与时间是有限的，而能称作朋友的人，也十分珍贵。\n\n著名的网络传说，包括『假如世界是一个100人的村庄』。它在2001年出版为绘本，按原作所述，当时这个系列已发行4册。这个由电子邮件孕育的故事，作为充满希望的童话传遍世界，成为至今仍活跃着的现代民间故事。\n\n借助互联网这个舞台，故事能在转瞬间传遍世界。但另一方面，网络也会轻易扩散各种良莠不齐的信息。只是一时兴起编造的虚假怪谈，某天却可能传得人尽皆知，将世人牢牢攫进恐惧之中……也请记住，这样的可能性同样存在。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.184",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "対抗神話",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "反制神话"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.184",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "巷に蔓延る都市伝説や噂を抑止する役目を\n担っているのが対抗神話である。 これは、\n人物、団体、新聞の記事などが合わさって\n作られていることが多い。 １９６０年代、\nフランス中西部の都市を中心に発生した、\n女性誘拐の噂が広がり発展していった際にも、\n対抗神話は顔を覗かせている。 それは、\nもっともらしい理由を挙げ、噂を信じなかった\n者達から生まれたと考えられる。 信じない\nという強い意志が、ひとつの新たな神話を生み、\n対抗神話として発展していったのではない\nだろうか。\nそうやって生まれたが故、これら神話も\nまた、都市伝説と同じように発祥元がはっきり\nとせず、確証が持てないのである。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "所谓『反制神话』，就是用来遏止社会上蔓延的都市传说与流言的另一种说法。它往往由人物、团体、报刊文章等多方面的信息组合而成。1960年代，以法国中西部城市为中心的女性绑架传闻扩散、演变时，也曾出现这种反制神话。\n\n它大概源于那些不相信传闻、并提出貌似合理理由的人。拒绝相信的强烈意志，或许孕育了一个新的神话，并进一步发展为反制神话。也正因如此，这类神话与都市传说一样，起源不明，缺乏确证。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.172",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ジェフリー・ダーマー",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "杰弗里·达默"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.172",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "映画「羊たちの沈黙」公開後、アメリカを震撼\nさせたミル・ウォーキーの人食い鬼、それが１７人\nを殺害した容疑者、ジェフリー・ダーマーである。\n\n警官隊が彼のアパートへ急襲をかけ、想像を\n絶する惨状を目の当たりにする。 少なくとも１１人\nの遺体の残骸があり、スープ用の鍋などの\n調理器具、冷蔵庫の中、いたるところに\n残されていた。\n彼の部屋には普通の食料がごく僅かしかなく、\nダーマーがほぼ人の肉を食べて\n暮らしていたことは明らかだった。\n他の異常犯罪者のように、彼も家庭環境が\n不安定で、酷い虐待を受けていた。\nその彼が昆虫採集セットを手にして小動物を\n酸に入れ、骨を漂白することに興味を覚えた。\nそれから動物の死骸を集めてまわり森に\n作った秘密の隠れ家に並べたりしていたという。\nそんな彼が初めての犯行を行ったのは\n１９７８年７月１８日、両親が離婚して以来、\n空き家になった家で少年を殺害した。\n彼は死体の一部を保存していて、その理由は\n「バラバラになった彼らこそが本当の仲間の\nように思うから」と供述している。\nまた、被害者にロボトミー化を施そうとしたことも\nあるようだ。 その彼も１６件の罪で終身刑。\n合計で懲役１０７０年となり、あと一件の審理を\n行っている。 それは死刑を廃止していない\nオハイオ州法で判決が下る\n———が、１９９４年１１月２９日午前８時、\n刑務所の体育館の浴場で殺されているのを\n発見された。\n尚、収監中の彼は経済的困窮を理由にして、\n被害者の遺体の一部を入れていた冷蔵庫を\nオークションにかけようとした。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "电影《沉默的羔羊》上映后，震惊美国的『密尔沃基食人魔』，就是涉嫌杀害17人的杰弗里·达默。\n\n警方突入他的公寓，见到了难以想象的惨状：至少11人的遗体残骸散落各处，包括汤锅等厨具和冰箱内。原作以房中普通食物极少为依据，认为他当时几乎以人肉为食。\n\n原作还将其经历描述为：家庭环境不稳定，受到严重虐待。得到昆虫采集工具后，他对将小动物浸入酸液、漂白骨骼产生了兴趣，之后又开始收集动物尸体，摆放在树林中的秘密藏身处。\n\n按原作记载，他于1978年7月18日首次犯案，在父母离婚后空置的家中杀死一名少年。他保存了部分尸体，供述理由是：『被肢解后的他们，才像我真正的伙伴。』据说，他还曾试图对被害人实施脑叶切断式处理。\n\n原作记载，他因16项罪名被判终身监禁，累计刑期1070年，另有一案仍在审理，将依据尚未废除死刑的俄亥俄州法律判决。然而，1994年11月29日上午8时，人们在监狱体育馆的浴室里发现他已被杀害。\n\n此外，他在服刑期间，曾以经济困难为由，试图拍卖存放过被害人遗体残骸的冰箱。"
+        },
+        "notes": "保留原作犯罪史叙述与全部日期数值，用按原作记载明确归属；其中首案及死亡日期等史实疑点未另行外部考据，不将其包装为当代事实核查。"
+      },
+      {
+        "key": "terms.173",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "アンドレイ・チカチーロ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安德烈·奇卡蒂洛"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.173",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ロシアが恐れた連続殺人の容疑者。\nそれがアンドレイ・チカチーロである。\n彼は１２年以上に渡り少女や女性、\n少年合わせて５３人を殺害したと自白した。\nかつて彼は「親切で尊敬出来る」\n文学教師だった。\nチカチーロを留置場で診察した精神科医は\n「外見上は完璧な家庭人。 感じが良く、\n物静かで清潔、小奇麗にしている」と証言した。\nしかしながらチカチーロは幼児期から性的な\n問題を抱えていた。 さらに、その頃から\n幻想の世界に住んでおり、４０歳を迎える頃には\nすっかりそちらの世界に浸ってしまうようになり、\nロシアだけでなく世界中に衝撃を与えたような\n人食い行為を通してでしか、性的満足感を\n得られなくなっていたという。\n\nチカチーロは幼少時、劣等感が深まるのと\n平行して、誇大妄想も大きく育っていた。\n故に、世間が自分に逆らうと決めつけて\nしまった。 そして、父親が逮捕されたことにより、\n自身が犯罪を犯したわけではないのに政治的\n粛正を受けた。 これは、いじめられる原因\nともなり、チカチーロの精神状態を不安定に\nしていったのである。\n\n何故彼がここまで殺人を重ねるまで逮捕され\nなかったのか。 それは当時の社会情勢と\n彼自身の「天性の才能」が影響している。\n当時、彼のような異常犯罪はブルジョア\n（資本主義者）のすることとされ、そのような\n犯罪は『労働者の国』ソ連では存在しないと\nされていたのだ。 その為マスコミはその事実を\n市民に報道するのは許可されなかったのだ。\nまた、稚拙な捜査により、証拠もないのに彼の\n身代わりに容疑をかけられて逮捕、投獄、\nもしくは処刑された者もいたのだ。\nもうひとつは、現場に残された体液が彼が\nＡ型にも関わらず、ＡＢ型を示していたのだ。\nこれは当時の方法では百万人にひとりの確率で\nそのように鑑定されてしまうのと同時に、\nＡＢ型の血液を持つ者は全ソ連の中で\nたった６％しかいなかった為なのだ。\n結局彼の起こした一連の事件はＫＧＢ扱いと\nなった時に統合され、逮捕された。\n\n１９９２年１０月１４日\n５件の淫行と５２件の殺人で有罪。 死刑判決。\n１９９４年２月１４日\nロストフのドヌー刑務所で銃殺刑に処せられた。\n\n尚、彼の脳を研究の為に日本の商社が\n買い取ろうとした噂がある。 それが真実か、\nそして入手に成功したのかは定かではない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安德烈·奇卡蒂洛，是令俄罗斯恐惧的连环杀人嫌疑人。他供认，在12年多的时间里，杀害了少女、成年女性及少年，共53人。过去，他曾是一位被称为『亲切、值得尊敬』的文学教师。在拘留所为他诊察的精神科医生说：『表面上是个完美的顾家男人。待人和气，安静，爱干净，仪表整洁。』\n\n然而，原作认为，他从幼年起便有与性有关的问题，也从那时起沉浸于幻想世界。到了40岁前后，他已深陷其中，据称只能通过震惊俄罗斯乃至世界的食人行为，获得性满足。\n\n幼年时，随着自卑感加深，他的夸大妄想也不断膨胀，因而认定整个社会都在与自己作对。父亲被捕后，尽管他本人没有犯罪，也遭到了政治清洗，这又成了他受人欺凌的原因，使他的精神状态更加不稳定。\n\n为什么直到杀了这么多人，他才被捕？原作将原因归于当时的社会状况，以及他所谓的『天生才能』。那时，这类异常犯罪被视为资产阶级，也就是资本主义者才会犯下的罪行，被认为不可能存在于『劳动者的国家』苏联。因此，媒体不获准向公众报道。加之侦查粗疏，一些人在没有证据的情况下被当作嫌疑人，替他遭到逮捕、监禁，甚至处决。\n\n另一个因素是血型鉴定。虽然他是A型血，现场留下的体液却显示为AB型。按原作的解释，当时的方法可能以百万分之一的概率得出这种结果，而AB型血者在全苏联仅占6%，使调查走入歧途。最终，这一系列案件在转由克格勃处理后得以合并，他也随之落网。\n\n1992年10月14日，他因5项性犯罪及52项谋杀被判有罪，处以死刑。1994年2月14日，在顿河畔罗斯托夫的监狱被执行枪决。\n\n另有传闻称，一家日本商社曾试图买下他的大脑用于研究。这件事是否属实，是否真的买到，都不得而知。"
+        },
+        "notes": "保留原作人数、年代、血型及百分比；心理病因与历史鉴定概率均明确为原作说法，不据此作医学判断。末段商社购脑保持传闻语气。"
+      },
+      {
+        "key": "terms.102",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "マザー・グース",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "鹅妈妈童谣"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.102",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "イギリスの民間伝承のわらべ歌のこと。\nロンドンの出版業者ジョン・ニューベリーが\nわらべ歌を編集して、それにマザーグースの歌\nと題した。 これは１７世紀のフランスの詩人の\n有名な童話集、『鷲鳥おばさんのおとぎ話』\nから題名を借りたものだ。 内容は\nユーモアとウィットに富んだもので、子守歌、\n物語歌、格言、なぞなぞなどが主題になっており、\n総計８００編を越える。 単純な形式の内に、\nノンセンス・風刺・不気味さなどを複雑微妙に\n含んで、イギリス人の詩的感受性の底部に\n深く浸透しており、エリオット、イェイツ、\nジョイスなど、意識的もしくは無意識的に\nこの形式を利用しているものが多い。\n良く知られている歌に「ジャックとジル」\n「ロンドン・ブリッジ」などがある。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "英国民间流传的儿童歌谣。伦敦出版商约翰·纽伯里将这些歌谣编辑成集，题为《鹅妈妈之歌》。这个名称借自17世纪法国诗人的著名童话集《鹅妈妈的故事》。\n\n内容富于幽默与机智，题材包括摇篮曲、叙事歌、格言、谜语等，总计超过800篇。简单的形式中，巧妙交织着荒诞、讽刺与阴森的意味，深深浸润着英国人的诗性感受。艾略特、叶芝、乔伊斯等作家，都曾有意或无意地使用这种形式。\n\n广为人知的歌谣有《杰克与吉尔》《伦敦桥》等。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.103",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "マス・コミュニケーション",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "大众传播"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.103",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "１９３８年１０月３０日にラジオ番組「宇宙戦争」\nが全米をパニックに陥れた。 番組はＳＦ作家の\nＨ．Ｇ．ウェルズの小説をもとに、\nオーソン・ウェルズとマーキュリー・シアターが\nラジオ・ドラマ化したもので、ＣＢＳラジオが\nハロウィーンの余興として放送したものだった。\nラジオ番組では、火星人が宇宙から攻めて\n来るという話を、実際の地名を使って、\nニュースの実況形式で行なった。 番組の冒頭\nではきちんと説明がなされていたが、途中から\nラジオを聞いた人はその放送を信じてしまい、\n中には火星人と闘う為に義勇兵に志願する者が\n出たり、三角錐の形をした給水塔を\n火星人の宇宙船だと勘違いして銃で撃つ\n出来事が起き、全米がパニックに陥ったという。\n\n\nこの事件はマスコミの影響力や倫理観を\n論じる際に、必ずといって良いほどに引用される\n逸話である。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据原作介绍，1938年10月30日，广播节目《世界大战》曾使全美陷入恐慌。节目由奥逊·威尔斯与水星剧团根据H.G.威尔斯的小说改编成广播剧，作为万圣节余兴节目，在CBS广播电台播出。\n\n节目采用真实地名，以新闻现场报道的形式，讲述火星人从宇宙入侵的故事。开场时虽已明确说明是戏剧，但中途才打开收音机的听众，仍有人信以为真。原作转述的轶闻包括：有人报名志愿参战，对抗火星人；还有人把锥形水塔误认作火星飞船，开枪射击。据说，这使全美陷入了混乱。\n\n这件事，是讨论大众传媒影响力与伦理时，几乎总会被引用的一则轶闻。"
+        },
+        "notes": "保留原作广播日期与具体轶闻，将全美恐慌明确为原作转述和据说，避免把有争议的恐慌规模写成经本项目核实的事实。"
+      },
+      {
+        "key": "terms.104",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "山の手線と陰陽道",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "山手线与阴阳道"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "terms.109",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

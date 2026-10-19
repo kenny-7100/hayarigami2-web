@@ -64,13 +64,17 @@ export function progress(entries,catalog) {
 export function relevantRules(glossary,entry,source) {
  return (glossary?.rules??[]).filter(r=>(!r.entries||r.entries.includes(entry))&&r.source.some(term=>source.includes(term)));
 }
-export function prepareTask({game,corpus,catalog,glossary,gameSha256}, {entry,kind='rich',limit=20,maxChars=6000,route,key}) {
+export function prepareTask({game,corpus,catalog,glossary,gameSha256}, {entry,kind='rich',limit=20,maxChars=6000,route,key,keys}) {
  if(!['rich','strings'].includes(kind)||!Number.isInteger(limit)||limit<1||limit>100||!Number.isInteger(maxChars)||maxChars<100||maxChars>50000)throw new Error('Use kind rich|strings, limit 1–100, chars 100–50000');
  const {entries,scope}=inventory(game,corpus,entry);
- const candidates=entries.filter(e=>key?e.key===key:e.collection===kind&&(!route||e.route===route)&&catalog[e.collection][e.key]?.source!==e.source);
+ if(keys!==undefined&&(!Array.isArray(keys)||!keys.length||keys.length>limit||keys.some(k=>typeof k!=='string')||new Set(keys).size!==keys.length||key))throw new Error('Use unique keys within limit, without key');
+ const requested=keys??(key?[key]:null);
+ if(requested&&requested.some(k=>!entries.some(e=>e.key===k)))throw new Error('Key is not in the selected chapter scope');
+ const candidates=entries.filter(e=>requested?requested.includes(e.key):e.collection===kind&&(!route||e.route===route)&&catalog[e.collection][e.key]?.source!==e.source);
  if(key&&!candidates.length)throw new Error('Key is not in the selected chapter scope');
  const selected=[];let chars=0;
  for(const e of candidates){const count=(e.text??e.source).length;if(selected.length&&(selected.length>=limit||chars+count>maxChars))break;selected.push(e);chars+=count;}
+ if(keys&&selected.length!==keys.length)throw new Error('Revision keys exceed character budget');
  if(!selected.length)throw new Error('No missing entries in this scope; use --key for an explicit revision');
  return {version:2,locale:catalog.locale,entry,title:scope.title,sourceSha256:game.sourceSha256,gameSha256,
   instructions:['Edit translation and notes only. Keep keys, source and baseHash unchanged.','Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.','Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.','Warnings require a contextual note; imports remain draft. No API calls.'],sourceCharacters:chars,oversizeSingleEntry:chars>maxChars,
@@ -148,14 +152,14 @@ export function applyTaskFile(root,locale,task) {
 }
 function main() {
  const [command,...args]=process.argv.slice(2),o={};
- for(let i=0;i<args.length;i+=2){if(!['--locale','--entry','--kind','--limit','--chars','--route','--key','--file'].includes(args[i])||args[i+1]===undefined)throw new Error('Use status|prepare|check|apply --locale xx --entry 20001 [--kind rich|strings --limit 20 --chars 6000 --route name --key key --file path]');if(o[args[i].slice(2)]!==undefined)throw new Error('Duplicate option');o[args[i].slice(2)]=args[i+1];}
+ for(let i=0;i<args.length;i+=2){if(!['--locale','--entry','--kind','--limit','--chars','--route','--key','--keys','--file'].includes(args[i])||args[i+1]===undefined)throw new Error('Use status|prepare|check|apply --locale xx --entry 20001 [--kind rich|strings --limit 20 --chars 6000 --route name --key key | --keys json-file --file path]');if(o[args[i].slice(2)]!==undefined)throw new Error('Duplicate option');o[args[i].slice(2)]=args[i+1];}
  const inputs=loadWorkbench(o.locale);
  if(command==='status'){
   const {scope,entries}=inventory(inputs.game,inputs.corpus,Number(o.entry));
-  console.log(JSON.stringify({entry:scope.entry,title:scope.title,scriptCount:scope.scripts.size,counts:progress(entries,inputs.catalog),routes:[...new Set(entries.filter(e=>e.route).map(e=>e.route))],scope:'compiled dependency closure + collected route variants; not proof of exhaustive source execution',sourceCoverageGate:scope.entry===20001?'npm run i18n:check:chapter-one':scope.entry===30001?'npm run i18n:check:chapter-two':scope.entry===40001?'npm run i18n:check:chapter-three':'not established for this chapter',mediaReview:'separate inventory and browser review required'},null,2));
+  console.log(JSON.stringify({entry:scope.entry,title:scope.title,scriptCount:scope.scripts.size,counts:progress(entries,inputs.catalog),routes:[...new Set(entries.filter(e=>e.route).map(e=>e.route))],scope:'compiled dependency closure + collected route variants; not proof of exhaustive source execution',sourceCoverageGate:scope.entry===20001?'npm run i18n:check:chapter-one':scope.entry===30001?'npm run i18n:check:chapter-two':scope.entry===40001?'npm run i18n:check:chapter-three':'npm run i18n:check:remaining',mediaReview:'separate inventory and browser review required'},null,2));
  }else if(command==='prepare'){
   if(!o.file)throw new Error('--file required');
-  const task=prepareTask(inputs,{entry:Number(o.entry),kind:o.kind,limit:o.limit===undefined?20:Number(o.limit),maxChars:o.chars===undefined?6000:Number(o.chars),route:o.route,key:o.key});
+  const task=prepareTask(inputs,{entry:Number(o.entry),kind:o.kind,limit:o.limit===undefined?20:Number(o.limit),maxChars:o.chars===undefined?6000:Number(o.chars),route:o.route,key:o.key,keys:o.keys?json(o.keys):undefined});
   fs.mkdirSync(path.dirname(o.file),{recursive:true});fs.writeFileSync(o.file,JSON.stringify(task,null,2)+'\n',{flag:'wx'});
   console.log(JSON.stringify({file:o.file,entries:task.entries.length,sourceCharacters:task.sourceCharacters,oversizeSingleEntry:task.oversizeSingleEntry}));
  }else if(['check','apply'].includes(command)){

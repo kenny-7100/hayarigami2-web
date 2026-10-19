@@ -1,0 +1,310 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 60001,
+    "title": "贺茂泉篇 · 座敷わらし",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 152,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.60501:3867708.ce948017",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あたしが敷いていた座布団は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"汗で少しだけ湿っている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その隣に並んだ座布団には、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"大事な\",\"color\":0,\"size\":0},{\"text\":\"〔人偶〕\",\"size\":0,\"keyword\":5025},{\"text\":\"が横たわっていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "b5d88044a3a62d056607ea681d7e5af9076b30c9169a16da420558e49cd87208",
+        "location": {
+          "script": 60501,
+          "page": "60501:3867708",
+          "route": "chapter-5-alternate-reasoning.json",
+          "step": 74
+        },
+        "requiredRefs": [
+          {
+            "ref": 7,
+            "text": "〔人偶〕",
+            "size": 0,
+            "keyword": 5025
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.60501:3867464.b49c718c",
+            "step": 72,
+            "script": 60501,
+            "text": "蝉の声がうるさくて、目を覚ましてしまった。",
+            "translation": "蝉叫得太吵，把我吵醒了。"
+          },
+          {
+            "key": "page.60501:3867548.1968579b",
+            "step": 73,
+            "script": 60501,
+            "text": "一瞬、\n自分がどこにいるのかわからなくて、あたりを見渡す。\nそうか、ここは離れの縁側だ。",
+            "translation": "有那么一瞬间，我不知道自己在哪里，环顾四周。对了，这是偏屋的廊下。"
+          },
+          {
+            "key": "page.60501:3867708.ce948017",
+            "step": 74,
+            "script": 60501,
+            "text": "あたしが敷いていた座布団は、\n汗で少しだけ湿っている。\nその隣に並んだ座布団には、\n大事な〔人偶〕が横たわっていた。",
+            "translation": "我铺着的坐垫被汗浸得有点湿。并排放着的另一张坐垫上，躺着我珍爱的〔人偶〕。"
+          },
+          {
+            "key": "page.60501:3867884.62e1e050",
+            "step": 75,
+            "script": 60501,
+            "text": "そうだ、\nあたしはこのお人形とおままごとをしてたんだっけ。\n寝かしつける振りをしていたら、\nそのまま一緒に眠ってしまったみたい。",
+            "translation": "对了，我刚才在跟这个人偶玩过家家。装作哄她睡觉的时候，自己好像也跟着睡着了。"
+          },
+          {
+            "key": "page.60501:3868056.92890279",
+            "step": 76,
+            "script": 60501,
+            "text": "お父様が買ってくれたお人形は大きくて、\n人形用のお布団には入りきらない。\nだから縁側に干してあった人間用の座布団に\n寝かしつけて遊んでいたんだ。",
+            "translation": "父亲大人给我买的人偶很大，放不进人偶用的小被褥里。所以，我才把她放在廊下晾着的大人坐垫上，哄她睡觉。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"あたしが敷いていた座布団は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"汗で少しだけ湿っている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その隣に並んだ座布団には、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"大事な\",\"color\":0,\"size\":0},{\"text\":\"〔人偶〕\",\"size\":0,\"keyword\":5025},{\"text\":\"が横たわっていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "我铺着的坐垫被汗浸得有点湿。并排放着的另一张坐垫上，躺着我珍爱的"
+            },
+            {
+              "ref": 7
+            },
+            {
+              "text": "。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "我铺着的坐垫被汗浸得有点湿。并排放着的另一张坐垫上，躺着我珍爱的"
+            },
+            {
+              "ref": 7,
+              "text": "〔娃娃〕"
+            },
+            {
+              "text": "。"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔人偶〕→娃娃。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      },
+      {
+        "key": "page.61301:3907300.931bdef8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そんなことを考えてお台所にじっと立っていると、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"〔祖母〕\",\"size\":0,\"keyword\":5008},{\"text\":\"がひょいと顔を出した。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "8309be72170e68c674074309b66235d7066c1a35d3dfd0720cf2f9c9acae2747",
+        "location": {
+          "script": 61301,
+          "page": "61301:3907300",
+          "route": "chapter-5-alternate-reasoning.json",
+          "step": 269
+        },
+        "requiredRefs": [
+          {
+            "ref": 2,
+            "text": "〔祖母〕",
+            "size": 0,
+            "keyword": 5008
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.61301:3906772.1dbddb32",
+            "step": 267,
+            "script": 61301,
+            "text": "そしたらあたしは自由になって、大好きな\nおばあちゃんと、ずっとずうっと一緒にいられる。\nそれは想像しただけでも、\nとても幸せなことのように思えた。",
+            "translation": "那样，我就能自由了，和最喜欢的奶奶永远、永远在一起。光是想象，就觉得特别幸福。"
+          },
+          {
+            "key": "page.61301:3906964.a301ba8b",
+            "step": 268,
+            "script": 61301,
+            "text": "おばあちゃんと二人っきりなら、\nきっと「カクの違い」なんて気にせず、\nあたしだって普通の子みたいに\n暮らすことが出来るはず。",
+            "translation": "只和奶奶一起的话，一定不用在意什么『门第不同』。我也能像普通孩子一样生活。"
+          },
+          {
+            "key": "page.61301:3907300.931bdef8",
+            "step": 269,
+            "script": 61301,
+            "text": "そんなことを考えてお台所にじっと立っていると、\n〔祖母〕がひょいと顔を出した。",
+            "translation": "我想着这些，静静站在厨房里，〔祖母〕忽然探进头来。"
+          },
+          {
+            "key": "page.61301:3907412.5d576151",
+            "step": 270,
+            "script": 61301,
+            "text": "「おや？ どうしたね、かごめ」\n「おばあちゃん……」",
+            "translation": "「哎呀？怎么了，戈薇？」\n「奶奶……」"
+          },
+          {
+            "key": "page.61301:3907504.140778d9",
+            "step": 271,
+            "script": 61301,
+            "text": "「あれあれ、真っ赤に腫らして。\nこっちへおいで、とっておきの薬を塗ってあげようねえ」\n「うん」",
+            "translation": "「哎呀呀，红肿成这样。来这边，奶奶给你涂点好药。」\n「嗯。」"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"そんなことを考えてお台所にじっと立っていると、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"〔祖母〕\",\"size\":0,\"keyword\":5008},{\"text\":\"がひょいと顔を出した。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "我想着这些，静静站在厨房里，"
+            },
+            {
+              "ref": 2
+            },
+            {
+              "text": "忽然探进头来。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "我想着这些，静静站在厨房里，"
+            },
+            {
+              "ref": 2,
+              "text": "〔奶奶〕"
+            },
+            {
+              "text": "忽然探进头来。"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔祖母〕→奶奶。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      },
+      {
+        "key": "page.63401:4087740.efb0c5d9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ふざけた声をしてるけど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この人はとても本気だってことが。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ちーちゃんを、放火の\",\"color\":0,\"size\":0},{\"text\":\"〔犯人〕\",\"size\":0,\"keyword\":5022},{\"text\":\"だって考えているって。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "6c79bc0040c45bd920d5f54edf01599cd9068d085e8c3527cb64dcd9b3b8e515",
+        "location": {
+          "script": 63401,
+          "page": "63401:4087740",
+          "route": "chapter-5-alternate-reasoning.json",
+          "step": 1125
+        },
+        "requiredRefs": [
+          {
+            "ref": 5,
+            "text": "〔犯人〕",
+            "size": 0,
+            "keyword": 5022
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.63401:4087516.43d92d66",
+            "step": 1123,
+            "script": 63401,
+            "text": "黙り込んだあたしには相変わらずお構いなしで、\n小倉って人は続ける。",
+            "translation": "我仍旧沉默着。小仓却不以为意，继续说下去。"
+          },
+          {
+            "key": "page.63401:4087612.e44b39e0",
+            "step": 1124,
+            "script": 63401,
+            "text": "長い顔の半分はノートで隠れて、\nあたしからは目元ぐらいしか見えなかったけど、\nでも分かる。",
+            "translation": "本子挡住了他那张长脸的一半，我只能看见眼睛附近。可我明白。"
+          },
+          {
+            "key": "page.63401:4087740.efb0c5d9",
+            "step": 1125,
+            "script": 63401,
+            "text": "ふざけた声をしてるけど、\nこの人はとても本気だってことが。\nちーちゃんを、放火の〔犯人〕だって考えているって。",
+            "translation": "虽然声音听起来吊儿郎当，他却是认真的。他认定小千就是纵火的〔犯人〕。"
+          },
+          {
+            "key": "page.63401:4087888.3ff886a9",
+            "step": 1126,
+            "script": 63401,
+            "text": "あたしは机の下で、てのひらをぎゅっと握り締める。",
+            "translation": "我在桌子下面，紧紧攥住拳头。"
+          },
+          {
+            "key": "choice.63401.366.0.9c2597d4",
+            "step": 1126,
+            "script": 63401,
+            "text": "「知らない」と嘘をつく",
+            "translation": "撒谎说「不认识」"
+          },
+          {
+            "key": "choice.63401.366.1.4cb3a4b1",
+            "step": 1126,
+            "script": 63401,
+            "text": "「ちーちゃんは友達だ」と言う",
+            "translation": "说「小千是我的朋友」"
+          },
+          {
+            "key": "page.68101:4088384.c7768bfe",
+            "step": 1127,
+            "script": 68101,
+            "text": "「そんな女の子、知らない。あたしは知らない……！」",
+            "translation": "「我不认识那种女孩。我不知道……！」"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"ふざけた声をしてるけど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この人はとても本気だってことが。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ちーちゃんを、放火の\",\"color\":0,\"size\":0},{\"text\":\"〔犯人〕\",\"size\":0,\"keyword\":5022},{\"text\":\"だって考えているって。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "虽然声音听起来吊儿郎当，他却是认真的。他认定小千就是纵火的"
+            },
+            {
+              "ref": 5
+            },
+            {
+              "text": "。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "虽然声音听起来吊儿郎当，他却是认真的。他认定小千就是纵火的"
+            },
+            {
+              "ref": 5,
+              "text": "〔凶手〕"
+            },
+            {
+              "text": "。"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔犯人〕→凶手。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

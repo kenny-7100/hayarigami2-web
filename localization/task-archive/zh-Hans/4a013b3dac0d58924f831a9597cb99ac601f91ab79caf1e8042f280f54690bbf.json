@@ -1,0 +1,1862 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 70001,
+    "title": "由香篇 · 作られた都市伝説",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 2198,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "prompt.75099.139",
+        "collection": "strings",
+        "kind": "confirmation",
+        "source": "これで決定でよろしいですか？",
+        "baseHash": null,
+        "location": {
+          "script": 75099,
+          "offset": 4517868
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "确定采用这些答案吗？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.1",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "オカルトジャーナリストを目指す、\n将来有望な女子大生……つまり私だ。\n『狗山女学校神隠し事件』の体験者。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "立志成为神秘现象记者、前途无量的女大学生……也就是我。亲历过『狗山女子高中神隐事件』。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.2",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "藤原朝希（ふじわら・あさき）\n傷心の私を癒してくれたメル友。\n同じ大学に通っているが会ったことはない。\n訛りの為、極度の人見知り。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "藤原朝希。曾安慰伤心的我的邮件朋友。虽然就读同一所大学，却从未正式见面。因为口音而极度怕生。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.3",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "藤原朝希（ふじわら・あさき）\n傷心の私を癒してくれたメル友。\nＢ事件にまつわる都市伝説を作ったのが\n私だと知る唯一の人物。まさか彼女が……？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "藤原朝希。曾安慰伤心的我的邮件朋友。唯一知道B事件相关都市传说是我编造的人。难道会是她……？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.4",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "藤原朝希（ふじわら・あさき）\n傷心の私を癒してくれたメル友。\nＢ事件の犯人。男だったなんて……。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "藤原朝希。曾安慰伤心的我的邮件朋友。B事件的凶手。没想到竟然是个男人……"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.5",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "穂坂和臣（ほさか・かずおみ）\n須未乃大学で一般教養を教えている講師。\nＢ事件の犠牲者、菱田桃代と付き合っていた\nという噂。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穗坂和臣。须未乃大学通识课讲师。传闻曾与B事件的被害人菱田桃代交往。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.6",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "穂坂和臣（ほさか・かずおみ）\n須未乃大学で一般教養を教えている講師。\n菱田桃代と付き合っていたという噂だが、本人は\n否定。２人目の犠牲者、湯川果歩は婚約者。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穗坂和臣。须未乃大学通识课讲师。传闻曾与菱田桃代交往，本人却否认。第2名被害人汤川果步是他的未婚妻。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.7",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "穂坂和臣（ほさか・かずおみ）\nＢ事件の２人目の犠牲者、湯川果歩は婚約者で、\n最初の犠牲者、菱田桃代は教え子だった。\n何者かに殺害される。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穗坂和臣。B事件的第2名被害人汤川果步是他的未婚妻，首名被害人菱田桃代是他的学生。遭到不明人士杀害。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.8",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "菱田桃代（ひしだ・ももよ）\nＢ事件の犠牲者。須未乃大学の学生。\n穂坂先生と付き合っていたという噂。\n妊娠中だった？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "菱田桃代。B事件的被害人，须未乃大学学生。传闻曾与穗坂老师交往。当时怀孕了？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.9",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "菱田桃代（ひしだ・ももよ）\nＢ事件の犠牲者。須未乃大学の学生。妊娠中に\n殺された。穂坂先生と付き合っていたという噂だが、\n別に本命がいたという情報も。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "菱田桃代。B事件的被害人，须未乃大学学生，怀孕期间被杀。传闻曾与穗坂老师交往，也有消息称，她另有真正喜欢的人。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.10",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "湯川果歩（ゆかわ・かほ）\n清桜女子大学の学生。Ｂ事件の２人目の犠牲者。\n清桜女子大学は穂坂先生が以前勤務していた\n大学だ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "汤川果步。清樱女子大学学生，B事件的第2名被害人。穗坂老师曾在清樱女子大学任教。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.11",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "湯川果歩（ゆかわ・かほ）\n清桜女子大学の学生。Ｂ事件の２人目の犠牲者。\n穂坂先生と婚約していた。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "汤川果步。清樱女子大学学生，B事件的第2名被害人。曾与穗坂老师订婚。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.12",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "羽黒薫（はぐろ・かおる）\n狗山女学校時代の同級生で、親友。\n神隠し事件を一緒に体験した。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "羽黑薰。狗山女子高中时期的同班同学，也是挚友。一起经历过神隐事件。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.13",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "羽黒薫（はぐろ・かおる）\n狗山女学校時代の同級生で、親友。\n神隠し事件で行方不明に……。\nでも、どこかで生きていると信じている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "羽黑薰。狗山女子高中时期的同班同学，也是挚友。在神隐事件中失踪……但我相信，她仍活在某个地方。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.14",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "羽黒薫（はぐろ・かおる）\n狗山女学校時代の同級生で、親友。\n神隠し事件で行方不明に……。\nでも、生きていてくれた！",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "羽黑薰。狗山女子高中时期的同班同学，也是挚友。在神隐事件中失踪……不过，她还活着！"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.15",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "佐倉智子（さくら・ともこ）\n狗山女学校時代の先輩。\n神隠し事件を一緒に体験した。\n今頃、どうしてるだろ……？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐仓智子。狗山女子高中时期的学姐。一起经历过神隐事件。现在过得怎么样呢……？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.16",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "下橋ミキ（しもはし・みき）\n狗山女学校時代の同級生。\n神隠し事件を一緒に体験した。\n元気にしてるかな？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "下桥美纪。狗山女子高中时期的同班同学。一起经历过神隐事件。不知道她还好吗？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.17",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "霧崎水明（きりさき・すいめい）\n私が通う須未乃大学で民俗学を教えている講師。\nオカルト関連の知識は半端ではなく、\n我が師匠とも言える人物だ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雾崎水明。在我就读的须未乃大学教授民俗学的讲师。有关神秘现象的知识深不可测，可以说是我的师父。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.18",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "霧崎先生の義理の弟さん。\nちょっぴり優柔不断な警視庁の刑事。\n怪異事件を担当しているので、\n私とは切っても切り離せない関係だ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雾崎老师没有血缘关系的弟弟。警视厅刑警，有一点优柔寡断。负责怪异事件，与我有着千丝万缕的联系。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.19",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "小暮宗一郎（こぐれ・そういちろう）\n怪人・デカおじさん。オカルトが苦手みたい。\nそのくせ霊感はあるらしい。うらやましい。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮宗一郎。怪人·大个子叔叔。似乎很怕神秘现象，却偏偏又有灵感，真让人羡慕。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.description.20",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "賀茂泉かごめ（かもいずみ・かごめ）\n……この人とは合わない。何もかも。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉戈薇。……我和这个人合不来。哪方面都合不来。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.0.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.0.choice.5228",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "編纂室の皆がＢ事件をもみ消した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "编纂室的大家掩盖了B事件"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.0.choice.5248",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "編纂室の皆はＢ事件を妄想や幻覚だと言う",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "编纂室的大家说B事件是妄念与幻觉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.0.choice.5249",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "編纂室の皆は言霊を調査していた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "编纂室的大家一直在调查言灵"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.0.choice.5252",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "編纂室の皆はＢ事件の捜査をしていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "编纂室的大家一直在调查B事件"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.1.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.1.choice.5205",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "霧崎先生は私に留年確定を言い渡した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雾崎老师宣布我确定要留级"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.1.choice.5215",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "霧崎先生は偏屈だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雾崎老师很古怪"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.1.choice.5225",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "霧崎先生は悪趣味な人だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雾崎老师是个恶趣味的人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.1.choice.5226",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "霧崎先生は都市伝説にのめりこんでいる",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雾崎老师沉迷于都市传说"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.1.choice.5240",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "霧崎先生は須未乃大学の教授だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雾崎老师是须未乃大学的教授"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.2.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.2.choice.5200",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "神隠し事件は狗山女学校で起こった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "神隐事件发生在狗山女子高中"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.2.choice.5204",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "狗山女学校は霧崎先生の母校だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "狗山女子高中是雾崎老师的母校"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.2.choice.5212",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "狗山女学校のある場所は訛りのある地方だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "狗山女子高中所在地区有特殊口音"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.2.choice.5213",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "狗山女学校は私のトラウマだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "狗山女子高中是我的心理阴影"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.2.choice.5224",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "Ｂ事件の中心は狗山女学校だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "B事件的中心是狗山女子高中"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.2.choice.5227",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "狗山女学校はオカルトジャーナリストの聖地",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "狗山女子高中是神秘现象记者的圣地"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.3.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.3.choice.5226",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "Ｂ事件は薫が作った都市伝説だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "B事件是薰编造的都市传说"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.3.choice.5228",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "Ｂ事件は薫にもみ消された",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "B事件被薰掩盖了"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.3.choice.5247",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "Ｂ事件は薫に抹消された",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "B事件被薰抹去了"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.3.choice.5248",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "Ｂ事件は薫から生まれた妄想や幻覚だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "B事件是由薰产生的妄念与幻觉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.3.choice.5249",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "Ｂ事件は薫の言霊から始まった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "B事件始于薰的言灵"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.4.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.4.choice.5210",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "薫はオカルトマニアだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "薰是神秘现象爱好者"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.4.choice.5211",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "薫はメル友だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "薰是邮件朋友"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.4.choice.5217",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "薫は親友だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "薰是挚友"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.4.choice.5222",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "薫は学生をしている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "薰还是学生"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.4.choice.5225",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "薫は悪趣味だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "薰有恶趣味"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.4.choice.5233",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "薫は清桜女子大学に通っている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "薰就读于清樱女子大学"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.5.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.5.choice.5212",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐倉先輩は訛りがある",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐仓学姐有口音"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.5.choice.5215",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐倉先輩は偏屈な人だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐仓学姐是个古怪的人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.5.choice.5217",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐倉先輩は親友だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐仓学姐是挚友"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.5.choice.5220",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐倉先輩は妊娠していた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐仓学姐曾经怀孕"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.5.choice.5231",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐倉先輩は魅力的な人だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐仓学姐曾是个有魅力的人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.5.choice.5245",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐倉先輩には恋人がいた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐仓学姐有过恋人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.5.choice.5248",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐倉先輩は妄想や幻覚にとり付かれている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐仓学姐被妄念与幻觉缠住了"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.6.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.6.choice.5205",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "桃代は穂坂のせいで留年確定だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桃代因为穗坂而确定要留级"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.6.choice.5223",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "桃代の子の親は穂坂だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桃代孩子的父亲是穗坂"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.6.choice.5230",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "桃代と穂坂の間にはトラブルがあった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桃代与穗坂之间有纠纷"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.6.choice.5231",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "桃代と穂坂は惹かれあっていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桃代与穗坂相互吸引"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.6.choice.5232",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "桃代と穂坂は憎しみあっていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桃代与穗坂相互憎恨"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.6.choice.5244",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "桃代と穂坂は婚約していた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桃代与穗坂订过婚"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.6.choice.5257",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "妊娠は桃代の言いがかりだった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "怀孕是桃代纠缠他的借口"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.7.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.7.choice.5221",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "穂坂は果歩を焼却炉へ押し込んだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穗坂把果步推进焚化炉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.7.choice.5230",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "穂坂は果歩をトラブルの元だと考えていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穗坂认为果步是麻烦的根源"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.7.choice.5233",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "穂坂と果歩は清桜女子大学で出会った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穗坂与果步在清樱女子大学相识"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.7.choice.5239",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "穂坂は果歩との関係を遊びと考えていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穗坂认为与果步的关系只是玩玩"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.7.choice.5240",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "穂坂と果歩は須未乃大学で出会った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穗坂与果步在须未乃大学相识"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.7.choice.5244",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "穂坂と果歩は婚約していた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穗坂与果步订过婚"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.8.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.8.choice.5220",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "桃代は朝希の子を妊娠していた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桃代怀了朝希的孩子"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.8.choice.5230",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "桃代は朝希に穂坂とのトラブルを持ち込んだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桃代将与穗坂的纠纷带给了朝希"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.8.choice.5243",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "桃代の本命は朝希だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桃代真正喜欢的人是朝希"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.8.choice.5244",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "桃代は朝希と婚約していた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桃代与朝希订过婚"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.8.choice.5245",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "桃代は朝希の恋人だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桃代是朝希的恋人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.9.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.9.choice.5230",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希は穂坂とのトラブルを嫌った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希不愿与穗坂起纠纷"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.9.choice.5232",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希は穂坂を憎んでいた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希憎恨穗坂"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.9.choice.5238",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希は穂坂の仏頂面が気に入らなかった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希看不惯穗坂板着脸"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.9.choice.5247",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希は穂坂を抹消した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希抹去了穗坂的存在"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.9.choice.5248",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "穂坂という人物は朝希の妄想である",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穗坂这个人是朝希的妄想"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.10.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.10.choice.5217",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希にとって果歩は親友だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "对朝希来说，果步是挚友"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.10.choice.5220",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希は果歩を妊娠させた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希让果步怀孕了"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.10.choice.5221",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希は果歩を焼却炉へ押し込んだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希把果步推进焚化炉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.10.choice.5231",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希は果歩の魅力にメロメロだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希深深迷恋果步的魅力"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.10.choice.5245",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希は果歩の恋人になりたい",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希想成为果步的恋人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.11.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.11.choice.5207",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希は私のレポートの為にＢ事件を犯した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希为了我的报告而犯下B事件"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.11.choice.5228",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希はＢ事件をもみ消した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希掩盖了B事件"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.11.choice.5229",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希は都市伝説に便乗して事件を続けた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希借都市传说之势继续犯案"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.11.choice.5231",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希はＢ事件の魅力に取り付かれていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希沉迷于B事件的魅力"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.11.choice.5232",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "朝希はＢ事件を憎悪していた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朝希憎恨B事件"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.8.field.11.choice.5235",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "Ｂ事件の全ての犯人は朝希だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "B事件的所有案件都是朝希所为"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

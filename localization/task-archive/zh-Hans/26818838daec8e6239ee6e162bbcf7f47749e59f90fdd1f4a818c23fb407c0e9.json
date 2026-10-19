@@ -1,0 +1,462 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 60001,
+    "title": "贺茂泉篇 · 座敷わらし",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 5554,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "definitions.84",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "岩手県を中心とした、東北地方の旧家に\n住むという家神。\n他の呼び名に、座敷ぼっこ・座敷小僧・\n座敷坊主・座敷娘・蔵ワラシ・蔵ボッコと\nいったものがある。 主な出現場所は名前の\nとおり座敷や、家の中でとりわけ神聖な場所が\n多い。 たまに蔵や納戸でも見られるという。\nその特徴は、憑き物と違って、一定の家系に\n永久的に付属せず、その行動も、枕返し、\n寝床に侵入など、悪戯程度のことで決して\n「たたり」や「呪い」のような事はしない。\n２人以上の男女が同時に棲みつくことも\nあるようで、その場合は「夫婦ではないか」と\n言われている。 その姿も子供であることが\n大半だが、侍、成女、僧侶の場合もある。\n童子ではない場合、家人に悪戯はしない。\n座敷童子のような類例は国内に数多くある。\n「紫波群昔話」福の神ヨゲナイ、\n「江刺群昔話」のウントク、\n「雪国の春」のヒョウトク、\n熊本県玉名群何関町のハナタレ小僧など、\n枚挙に暇がない。 座敷童子が家を出ると、\n途端に衰えると言われるが、その逆に家に\nやって来た話は少ない。 数少ない伝承を\n追うと、どうやら座敷童子は海神小童信仰が\nあるようだ。 水の神、龍宮に絡めた類話が\n多く、また座敷童子が伝えられた初期の\n容姿は、赤顔垂れ髪で河童との連想を\n強くするケースが多い。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据说居住在以岩手县为中心的东北地区老宅中的家神。别称有座敷坊子、座敷小僧、座敷坊主、座敷娘、仓童子、仓坊子等。正如名字所示，它多出现于座敷或家中特别神圣的地方，有时也会出现在仓库、储藏室。\n与附身之物不同，座敷童子不会永久依附某一家系。它的行为大多只是翻转枕头、钻进被窝一类的恶作剧，绝不施加祟害或诅咒。据说也会有2名以上、不同性别的座敷童子同时住下，这种情形常被说成是『夫妻』。形象大多为孩童，但也有武士、成年女子或僧侣；不是童子形象时，通常不会捉弄家人。\n日本各地都有类似传说。例如《紫波郡昔话》中的福神『约格奈』、《江刺郡昔话》中的『云德克』、《雪国之春》中的『孝德克』，以及熊本县玉名郡南关町的『流鼻涕小僧』，不胜枚举。\n据说座敷童子一旦离去，那户人家便会迅速衰败；相反，讲述它如何来到家中的故事却不多。从少数传说追溯，似乎可见海神小童信仰的痕迹。许多类似故事与水神、龙宫有关，早期描述中常见的红脸、垂发形象，也很容易令人联想到河童。"
+        },
+        "notes": "保留2名以上的源数量；ヨゲナイ、ウントク、ヒョウトク按读音转写，不杜撰汉字词源。源「紫波群／江刺群／玉名群何関町」按实际地名修为郡、南关町。"
+      },
+      {
+        "key": "terms.110",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "二口女",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "二口女"
+        },
+        "notes": "沿用妖怪专名，其汉字写法适用于简中。"
+      },
+      {
+        "key": "definitions.110",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "髪を蛇のように操り、後頭部に開いた口で\n食べ物を咀嚼するとされる女。\n\n先妻の子供が気に入らず、その手で殺めて\nしまった継母が継子の四十九日に夫の斧で\n後頭部に大きな傷を負ってしまう。 一命を取\nり留めたものの、傷口はいっこうに治らない。\n次第に傷口には唇と歯、舌のようなものが出来\n激痛を伴うようになる。 不思議と、食べ物を\n入れてやると痛みがやわらいだ為、口が二つ\nあるようだと言われた。 のちに、この口は\n「先妻の子を殺してしまった」とぶつぶつと\n言い出した。\n\n「絵本百物語」では、人間の悪心に起こる\n人面疽と同病の業病として紹介している。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据说能像操纵蛇一样操纵头发，用后脑上的嘴咀嚼食物的女人。\n一个继母厌恶丈夫前妻留下的孩子，亲手将其杀死。到了孩子死后的第四十九天，她被丈夫的斧头在后脑上劈出一道大伤口。虽然保住了性命，伤却始终不愈合，还渐渐生出了嘴唇、牙齿、舌头一般的东西，疼痛难忍。\n奇怪的是，只要给伤口喂食，疼痛就会减轻，于是人们说她长了两张嘴。后来，那张嘴竟开始不停嘀咕：『我杀了前妻的孩子。』\n《绘本百物语》将其描述为一种因恶念而生的业病，与人面疮同类。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.118",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ろくろ首",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "辘轳首"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.118",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "外見的には普通の人間と違いはないが、夜になる\nと首が長く伸びる妖怪。 ろくろ首には首が長く\n伸びるタイプと、頭部が胴体から離れるタイプ\nの二つがあり、後者は「飛頭蛮（ひとうばん）」\nや「抜け首」と呼ばれることも。\nろくろ首は首を伸ばして行灯の油を舐める程度\nだが、抜け首や飛頭蛮は、夜な夜な頭部だけで\n飛び出して行き、人の血を吸うとも言われている。\nしかし首のない間に胴体を隠されてしまうと、\n戻るところのない首は、地面に\n転がって死んでしまうと言う。\n\n一説によれば、ろくろ首は病を得て稼ぐこと\nの出来なくなった遊女が、せめてもの栄養に\nと病床から首を伸ばし、行灯の油を舐める姿\nから生まれた———と言われている。\nろくろ首の多くが女性の姿で描かれているのは、\nこのことと関係しているのかもしれない。\n江戸時代以降、見世物小屋には数多の\nろくろ首が登場したが、その殆どは黒幕で\n頭を隠した「胴体役」と、黒幕から頭だけを\n出した「頭役」、そして頭部と胴体を繋ぐ\n贋物の首によって作られた紛い物であった。\n１８００年代には上野の見世物小屋に、\n本物のろくろ首だという男性がいたそうだが、\nこれもただ人より首の長いだけの男だった\n———という説もある。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "外表与常人无异，到了夜里，脖子却会伸长的妖怪。辘轳首大致有两类：一类脖子伸得很长，另一类头颅直接离开身体。后一类也被称为『飞头蛮』或『拔首』。\n伸长脖子的辘轳首通常只会去舔行灯里的油；拔首、飞头蛮则据说会夜夜飞出，吸食人血。不过，如果趁头颅离开时藏起身体，无处可归的头就会滚落地面死去。\n另有一种说法，认为辘轳首源于生病后无法赚钱的游女：她们为了勉强补充营养，从病榻上伸长脖子去舔灯油——辘轳首多被画成女性，也许与此有关。\n江户时代以后，各类奇观棚中出现过许多『辘轳首』，但大多是骗局：一人用黑幕藏住头，扮演身体；另一人从黑幕后露出头，再用假脖子把两者连接起来。\n据说1800年代，上野一处奇观棚里曾有一名自称真正辘轳首的男子。不过，也有人说，他只是脖子比常人长一些罢了。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.122",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "手が冷たい人は心が暖かい",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "手凉的人，心是暖的"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.122",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "体温には大きく分けて二種類ある。 一つは体\nの中心の温度、中枢温（約３７度で一定に\n保たれている）と、手足などの表面温度（外気\nに影響され中枢温より低い）自律神経の働き\nにより、外部温度が低温になると、血流量が\n減少し、皮膚表面からの熱放散を最小限に\n抑えるようになる。\n\n手が冷たい人間は酵素の活性化が不十分で、\nその分の熱量が中枢温維持に使われており、\n手が暖かい人間は酵素反応が活発である。\nこのことから、手が冷たい人間は心（中枢温）\nが暖かいという噂は温度調整の原理と密接\nに関係する話であるということが分かる。\n\nちなみに中国で生まれた気功を用いる気功師達\nは、治療を始めると掌に熱を帯びてくる。\nこれはサーモグラフィーなどでもはっきりと\n測定出来、微弱な生体磁気の変化ではないか\nと言われているが、詳細はいまだに不明だ。\nだが、気功師でなくとも、気そのものを見る\nことは出来るという。 手法は人ぞれぞれに\nよって違うのだが、共通して言われているこ\nとは、「部屋は薄暗くすること」「白や黒、灰色\nなど単調な色調の壁を背景にすること」\n「手を広げ、指を開いてかざすこと」\n「視点を手や指に定めず、少しぼんやりさせる」\nといったところだろうか。 興味のある人は、\n試してみてはどうだろうか？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "体温大致可分为两类：体内深处的核心温度，通常维持在约37度；以及手脚等部位的表面温度，会受外界影响，一般低于核心温度。外界寒冷时，自主神经会调节血流，减少皮肤表面的散热。\n原作进一步提出，手凉者的酶活性不足，热量更多用于维持核心温度；手暖者的酶反应则较活跃，并以此将『手凉的人心暖』这句俗语，与温度调节联系起来。这是原作的解释，并不能据手温判断一个人的性情。\n此外，据说气功师在施行气功时，手掌会发热，热成像也能测出变化。原作提及有人将其归因于微弱的生物磁场变化，但具体原因未明。\n另有传闻称，即使不是气功师，也能看见『气』。方法各不相同，但常见说法包括：将房间光线调暗；以白、黑、灰等单一色调的墙为背景；摊开手掌、张开手指；不要把视线聚焦于手或手指，而是稍微放空。感兴趣的话，也可以把它当作一则传闻来体验。"
+        },
+        "notes": "保留37度及原作酶活性、气功说法，明确其叙述归属和传闻性质，不当成现代医学或已证实超能力结论。"
+      },
+      {
+        "key": "terms.123",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "双子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "双胞胎"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.123",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "双子の中でもとりわけ類似が多く見られる\n一卵性双生児を相手に、生体認証はどこま\nで通用するのだろうか？ 結論から言えば、\nこれはほぼ問題なく見分けることが出来るという。\n指紋は遺伝子以外の要因が大きい為、\n一卵性双生児でも類似した形状には\nなっても、完全には同一にはならない。 また、\n近頃増えてきた静脈認証も、遺伝情報には\n依らないものなので個人認証は可能である。\nさらには顔の皺、毛穴や肌のテクスチャ\nパターンを用いた顔認証ソフトを使えば、\n一卵性双生児の顔のみで識別することも\n出来る。 ただしＤＮＡ認証のみ、一卵性双生児\nのそれぞれを個人認証することは出来ない。\n\nまた一口に双子と言っても、一卵性双生児や\n二卵性双生児など、細かな分類が存在する。\nその他珍しい双子のパターンとしては、\n利き手やつむじ、時には臓器の位置が完全\nに左右対象になっているミラー・ツインや、\n二卵性双生児の父親がそれぞれ異なる、\n異父二卵性双生児などが上げられる。\n\nこのように、様々なパターンが存在する双子で\nあるが、卵子が分かれることで一卵性双生児\nが誕生するメカニズム自体は、いまだに解明\nされていない。 その為現在でも各研究\n機関で研究が進められている。\nまた都内には研究の為、双生児枠を設けた\n学校も実在する。\n\nちなみに、片方がケガをすると、もう一人も\n同じ所をケガをするという、双子特有の\nエピソードを、誰もが一度は耳にしている\nだろう。 ところが、これに関する見解を双生児\n研究学会の教授に尋ねても、科学的に説明\n出来ることは少なく、そのほとんどが偶然で\n片付けられてしまう。 同時にケガをする\nというのは、同じような状況や作業を好む\n為、ケガをするタイミングが合うのでは\nと言う推測が、目下のところ有力なようだ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "面对双胞胎中尤其相似的同卵双胞胎，生物识别究竟有多大作用？按原作介绍，多数方式仍能区分。指纹受遗传之外的因素影响很大，因此同卵双胞胎的指纹即使形态相近，也不会完全相同。静脉识别同样不单由遗传决定，可以用于辨认个人；使用皱纹、毛孔及皮肤纹理的面部识别技术，也能进一步区分。原作写作时则指出，常规DNA识别无法区分同卵双胞胎中的两人。\n双胞胎还可细分为同卵、异卵等类型。较罕见的情况包括惯用手、发旋，甚至内脏位置呈左右镜像的『镜像双胞胎』，以及两个孩子父亲不同的『异父异卵双胞胎』。\n尽管双胞胎有各种类型，同卵双胞胎为何由同一受精卵分裂形成，其机制仍有许多待研究之处。各研究机构持续展开相关研究，东京也确有为研究而设置双胞胎招生名额的学校。\n至于『一个受伤，另一个也会在同样位置受伤』之类的故事，想必不少人都听过。可是，向双胞胎研究者询问，多数例子并无足以证明神秘联系的科学依据，通常只能归为巧合。一种较合理的推测是，两人偏好相近的环境与活动，因此容易在相似时机受伤。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.114",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "カラス",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "乌鸦"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.114",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "野生動物は体の具合が悪くなると、天敵に\nやられないよう身を隠す習性がある。\nその為、死に至った場合でも、その死体が\n発見されることは少ない。 公園など樹木が\n茂った環境をねぐらにするカラスは、ことさら\nその死体を発見されることが少ない。\nまた、カラスがねぐらとする公園や神社に\nは掃除をする為の人間がいる場合が多いので、\n目立つ場所にあるものは片付けられてしまう為\nカラスの死体はないと思っている人は多い。\n\n\n２００２年の１年間集中してカラスの死体の\n記録を調べた年があり、それによると一年間で\n４４のカラスの死体が発見されている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "野生动物身体不适时，往往会躲藏起来，以免遭到天敌袭击。因此，即使死去，遗体也不容易被发现。乌鸦常栖息在公园等树木茂密的地方，尸体尤其难找。\n此外，乌鸦栖息的公园和神社通常有人清扫，落在显眼处的尸体很快就会被清走。因此，不少人便以为根本没有乌鸦的尸体。\n原作提到，有人在2002年用整整1年集中调查相关记录，结果那一年共发现44具乌鸦尸体。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.192",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "聞き分けのいい子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "听话的孩子"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.192",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "何度も叱っているのに、なかなかトイレでおしっこを\nしようとしない３歳の男の子。 業を煮やした\n母親が「トイレでおしっこをしないと、\nおちんちんをちょん切るわよ」と注意をした。\nある日、母親の外出中、またしても男の子は\nトイレでおしっこをしなかった。 それを見つけた\n姉が、弟のおちんちんをハサミでちょん切って\nしまったのだ。 実は先日の母親の言葉を\n姉はこっそり聞いていた——。\n\nこれは、シカゴ在住の元新聞記者、\nエドワード・ユーレンバーグから聞いた話である。\n他にも、「眠らないとおちんちんをちょん切るわよ」\nと脅された弟が実際に眠らず、母親のかわりに\n姉がおちんちんをちょん切ったという話もある。\nさらに、赤ちゃんが大人しく眠ってくれず、\n母親は思わず「静かにしないと窓から捨てちゃ\nうわよ」と叫んだ。 すると、本当に静かになった\nので部屋へ向かうと、窓の開いた部屋で娘が\nすやすやと眠っていた、という話もあるらしい。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这是一个关于3岁男孩的都市传说。男孩总是不肯去厕所小便，怎么责骂都没用。母亲终于失去耐心，吓唬他说：『再不去厕所，就把你的小鸡鸡剪掉！』\n一天，母亲外出，男孩又没去厕所。姐姐看见后，竟用剪刀剪掉了弟弟的生殖器。原来，她先前悄悄听见了母亲的话——\n原作称，这则故事听自居住在芝加哥的前报社记者爱德华·尤伦伯格。还有另一个版本：母亲用『不睡觉就剪掉』恐吓弟弟，弟弟果真不肯睡，姐姐便替母亲动了手。\n此外，还流传着这样的故事：婴儿迟迟不肯安静睡觉，母亲脱口而出，喊道：『再吵就把你扔出窗外！』不久，房间果然安静了。她走过去，只见窗户敞着，女儿已经安稳地睡着。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.105",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "指きりげんまん",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "拉钩约定"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.105",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "本来は、遊女が客の男に自分の気持ちのほどを\n見せる為に、証として小指を切り落とし渡したこと\nに由来する。\n\nここでは、遊びの延長にある、子供同士の約束\nの確かめ合いの行為をいう。\n「嘘ついたら針千本飲ます」と続く。\n約束そのものを指すこともある。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据说，这一习俗最初源于游女向客人证明心意：她们切下自己的小指，交给对方作为凭证。\n这里指的是从游戏延伸而来的、孩子们互相确认约定的动作。拉钩时会接着唱：『撒谎的人，要吞一千根针。』\n有时，这个词也用来指约定本身。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.155",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "子の刻",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "子时"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.155",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "深夜２３時から翌１時までの２時間。\n０時から２時とする説もある。\n\n釈迦が生まれた４月８日は灌仏会として、今に\n名残を残しているが、この日は釈迦のみならず、\n全ての仏が生まれた日であるとする説もあり、\nそれは４月８日の子の刻のことであったとも\n言われている。\n\n子の刻にまつわる話には、こんなものもある。\n\n愛媛県のとある村境にある道には、\n毎月２７日の子の刻に、烏帽子と狩衣を\nまとった貴人が、頭のない白馬に乗り、\n舎人を１人連れて通ると言われている。\nそれを見た者は熱に浮かされ死に至ると\n噂になった為、２７日の夜ともなれば、\nその道を通る者はなかったと言う。\nまた宮城県の某所には、行人根と呼ばれる\n暗礁があるそうだ。\nここにはかつて行人が１人住んでおり、\n夜毎、子の刻になると、この行人根で\n修行をしたと言う。\nそしていつしかその岩は、触れると祟りが\nあると恐れられるようになったそうだ。\n真夜中の闇が今より濃かった時代、\n子の刻は人ならぬモノの跋扈する一時\nだったのかもしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "通常指夜间23点至次日1点的两个小时，也有从0点至2点的说法。\n释迦牟尼诞生的4月8日，作为灌佛会的日期流传至今。另有说法认为，这一天不只是释迦牟尼，而是一切佛的诞生日；也有传说具体指向4月8日的子时。\n关于子时，还有这样的故事。\n爱媛县某条位于村界的小路，每月27日子时，都会有一位戴乌帽、穿狩衣的贵人，骑着无头白马，带着1名舍人经过。据说目击者会发高烧而死，因此每逢27日夜里，无人敢走那条路。\n另据传，宫城县某处有一块名叫『行人根』的暗礁。过去曾有1位修行者住在那里，每夜子时都会登礁修行。不知何时起，人们开始害怕那块礁石，相信碰触便会招来祟害。\n在午夜远比今日黑暗的年代，子时或许就是非人之物横行的时刻。"
+        },
+        "notes": "保留源文全部时刻、日期及数量；源开头２時間用中文两个小时。正文0点起的子时解释与本辞典第二说对应，无需擅改剧情。"
+      },
+      {
+        "key": "terms.127",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ＦＢＩ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "FBI"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.127",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "アメリカ合衆国の連邦捜査局で、地方警察\nと違い、州境に関係なく、国内全土で\n捜査活動が可能な機関。\nその歴史は古く、公式ホームページによると\n２００７年７月２６日に設立９９周年を迎えたようだ。\n\n合衆国刑法に基づき、活動中のテロリストと\n外国からのスパイの脅威に対して合衆国を守る\n役割を持っている。尚、主要な各国大使館には\nＦＢＩの者が常駐しているが、国外活動は\n禁止されている。\n\nＦＢＩに就職する方法、とりわけ特別捜査官に\nなる為には狭き門を潜らなければならない。\nＦＢＩのリクルート専用のホームページ\n”ＦＢＩｊｏｂｓ．ｃｏｍ”によると下記の条件が\n必須だ。 尚簡単な和訳なので\n正確な情報は各自確認して欲しい。\n\n・アメリカ合衆国か北マリアナ諸島の国民\n・２３歳以上で、特別捜査官任命時に\n３７歳以下であること。\n・４年生大学または、米教育長官が承認する\n国立研究組織に属していた実績のあるもの。\n・最低３年間、専門職の従事経験があること。\n・自動車免許の所有\n・任務のためにどこでも派遣することが可能な者\n\n———以上の条件が『最低限の』\n応募条件である。 さらに、応募資格を満たす\n為に下記にあげる事項を最低ひとつ満たす\n必要がある。\n\n・米国公認会計士資格保有、\nもしくは会計・金融関連の学位取得者、\nまたは２年以上の実務経験者\n・コンピュータ、ＩＴ関係のスペシャリスト\n・専門技術者\n・日本語、ハングル、中国語他、\n外国語に堪能な者\n・２年以上のスパイ活動経験者\n・２年以上の法曹実務経験者\n・２年以上の警察関係業務の経験者\n・２年以上の軍事実務経験者\n・生物学、化学及び生化学、法医学、数学、\n医学、保育、物理学に関する学位取得者\n\n———このような厳しい条件をかいくぐった\n者だけがＦＢＩの訓練校に入るのを許可される\nのであるが、その期間中の訓練のあまりの\n厳しさに脱落者が後を絶たないという。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "美国联邦调查局。与地方警察不同，它可在其职权范围内跨越州界，在全美开展调查。历史相当悠久，原作引用官网资料称，2007年7月26日迎来成立99周年。\n依据美国联邦刑法，它承担保护美国免受恐怖活动及外国间谍威胁等职责。主要国家的美国使馆设有FBI人员；原作将其海外权限概括为『禁止在国外开展活动』，具体执法与联络权限不能由这一句概括取代。\n进入FBI，尤其成为特别探员，门槛很高。以下是原作依据当时招聘网站FBIjobs.com作的简要转述，属于历史资料，不是现行招聘标准：\n• 美国或北马里亚纳群岛公民。\n• 年满23岁，获任特别探员时不超过37岁。\n• 具备4年制大学学历，或符合原文所述、获美国教育主管部门认可的相关教育资历。\n• 至少3年专业工作经验。\n• 持有驾驶执照。\n• 能接受因任务需要派往任何地点。\n这些还只是『最低』申请条件。原作另列出以下项目，要求至少符合一项：\n• 持美国注册会计师资格、会计或金融相关学位，或有2年以上相关实务经验。\n• 计算机、IT领域专家。\n• 专业技术人员。\n• 精通日语、韩语、汉语等外语。\n• 有2年以上间谍或情报活动经验。\n• 有2年以上法律实务经验。\n• 有2年以上警务工作经验。\n• 有2年以上军事实务经验。\n• 持生物学、化学、生物化学、法医学、数学、医学、保育或物理学相关学位。\n只有通过这些严格筛选，才能进入FBI训练学校。据说，训练期间要求极其严苛，仍不断有人退出。"
+        },
+        "notes": "保留原作2007历史口径、全部年龄与年限；原教育认可机构表述不清，保留含义边界，不编造现行学历政策。海外权限及保育、间谍经验均标明原作资料归属。"
+      },
+      {
+        "key": "terms.125",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "指輪泥棒",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "戒指窃贼"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.125",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ある日本人がインドを旅している途中、\n電車の窓から手を出して涼んでいると\n突然手に激痛が走った。\n慌てて手を見ると手首から先が切断されていた。\n\n\n緊急手術の末一命を取り留めた男は、\n警察の事情聴取の最中やけに警官が\nスムーズに話を進めるので疑問を持つ。\n\n「何故こちらが何も言わないのに、\nそんなに分かるのか」\n警官は、「お前の手首に巻かれた時計を\n盗もうと手首ごと切断したんだよ」と\n言ったそうだ。\n\n同じように、日本人の新婚カップルも\n狙われやすいようで、結婚指輪を盗む\n目的で指を切られる事件も起こっているようだ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一名日本男子在印度旅行时，把手伸出火车窗外乘凉，忽然感到剧痛。惊慌地查看，才发现手腕以下已被砍断。\n经过紧急手术，他保住了性命。接受警察问话时，对方竟熟练得仿佛早已知道经过，让他心生疑惑。\n『我还什么都没说，您怎么知道得这么清楚？』\n据说，警察回答：『对方是想抢你手腕上的表，所以干脆连手一起砍掉了。』\n同类传闻还称，日本新婚夫妇也容易成为目标，有人为抢结婚戒指而砍断手指。这些是都市传说中的说法。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.126",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "閻魔",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "阎魔"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.126",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "幽冥界の王、鬼世界の始祖鬼官の総統。\nもとはインドのヤマ神。 自ら他界に入り、\n衆生の為に冥界への道をつけたと記され、\n最初の死者として語られている。\n\n冥界の支配者とされ、死者は必ず彼の前に\n出て最初に対面するという。 しかし、仏教に\n受け入れられた後、ヤマは一方では夜摩天\nとして天界に、他方では閻魔として冥界に\n置かれるようになり、冥界の王として死者の\n生前の善行悪行を司る神となった。\n\n民間の伝承においては地獄の懲罪官的性格が\n強く、悪を裁くものとしてのみ語られる。\n「嘘をつくと舌を抜かれるという」という伝承も\nその一つで、懲悪の原点とされた。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "幽冥界之王，也是鬼界诸官的统领。其源头是印度神话中的阎摩（Yama）。传说他率先进入彼岸，为众生开辟通往冥界的道路，因此被称为最初的死者。\n阎摩被视作冥界的统治者，死者都必须首先来到他面前。被佛教吸收后，一方面以夜摩天之名出现在天界，另一方面又以阎魔的形象居于冥界，作为冥界之王，审理死者生前的善恶。\n在民间传说中，他更偏重于地狱审判官的形象，常被描述为惩恶者。『撒谎会被拔掉舌头』就是其中一则传说，也成为劝诫人们不要作恶的说法。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.141",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ハンムラビ法典",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "汉谟拉比法典"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.141",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "バビロニアの王、ハンムラビが発布した法典\nのこと。 本文は慣習法を成文化した２８２条から\nなる。 前書き・本文・後書きの三部構成に\nなっている。\n\n「目には目を、歯には歯を」で有名な法典で\nあるが、これはやられたらやりかえせ、という\n復讐を公認するものと見なされがちだ。\nしかしながら本来は倍返しなどの過剰な\n報復を禁じることにより、同等の懲罰を課す\n事で、報復行為の拡大を防ぐ趣旨で作られた\n条例である。 そのような意味において、\n刑法学においても近代刑法への歴史的に\n重要な規定といえる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "巴比伦国王汉谟拉比颁布的法典。正文将习惯法编为282条，整体由序言、正文和结语三部分组成。\n它以『以眼还眼，以牙还牙』闻名，也常因此被误认为是在公开认可『受到伤害便报复回去』。然而，其用意在于限制加倍等过度报复，通过相当程度的处罚，防止报复不断升级。\n从这一意义来看，它也是刑法史上通往近代刑法的重要规定。"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "terms.110",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "definitions.155",
+        "message": "Numbers differ; inspect time, date, amount or a documented source typo",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

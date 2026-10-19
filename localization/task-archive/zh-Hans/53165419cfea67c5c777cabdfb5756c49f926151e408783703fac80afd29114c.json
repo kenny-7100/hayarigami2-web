@@ -1,0 +1,2478 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 50001,
+    "title": "小暮篇 · エレベーター幽霊",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 2545,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.59201:3811528.86808b31",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"まず、これが一番大事なことだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自分が警視庁の１０階で、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"夜な夜な会っていたのは———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59201,
+          "page": "59201:3811528",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59201-27",
+          "step": 27
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59201:3811528.86808b31",
+            "step": 27,
+            "script": 59201,
+            "text": "まず、これが一番大事なことだ。\n自分が警視庁の１０階で、\n夜な夜な会っていたのは——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "首先，这是最重要的一点。我每晚在警视厅10楼见到的人——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59201:0.d73bdd2c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"→89202\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"→89203\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59201,
+          "page": "59201:0",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59201-36",
+          "step": 36
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59201:0.d73bdd2c",
+            "step": 36,
+            "script": 59201,
+            "text": "→89202\n→89203",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.0.4ee492e4",
+            "step": 36,
+            "script": 59201,
+            "text": "「御園雛子の幽霊だ」",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.1.8fc23c04",
+            "step": 36,
+            "script": 59201,
+            "text": "「御園雛子張本人だ」",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.2.55f08ff0",
+            "step": 36,
+            "script": 59201,
+            "text": "「一体誰だったのだろう？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "→89202\n→89203"
+            }
+          ]
+        },
+        "notes": "原版孤立源块59201的制作跳转文字，按源保留数字与箭头；非正常路线，不伪装为对白或删除证据。"
+      },
+      {
+        "key": "choice.59201.51.0.4ee492e4",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「御園雛子の幽霊だ」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59201,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59201-36",
+          "step": 36
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59201:0.d73bdd2c",
+            "step": 36,
+            "script": 59201,
+            "text": "→89202\n→89203",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.0.4ee492e4",
+            "step": 36,
+            "script": 59201,
+            "text": "「御園雛子の幽霊だ」",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.1.8fc23c04",
+            "step": 36,
+            "script": 59201,
+            "text": "「御園雛子張本人だ」",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.2.55f08ff0",
+            "step": 36,
+            "script": 59201,
+            "text": "「一体誰だったのだろう？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「是御园雏子的幽灵。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.59201.51.1.8fc23c04",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「御園雛子張本人だ」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59201,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59201-36",
+          "step": 36
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59201:0.d73bdd2c",
+            "step": 36,
+            "script": 59201,
+            "text": "→89202\n→89203",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.0.4ee492e4",
+            "step": 36,
+            "script": 59201,
+            "text": "「御園雛子の幽霊だ」",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.1.8fc23c04",
+            "step": 36,
+            "script": 59201,
+            "text": "「御園雛子張本人だ」",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.2.55f08ff0",
+            "step": 36,
+            "script": 59201,
+            "text": "「一体誰だったのだろう？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「就是御园雏子本人。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.59201.51.2.55f08ff0",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「一体誰だったのだろう？」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59201,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59201-36",
+          "step": 36
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59201:0.d73bdd2c",
+            "step": 36,
+            "script": 59201,
+            "text": "→89202\n→89203",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.0.4ee492e4",
+            "step": 36,
+            "script": 59201,
+            "text": "「御園雛子の幽霊だ」",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.1.8fc23c04",
+            "step": 36,
+            "script": 59201,
+            "text": "「御園雛子張本人だ」",
+            "translation": null
+          },
+          {
+            "key": "choice.59201.51.2.55f08ff0",
+            "step": 36,
+            "script": 59201,
+            "text": "「一体誰だったのだろう？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「究竟是谁呢？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59202:3801012.aaf68798",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"管理官・御園雛子は、１０年前の８月、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"警視庁内で消息を絶っている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"同時期に起きた爆発事故との関係は不明だが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"とにかく彼女は１０年後、遺体となって発見された。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59202,
+          "page": "59202:3801012",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59201-52",
+          "step": 52
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59202:3801012.aaf68798",
+            "step": 52,
+            "script": 59202,
+            "text": "管理官・御園雛子は、１０年前の８月、\n警視庁内で消息を絶っている。\n同時期に起きた爆発事故との関係は不明だが、\nとにかく彼女は１０年後、遺体となって発見された。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "御园雏子管理官在10年前的8月，于警视厅内失去踪迹。虽然不清楚是否与同期的爆炸事故有关，但总之，10年后被找到的她，已经是一具遗体。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59202:3801216.b97d0e1e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"つまり、生きた御園雛子に自分が会うことは\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"不可能なのだ。…………と考えると、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"おぞましい結論を導き出さざるを得なくなってしまう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59202,
+          "page": "59202:3801216",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59202-34",
+          "step": 34
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59202:3801216.b97d0e1e",
+            "step": 34,
+            "script": 59202,
+            "text": "つまり、生きた御園雛子に自分が会うことは\n不可能なのだ。…………と考えると、\nおぞましい結論を導き出さざるを得なくなってしまう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也就是说，我不可能见到活着的御园雏子。…………这么一想，就不得不得出那个可怕的结论。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59202:3801384.1945692e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"自分は全力でその考えを振り払い、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"新たな問題に意識を向けた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59202,
+          "page": "59202:3801384",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59202-42",
+          "step": 42
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59202:3801384.1945692e",
+            "step": 42,
+            "script": 59202,
+            "text": "自分は全力でその考えを振り払い、\n新たな問題に意識を向けた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我拼命甩开那个念头，把注意力转向新的问题。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59202:3801476.1009049f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"自分の前に現れたのが何者かはさておき、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一体なんの為に現れたのか——についてだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59202,
+          "page": "59202:3801476",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59202-48",
+          "step": 48
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59202:3801476.1009049f",
+            "step": 48,
+            "script": 59202,
+            "text": "自分の前に現れたのが何者かはさておき、\n一体なんの為に現れたのか——についてだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "先不管出现在我面前的是什么人，她究竟为什么出现——这是我要想的事。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59202:3801588.9b530b91",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"思うにそれは——\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"→89205\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59202,
+          "page": "59202:3801588",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59202-54",
+          "step": 54
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59202:3801588.9b530b91",
+            "step": 54,
+            "script": 59202,
+            "text": "思うにそれは——\n→89205",
+            "translation": null
+          },
+          {
+            "key": "choice.59202.69.0.95c20fbf",
+            "step": 54,
+            "script": 59202,
+            "text": "「御園雛子の遺体を発見してほしかったからだろう」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59202.69.1.30c3dfdb",
+            "step": 54,
+            "script": 59202,
+            "text": "「失踪事件の真相を解明してほしかったからだろう」「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我想，应该是——\n→89205"
+            }
+          ]
+        },
+        "notes": "孤立源块中含原版制作跳转标记，保留数字89205，不将标记改造成故事台词。"
+      },
+      {
+        "key": "choice.59202.69.0.95c20fbf",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「御園雛子の遺体を発見してほしかったからだろう」\",\"color\":0,\"size\":0},{\"text\":\"「菜单」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59202,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59202-54",
+          "step": 54
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59202:3801588.9b530b91",
+            "step": 54,
+            "script": 59202,
+            "text": "思うにそれは——\n→89205",
+            "translation": null
+          },
+          {
+            "key": "choice.59202.69.0.95c20fbf",
+            "step": 54,
+            "script": 59202,
+            "text": "「御園雛子の遺体を発見してほしかったからだろう」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59202.69.1.30c3dfdb",
+            "step": 54,
+            "script": 59202,
+            "text": "「失踪事件の真相を解明してほしかったからだろう」「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「大概是希望我找到御园雏子的遗体。」"
+            }
+          ]
+        },
+        "notes": "源尾「菜单」是 op217 图标旧占位，不译为选项文字。"
+      },
+      {
+        "key": "choice.59202.69.1.30c3dfdb",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「失踪事件の真相を解明してほしかったからだろう」\",\"color\":0,\"size\":0},{\"text\":\"「菜单」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59202,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59202-54",
+          "step": 54
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59202:3801588.9b530b91",
+            "step": 54,
+            "script": 59202,
+            "text": "思うにそれは——\n→89205",
+            "translation": null
+          },
+          {
+            "key": "choice.59202.69.0.95c20fbf",
+            "step": 54,
+            "script": 59202,
+            "text": "「御園雛子の遺体を発見してほしかったからだろう」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59202.69.1.30c3dfdb",
+            "step": 54,
+            "script": 59202,
+            "text": "「失踪事件の真相を解明してほしかったからだろう」「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「大概是希望我查明失踪事件的真相。」"
+            }
+          ]
+        },
+        "notes": "源尾「菜单」是 op217 图标旧占位，不译为选项文字。"
+      },
+      {
+        "key": "page.59205:3794516.175821ce",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"……何年も、誰にも見つかることなく\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"打ち捨てられた遺体を見つけてほしくて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"幽霊となった御園管理官が自分の前に現れた……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59205,
+          "page": "59205:3794516",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59202-70",
+          "step": 70
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59205:3794516.175821ce",
+            "step": 70,
+            "script": 59205,
+            "text": "……何年も、誰にも見つかることなく\n打ち捨てられた遺体を見つけてほしくて、\n幽霊となった御園管理官が自分の前に現れた……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……为了让人发现那具被遗弃多年、始终无人找到的遗体，化作幽灵的御园管理官才出现在我面前……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59203:3804728.9f3f26f2",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"……だが、管理官・御園雛子は１０年前に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"消息を絶ち、つい先日、自分が遺体を発見している。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"だとすれば、あれが御園雛子本人である\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"はずがないのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59203,
+          "page": "59203:3804728",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59203-24",
+          "step": 24
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59203:3804728.9f3f26f2",
+            "step": 24,
+            "script": 59203,
+            "text": "……だが、管理官・御園雛子は１０年前に\n消息を絶ち、つい先日、自分が遺体を発見している。\nだとすれば、あれが御園雛子本人である\nはずがないのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……可是，御园雏子管理官在10年前失踪，而就在前几天，我找到了她的遗体。既然如此，那个人就不可能是御园雏子本人。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59203:3804916.512b4140",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"となると、あれはやはり幽霊…………！？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59203,
+          "page": "59203:3804916",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59203-34",
+          "step": 34
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59203:3804916.512b4140",
+            "step": 34,
+            "script": 59203,
+            "text": "となると、あれはやはり幽霊…………！？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这么说，她果然是幽灵…………！？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59203:3804980.3cc66739",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"自然に導き出された結論に、身の毛がよだつ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"恐ろしい考えからなんとか逃げ出そうと、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自分は新たなる疑問についてを考えることにした。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59203,
+          "page": "59203:3804980",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59203-38",
+          "step": 38
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59203:3804980.3cc66739",
+            "step": 38,
+            "script": 59203,
+            "text": "自然に導き出された結論に、身の毛がよだつ。\n恐ろしい考えからなんとか逃げ出そうと、\n自分は新たなる疑問についてを考えることにした。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "顺理成章得出的结论，让我毛骨悚然。为了设法逃离可怕的念头，我决定想一想新的疑问。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59203:3805152.1009049f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"自分の前に現れたのが何者かはさておき、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一体なんの為に現れたのか——についてだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59203,
+          "page": "59203:3805152",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59203-46",
+          "step": 46
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59203:3805152.1009049f",
+            "step": 46,
+            "script": 59203,
+            "text": "自分の前に現れたのが何者かはさておき、\n一体なんの為に現れたのか——についてだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "先不管出现在我面前的是什么人，她究竟为什么出现——这是我要想的事。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59203:3805264.9b530b91",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"思うにそれは——\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"→89205\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59203,
+          "page": "59203:3805264",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59203-52",
+          "step": 52
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59203:3805264.9b530b91",
+            "step": 52,
+            "script": 59203,
+            "text": "思うにそれは——\n→89205",
+            "translation": null
+          },
+          {
+            "key": "choice.59203.67.0.95c20fbf",
+            "step": 52,
+            "script": 59203,
+            "text": "「御園雛子の遺体を発見してほしかったからだろう」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59203.67.1.30c3dfdb",
+            "step": 52,
+            "script": 59203,
+            "text": "「失踪事件の真相を解明してほしかったからだろう」「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我想，应该是——\n→89205"
+            }
+          ]
+        },
+        "notes": "孤立源块保留原版制作跳转标记89205；不计为正常路线对白。"
+      },
+      {
+        "key": "choice.59203.67.0.95c20fbf",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「御園雛子の遺体を発見してほしかったからだろう」\",\"color\":0,\"size\":0},{\"text\":\"「菜单」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59203,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59203-52",
+          "step": 52
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59203:3805264.9b530b91",
+            "step": 52,
+            "script": 59203,
+            "text": "思うにそれは——\n→89205",
+            "translation": null
+          },
+          {
+            "key": "choice.59203.67.0.95c20fbf",
+            "step": 52,
+            "script": 59203,
+            "text": "「御園雛子の遺体を発見してほしかったからだろう」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59203.67.1.30c3dfdb",
+            "step": 52,
+            "script": 59203,
+            "text": "「失踪事件の真相を解明してほしかったからだろう」「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「大概是希望我找到御园雏子的遗体。」"
+            }
+          ]
+        },
+        "notes": "源尾「菜单」是 op217 图标旧占位，不译为选项文字。"
+      },
+      {
+        "key": "choice.59203.67.1.30c3dfdb",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「失踪事件の真相を解明してほしかったからだろう」\",\"color\":0,\"size\":0},{\"text\":\"「菜单」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59203,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59203-52",
+          "step": 52
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59203:3805264.9b530b91",
+            "step": 52,
+            "script": 59203,
+            "text": "思うにそれは——\n→89205",
+            "translation": null
+          },
+          {
+            "key": "choice.59203.67.0.95c20fbf",
+            "step": 52,
+            "script": 59203,
+            "text": "「御園雛子の遺体を発見してほしかったからだろう」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59203.67.1.30c3dfdb",
+            "step": 52,
+            "script": 59203,
+            "text": "「失踪事件の真相を解明してほしかったからだろう」「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「大概是希望我查明失踪事件的真相。」"
+            }
+          ]
+        },
+        "notes": "源尾「菜单」是 op217 图标旧占位，不译为选项文字。"
+      },
+      {
+        "key": "page.59204:3812148.1222f2ba",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"結局あれは誰だったのだろう……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59204,
+          "page": "59204:3812148",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59204-24",
+          "step": 24
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59204:3812148.1222f2ba",
+            "step": 24,
+            "script": 59204,
+            "text": "結局あれは誰だったのだろう……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "到头来，那究竟是谁呢……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59204:3812204.58c9eacc",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"本物の管理官、御園雛子は\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"１０年前の夏に消息を絶ち、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"先日自分が遺体を発見するまで\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"行方不明のままだったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59204,
+          "page": "59204:3812204",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59204-28",
+          "step": 28
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59204:3812204.58c9eacc",
+            "step": 28,
+            "script": 59204,
+            "text": "本物の管理官、御園雛子は\n１０年前の夏に消息を絶ち、\n先日自分が遺体を発見するまで\n行方不明のままだったのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "真正的御园雏子管理官，在10年前的夏天失去踪迹，直到前几天我发现遗体，一直下落不明。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59204:3812360.2d15047",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかも遺体の状況からして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"亡くなったのは昨日今日の話とも思えない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"つまり、自分が生きた御園管理官と\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"接触するのはほぼ不可能のはずなのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59204,
+          "page": "59204:3812360",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59204-38",
+          "step": 38
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59204:3812360.2d15047",
+            "step": 38,
+            "script": 59204,
+            "text": "しかも遺体の状況からして、\n亡くなったのは昨日今日の話とも思えない。\nつまり、自分が生きた御園管理官と\n接触するのはほぼ不可能のはずなのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而且，从遗体的状况来看，她绝不是最近才死去的。也就是说，我几乎不可能接触到活着的御园管理官。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59204:3812544.26b3901b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、そうなると自分が会っていたのが\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"誰なのかという、根本的な疑問が解消出来ない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いや、心当たりがないことはない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"原朋子だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59204,
+          "page": "59204:3812544",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59204-48",
+          "step": 48
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59204:3812544.26b3901b",
+            "step": 48,
+            "script": 59204,
+            "text": "だが、そうなると自分が会っていたのが\n誰なのかという、根本的な疑問が解消出来ない。\nいや、心当たりがないことはない。\n原朋子だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可这样一来，『我见到的人是谁』这个最根本的疑问，仍然无法解开。不，也不是毫无线索。原朋子。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59204:3812716.79be0c4d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"彼女は本物の御園管理官が見つけ出してきた……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"→89207\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59204,
+          "page": "59204:3812716",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59204-58",
+          "step": 58
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59204:3812716.79be0c4d",
+            "step": 58,
+            "script": 59204,
+            "text": "彼女は本物の御園管理官が見つけ出してきた……\n→89207",
+            "translation": null
+          },
+          {
+            "key": "choice.59204.72.0.e691262",
+            "step": 58,
+            "script": 59204,
+            "text": "「サイコメトラーだ」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59204.72.1.37e9373",
+            "step": 58,
+            "script": 59204,
+            "text": "「念動力者だ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她是真正的御园管理官找到的……\n→89207"
+            }
+          ]
+        },
+        "notes": "孤立源块中的制作跳转标记89207原样保留，不添加故事含义。"
+      },
+      {
+        "key": "choice.59204.72.0.e691262",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「サイコメトラーだ」\",\"color\":0,\"size\":0},{\"text\":\"「菜单」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59204,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59204-58",
+          "step": 58
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59204:3812716.79be0c4d",
+            "step": 58,
+            "script": 59204,
+            "text": "彼女は本物の御園管理官が見つけ出してきた……\n→89207",
+            "translation": null
+          },
+          {
+            "key": "choice.59204.72.0.e691262",
+            "step": 58,
+            "script": 59204,
+            "text": "「サイコメトラーだ」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59204.72.1.37e9373",
+            "step": 58,
+            "script": 59204,
+            "text": "「念動力者だ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「触物感知能力者。」"
+            }
+          ]
+        },
+        "notes": "源尾「菜单」为 op217 图标旧占位；术语与本篇辞典统一为触物感知。"
+      },
+      {
+        "key": "choice.59204.72.1.37e9373",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「念動力者だ」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59204,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59204-58",
+          "step": 58
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59204:3812716.79be0c4d",
+            "step": 58,
+            "script": 59204,
+            "text": "彼女は本物の御園管理官が見つけ出してきた……\n→89207",
+            "translation": null
+          },
+          {
+            "key": "choice.59204.72.0.e691262",
+            "step": 58,
+            "script": 59204,
+            "text": "「サイコメトラーだ」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59204.72.1.37e9373",
+            "step": 58,
+            "script": 59204,
+            "text": "「念動力者だ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「念动力者。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59207:3805776.3ee86a3e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そう、原朋子は御園管理官が見つけ出してきた\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"サイコメトラーであった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59207,
+          "page": "59207:3805776",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59204-73",
+          "step": 73
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59207:3805776.3ee86a3e",
+            "step": 73,
+            "script": 59207,
+            "text": "そう、原朋子は御園管理官が見つけ出してきた\nサイコメトラーであった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "没错，原朋子是真正的御园管理官找到的触物感知能力者。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59205:3794680.f23b1f8a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そう考えると、御園管理官と\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"行動をともにしていた間の疑問にも納得がいく。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59205,
+          "page": "59205:3794680",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59205-32",
+          "step": 32
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59205:3794680.f23b1f8a",
+            "step": 32,
+            "script": 59205,
+            "text": "そう考えると、御園管理官と\n行動をともにしていた間の疑問にも納得がいく。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这样想来，和那位御园管理官一起行动时的那些疑问，也都说得通了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59205:3794784.e7997b23",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"何故事件の概要について、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"詳しいことを知らせようとはしてくれなかったのか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何故人目に触れることを恐れたのか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59205,
+          "page": "59205:3794784",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59205-38",
+          "step": 38
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59205:3794784.e7997b23",
+            "step": 38,
+            "script": 59205,
+            "text": "何故事件の概要について、\n詳しいことを知らせようとはしてくれなかったのか。\n何故人目に触れることを恐れたのか。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "为什么她不肯详细说明案件概要？为什么害怕被别人看见？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59205:3794932.ee29cec8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"何故所持していた手帳が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"古いデザインのものだったのか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59205,
+          "page": "59205:3794932",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59205-46",
+          "step": 46
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59205:3794932.ee29cec8",
+            "step": 46,
+            "script": 59205,
+            "text": "何故所持していた手帳が、\n古いデザインのものだったのか。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "为什么她持有的警察手册，是旧式样的？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59205:3795020.7edf2fdb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「そうか……そうだったのか…………」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"謎は、氷が解けるように音もなく、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"静かに消え去っていった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59205,
+          "page": "59205:3795020",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59205-52",
+          "step": 52
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59205:3795020.7edf2fdb",
+            "step": 52,
+            "script": 59205,
+            "text": "「そうか……そうだったのか…………」\n謎は、氷が解けるように音もなく、\n静かに消え去っていった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「原来如此……是这样啊…………」\n谜团像冰融化一样，无声无息地消散了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59205:3795152.1d6793b3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それは同時に、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自分が管理官と過ごした楽しくも奇妙な日々の、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"終わりを告げるものでもあった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59205,
+          "page": "59205:3795152",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59205-60",
+          "step": 60
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59205:3795152.1d6793b3",
+            "step": 60,
+            "script": 59205,
+            "text": "それは同時に、\n自分が管理官と過ごした楽しくも奇妙な日々の、\n終わりを告げるものでもあった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "与此同时，这也宣告了我与管理官共度的那些既快乐又奇妙的日子，走到了尽头。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59206:3802100.80df1fd",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"御園管理官は、１０年もの長い歳月、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"行方も知れずなにが起こったのか\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"理解されることもなく、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ただひとりで朽ちていったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59206,
+          "page": "59206:3802100",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59206-24",
+          "step": 24
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59206:3802100.80df1fd",
+            "step": 24,
+            "script": 59206,
+            "text": "御園管理官は、１０年もの長い歳月、\n行方も知れずなにが起こったのか\n理解されることもなく、\nただひとりで朽ちていったのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "整整10年，御园管理官下落不明，无人知道她身上发生了什么，只能独自腐朽。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59206:3802272.a8f78d01",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それはきっと、自分の想像を遥かに超える\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"寂しい年月だったのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59206,
+          "page": "59206:3802272",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59206-34",
+          "step": 34
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59206:3802272.a8f78d01",
+            "step": 34,
+            "script": 59206,
+            "text": "それはきっと、自分の想像を遥かに超える\n寂しい年月だったのだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那一定是一段远超我想象的、寂寞的岁月。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59206:3802372.dde3c190",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが残念ながら、自分も管理官の身に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"なにが起きたかを正しく知ることはできなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"もっと自分に、捜査官としての能力があれば、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"違った結末を向かえていたのかもしれない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59206,
+          "page": "59206:3802372",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59206-40",
+          "step": 40
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59206:3802372.dde3c190",
+            "step": 40,
+            "script": 59206,
+            "text": "だが残念ながら、自分も管理官の身に\nなにが起きたかを正しく知ることはできなかった。\nもっと自分に、捜査官としての能力があれば、\n違った結末を向かえていたのかもしれない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可惜，就连我也没能准确查清，她身上到底发生了什么。如果我作为调查人员的能力再强一些，或许就能迎来不同的结局。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59206:3802588.3d1606db",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、全ては終わってしまったことなのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"御園管理官の優しい笑顔を、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"少しばかりの後悔とともに胸の奥へしまいこむ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59206,
+          "page": "59206:3802588",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59206-50",
+          "step": 50
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59206:3802588.3d1606db",
+            "step": 50,
+            "script": 59206,
+            "text": "だが、全ては終わってしまったことなのだ。\n御園管理官の優しい笑顔を、\n少しばかりの後悔とともに胸の奥へしまいこむ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "但一切都已经结束了。我将御园管理官温柔的笑容，连同一点遗憾，一起收进心底。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59206:3802740.251c657d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「さて、いつもの毎日に戻るでありますよ———！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59206,
+          "page": "59206:3802740",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59206-58",
+          "step": 58
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59206:3802740.251c657d",
+            "step": 58,
+            "script": 59206,
+            "text": "「さて、いつもの毎日に戻るでありますよ——！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「好了，该回到平常的日子了——！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59207:3805876.3e3a27d1",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"…………。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"………………。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それがなんだと言うのだろう？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59207,
+          "page": "59207:3805876",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59207-30",
+          "step": 30
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59207:3805876.3e3a27d1",
+            "step": 30,
+            "script": 59207,
+            "text": "…………。\n………………。\nそれがなんだと言うのだろう？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "…………。\n………………。\n所以，那又怎么样呢？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59207:3805972.c0ed2065",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"よくよく考えてみれば、自分はサイコメトラーなる\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"言葉の意味さえよく分からないのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"目のつけどころは間違っていなかった\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"と思うのだが……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59207,
+          "page": "59207:3805972",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59207-38",
+          "step": 38
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59207:3805972.c0ed2065",
+            "step": 38,
+            "script": 59207,
+            "text": "よくよく考えてみれば、自分はサイコメトラーなる\n言葉の意味さえよく分からないのだ。\n目のつけどころは間違っていなかった\nと思うのだが……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "仔细想想，我连『触物感知能力者』是什么意思都不太明白。虽然觉得着眼点应该没错……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59207:3806160.93c48a8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しばらくあれこれと思案を巡らせていたが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"突然、自分はそれをやめてしまった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"とても無意味な詮索をしていることに気付いたからだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59207,
+          "page": "59207:3806160",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59207-48",
+          "step": 48
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59207:3806160.93c48a8",
+            "step": 48,
+            "script": 59207,
+            "text": "しばらくあれこれと思案を巡らせていたが、\n突然、自分はそれをやめてしまった。\nとても無意味な詮索をしていることに気付いたからだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我想来想去，过了一会儿，却突然停了下来。因为我发现，自己正在进行一场毫无意义的探究。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59207:3806328.1bcb9ff2",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"御園管理官の死因がどうだとか、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"原朋子がそれにどう関わっていただとかは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どうでもいいことではないか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59207,
+          "page": "59207:3806328",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59207-56",
+          "step": 56
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59207:3806328.1bcb9ff2",
+            "step": 56,
+            "script": 59207,
+            "text": "御園管理官の死因がどうだとか、\n原朋子がそれにどう関わっていただとかは、\nどうでもいいことではないか。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "御园管理官究竟因何而死，原朋子又怎样牵涉其中，这些不都已经无所谓了吗？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59207:3806468.69f3d18a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"いや、警察官としてそれを言っては\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いけないのかもしれないが……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"だが、自分にはもっと大事なものが\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あったことに気付いたのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59207,
+          "page": "59207:3806468",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59207-64",
+          "step": 64
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59207:3806468.69f3d18a",
+            "step": 64,
+            "script": 59207,
+            "text": "いや、警察官としてそれを言っては\nいけないのかもしれないが……。\nだが、自分にはもっと大事なものが\nあったことに気付いたのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不，身为警察，也许不该这么说……可是，我发现，对自己而言，还有更重要的东西。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59207:3806640.f2f46bf7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それは御園管理官と過ごした短くも濃密な時間だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"彼女の正体が誰であれ、あの時交わした言葉や、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"感じた暖かな空気が嘘になるわけではない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59207,
+          "page": "59207:3806640",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59207-74",
+          "step": 74
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59207:3806640.f2f46bf7",
+            "step": 74,
+            "script": 59207,
+            "text": "それは御園管理官と過ごした短くも濃密な時間だ。\n彼女の正体が誰であれ、あの時交わした言葉や、\n感じた暖かな空気が嘘になるわけではない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那就是与御园管理官共度的、短暂却充实的时光。无论她真实身份是什么，当时交谈过的话语、感受到的温暖，都不会因此变成谎言。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59207:3806812.c4ab855b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"今はあれこれ詮索するよりも、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いつか失われるであろうそれらの記憶を、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何度も何度もなぞるほうが大事に思えて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自分はぴたりと思考を停止させた———。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59207,
+          "page": "59207:3806812",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59207-82",
+          "step": 82
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59207:3806812.c4ab855b",
+            "step": 82,
+            "script": 59207,
+            "text": "今はあれこれ詮索するよりも、\nいつか失われるであろうそれらの記憶を、\n何度も何度もなぞるほうが大事に思えて、\n自分はぴたりと思考を停止させた——。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "比起现在刨根问底，反复回味那些总有一天也许会淡去的记忆，对我来说更重要。于是，我就此停下了思考——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59208:3813272.42f271c8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"原朋子はサイコメトラーとかいう、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"なんだか得体の知れないものとして\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"御園管理官に目をつけられたようだが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自分は念動力者というのが気にかかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59208,
+          "page": "59208:3813272",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59208-24",
+          "step": 24
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59208:3813272.42f271c8",
+            "step": 24,
+            "script": 59208,
+            "text": "原朋子はサイコメトラーとかいう、\nなんだか得体の知れないものとして\n御園管理官に目をつけられたようだが、\n自分は念動力者というのが気にかかった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "原朋子似乎因为拥有触物感知那种难以捉摸的能力，而受到御园管理官关注。但让我在意的，是她还是一位念动力者。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59208:3813460.c2c42b42",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ポイントは———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59208,
+          "page": "59208:3813460",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59208-34",
+          "step": 34
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59208:3813460.c2c42b42",
+            "step": 34,
+            "script": 59208,
+            "text": "ポイントは——",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.0.4f772591",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の両親だ」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.1.c0a99ce4",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の経歴だ」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.2.9e78d775",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の外見だ」「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "关键在于——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.59208.51.0.4f772591",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「原朋子の両親だ」\",\"color\":0,\"size\":0},{\"text\":\"「菜单」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59208,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59208-34",
+          "step": 34
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59208:3813460.c2c42b42",
+            "step": 34,
+            "script": 59208,
+            "text": "ポイントは——",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.0.4f772591",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の両親だ」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.1.c0a99ce4",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の経歴だ」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.2.9e78d775",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の外見だ」「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「原朋子的父母。」"
+            }
+          ]
+        },
+        "notes": "源尾「菜单」是 op217 图标旧占位，不属于选项内容。"
+      },
+      {
+        "key": "choice.59208.51.1.c0a99ce4",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「原朋子の経歴だ」\",\"color\":0,\"size\":0},{\"text\":\"「菜单」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59208,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59208-34",
+          "step": 34
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59208:3813460.c2c42b42",
+            "step": 34,
+            "script": 59208,
+            "text": "ポイントは——",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.0.4f772591",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の両親だ」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.1.c0a99ce4",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の経歴だ」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.2.9e78d775",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の外見だ」「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「原朋子的经历。」"
+            }
+          ]
+        },
+        "notes": "源尾「菜单」是 op217 图标旧占位，不属于选项内容。"
+      },
+      {
+        "key": "choice.59208.51.2.9e78d775",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"「原朋子の外見だ」\",\"color\":0,\"size\":0},{\"text\":\"「菜单」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59208,
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59208-34",
+          "step": 34
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59208:3813460.c2c42b42",
+            "step": 34,
+            "script": 59208,
+            "text": "ポイントは——",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.0.4f772591",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の両親だ」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.1.c0a99ce4",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の経歴だ」「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.59208.51.2.9e78d775",
+            "step": 34,
+            "script": 59208,
+            "text": "「原朋子の外見だ」「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「原朋子的外貌。」"
+            }
+          ]
+        },
+        "notes": "源尾「菜单」是 op217 图标旧占位，不属于选项内容。"
+      },
+      {
+        "key": "page.59209:3803056.412dddf1",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"彼女の両親は幼いころに亡くなっているが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その原因も彼女の能力の暴発だという説もあった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"つまり……原朋子がなにかわけがあって\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"警視庁内でその能力を暴発させてしまう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59209,
+          "page": "59209:3803056",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59209-24",
+          "step": 24
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59209:3803056.412dddf1",
+            "step": 24,
+            "script": 59209,
+            "text": "彼女の両親は幼いころに亡くなっているが、\nその原因も彼女の能力の暴発だという説もあった。\nつまり……原朋子がなにかわけがあって\n警視庁内でその能力を暴発させてしまう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她的父母在她幼年时去世，也有说法认为，那是她的能力失控造成的。也就是说……原朋子因为某种原因，在警视厅内失控，释放了那股力量。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59209:3803268.45f513f0",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それが１０年前の爆発事故の真相だったとしたら、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どうだろう……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59209,
+          "page": "59209:3803268",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59209-34",
+          "step": 34
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59209:3803268.45f513f0",
+            "step": 34,
+            "script": 59209,
+            "text": "それが１０年前の爆発事故の真相だったとしたら、\nどうだろう……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "假如这就是10年前那场爆炸事故的真相，会怎么样……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59209:3803364.88b24c48",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"科学的かどうかはさておき、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ひとまず納得することはできそうだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59209,
+          "page": "59209:3803364",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59209-40",
+          "step": 40
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59209:3803364.88b24c48",
+            "step": 40,
+            "script": 59209,
+            "text": "科学的かどうかはさておき、\nひとまず納得することはできそうだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "先不论是否科学，至少暂时能说得通。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59209:3803460.b9f7a567",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、これはあくまで推測であり、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"しかも自分が顔を合わせていた御園管理官が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"誰だったのか———という疑問の答えには\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"なっていない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59209,
+          "page": "59209:3803460",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59209-46",
+          "step": 46
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59209:3803460.b9f7a567",
+            "step": 46,
+            "script": 59209,
+            "text": "だが、これはあくまで推測であり、\nしかも自分が顔を合わせていた御園管理官が\n誰だったのか——という疑問の答えには\nなっていない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，这终究只是推测，而且仍未回答那个问题——与我见面的『御园管理官』，究竟是谁？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59209:3803636.2bbfc9f9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"けれどこれ以上のことは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今の自分には分かりそうもなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いや……分からなくてもよかったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59209,
+          "page": "59209:3803636",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59209-56",
+          "step": 56
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59209:3803636.2bbfc9f9",
+            "step": 56,
+            "script": 59209,
+            "text": "けれどこれ以上のことは、\n今の自分には分かりそうもなかった。\nいや……分からなくてもよかったのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "但凭现在的我，恐怕也无法再知道更多。不……也许不知道，反而就够了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59209:3803772.aa0dc41",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"自分はきっと、御園管理官の希望に添うことが\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"でききたのだと、感じられたのだから。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59209,
+          "page": "59209:3803772",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59209-64",
+          "step": 64
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59209:3803772.aa0dc41",
+            "step": 64,
+            "script": 59209,
+            "text": "自分はきっと、御園管理官の希望に添うことが\nでききたのだと、感じられたのだから。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "因为我能感觉到，自己一定已经实现了御园管理官的愿望。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59210:3807252.bdd46546",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"原朋子は両親を早くに亡くし、施設で育ったという。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"確か御園管理官も、施設で育ったと語っていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59210,
+          "page": "59210:3807252",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59210-24",
+          "step": 24
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59210:3807252.bdd46546",
+            "step": 24,
+            "script": 59210,
+            "text": "原朋子は両親を早くに亡くし、施設で育ったという。\n確か御園管理官も、施設で育ったと語っていた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "据说，原朋子早早失去双亲，在福利机构长大。记得御园管理官也说过，她是在福利机构里长大的。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59210:3807376.77d5aaa",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"となると、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"二人は同じ施設で育った仲だったのだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59210,
+          "page": "59210:3807376",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59210-30",
+          "step": 30
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59210:3807376.77d5aaa",
+            "step": 30,
+            "script": 59210,
+            "text": "となると、\n二人は同じ施設で育った仲だったのだろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这么说，两人会不会是在同一个机构一起长大的？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59210:3807464.a29a6e0b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"可能性としては否定出来ないが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"肯定するだけの材料もない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"残念だが、ここで手詰まりになってしまったようだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59210,
+          "page": "59210:3807464",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59210-36",
+          "step": 36
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59210:3807464.a29a6e0b",
+            "step": 36,
+            "script": 59210,
+            "text": "可能性としては否定出来ないが、\n肯定するだけの材料もない。\n残念だが、ここで手詰まりになってしまったようだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这种可能性不能否定，可也没有足够材料支持。遗憾的是，看来到这里就走不下去了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59210:3807612.9ccafb2",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それに…………今更自分の前に現れたのが誰だとか、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"なにをしてほしかったのだろうとか、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そんなことは些細なことだった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59210,
+          "page": "59210:3807612",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59210-44",
+          "step": 44
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59210:3807612.9ccafb2",
+            "step": 44,
+            "script": 59210,
+            "text": "それに…………今更自分の前に現れたのが誰だとか、\nなにをしてほしかったのだろうとか、\nそんなことは些細なことだった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而且…………事到如今，出现在我面前的人究竟是谁、希望我做什么，这些都已经只是细枝末节。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59210:3807768.f3c312e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"自分が果たすべき役割を果たしたからこそ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"管理官は自分の前から姿を消したのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59210,
+          "page": "59210:3807768",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59210-52",
+          "step": 52
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59210:3807768.f3c312e",
+            "step": 52,
+            "script": 59210,
+            "text": "自分が果たすべき役割を果たしたからこそ、\n管理官は自分の前から姿を消したのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "正因为我完成了自己该做的事，管理官才从我面前消失。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.59211:3813936.83248193",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"自分の中の勘が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"やはり写真を見るべきだと告げていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 59211,
+          "page": "59211:3813936",
+          "route": "remaining-50001-branches",
+          "trial": "isolated-59211-24",
+          "step": 24
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.59211:3813936.83248193",
+            "step": 24,
+            "script": 59211,
+            "text": "自分の中の勘が、\nやはり写真を見るべきだと告げていた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "心中的直觉告诉我，果然还是应该看看照片。"
+            }
+          ]
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

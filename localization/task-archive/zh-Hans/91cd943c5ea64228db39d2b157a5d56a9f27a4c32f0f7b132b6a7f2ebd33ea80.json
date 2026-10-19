@@ -1,0 +1,1850 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 50001,
+    "title": "小暮篇 · エレベーター幽霊",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 1061,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "prompt.58199.98",
+        "collection": "strings",
+        "kind": "confirmation",
+        "source": "これで決定でよろしいですか？",
+        "baseHash": null,
+        "location": {
+          "script": 58199,
+          "offset": 3836176
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "确定以此提交吗？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.description.1",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "本物の御園雛子管理官。\n１０年前の爆発事故？で死亡。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "真正的御园雏子管理官。在10年前的爆炸事故（？）中死亡。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.description.2",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "御園管理官と思っていた女性。\n彼女は何者だったのか……？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "我曾以为她是御园管理官。她究竟是什么人……？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.description.3",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "隠密捜査の為詳細は不明だが、\n御園管理官が捜している女性。\n警視庁内で殺害されたらしい。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "因为是秘密调查，详情不明。御园管理官正在寻找的女性，似乎在警视厅内遭到杀害。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.description.4",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "警視庁捜査一課の佐々木規行課長。\n階級は警視正。怖いであります。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警视厅搜查一课课长佐佐木规行，警衔为警视正。是位很可怕的长官。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.0.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.0.choice.5102",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの女性は幽霊……",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "那个女人是幽灵……"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.0.choice.5110",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの女性は美人だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "那个女人是美人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.0.choice.5111",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの女性を嫁さんに迎えたい",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "我想娶那个女人为妻"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.0.choice.5113",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの女性が御園雛子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "那个女人就是御园雏子"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.0.choice.5118",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの女性は殺人事件担当だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "那个女人负责调查杀人案"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.1.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.1.choice.5119",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "内部告発に関する事件の捜査",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "调查涉及内部告发的案件"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.1.choice.5125",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "施設に関する事件の捜査",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "调查涉及福利机构的案件"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.1.choice.5126",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "研究所に関する事件の捜査",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "调查涉及研究所的案件"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.1.choice.5132",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "誘拐事件の捜査",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "调查绑架案"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.1.choice.5134",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "連続猟奇殺人事件の捜査",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "调查连环猎奇杀人案"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.2.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.2.choice.5118",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "管理官はあの女性を殺してしまった！？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "管理官杀了那个女人！？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.2.choice.5119",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "管理官はあの女性を内部告発した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "管理官在内部告发了那个女人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.2.choice.5122",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの女性は管理官の協力者だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "那个女人是管理官的协助者"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.2.choice.5129",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "管理官があの女性に協力要請した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "管理官向那个女人请求合作"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.3.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.3.choice.5117",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの女性が内密な捜査をしていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "那个女人正在秘密调查"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.3.choice.5128",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの女性がサイコメトリーを依頼した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "那个女人委托他人进行触物感知"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.3.choice.5129",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの女性が管理官に協力要請した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "那个女人向管理官请求合作"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.3.choice.5132",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの女性が管理官を誘拐した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "那个女人绑架了管理官"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.3.choice.5134",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの女性が連続猟奇殺人事件の犯人だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "那个女人是连环猎奇杀人案的犯人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.4.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.4.choice.5102",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女はエレベーターの自縛霊だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她是困在电梯里的地缚灵"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.4.choice.5104",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女はエレベーターで大流血した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她在电梯里大量流血"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.4.choice.5107",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "エレベーターでよく見かける奇妙な人だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她是经常在电梯里见到的奇怪的人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.4.choice.5130",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女はエレベーターでミイラ化した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她在电梯里变成了木乃伊"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.5.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.5.choice.5107",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "タクシーの奇妙な客達であります",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她们是出租车里的奇怪客人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.5.choice.5136",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女達は同一人物であります",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她们是同一个人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.5.choice.5137",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女達は被害者であります",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她们都是受害者"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.6.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.6.choice.5142",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "被害者に関する資料を探していた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "在寻找有关受害者的资料"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.6.choice.5143",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "被害者の殺害現場を探していた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "在寻找受害者遇害的现场"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.6.choice.5144",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "被害者の事件に関する証拠を探していた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "在寻找与受害者案件有关的证据"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.6.choice.5145",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "被害者の遺体を探していた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "在寻找受害者的遗体"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.7.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.7.choice.5108",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "管理官は警視庁内のみを捜査しておられる",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "管理官只在警视厅内部调查"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.7.choice.5125",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "施設とは証拠品保管倉庫のことだった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "所谓福利机构，就是证物保管仓库"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.7.choice.5126",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "研究所とは証拠品保管倉庫のことだった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "所谓研究所，就是证物保管仓库"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.7.choice.5127",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "管理官はここで超能力を使用された",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "管理官在这里使用过超能力"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.8.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.8.choice.5106",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "注目箇所は血糊だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "值得注意的是假血"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.8.choice.5131",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "注目箇所は腐乱死体だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "值得注意的是腐尸"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.8.choice.5135",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "注目箇所は爆発事故だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "值得注意的是爆炸事故"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.8.choice.5140",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "注目箇所は大きな裂け目だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "值得注意的是巨大的裂缝"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.9.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.9.choice.5138",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "２つの場所は１０階で繋がっている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "2个地方在10楼相连"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.9.choice.5139",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "２つの場所は１２階で繋がっている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "2个地方在12楼相连"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.10.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.10.choice.5100",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐々木課長は乾署所属であります",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长隶属乾警署"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.10.choice.5101",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐々木課長はまだまだ新人であります",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长还是新人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.10.choice.5107",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "タクシーの奇妙な客とは佐々木課長であります",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "出租车里的奇怪客人就是佐佐木课长"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.10.choice.5115",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐々木課長は捜査一課の方であります",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长是搜查一课的人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.10.choice.5130",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐々木課長は枯れているであります",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长已经看淡世事了"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.10.choice.5137",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐々木課長が被害者であります",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长是受害者"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.11.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.11.choice.5102",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "管理官は幽霊だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "管理官是幽灵"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.11.choice.5110",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "管理官は美人だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "管理官是美人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.11.choice.5111",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "管理官を嫁さんに迎えたい",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "我想娶管理官为妻"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.11.choice.5112",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "御園雛子さんは管理官である",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "御园雏子女士是管理官"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.11.choice.5113",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "御園雛子さんは御園雛子さんである！",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "御园雏子女士就是御园雏子女士！"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.11.choice.5124",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "御園雛子さんは原朋子？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "御园雏子女士是原朋子？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.11.choice.5125",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "管理官は施設で育った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "管理官在福利机构长大"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.7.field.11.choice.5128",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "管理官はサイコメトリーが出来る",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "管理官能使用触物感知"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5100",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "警署",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警署"
+        },
+        "notes": "原镜像已有合适简中机构通称；正文配属场景沿用警署。"
+      },
+      {
+        "key": "keywords.5142",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "资料",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "资料"
+        },
+        "notes": "开场交付文件的关键词，已有简中语义正确，保留资料。"
+      },
+      {
+        "key": "keywords.5109",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "墓石铺",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "墓碑店"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5101",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "新手",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "新手"
+        },
+        "notes": "小暮入职半年的身份关键词，保留已有自然简中。"
+      },
+      {
+        "key": "keywords.5102",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "幽灵",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "幽灵"
+        },
+        "notes": "全游戏既有怪异称谓，统一保留幽灵。"
+      },
+      {
+        "key": "keywords.5103",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "电梯",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "电梯"
+        },
+        "notes": "本篇核心场所，原镜像已用标准简中名称。"
+      },
+      {
+        "key": "keywords.5104",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "大出血",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "大出血"
+        },
+        "notes": "路口女性全身流血的关键词，保留已有中文医学描述。"
+      },
+      {
+        "key": "keywords.5105",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "血液恐惧症",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "血液恐惧症"
+        },
+        "notes": "小暮惧血特点的已有简中术语，保持正文与手帖一致。"
+      },
+      {
+        "key": "keywords.5108",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "警视厅",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警视厅"
+        },
+        "notes": "日本警务机构专名，保持项目既有简中译名。"
+      },
+      {
+        "key": "keywords.5107",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "奇怪客人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "奇怪客人"
+        },
+        "notes": "出租车怪谈的手帖标签，沿用现有简中并与正文引用一致。"
+      },
+      {
+        "key": "keywords.5139",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "１２楼",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "12楼"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5138",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "１０楼",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "10楼"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5110",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "美女",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "美女"
+        },
+        "notes": "小暮对初遇女性的判断关键词，已有简中符合其视角。"
+      },
+      {
+        "key": "keywords.5111",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "媳妇",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "媳妇"
+        },
+        "notes": "小暮幻想成家时的口语关键词，保留既有译法。"
+      },
+      {
+        "key": "keywords.5112",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "管理员",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "管理官"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5113",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "御园雏子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "御园雏子"
+        },
+        "notes": "本篇核心姓名，沿用已有简体字，不更改人物身份。"
+      },
+      {
+        "key": "keywords.5114",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "警察证",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警察证"
+        },
+        "notes": "道具关键词已为简中；正文警察手册为物品形制描述，保留手帖名称。"
+      },
+      {
+        "key": "keywords.5115",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "搜查一课",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "搜查一课"
+        },
+        "notes": "警视厅部门专名，沿用既有简中名称。"
+      },
+      {
+        "key": "keywords.5116",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "佐佐木课长",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长"
+        },
+        "notes": "人物姓氏及职务的既有译名，与正文保持一致。"
+      },
+      {
+        "key": "keywords.5117",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "秘密侦查",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "秘密侦查"
+        },
+        "notes": "本篇委托性质的既有简中关键词，保留含义与触发引用。"
+      },
+      {
+        "key": "keywords.5118",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "凶杀",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "凶杀"
+        },
+        "notes": "死亡案件性质的现成简中标签，保留。"
+      },
+      {
+        "key": "keywords.5143",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "凶杀现场",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "凶杀现场"
+        },
+        "notes": "仓库调查的现成简中术语，保持关键词与正文一致。"
+      },
+      {
+        "key": "keywords.5144",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "证据",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "证据"
+        },
+        "notes": "刑事调查通用中文词，无需改写。"
+      },
+      {
+        "key": "keywords.5119",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "内部告发",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "内部告发"
+        },
+        "notes": "保留日本组织内部告发的既有简中用语，与正文一致。"
+      },
+      {
+        "key": "keywords.5120",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "犯人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犯人"
+        },
+        "notes": "源叙述犯罪嫌疑身份关键词，沿用游戏中文称谓。"
+      },
+      {
+        "key": "keywords.5121",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "证物保管仓库",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "证物保管仓库"
+        },
+        "notes": "本篇地点专名已为简中，保持场所识别一致。"
+      },
+      {
+        "key": "keywords.5137",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "受害者",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "受害者"
+        },
+        "notes": "刑事案件当事人通称，原镜像中文可直接保留。"
+      },
+      {
+        "key": "keywords.5122",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "合作者",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "协助者"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5140",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "巨大的裂缝",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "巨大的裂缝"
+        },
+        "notes": "仓库通往电梯厅的物证关键词，原镜像已有准确简中。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "keywords.5100",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5142",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5101",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5102",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5103",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5104",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5105",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5108",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5107",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5110",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5111",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5113",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5114",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5115",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5116",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5117",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5118",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5143",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5144",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5119",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5120",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5121",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5137",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5140",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 70001,
+    "title": "由香篇 · 作られた都市伝説",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 50,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.75026:4430528.5e05d596",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"湯川さんのことと言い、菱田さんのことと言い、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"穂坂先生には常に何かしらのトラブルが\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"付き纏っている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75026,
+          "page": "75026:4430528",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75026-answer-5230",
+          "step": 0
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75026:4430528.5e05d596",
+            "step": 0,
+            "script": 75026,
+            "text": "湯川さんのことと言い、菱田さんのことと言い、\n穂坂先生には常に何かしらのトラブルが\n付き纏っている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "无论是汤川小姐，还是菱田小姐，穗坂老师身边似乎总有各种纠纷缠绕。"
+            }
+          ]
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

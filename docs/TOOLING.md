@@ -158,3 +158,20 @@ node --experimental-strip-types tests/generate-chapter-three-zh-hans-fixtures.mj
 最终话入口 40001，编译依赖闭包 448 条记录。采集器读取 16,085 条源文本指令；另 63 条均为名单主脚本 6001 的空格槽，门禁逐个核对源偏移和内容，不能删掉报告来掩盖缺口。全库语料重建后为 27,483 条。chapter-three-trials.json 保存固定种子 300 条可重放轨迹。
 
 专用检查验证 6,316 条富文本、509 条静态译文、源签名、内联关键词一致性。浏览器包含科学、灵异、失败、特殊回忆、双路线真实后日谈和片尾，以及每条路线最长的实际中文段落。完整历史测试仍由 remaining-chapters.test.mjs 执行，不由这些最多 100 页的 UI 检查点替代。详见 reviews/CHAPTER_THREE_ZH_HANS.md。
+
+## 全部剩余章节简中
+
+```sh
+npm run i18n:extract
+npm run i18n:check:zh-Hans
+npm run i18n:test
+node --experimental-strip-types tests/generate-remaining-zh-hans-fixtures.mjs
+# 独立测试地址 /tests/qa.html?bundle=remaining-zh-hans&lang=zh-Hans
+# 长 UI 文案压力测试加 &stress=1
+```
+
+新增采集器覆盖序章、第零话与五篇人物故事；`remaining-<entry>-trials.json` 保留可重放 trace，`remaining-<entry>-source-coverage.json` 明确真实路线、孤立块、名单空格槽。最终报告为 `remaining-zh-Hans.json`。三个本篇章节继续使用其原有门禁；不能拿剩余章节门禁替代它们。
+
+浏览器包提供各真实路线最长中文段落（按译文长度选取）、选项、关键词前后、关系图/确认、结尾与片尾，以及出现过的图片检查点。历史最多留 100 页仅供 UI 操作，完整历史与存档验证仍由 `npm run verify` 执行。准备检查点不等于浏览器验收通过。
+
+批量修订已支持 `--keys <JSON数组文件>`，详情见翻译工作流；不会放松逐条源签名与并发冲突保护。验收与媒体边界见 [全部剩余简中](reviews/REMAINING_ZH_HANS.md)。

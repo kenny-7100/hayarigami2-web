@@ -1,0 +1,1658 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 10001,
+    "title": "第零话 · 黒闇",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 10294,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "keywords.4661",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "毒素",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "毒素"
+        },
+        "notes": "核心关键词保持短标签，正文高亮映射待统一复核。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4662",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "愿望",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "愿望"
+        },
+        "notes": "核心关键词保持短标签，正文高亮映射待统一复核。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4663",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "瘢痕",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "瘢痕"
+        },
+        "notes": "核心关键词保持短标签，正文高亮映射待统一复核。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4667",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "鬼哭寺",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "鬼哭寺"
+        },
+        "notes": "核心关键词保持短标签，正文高亮映射待统一复核。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4671",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "住持",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "住持"
+        },
+        "notes": "核心关键词保持短标签，正文高亮映射待统一复核。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4666",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "人性",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人性"
+        },
+        "notes": "核心关键词保持短标签，正文高亮映射待统一复核。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.5",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "黑暗天",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "黑暗天"
+        },
+        "notes": "佛教神祇、经典与无住著作，保留宗派差异及原作历史信息，不声称唯一学术解释。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.5",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "是吉祥天的妹妹，也是招致灾祸的女神。\n虽然与姐姐形影不离，但其容貌丑陋，\n性格也截然相反。在密教中，相传她是\n阎魔王的三妃之一，是午夜的支配者。\n\n梵语原名为Kaｌaｒatｒｉ（黑夜神），\n本意是指世界末日之夜，而在印度教中\n被拟人化，与湿婆神的妻子杜尔嘎被视为\n同一人，也被赋予阎王神（与阎魔王同级）\n之妹的地位。\n\n在两界曼陀罗的图画中，被描绘成左手持\n人面杖，右手作掬捧状，骑着神牛的形象。\n别名黑耳、黑耳女、黑夜神、黑暗女、黑暗、\n暗夜天等。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "是吉祥天的妹妹，也是招致灾祸的女神。虽然与姐姐形影不离，但其容貌丑陋，性格也截然相反。在密教中，相传她是阎魔王的三妃之一，是午夜的支配者。\n\n梵语原名为Kalaratri（黑夜神），本意是指世界末日之夜，而在印度教中被拟人化，与湿婆神的妻子杜尔嘎被视为同一人，也被赋予阎王神（与阎魔王同级）之妹的地位。\n\n在两界曼陀罗的图画中，被描绘成左手持人面杖，右手作掬捧状，骑着神牛的形象。别名黑耳、黑耳女、黑夜神、黑暗女、黑暗、暗夜天等。"
+        },
+        "notes": "佛教神祇、经典与无住著作，保留宗派差异及原作历史信息，不声称唯一学术解释。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.6",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "吉祥天",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "吉祥天"
+        },
+        "notes": "佛教神祇、经典与无住著作，保留宗派差异及原作历史信息，不声称唯一学术解释。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.6",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "施予众生福德的美丽女神，黑暗天的姐姐。\n是印度教神话中美与繁荣之女神罗乞什密\n被引入佛教后的形象。\n\n此天为北方毗沙门天之妃，其父为德叉迦、\n母为鬼子母神。在日本，供奉这位女神之像，\n祈祷天下太平·五谷丰登的“吉祥悔过”之类\n的法事，自古以来就被举行和信奉着。\n\n其形象为左手持能实现一切愿望的如意宝珠，\n右手指端下垂掌心向外作结与愿印手相；或是\n曲竖手臂，舒五指，掌向前，作施无畏印手相。\n\n别名吉祥天女、吉祥功德、吉祥女、吉祥神等。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "施予众生福德的美丽女神，黑暗天的姐姐。是印度教神话中美与繁荣之女神罗乞什密被引入佛教后的形象。\n\n此天为北方毗沙门天之妃，其父为德叉迦、母为鬼子母神。在日本，供奉这位女神之像，祈祷天下太平·五谷丰登的“吉祥悔过”之类的法事，自古以来就被举行和信奉着。\n\n其形象为左手持能实现一切愿望的如意宝珠，右手指端下垂掌心向外作结与愿印手相；或是曲竖手臂，舒五指，掌向前，作施无畏印手相。\n\n别名吉祥天女、吉祥功德、吉祥女、吉祥神等。"
+        },
+        "notes": "佛教神祇、经典与无住著作，保留宗派差异及原作历史信息，不声称唯一学术解释。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.7",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "大般涅磐经",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "大般涅槃经"
+        },
+        "notes": "佛教神祇、经典与无住著作，保留宗派差异及原作历史信息，不声称唯一学术解释。 统一佛教术语。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.7",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "广义来说是记述释迦牟尼的涅磐并探求其\n意义的佛学类经典的总称。大般涅槃也就是\n涅槃的意思。涅槃可称为超脱、圆寂，是欲望\n之火消弭的状态，也就是宗教中所说的解脱。\n\n完全的解脱是通过肉体的消灭即死亡来完成，\n从这种观点出发，有宗教信仰的人，其死亡也\n变得有意义了。\n除了涅槃经以外，阿含经典以及大乘经典等\n多种经书都同属此列。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "广义来说是记述释迦牟尼的涅槃并探求其意义的佛学类经典的总称。大般涅槃也就是涅槃的意思。涅槃可称为超脱、圆寂，是欲望之火消弭的状态，也就是宗教中所说的解脱。\n\n完全的解脱是通过肉体的消灭即死亡来完成，从这种观点出发，有宗教信仰的人，其死亡也变得有意义了。除了涅槃经以外，阿含经典以及大乘经典等多种经书都同属此列。"
+        },
+        "notes": "佛教神祇、经典与无住著作，保留宗派差异及原作历史信息，不声称唯一学术解释。 统一佛教术语。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.8",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "无住道晓",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "无住道晓"
+        },
+        "notes": "佛教神祇、经典与无住著作，保留宗派差异及原作历史信息，不声称唯一学术解释。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.8",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "镰仓后期临济宗派的僧侣，\n法号无住，字道晓，号一圆。\n出生于镰仓，１８岁时在常陆国\n（现茨城县附近）出家。\n２８岁时遁世为律僧，\n3５岁时进入寿福寺成为禅僧。\n\n之后西上，游学各门佛教宗派，\n并拜在临济宗东福寺圣一国师\n门下，兼修禅密二宗佛法。\n晚年在爱知县长母寺担当住持，\n修行之余，著有《沙石集》《圣财集》\n《妻镜》《杂谈集》等书，他同时还是一位\n在文学史上相当有名的民间文学编纂者。\n是人博学多识，话题丰富且巧妙运用语言\n技巧，乃其谈吐不凡之特色。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "镰仓后期临济宗派的僧侣，法号无住，字道晓，号一圆。出生于镰仓，18岁时在常陆国（现茨城县附近）出家。28岁时遁世为律僧，35岁时进入寿福寺成为禅僧。\n\n之后西上，游学各门佛教宗派，并拜在临济宗东福寺圣一国师门下，兼修禅密二宗佛法。晚年在爱知县长母寺担当住持，修行之余，著有《沙石集》《圣财集》《妻镜》《杂谈集》等书，他同时还是一位在文学史上相当有名的民间文学编纂者。其人博学多识，话题丰富且巧妙运用语言技巧，乃其谈吐不凡之特色。"
+        },
+        "notes": "佛教神祇、经典与无住著作，保留宗派差异及原作历史信息，不声称唯一学术解释。 修正语法。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.9",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "杂谈集",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "杂谈集"
+        },
+        "notes": "佛教神祇、经典与无住著作，保留宗派差异及原作历史信息，不声称唯一学术解释。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.9",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "在镰仓后期的１3０５年，无住道晓应\n弟子们的请求而编写的佛教故事集。\n比他面向普通受众编写的《沙石集》\n更加难以理解，但并非成体系的著作，\n而是带有很强的随感色彩。\n\n此作在佛法教义的讲解中，穿插着佛教故事\n和民间传说。另外也记录了作者的成长经历、\n当时的生活和心境，同时还收录了一些诗歌。\n无住的广博学识和高尚人品令人折服。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "在镰仓后期的1305年，无住道晓应弟子们的请求而编写的佛教故事集。比他面向普通受众编写的《沙石集》更加难以理解，但并非成体系的著作，而是带有很强的随感色彩。\n\n此作在佛法教义的讲解中，穿插着佛教故事和民间传说。另外也记录了作者的成长经历、当时的生活和心境，同时还收录了一些诗歌。无住的广博学识和高尚人品令人折服。"
+        },
+        "notes": "佛教神祇、经典与无住著作，保留宗派差异及原作历史信息，不声称唯一学术解释。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.10",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "隙间女",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "隙间女"
+        },
+        "notes": "隙间女都市传说全文，最后发现缝中女人的揭示顺序保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.10",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "在都市传说中登场的，身形极小的女人。\n\n大学时代一个经常往来的朋友，渐渐地在\n各种聚会上都不露面了。对此感到奇怪的\n死党们到他家去一探究竟，朋友承认有了\n恋人。经过一番刨根问底，他说那个女人\n现在就在这里。\n\n但这里除了几个大学朋友外没有其他人。\n在大家的追问下，他用手指向墙上裂开的\n一条一厘米左右的窄缝。大惑不解的朋友\n们窥看缝中，发现里面藏着个女人。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "在都市传说中登场的，身形极小的女人。\n\n大学时代一个经常往来的朋友，渐渐地在各种聚会上都不露面了。对此感到奇怪的死党们到他家去一探究竟，朋友承认有了恋人。经过一番刨根问底，他说那个女人现在就在这里。\n\n但这里除了几个大学朋友外没有其他人。在大家的追问下，他用手指向墙上裂开的一条一厘米左右的窄缝。大惑不解的朋友们窥看缝中，发现里面藏着个女人。"
+        },
+        "notes": "隙间女都市传说全文，最后发现缝中女人的揭示顺序保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.11",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "警察证",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警察证"
+        },
+        "notes": "警察证与科研、犯罪学心理学物证，制度背景以原作时代为准。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.11",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "警察证，就是经常在侦破题材的电视剧中\n看到的，刑警表明自己身份时向对方出示\n的记事本一样的证件。但在２００２年以后，\n由老式的记事本样式变更为了纵向打开的\nＦBＩ样式。\n\n打开的方式类似翻盖手机，翻开封面，里面\n登载着警视厅和各地方警局的徽章图案、\n持有人的照片、姓名、职位，以及认证番号。\n出示警察证后，可以紧急征用电车和巴士，\n也可以获准进入案发现场。在侦查和逮捕\n的时候，为行使警察的权力，必须随身携带。\n警察的服务规程中也明确规定：警察必须\n随身携带警察证。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警察证，就是经常在侦破题材的电视剧中看到的，刑警表明自己身份时向对方出示的记事本一样的证件。但在2002年以后，由老式的记事本样式变更为了纵向打开的FBI样式。\n\n打开的方式类似翻盖手机，翻开封面，里面登载着警视厅和各地方警局的徽章图案、持有人的照片、姓名、职位，以及认证编号。出示警察证后，可以紧急征用电车和巴士，也可以获准进入案发现场。在侦查和逮捕的时候，为行使警察的权力，必须随身携带。警察的服务规程中也明确规定：警察必须随身携带警察证。"
+        },
+        "notes": "警察证与科研、犯罪学心理学物证，制度背景以原作时代为准。 使用中文编号。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.12",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "科学搜查研究所",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "科学搜查研究所"
+        },
+        "notes": "警察证与科研、犯罪学心理学物证，制度背景以原作时代为准。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.12",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "从科学的角度来挖掘案件真相的警察组织。\n以鉴识活动中得到的证据资料为基础，进行\n更加彻底的验证。\n\n证物多以罪犯的遗留物为主，血迹、毛发、\n唾液、以及皮肤组织和指纹、掌纹等，\n甚至还涉及到更加细微的东西。\n\n科学搜查成为关键侦破手段的著名案例\n是２００５年的广岛女孩被杀案件。在这个\n案件中，被锁定的犯罪嫌疑人留在空罐上\n的唾液DＮＡ，与附着在被害女孩衣服上的\n汗渍DＮＡ一致，使得案犯最终被绳之以法。\n\n像这种通过对血迹、毛发、皮肤组织等进行\nDＮＡ鉴定从而使得罪犯落网的案件还有很\n多，由于近年来恶性案件的犯罪手段越来越\n巧妙，科学搜查研究所也变得越发重要起来。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "从科学的角度来挖掘案件真相的警察组织。以鉴识活动中得到的证据资料为基础，进行更加彻底的验证。\n\n证物多以罪犯的遗留物为主，血迹、毛发、唾液、以及皮肤组织和指纹、掌纹等，甚至还涉及到更加细微的东西。\n\n科学搜查成为关键侦破手段的著名案例是2005年的广岛女孩被杀案件。在这个案件中，被锁定的犯罪嫌疑人留在空罐上的唾液DNA，与附着在被害女孩衣服上的汗渍DNA一致，使得案犯最终被绳之以法。\n\n像这种通过对血迹、毛发、皮肤组织等进行DNA鉴定从而使得罪犯落网的案件还有很多，由于近年来恶性案件的犯罪手段越来越巧妙，科学搜查研究所也变得越发重要起来。"
+        },
+        "notes": "警察证与科研、犯罪学心理学物证，制度背景以原作时代为准。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.13",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "犯罪学",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犯罪学"
+        },
+        "notes": "警察证与科研、犯罪学心理学物证，制度背景以原作时代为准。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.13",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "犯罪学就是研究犯罪行为的一门科学。\n犯罪学将犯罪看成一种社会现象，\n以记述、说明、了解它为目的，进行科学研究。\n在日本，很久以前称其为「刑事学」。\n\n狭义的犯罪学主要研究犯罪现象和犯罪原因，\n而广义的犯罪学还需要研究抑制和防范犯罪\n的刑事政策。故而以研究对象来分类的话，\n犯罪学可以分为如下两个部分：\n１、研究犯罪以及罪犯的学问\n２、研究如何防范犯罪的学问",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犯罪学就是研究犯罪行为的一门科学。犯罪学将犯罪看成一种社会现象，以记述、说明、了解它为目的，进行科学研究。在日本，很久以前称其为「刑事学」。\n\n狭义的犯罪学主要研究犯罪现象和犯罪原因，而广义的犯罪学还需要研究抑制和防范犯罪的刑事政策。故而以研究对象来分类的话，犯罪学可以分为如下两个部分：\n1、研究犯罪以及罪犯的学问\n2、研究如何防范犯罪的学问"
+        },
+        "notes": "警察证与科研、犯罪学心理学物证，制度背景以原作时代为准。 保留分类列表的语义换行。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.14",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "心理学",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "心理学"
+        },
+        "notes": "警察证与科研、犯罪学心理学物证，制度背景以原作时代为准。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.14",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "心理学大的发展趋势，是成为\n一门研究人类心理的专业科学。\n\n心理学通过分析人类由心而生的\n身体动作、行为方式等外在表现，\n同时依据心律、血压、发汗量等\n生理指标，来了解人类心理活动。\n\n心理学以积累客观资料的方法为\n基础，阐明人类心理活动的机制。\n心理学的研究方法大体分为四类：\n观察法、实验法、问卷调查法、面试法。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "心理学大的发展趋势，是成为一门研究人类心理的专业科学。\n\n心理学通过分析人类由心而生的身体动作、行为方式等外在表现，同时依据心律、血压、发汗量等生理指标，来了解人类心理活动。\n\n心理学以积累客观资料的方法为基础，阐明人类心理活动的机制。心理学的研究方法大体分为四类：观察法、实验法、问卷调查法、面试法。"
+        },
+        "notes": "警察证与科研、犯罪学心理学物证，制度背景以原作时代为准。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.15",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "物证",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "物证"
+        },
+        "notes": "警察证与科研、犯罪学心理学物证，制度背景以原作时代为准。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.15",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "要让法官判断出事实的真伪，\n必须提供通过调查人和物而获取的证据。\n\n物证，作为证据的一种，是除了人证之外\n的实物证据（验证物或文件类的东西）。\n案发现场的照片、沾有血迹的匕首，\n这些东西作为物证的例子很容易理解。\n举一个比较特殊的例子，那就是在服用\n兴奋剂的违法案件中，服用者的尿液就\n是重要的物证。\n\n另外，１９6８年发生的「三亿日元」案件，\n以沾有泥土的麦克风、报纸、铝箱为\n代表的１２０多个遗留物品也成了物证。\n然而，因为这些大量生产的东西在全国\n都有销售，还没排查出特定的犯人，案件\n的追诉时效期就到了。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "要让法官判断出事实的真伪，必须提供通过调查人和物而获取的证据。\n\n物证，作为证据的一种，是除了人证之外的实物证据（验证物或文件类的东西）。案发现场的照片、沾有血迹的匕首，这些东西作为物证的例子很容易理解。举一个比较特殊的例子，那就是在服用兴奋剂的违法案件中，服用者的尿液就是重要的物证。\n\n另外，1968年发生的「三亿日元」案件，以沾有泥土的麦克风、报纸、铝箱为代表的120多个遗留物品也成了物证。然而，因为这些大量生产的东西在全国都有销售，还没排查出特定的犯人，案件的追诉时效期就到了。"
+        },
+        "notes": "警察证与科研、犯罪学心理学物证，制度背景以原作时代为准。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.16",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "穷神",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穷神"
+        },
+        "notes": "穷神民间传说与兰子的诙谐结尾完整保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.16",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "据说是个身上有点脏污的老人，\n骨瘦如柴，满面寒酸，气色也很差。\n手里拿着破破烂烂的团扇，一副\n无精打采的样子出现在人们面前。\n\n相传被穷神附身的人或家庭，\n在这段时间内是无法摆脱贫穷的。\n但如果除夕夜在地炉里烧火的话，\n他就会跑掉，取而代之的是前来取暖的福神。\n还有传说中提到，即使知道是穷神附身，\n也不能对他太刻薄，热情待他的话，\n穷神也会变成福神。\n另外，据说穷神都喜欢懒汉。\n恐怕编纂室里也住着一位穷神，\n正和兰子快乐地过着每一天吧。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据说是个身上有点脏污的老人，骨瘦如柴，满面寒酸，气色也很差。手里拿着破破烂烂的团扇，一副无精打采的样子出现在人们面前。\n\n相传被穷神附身的人或家庭，在这段时间内是无法摆脱贫穷的。但如果除夕夜在地炉里烧火的话，他就会跑掉，取而代之的是前来取暖的福神。还有传说中提到，即使知道是穷神附身，也不能对他太刻薄，热情待他的话，穷神也会变成福神。另外，据说穷神都喜欢懒汉。恐怕编纂室里也住着一位穷神，正和兰子快乐地过着每一天吧。"
+        },
+        "notes": "穷神民间传说与兰子的诙谐结尾完整保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.17",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "牛排",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "牛排"
+        },
+        "notes": "日语旧称牛排的词源与犬童屡次空口请客的笑话保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.17",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "西式牛肉煎烤的简称，现在几乎不用\n这个词了，不过，在明治时代的小说和\n比较古老的西餐厅菜单上，还能看到\n这个称谓。\n\n兰子经常对{surname}说「请你吃牛排」，\n不过比起牛排来说，她更喜欢令人怀念的\n鲸鱼肉吧。小暮则喜欢半熟的还滴着血\n的牛肉，但如果不完全烤透的话他会吃坏\n肚子，所以对兰子请客吃肉有些畏惧。\n\n虽然兰子一有事就向{surname}他们\n口头承诺「请你吃牛排」，但到目前\n为止一次都没兑现过。是因为她的钱\n都花在各种赌博上了，还是压根就没\n打算请客，谁也搞不清楚。但如果兰子\n把手头上赌马的钱拿出来的话，足够\n请{surname}和小暮吃好几次了。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "原文介绍的是日语中西式煎烤牛排的旧简称，如今已不常用，不过，在明治时代的小说和比较古老的西餐厅菜单上，还能看到这个称谓。\n\n兰子经常对{surname}说「请你吃牛排」，不过比起牛排来说，她更喜欢令人怀念的鲸鱼肉吧。小暮则喜欢半熟的还滴着血的牛肉，但如果不完全烤透的话他会吃坏肚子，所以对兰子请客吃肉有些畏惧。\n\n虽然兰子一有事就向{surname}他们口头承诺「请你吃牛排」，但到目前为止一次都没兑现过。是因为她的钱都花在各种赌博上了，还是压根就没打算请客，谁也搞不清楚。但如果兰子把手头上赌马的钱拿出来的话，足够请{surname}和小暮吃好几次了。"
+        },
+        "notes": "日语旧称牛排的词源与犬童屡次空口请客的笑话保留。 旧称的罕见不是中文牛排一词罕见，保留词源语境。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.18",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "犯罪心理画像",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犯罪心理画像"
+        },
+        "notes": "犯罪心理画像和原作时代警衔晋升，姓名占位符与数字保留，不当现行招聘规则。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.18",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "它是一种以行为学为基础推断出犯人形象\n的划时代尝试，现在称之为「犯罪心理画像」。\n操作这门技能的人被称为心理画像专家，\n「ＦBＩ心理分析官」的作者罗伯特·K·雷斯勒\n就是其中的佼佼者。\n\n对犯罪现场和被害人的状况，以及物证进行\n详细地分析，推断出未知犯人的动机、性格、\n职业、家庭环境等各种信息，从而作出准确\n度很高的推定。像这样的犯罪心理画像，一\n方面立足于科学的客观性，另一方面，也要\n兼有极富主观性的专业技能。仅靠汇集、\n整理资料是无法做出正确推定的。\n\n在调查现场，由于经验的积累，使得个\n人的「智慧」与「直觉」大量介入其中。\n让自己和犯人的理智·感情保持同步，\n像犯人一样思考，接下来，将自己置身\n于被害者的立场，努力感受那种痛苦，\n这也是非常重要的。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "它是一种以行为学为基础推断出犯人形象的划时代尝试，现在称之为「犯罪心理画像」。操作这门技能的人被称为心理画像专家，「FBI心理分析官」的作者罗伯特·K·雷斯勒就是其中的佼佼者。\n\n对犯罪现场和被害人的状况，以及物证进行详细地分析，推断出未知犯人的动机、性格、职业、家庭环境等各种信息，从而作出准确度很高的推定。像这样的犯罪心理画像，一方面立足于科学的客观性，另一方面，也要兼有极富主观性的专业技能。仅靠汇集、整理资料是无法做出正确推定的。\n\n在调查现场，由于经验的积累，使得个人的「智慧」与「直觉」大量介入其中。让自己和犯人的理智·感情保持同步，像犯人一样思考，接下来，将自己置身于被害者的立场，努力感受那种痛苦，这也是非常重要的。"
+        },
+        "notes": "犯罪心理画像和原作时代警衔晋升，姓名占位符与数字保留，不当现行招聘规则。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.19",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "职位",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "职位"
+        },
+        "notes": "犯罪心理画像和原作时代警衔晋升，姓名占位符与数字保留，不当现行招聘规则。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.19",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "根据警察法第6２条规定的警察职位等级，\n从最高层的警视总监开始，由上至下依次\n为警视监、警视长、警视正、警视、警部、\n警部补、巡查部长、巡查等九种。\n\n拿编纂室的人来说，非高级公务员的小暮\n现在是巡查部长，高级公务员的{surname}\n现在是警部补。通过了国家公务员Ⅰ级考试\n的{surname}，一入厅就自动得到了警部补\n的职位。而编纂室的老大·兰子到底是不是\n高级公务员呢？ 从结果来看，她很有可能\n不是高级公务员。\n\n大学毕业参加国家公务员Ⅰ级考试合格后，\n会在警校接受为期三月的基层干部教育，\n之后的九个月在警察署等地度过见习期。\n这之后重返警校，再接受一个月左右的补\n习，就能以警部的职位回警视厅任职。\n\n总之，如果是Ⅰ级考试合格的高级公务员，\n２０多岁就能当上警部了。话说兰子现年\n43岁，如果她是高级公务员的话，应该获\n得警视长的职位，再怎么说也是个县警本\n部长之类的。而从巡查开始做起的非高级\n公务员，4０岁左右才能成为警部———\n而且这还只是非高级公务员中的一小部分，\n据说是惯例。\n\n从上述事实来考虑，兰子应该是通过了\n从巡查部长开始的国家公务员Ⅱ级考试，\n但未能直接晋升警部，而是靠年资慢慢\n爬上警部的位子……这样考虑似乎比较\n妥当。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "根据警察法第62条规定的警察职位等级，从最高层的警视总监开始，由上至下依次为警视监、警视长、警视正、警视、警部、警部补、巡查部长、巡查等九种。\n\n拿编纂室的人来说，非高级公务员的小暮现在是巡查部长，高级公务员的{surname}现在是警部补。通过了国家公务员Ⅰ级考试的{surname}，一入厅就自动得到了警部补的职位。而编纂室的老大·兰子到底是不是高级公务员呢？ 从结果来看，她很有可能不是高级公务员。\n\n大学毕业参加国家公务员Ⅰ级考试合格后，会在警校接受为期三月的基层干部教育，之后的九个月在警察署等地度过见习期。这之后重返警校，再接受一个月左右的补习，就能以警部的职位回警视厅任职。\n\n总之，如果是Ⅰ级考试合格的高级公务员，20多岁就能当上警部了。话说兰子现年43岁，如果她是高级公务员的话，应该获得警视长的职位，再怎么说也是个县警本部长之类的。而从巡查开始做起的非高级公务员，40岁左右才能成为警部———而且这还只是非高级公务员中的一小部分，据说是惯例。\n\n从上述事实来考虑，兰子应该是通过了从巡查部长开始的国家公务员Ⅱ级考试，但未能直接晋升警部，而是靠年资慢慢爬上警部的位子……这样考虑似乎比较妥当。"
+        },
+        "notes": "犯罪心理画像和原作时代警衔晋升，姓名占位符与数字保留，不当现行招聘规则。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.20",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "女警官",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女警官"
+        },
+        "notes": "女警历史统计及值勤留宿，以原作时代叙述为限。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.20",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "近代史上最早的女警官，\n是１９１4年英国录用的两名女性。\n当时格兰瑟姆兵营附近的妓女越来越多，\n为了应对随之而来的问题，开始录用女警。\n\n在日本，女警官的出现大约是在3０年后的\n１９46年。虽然是按照驻日盟军总司令部\n的指示设立的，但当时的女警官没有逮捕权，\n称呼也只是妇人警官。\n随着２０００年男女雇佣机会平等法的全面\n修正，现在已改称女警官。另外，国内第一位\n女警官开始工作的4月２7日被定为女警官日。\n\n现在，女警官在警队所占比例已经达到\n百分之２０，警察早已不是只限男性的\n职业了。但是，说到刑警就另当别论了，\n女性刑警的数量少得惊人。然而近几年，\n刑事犯罪中的女性嫌疑犯比例逐渐增加，\n女刑警在调查中的作用越来越不可或缺。\n例如，女性在身体的某些特殊部位藏毒\n进行走私，这种情况下只能由另一位女性\n来搜查，这种时候女警官来实行身体检查\n就尤为重要了。另外，在警视厅搜查一课，\n也有一个由清一色女性组成的女性调查班。\n顺便说一句，在以美国和德国为首的欧美\n国家，男女警官都穿着几乎同款设计的制服。\n而日本女警官的正装，现在是由西装上衣\n·领带·短裙组成。但在执行任务的时候，\n也可以换穿运动型短裙或者裤子。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "近代史上最早的女警官，是1914年英国录用的两名女性。当时格兰瑟姆兵营附近的妓女越来越多，为了应对随之而来的问题，开始录用女警。\n\n在日本，女警官的出现大约是在30年后的1946年。虽然是按照驻日盟军总司令部的指示设立的，但当时的女警官没有逮捕权，称呼也只是妇人警官。随着2000年男女雇佣机会平等法的全面修正，现在已改称女警官。另外，国内第一位女警官开始工作的4月27日被定为女警官日。\n\n原作在这里称，当时女警官在警队所占比例已达20%，警察早已不是只限男性的职业了。但是，说到刑警就另当别论了，女性刑警的数量少得惊人。然而近几年，刑事犯罪中的女性嫌疑犯比例逐渐增加，女刑警在调查中的作用越来越不可或缺。例如，女性在身体的某些特殊部位藏毒进行走私，这种情况下只能由另一位女性来搜查，这种时候女警官来实行身体检查就尤为重要了。另外，在警视厅搜查一课，也有一个由清一色女性组成的女性调查班。顺便说一句，在以美国和德国为首的欧美国家，男女警官都穿着几乎同款设计的制服。而日本女警官的正装，现在是由西装上衣·领带·短裙组成。但在执行任务的时候，也可以换穿运动型短裙或者裤子。"
+        },
+        "notes": "女警历史统计及值勤留宿，以原作时代叙述为限。 未经独立核实的时代统计明确归属原作，不作为当代数据。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.21",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "打地铺",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "打地铺"
+        },
+        "notes": "女警历史统计及值勤留宿，以原作时代叙述为限。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.21",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "警官和刑警每天都处理着繁忙的工作。\n一旦开始案侦调查，好几天都不能回家，\n在外过夜也就成了家常便饭。\n\n警察署里没什么睡觉的地方，只能在\n柔道剑道的道场借几条褥子垫着过夜。\n如果设立了特别搜查本部的话，侦察员\n和长官来得更多，都不回家在署里过夜，\n这种情况下就要向道场管理员多借些\n被褥来分配了。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警官和刑警每天都处理着繁忙的工作。一旦开始案件调查，好几天都不能回家，在外过夜也就成了家常便饭。\n\n警察署里没什么睡觉的地方，只能在柔道剑道的道场借几条褥子垫着过夜。如果设立了特别搜查本部的话，侦查员和长官来得更多，都不回家在署里过夜，这种情况下就要向道场管理员多借些被褥来分配了。"
+        },
+        "notes": "女警历史统计及值勤留宿，以原作时代叙述为限。 自然化表达。 统一警务用词。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.22",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "宣告失踪",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "宣告失踪"
+        },
+        "notes": "日本失踪宣告与房屋告知义务，十三阶怪谈完整保留，非现行法律指南。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.22",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "对于某些长期以来生死不明的人，由于他们\n在财产和身份上的法律关系始终得不到确定，\n会给相关利益人带来很多麻烦，所以必须予以\n明确。\n\n宣告失踪制度，是在履行一定手续的前提下，\n把死亡几率很高的失踪人员看作已经死亡，\n从而确定与此人相关的各种法律关系。\n宣告失踪的判决一旦生效，失踪者就被视为\n已经死亡。如果要阻止这种视为死亡的效力，\n可以撤销宣告失踪。\n\n但是，宣告失踪不是剥夺失踪者应有权利的\n制度。如果失踪者还活着，那么他在其它地方\n活动形成的法律关系，以及日后回到失踪前\n住处形成的法律关系，即使不撤销宣告失踪\n也会自动生效。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "对于某些长期以来生死不明的人，由于他们在财产和身份上的法律关系始终得不到确定，会给相关利益人带来很多麻烦，所以必须予以明确。\n\n宣告失踪制度，是在履行一定手续的前提下，把死亡几率很高的失踪人员看作已经死亡，从而确定与此人相关的各种法律关系。宣告失踪的判决一旦生效，失踪者就被视为已经死亡。如果要阻止这种视为死亡的效力，可以撤销宣告失踪。\n\n但是，宣告失踪不是剥夺失踪者应有权利的制度。如果失踪者还活着，那么他在其它地方活动形成的法律关系，以及日后回到失踪前住处形成的法律关系，即使不撤销宣告失踪也会自动生效。"
+        },
+        "notes": "日本失踪宣告与房屋告知义务，十三阶怪谈完整保留，非现行法律指南。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.23",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "物业租售告知义务",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "物业租售告知义务"
+        },
+        "notes": "日本失踪宣告与房屋告知义务，十三阶怪谈完整保留，非现行法律指南。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.23",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "在对物业进行出租或出售时，营业商必须\n告知消费者与该物业相关的「重要事项」。\n这里所说的「重要事项」，是指交易中如不\n宣告，可能导致买主蒙受重大损失的事项，\n或是对买主的购买意愿产生决定性影响\n的事项。\n\n这就有一个问题，物业中发生过自杀或死亡\n这类能造成心理层面缺陷的事情，到底算不\n算瑕疵。根据过往的判例，「与目的物相关的\n令人厌恶的历史背景所引起的心理缺陷的\n情况」也包括在「重要事项」之中。也就是说，\n营业商有义务将这些相关的自杀、死亡情况\n告知买主或房客。\n\n不过，即便履行了这个义务，也依然有人愿\n意租住这种发生过自杀或杀人事件的物业。\n比如神秘事件爱好者，或者是无论如何都想\n租住便宜房间的人。虽说房东肯定很感谢\n这样的租房者，不过如果你打算做同样事情\n的话，请等一等，这个故事你听说过吗？\n\n在东京都内有这么一栋公寓，位于其二楼的\n一个上楼即到的房间，据说房租相当便宜。\n但是入住的人，两周以内肯定离开。据说是\n因为每天半夜都会被从台阶上传来的沉重\n脚步声惊醒。第一天晚上是第一级台阶，\n第二天晚上是第二级台阶……。从一楼\n到二楼总共有１3级台阶，脚步声每天晚上\n一阶一阶地逐步走近房间，入住者无法忍受\n只好搬走了。但是，如果你能忍受那种恐惧，\n并一直坚持到第１4个晚上的话……说不定\n值得尝试一下呢。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "在对物业进行出租或出售时，营业商必须告知消费者与该物业相关的「重要事项」。这里所说的「重要事项」，是指交易中如不宣告，可能导致买主蒙受重大损失的事项，或是对买主的购买意愿产生决定性影响的事项。\n\n这就有一个问题，物业中发生过自杀或死亡这类能造成心理层面缺陷的事情，到底算不算瑕疵。根据过往的判例，「与目的物相关的令人厌恶的历史背景所引起的心理缺陷的情况」也包括在「重要事项」之中。也就是说，营业商有义务将这些相关的自杀、死亡情况告知买主或房客。\n\n不过，即便履行了这个义务，也依然有人愿意租住这种发生过自杀或杀人事件的物业。比如神秘事件爱好者，或者是无论如何都想租住便宜房间的人。虽说房东肯定很感谢这样的租房者，不过如果你打算做同样事情的话，请等一等，这个故事你听说过吗？\n\n在东京都内有这么一栋公寓，位于其二楼的一个上楼即到的房间，据说房租相当便宜。但是入住的人，两周以内肯定离开。据说是因为每天半夜都会被从台阶上传来的沉重脚步声惊醒。第一天晚上是第一级台阶，第二天晚上是第二级台阶……。从一楼到二楼总共有13级台阶，脚步声每天晚上一阶一阶地逐步走近房间，入住者无法忍受只好搬走了。但是，如果你能忍受那种恐惧，并一直坚持到第14个晚上的话……说不定值得尝试一下呢。"
+        },
+        "notes": "日本失踪宣告与房屋告知义务，十三阶怪谈完整保留，非现行法律指南。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.24",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "驱邪仪式",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "驱邪仪式"
+        },
+        "notes": "驱邪仪式与枯芒草谚语，修正汉译的术语误写。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.24",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "在日本人的神道观念和信仰中，\n「驱邪」是个大量存在的要素。\n举例来说，祭神的第一个环节\n就是举行「驱邪仪式」这种法事。\n主祭挥动着木棍和杨桐树枝，\n上面系着裁开的神符。\n在大凶之年要去神社驱除厄运\n也是广为人知的习俗。\n\n「驱邪仪式」常被认为是仅限神社祭神的仪式，\n其实并非如此。佛教中也有焚香熏身、参加\n葬礼之后往身上撒盐等「驱邪仪式」。另外，\n在修验道中，洒水净身，从燃烧的炭火上走过，\n也同样属于「驱邪仪式」。总之，「驱除」厄运、\n灾难的理念，已经深深植根于日本人的文化\n和思想中了。\n\n「驱邪仪式」的种类也有很多，不用说宗教\n形式上的不同，就连驱邪的对象和理由都有\n很大差别。但不外乎是为了驱灾免祸，或是\n为了逃避天谴，为此而举行的各种祭祀活动，\n其法术的含意和形式就性质而言是相同的。\n更进一步来说，几乎所有法术都与「乘」有关，\n它含有「意念发动」之意，是法术的第一要件。\n这里所说的「乘」，是通过「祷文」（宣读咒语\n的仪式）将意念集中注入特定对象的仪式。\n将这个「乘」与「言」结合起来就能立即得到\n神授之咒力，但要用汉语来诵念「咒文」，祷告\n才有效力。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "在日本人的神道观念和信仰中，「驱邪」是个大量存在的要素。举例来说，祭神的第一个环节就是举行「驱邪仪式」这种法事。主祭挥动着木棍和杨桐树枝，上面系着裁开的神符。在大凶之年要去神社驱除厄运也是广为人知的习俗。\n\n「驱邪仪式」常被认为是仅限神社祭神的仪式，其实并非如此。佛教中也有焚香熏身、参加葬礼之后往身上撒盐等「驱邪仪式」。另外，在修验道中，洒水净身，从燃烧的炭火上走过，也同样属于「驱邪仪式」。总之，「驱除」厄运、灾难的理念，已经深深植根于日本人的文化和思想中了。\n\n「驱邪仪式」的种类也有很多，不用说宗教形式上的不同，就连驱邪的对象和理由都有很大差别。但不外乎是为了驱灾免祸，或是为了逃避天谴，为此而举行的各种祭祀活动，其法术的含意和形式就性质而言是相同的。更进一步来说，几乎所有法术都与「乘」有关，它含有「意念发动」之意，是法术的第一要件。这里所说的「乘」，是通过「祷文」（宣读咒语的仪式）将意念集中注入特定对象的仪式。将这个「乘」与「言」结合起来就能立即得到神授之咒力，但要用汉语来诵念「咒文」，祷告才有效力。"
+        },
+        "notes": "驱邪仪式与枯芒草谚语，修正汉译的术语误写。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.25",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "鬼怪现真形，原是枯芒草",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "鬼怪现真形，原是枯芒草"
+        },
+        "notes": "驱邪仪式与枯芒草谚语，修正汉译的术语误写。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.25",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "这是一句谚语，它的意思是，\n越害怕的东西就越容易看到，\n其实仔细看看什么都不是。\n枯芒草就是「狗尾巴草」。\n若是疑神疑鬼的话，就连枯萎的\n狗尾巴草看上去也像是鬼怪了。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这是一句谚语，它的意思是，越害怕的东西就越容易看到，其实仔细看看什么都不是。这里的枯芒草指枯萎的芒草。若是疑神疑鬼的话，就连枯萎的芒草看上去也像是鬼怪了。"
+        },
+        "notes": "驱邪仪式与枯芒草谚语，修正汉译的术语误写。 芒草并非狗尾巴草，纠正旧译植物混淆。 保持谚语植物一致。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.26",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "幻听",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "幻听"
+        },
+        "notes": "幻听、轮班和高级公务员说明，保留年代背景及医学叙述归属。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.26",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "所谓幻听，是指听到了实际上并不存在\n的声音。听到了人的声音或言语，这种\n情况被称为言语性幻听，也叫做幻声。\n如果只是听到了声响，这种情况被称为\n要素性幻听。\n\n幻听在多种疾病中都有体现，例如綜合\n失调症就有言语性幻听的症状。但多数\n情况下，人们没有意识到幻听是种疾病。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "所谓幻听，是指听到了实际上并不存在的声音。听到了人的声音或言语，这种情况被称为言语性幻听，也叫做幻声。如果只是听到了声响，这种情况被称为要素性幻听。\n\n幻听在多种疾病中都有体现，例如精神分裂症就有言语性幻听的症状。但当事人未必能意识到自己听见的声音属于幻听。"
+        },
+        "notes": "幻听、轮班和高级公务员说明，保留年代背景及医学叙述归属。 日语统合失调症对应精神分裂症，不是综合失调症。 幻听为症状而非单一疾病，与词条首段定义一致。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.27",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "轮休",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "轮休"
+        },
+        "notes": "幻听、轮班和高级公务员说明，保留年代背景及医学叙述归属。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.27",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "警察的倒班工作制度，警视厅实行的是\n四班倒制，将四天时间分为白班·第一\n值勤（早班）·第二值勤（晚班）·轮休四种，\n按顺序轮换。\n\n道府县警局则与此不同，采用三班倒制。\n在警视厅，除了四班倒制以外，根据岗位的\n不同，为了提高工作效率，还规定了三班倒\n制·五班倒制·六班倒制等各种勤务体制。\n但是，无论是哪一种情况，原则上每周都有\n两个休息日。四班倒的情况下，因为白班或\n第一值勤的人在轮休后正好能碰到休息日，\n所以也有连休的可能性。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警察的倒班工作制度，警视厅实行的是四班倒制，将四天时间分为白班·第一值勤（早班）·第二值勤（晚班）·轮休四种，按顺序轮换。\n\n道府县警局则与此不同，采用三班倒制。在警视厅，除了四班倒制以外，根据岗位的不同，为了提高工作效率，还规定了三班倒制·五班倒制·六班倒制等各种勤务体制。但是，无论是哪一种情况，原则上每周都有两个休息日。四班倒的情况下，因为白班或第一值勤的人在轮休后正好能碰到休息日，所以也有连休的可能性。"
+        },
+        "notes": "幻听、轮班和高级公务员说明，保留年代背景及医学叙述归属。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.28",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "高级公务员",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "高级公务员"
+        },
+        "notes": "幻听、轮班和高级公务员说明，保留年代背景及医学叙述归属。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.28",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "是指通过国家公务员Ⅰ级考试的警队精英们。\n全日本的二十七万警察中，其实只有五百名\n这样的人而已，他们也就是常说的干部候补。\n从警校毕业后，任职为警部补，待进修结束后，\n马上就能晋升为警部，其晋升速度远远高于\n被称为非高级公务员的普通警官。\n\n在这些高级公务员里，说到特别有晋升机会\n的人，就要数负责查处诈骗、贪污、渎职等\n智能型犯罪的搜查二科长了。作为地方县警\n的搜查二科长大致上有两种升迁途径，一是\n升任警视厅的搜查二科长，二是晋升为县警\n本部长。而后还可不断升至警察厅总务科长，\n或是大县的县警本部长，直至警察厅局长。\n只有极少数的人，能被提拔为警视厅长官、\n警视总监。\n\n高级公务员大部分都是男性，但也不是没有\n女性。不过，作为女性高级公务员，要想在\n晋升的道路上走下去，将会面对很多严峻的\n现实情况。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "是指通过国家公务员Ⅰ级考试的警队精英们。全日本的二十七万警察中，其实只有五百名这样的人而已，他们也就是常说的干部候补。从警校毕业后，任职为警部补，待进修结束后，马上就能晋升为警部，其晋升速度远远高于被称为非高级公务员的普通警官。\n\n在这些高级公务员里，说到特别有晋升机会的人，就要数负责查处诈骗、贪污、渎职等智能型犯罪的搜查二科长了。作为地方县警的搜查二科长大致上有两种升迁途径，一是升任警视厅的搜查二科长，二是晋升为县警本部长。而后还可不断升至警察厅总务科长，或是大县的县警本部长，直至警察厅局长。只有极少数的人，能被提拔为警视厅长官、警视总监。\n\n高级公务员大部分都是男性，但也不是没有女性。不过，作为女性高级公务员，要想在晋升的道路上走下去，将会面对很多严峻的现实情况。"
+        },
+        "notes": "幻听、轮班和高级公务员说明，保留年代背景及医学叙述归属。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.29",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "一休法师",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一休法师"
+        },
+        "notes": "一休逸闻、感冒及三秒定律，修正确定用字和不必要的医学误解。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.29",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "动画片「聪明的一休」的原型，\n他的机智故事为世人所熟知。\n不过，很多逸闻都是后世之人的编造创作。\n一休是禅僧，出生于１3９4年１月１日，相传\n是后小松天皇的子嗣，但这个说法的真伪\n还有待考证。\n\n１474年（文明6年）在大德寺担任住持，但\n据说只在寺内住过一天。因为慨叹禅宗的\n腐败，他成了在都市村落巡回传教戒律论的\n俗僧。另外，他在吟咏和歌、诵读诗篇、吹奏\n萧乐的时候，会像疯子一样发狂，晚年与一位\n失明的女人同居。一休法师的逸闻，按其生平\n被收录在『一休法师年谱』中。例如，他１7岁\n服侍清叟仁诵经的时候，用小石子打死了素雅\n的神泉苑里的小蛇并获赞扬。足利义持将军\n怀疑清叟奢侈前来查访时，１８岁的一休大胆\n地对侍童赤松越州做着鬼脸。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "动画片「聪明的一休」的原型，他的机智故事为世人所熟知。不过，很多逸闻都是后世之人的编造创作。一休是禅僧，出生于1394年1月1日，相传是后小松天皇的子嗣，但这个说法的真伪还有待考证。\n\n1474年（文明6年）在大德寺担任住持，但据说只在寺内住过一天。因为慨叹禅宗的腐败，他成了在都市村落巡回传教戒律论的俗僧。另外，他在吟咏和歌、诵读诗篇、吹奏箫乐的时候，会像疯子一样发狂，晚年与一位失明的女人同居。一休法师的逸闻，按其生平被收录在『一休法师年谱』中。例如，他17岁服侍清叟仁诵经的时候，用小石子打死了素雅的神泉苑里的小蛇并获赞扬。足利义持将军怀疑清叟奢侈前来查访时，18岁的一休大胆地对侍童赤松越州做着鬼脸。"
+        },
+        "notes": "一休逸闻、感冒及三秒定律，修正确定用字和不必要的医学误解。 修正乐器用字。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.30",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "感冒病毒",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "感冒病毒"
+        },
+        "notes": "一休逸闻、感冒及三秒定律，修正确定用字和不必要的医学误解。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.30",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "通常所说的感冒，是指鼻腔、咽喉\n等上呼吸道部位的粘膜被鼻病毒、\n腺病毒等约２００种不同病毒感染\n而引发的疾病。\n\n感冒不是由单一病毒引起的，\n而是出于多种病毒的共同作用。\n其症状依病毒种类的不同而有所区别。\n感冒病毒就是这些病毒的总称。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "通常所说的感冒，是指鼻腔、咽喉等上呼吸道部位的黏膜被鼻病毒、腺病毒等约200种不同病毒感染而引发的疾病。\n\n感冒不是由单一病毒引起的，而是可能由多种不同的病毒引起。其症状依病毒种类的不同而有所区别。感冒病毒就是这些病毒的总称。"
+        },
+        "notes": "一休逸闻、感冒及三秒定律，修正确定用字和不必要的医学误解。 规范用字。 感冒病原种类多不等于必然共同感染，修正旧译歧义。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.31",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "3秒",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "3秒"
+        },
+        "notes": "一休逸闻、感冒及三秒定律，修正确定用字和不必要的医学误解。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.31",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "一种迷信说法：如果在3秒钟内把掉在地\n上的食物捡起来的话就不会沾染细菌。\n除了3秒，还有５秒、１０秒等各种说法。\n\n这种迷信说法不仅在日本，在世界各地都有\n流传。世界上最大的纪实电视台曾专门就此\n进行了严谨的实验，结果证明这种说法完全\n是无稽之谈。\n先不说对人体是否有害，食物一旦掉在地上，\n就不可避免地会沾染上细菌，由此可见这与\n掉在地上的时间毫无关系。\n\n但也有反驳的意见，一位名叫吉利安·克拉克\n的高中生在２００3年发表了一篇详细的论文，\n他在科学验证的基础上证明了「５秒定律」。\n为表彰他的研究成果，第二年他获得了搞笑\n诺贝尔奖的公共卫生奖。顺便说一句，美国\n女性似乎比男性更相信他验证出来的「５秒\n定律」。虽然这个「定律」在日本是3秒，在\n美国是５秒，但这种说法最早出自何处呢？\n相传可以追溯到蒙古帝国的第一代皇帝，\n成吉思汗的时代。不过，对于成吉思汗来说，\n现代的时间限制太严了。他认为只要食物掉\n在地上不超过１２个小时，都可以放心地吃掉。\n考虑到当时的观念、科技水平以及粮食情况，\n他那个标准也未尝不能理解———话虽如此，\n但无论如何，掉在地上的食物不能随便捡来吃，\n这点是不会变的，也是最安全的。另外，要想\n万无一失的话，最重要的事情就是饭前洗手。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一种迷信说法：如果在3秒钟内把掉在地上的食物捡起来的话就不会沾染细菌。除了3秒，还有5秒、10秒等各种说法。\n\n这种迷信说法不仅在日本，在世界各地都有流传。世界上最大的纪实电视台曾专门就此进行了严谨的实验，结果证明这种说法完全是无稽之谈。先不说对人体是否有害，食物一旦掉在地上，就不可避免地会沾染上细菌，由此可见这与掉在地上的时间毫无关系。\n\n但也有反驳的意见，一位名叫吉利安·克拉克的高中生在2003年发表了一篇详细的论文，原作称这项实验在科学验证的基础上支持了「5秒定律」。为表彰这项研究成果，第二年克拉克获得了搞笑诺贝尔奖的公共卫生奖。顺便说一句，美国女性似乎比男性更相信这项研究涉及的「5秒定律」。虽然这个「定律」在日本是3秒，在美国是5秒，但这种说法最早出自何处呢？相传可以追溯到蒙古帝国的第一代皇帝，成吉思汗的时代。不过，对于成吉思汗来说，现代的时间限制太严了。他认为只要食物掉在地上不超过12个小时，都可以放心地吃掉。考虑到当时的观念、科技水平以及粮食情况，他那个标准也未尝不能理解———话虽如此，但无论如何，掉在地上的食物不能随便捡来吃，这点是不会变的，也是最安全的。另外，要想万无一失的话，最重要的事情就是饭前洗手。"
+        },
+        "notes": "一休逸闻、感冒及三秒定律，修正确定用字和不必要的医学误解。 保留原作实验结论叙述，不冒充已验证安全定律。 避免对研究者性别未经核对的代词。 统一中性称谓。 不把原作断言当事实。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.32",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "白日梦",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "白日梦"
+        },
+        "notes": "白日梦、鬼中暑和预知梦故事，传闻不当科学定论。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.32",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "白天做的梦，睁着眼睛做的梦，单纯的空想。\n以上是对白日梦的各种描述，是指清醒状态\n下的非现实体验，一种脱离现实的深思状态。\n\n白日梦也可以被当作解离症的症状之一，\n现实中无法满足的欲望与诉求，通过各种\n各样的形式表现出来。对于没有亲身体验\n的人来说，白日梦这种感觉很难理解。不过，\n相对于插入了现实体验的幻觉和幻听来说，\n这种非现实的感觉显然有所不同。这种感觉\n可以说是睁着眼睛做梦，或者说有点像在看\n电影。有很多人把它与闪回混为一谈，不过，\n回想实际经历过的体验才是闪回，而白日梦\n毕竟是现实中没有发生过的，架空的体验和\n情节。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "白天做的梦，睁着眼睛做的梦，单纯的空想。以上是对白日梦的各种描述，是指清醒状态下的非现实体验，一种脱离现实的深思状态。\n\n白日梦也可以被当作解离症的症状之一，现实中无法满足的欲望与诉求，通过各种各样的形式表现出来。对于没有亲身体验的人来说，白日梦这种感觉很难理解。不过，相对于插入了现实体验的幻觉和幻听来说，这种非现实的感觉显然有所不同。这种感觉可以说是睁着眼睛做梦，或者说有点像在看电影。有很多人把它与闪回混为一谈，不过，回想实际经历过的体验才是闪回，而白日梦毕竟是现实中没有发生过的，架空的体验和情节。"
+        },
+        "notes": "白日梦、鬼中暑和预知梦故事，传闻不当科学定论。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.39",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "鬼中暑",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "鬼中暑"
+        },
+        "notes": "白日梦、鬼中暑和预知梦故事，传闻不当科学定论。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.39",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "意指平时身体强壮的人，突然罕见地生病了。\n「鬼」象征身体强壮的人，「中暑」又称「霍乱」，\n就是「挥霍缭乱」的简称，在中医词汇里还有\n日射病、伤暑等称谓。\n\n鬼中暑的话，任谁都会很吃惊，所以这句话\n常常用来形容平时身体健康的人突然患病。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "意指平时身体强壮的人，突然罕见地生病了。「鬼」象征身体强壮的人，日语俗语直译为“鬼患霍乱”，这里借突发病症比喻一向强健的人罕见地病倒，不是将现代医学的霍乱与中暑视为同一种疾病。\n\n鬼中暑的话，任谁都会很吃惊，所以这句话常常用来形容平时身体健康的人突然患病。"
+        },
+        "notes": "白日梦、鬼中暑和预知梦故事，传闻不当科学定论。 修正旧译将不同病症和不存在的缩写混为一谈。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.194",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "梦日记",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "梦日记"
+        },
+        "notes": "白日梦、鬼中暑和预知梦故事，传闻不当科学定论。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.194",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "有一种可以预言未来的超常梦，有时会对\n做梦的人发出警告，这样就能提前应对以\n免遭遇危险，不过也有因为种种原因错过\n这种机会的例子。\n\n那是儿媳怀孕时的事情，儿媳梦见了一个\n被蓝色毛毯包裹着的嬰儿，身边一片漆黑，\n只有一条长长的阶梯笼罩在神圣光芒中。\n阶梯通往天堂，她的孩子就在那阶梯顶端。\n孩子的母亲醒来后，直觉告诉她嬰儿出什\n么事了，尽管她请求主治医生再检查一下，\n但医生却认为母亲的脑子有点不正常而\n未予理睬，此后不久，嬰儿就死了。\n\n对梦见的事情过于执着，以至于分不清梦境\n与现实，是可怕的。但过于轻看梦中的预兆，\n说不定会有更为可怕的后果。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据说有一种可以预言未来的超常梦，有时会对做梦的人发出警告，这样就能提前应对以免遭遇危险，不过也有因为种种原因错过这种机会的例子。\n\n那是儿媳怀孕时的事情，儿媳梦见了一个被蓝色毛毯包裹着的婴儿，身边一片漆黑，只有一条长长的阶梯笼罩在神圣光芒中。阶梯通往天堂，她的孩子就在那阶梯顶端。孩子的母亲醒来后，直觉告诉她婴儿出什么事了，尽管她请求主治医生再检查一下，但医生却认为母亲的脑子有点不正常而未予理睬，此后不久，婴儿就死了。\n\n对梦见的事情过于执着，以至于分不清梦境与现实，是可怕的。但过于轻看梦中的预兆，说不定会有更为可怕的后果。"
+        },
+        "notes": "白日梦、鬼中暑和预知梦故事，传闻不当科学定论。 都市传闻保留非科学定论语气。 清理繁体残留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.33",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "幽灵画",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "幽灵画"
+        },
+        "notes": "幽灵画与地狱图、希望钻石，故事猜想保留其传说性质。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.33",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "顾名思义，幽灵画就是以幽灵为题材的画，\n这种画大都会给人留下阴森恐怖的印象。\n最为人所熟知的幽灵画应该就是圆山应举\n的幽灵图了吧。那幅画中伫立着一位身着\n白色睡衣、头发蓬乱的美丽女性，这被认为\n是无脚幽灵的起源。\n\n那么，应举是把这幅画中的女性当作「幽灵」\n来描绘的吗？这样想的话就有疑问了，画中\n女人的衣领是右襟在前的，如果画的是死人，\n衣领不是应该左襟在前才对吗？\n还有，据说这幅画的模特是应举的妻子，她的\n名字叫雪，很年轻的时候就去世了。体弱多病\n的雪，穿着白色睡衣，头发蓬乱地站在走廊上。\n如果「幽灵图」描绘的是这一情景的话，那么\n以前对这幅画的看法就未必正确了。\n\n另外，因收藏幽灵画而闻名的单口相声演员\n三游亭圆朝，他的墓地在东京都内某寺院里。\n每年８月，借着晾晒藏品的机会，他收藏的５０\n幅幽灵画都会公开展览。若干幅幽灵画会于\n一堂，这种机会可不常有，如果你有兴趣的话，\n不妨去看看如何？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "顾名思义，幽灵画就是以幽灵为题材的画，这种画大都会给人留下阴森恐怖的印象。最为人所熟知的幽灵画应该就是圆山应举的幽灵图了吧。那幅画中伫立着一位身着白色睡衣、头发蓬乱的美丽女性，这被认为是无脚幽灵的起源。\n\n那么，应举是把这幅画中的女性当作「幽灵」来描绘的吗？这样想的话就有疑问了，画中女人的衣领是右襟在前的，如果画的是死人，衣领不是应该左襟在前才对吗？还有，据说这幅画的模特是应举的妻子，她的名字叫雪，很年轻的时候就去世了。体弱多病的雪，穿着白色睡衣，头发蓬乱地站在走廊上。如果「幽灵图」描绘的是这一情景的话，那么以前对这幅画的看法就未必正确了。\n\n另外，因收藏幽灵画而闻名的单口相声演员三游亭圆朝，他的墓地在东京都内某寺院里。每年8月，借着晾晒藏品的机会，他收藏的50幅幽灵画都会公开展览。若干幅幽灵画汇于一堂，这种机会可不常有，如果你有兴趣的话，不妨去看看如何？"
+        },
+        "notes": "幽灵画与地狱图、希望钻石，故事猜想保留其传说性质。 修正用字。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.34",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "地狱图",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "地狱图"
+        },
+        "notes": "幽灵画与地狱图、希望钻石，故事猜想保留其传说性质。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.34",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "描绘地狱景象的图画，或是描绘如同地狱般\n的景象。地狱是佛教用语，是指积累恶业的人\n终将堕入会受尽无数酷刑责罚的地下世界的\n总称。犯了破戒等罪的人，死后也将在那里受\n到极为痛苦地折磨。\n\n平安中期，地狱思想在日本流传开来，\n源信的『往生要集』中详细著述了八大地狱。\n之后，受其影响，创作『地狱变』这种绘画和\n『地狱草纸』这种配文图卷的风气日渐流行。\n利用这种风气的讲经说法在各地盛行，通过\n激起人们对地狱的恐惧，不仅使得净土信仰\n大为兴盛，还对文化和思想产生了重大影响。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "描绘地狱景象的图画，或是描绘如同地狱般的景象。地狱是佛教用语，是指积累恶业的人终将堕入会受尽无数酷刑责罚的地下世界的总称。犯了破戒等罪的人，死后也将在那里受到极为痛苦的折磨。\n\n平安中期，地狱思想在日本流传开来，源信的『往生要集』中详细著述了八大地狱。之后，受其影响，创作『地狱变』这种绘画和『地狱草纸』这种配文图卷的风气日渐流行。利用这种风气的讲经说法在各地盛行，通过激起人们对地狱的恐惧，不仅使得净土信仰大为兴盛，还对文化和思想产生了重大影响。"
+        },
+        "notes": "幽灵画与地狱图、希望钻石，故事猜想保留其传说性质。 修正定语。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.35",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "希望钻石",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "希望钻石"
+        },
+        "notes": "幽灵画与地狱图、希望钻石，故事猜想保留其传说性质。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.35",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "法兰西之蓝——其美丽令人心智迷惑、\n带有诅咒的希望钻石。\n\n宝石商塔韦尼埃从印度的神庙中将它盗走，\n是这一切事件的开端。被希望钻石迷住的人\n都成了悲剧的牺牡者。路易十四、路易十五\n的情人杜巴利、还有路易十六与他的王妃\n玛丽·安东尼特，这些人都很喜爱希望钻石，\n最终也都不幸死于非命。\n\n此后还有各种各样的悲剧重复着，直到\n１９５８年，宝石收藏家温斯顿把它捐赠\n给了史密森尼博物馆，这颗美丽钻石的\n诅咒之链才终告完结，成为一个传说。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "法兰西之蓝——其美丽令人心智迷惑、带有诅咒的希望钻石。\n\n传说宝石商塔韦尼埃从印度的神庙中将它盗走，是这一切事件的开端。被希望钻石迷住的人都成了悲剧的牺牲者。路易十四、路易十五的情人杜巴利、还有路易十六与他的王妃玛丽·安东尼特，在这类诅咒传说里，这些人都被说成因喜爱希望钻石而遭遇不幸，甚至死于非命。\n\n此后还有各种各样的悲剧重复着，直到1958年，宝石收藏家温斯顿把它捐赠给了史密森尼博物馆，这颗美丽钻石的诅咒之链才终告完结，成为一个传说。"
+        },
+        "notes": "幽灵画与地狱图、希望钻石，故事猜想保留其传说性质。 宝石诅咒传奇不冒充确证史实。 修正错字。 原文概括与路易十四生平有出入，明确为诅咒传说叙述。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.36",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "丧期",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "丧期"
+        },
+        "notes": "丧期、心衰竭、死神佛教和十字架，完整保留原文段落与宗教语境。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.36",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "丧期，是指有人亡故以后，亲属们的居丧期间。\n丧期分为「忌」和「服」，「忌」是指表达悲痛、\n祭祀亡灵、洗净身体的期间，「服」是指穿着丧\n服进行斋戒的期间。现在把「忌」和「服」合在\n一起，将一定期间内的斋戒称为「丧期」。\n\n政府机关与普通公司都制定了「服丧假」制度，\n亲属亡故的员工将得到长短不一的服丧假期：\n配偶死亡是１０天，父母是7天，孩子是５天，\n祖父母和兄弟是3天左右。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "丧期，是指有人亡故以后，亲属们的居丧期间。丧期分为「忌」和「服」，「忌」是指表达悲痛、祭祀亡灵、洗净身体的期间，「服」是指穿着丧服进行斋戒的期间。现在把「忌」和「服」合在一起，将一定期间内的斋戒称为「丧期」。\n\n原作所述的政府机关与普通公司制定了「服丧假」制度，亲属亡故的员工将得到长短不一的服丧假期：配偶死亡是10天，父母是7天，孩子是5天，祖父母和兄弟是3天左右。"
+        },
+        "notes": "丧期、心衰竭、死神佛教和十字架，完整保留原文段落与宗教语境。 服丧天数依机构年代不同，标明叙述范围。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.37",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "心衰竭",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "心衰竭"
+        },
+        "notes": "丧期、心衰竭、死神佛教和十字架，完整保留原文段落与宗教语境。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.37",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "心脏突发功能性·结构性异常，导致血液\n输送机能低下，代偿不全，无法满足全身\n组织代谢所必需的血量。\n\n心衰竭是一种病态而非病名，其并发症\n还有急性肺水肿·呼吸困难·胸闷·气喘·\n端坐呼吸等。\n\n心衰竭这种病态常被当作死因，但它毕竟\n只是一种「病态」，作为死因是很笼统的。\n也就是说，在死因不明的情况下，常用这种\n病态来归结死因。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "心脏突发功能性·结构性异常，导致血液输送机能低下，代偿不全，无法满足全身组织代谢所必需的血量。\n\n心衰竭是一种病态而非病名，其并发症还有急性肺水肿·呼吸困难·胸闷·气喘·端坐呼吸等。\n\n心衰竭这种病态常被当作死因，但它毕竟只是一种「病态」，作为死因是很笼统的。也就是说，在死因不明的情况下，常用这种病态来归结死因。"
+        },
+        "notes": "丧期、心衰竭、死神佛教和十字架，完整保留原文段落与宗教语境。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.38",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "死神",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "死神"
+        },
+        "notes": "丧期、心衰竭、死神佛教和十字架，完整保留原文段落与宗教语境。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.38",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "掌管死亡和来世的神。在希腊·罗马神话、\n凯尔特神话、日耳曼神话等多神教世界中，\n都有带来死亡·毁灭的神和主宰来世的神。\n通过基督教的布道，这种神被否定了，逐渐\n演变成了拟人化的恶魔形象。\n\n而日本的死神，则被认为是附在人身上，\n将人引向死亡的神。在日本传统习俗中，\n认为这种附身状态下的神会显灵，赐予\n人们祸福或赏罚。和穷神一样，死神附身\n也常被说成是招致不幸的原因。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "掌管死亡和来世的神。在希腊·罗马神话、凯尔特神话、日耳曼神话等多神教世界中，都有带来死亡·毁灭的神和主宰来世的神。通过基督教的布道，这种神被否定了，逐渐演变成了拟人化的恶魔形象。\n\n而日本的死神，则被认为是附在人身上，将人引向死亡的神。在日本传统习俗中，认为这种附身状态下的神会显灵，赐予人们祸福或赏罚。和穷神一样，死神附身也常被说成是招致不幸的原因。"
+        },
+        "notes": "丧期、心衰竭、死神佛教和十字架，完整保留原文段落与宗教语境。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.40",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "佛教",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佛教"
+        },
+        "notes": "丧期、心衰竭、死神佛教和十字架，完整保留原文段落与宗教语境。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.40",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "佛教始祖释迦牟尼，廷生于距今约２５００年前。\n他出生在释迦族的小国，父亲是国王，为他取名\n为「乔达摩·悉达多」。传说释迦刚出生就向北\n走了七步，右手指天，左手指地，口称「天上天下\n唯我独尊」。\n\n做为王储，释迦一直过着安泰的生活，直到２９\n岁时出家。据说他是在１7岁时娶的妻子生下\n一个男孩后出家的。\n大彻大悟是在六年后，也就是他3５岁的时候。\n他坐在菩提树下，接受一位名叫苏耶坦的牧女\n供养的乳糜，闭目坐禅4９天。１２月８日拂晓，\n释迦豁然大悟——达到了摆脱迷惑领悟真理\n的境界。此后，释迦用了4５年时间辗转各地，\n向人们传播自己领悟到的真理。\n\n公元前3８５年２月１５日，释迦长眠，这个日子\n后被称为「佛灭」。不过，「佛灭」原本被记载\n为「物灭」，史实上并没有释迦在这一天圆寂\n的记录。另外，释迦的遗骨（佛舍利）分给了\n八个国家，被分别供奉在各自国家的寺院中。\n\n传说佛舍利如果被不合适的人供奉就会消失，\n被合适的人供奉数量就会增多，还会变大变色。\n也许正是这个原因，现在整个?洲的佛舍利加\n在一起重达２吨，如果这些都是真品的话，释迦\n生前的体重应该达到了１８吨。\n\n回顾历史，在中国，佛教是与儒教、道教并称的\n三教之一。但后来北周武帝排斥佛教和道教。\n在中国历史上曾多次发生这种压制佛教的事，\n其中规模最大的四次镇压，是以各个皇帝庙号\n或溢号命名的「三武一宗法难」。日本也曾在\n明治维新后，依照新政府的神佛分离令而发动\n了废佛毁释的运动。不过，现在佛教已传播到\n全世界，与基督教、伊斯兰教并称为世界三大\n宗教。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佛教始祖释迦牟尼，诞生于距今约2500年前。他出生在释迦族的小国，父亲是国王，为他取名为「乔达摩·悉达多」。传说释迦刚出生就向北走了七步，右手指天，左手指地，口称「天上天下唯我独尊」。\n\n作为王储，释迦一直过着安泰的生活，直到29岁时出家。据说他是在17岁时娶的妻子生下一个男孩后出家的。大彻大悟是在六年后，也就是他35岁的时候。他坐在菩提树下，接受一位名叫苏耶坦的牧女供养的乳糜，闭目坐禅49天。12月8日拂晓，释迦豁然大悟——达到了摆脱迷惑领悟真理的境界。此后，释迦用了45年时间辗转各地，向人们传播自己领悟到的真理。\n\n原作采用的说法是：公元前385年2月15日，释迦长眠，这个日子后被称为「佛灭」。不过，「佛灭」原本被记载为「物灭」，史实上并没有释迦在这一天圆寂的记录。另外，释迦的遗骨（佛舍利）分给了八个国家，被分别供奉在各自国家的寺院中。\n\n传说佛舍利如果被不合适的人供奉就会消失，被合适的人供奉数量就会增多，还会变大变色。也许正是这个原因，现在整个亚洲的佛舍利加在一起重达2吨，如果这些都是真品的话，释迦生前的体重应该达到了18吨。\n\n回顾历史，在中国，佛教是与儒教、道教并称的三教之一。但后来北周武帝排斥佛教和道教。在中国历史上曾多次发生这种压制佛教的事，其中规模最大的四次镇压，是以各个皇帝庙号或谥号命名的「三武一宗法难」。日本也曾在明治维新后，依照新政府的神佛分离令而发动了废佛毁释的运动。不过，现在佛教已传播到全世界，与基督教、伊斯兰教并称为世界三大宗教。"
+        },
+        "notes": "丧期、心衰竭、死神佛教和十字架，完整保留原文段落与宗教语境。 修正错字。 规范用字。 依上下文亚洲佛舍利分布修复缺字，保留原作夸张数字并非独立验证统计。 修正历史术语。 圆寂年代有不同说法，明确原作来源不冒称确定史实。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "terms.41",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "十字架",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "十字架"
+        },
+        "notes": "丧期、心衰竭、死神佛教和十字架，完整保留原文段落与宗教语境。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "definitions.41",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "十字架是耶稣基督受刑时的刑具，\n对于死亡和地狱来说是胜利的象征，\n并转变为苦难、重负的别名。\n\n总之，背负十字架，就是指身受重负，\n承认自己的罪过，一边赎罪一边生活下去。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "十字架是耶稣基督受刑时的刑具，对于死亡和地狱来说是胜利的象征，并转变为苦难、重负的别名。\n\n总之，背负十字架，就是指身受重负，承认自己的罪过，一边赎罪一边生活下去。"
+        },
+        "notes": "丧期、心衰竭、死神佛教和十字架，完整保留原文段落与宗教语境。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "keywords.4661",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4662",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4663",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4667",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4671",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4666",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.5",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.6",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.8",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.9",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.10",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.11",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.12",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.13",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.14",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.15",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.16",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.17",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.18",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.19",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.20",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.21",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.22",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.23",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.24",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.25",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.26",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.27",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.28",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.29",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.30",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.31",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.32",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.39",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.194",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.33",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.34",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.35",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.36",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.37",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.38",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.40",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.41",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

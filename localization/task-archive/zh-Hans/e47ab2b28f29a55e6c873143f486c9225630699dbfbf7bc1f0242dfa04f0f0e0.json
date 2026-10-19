@@ -1,0 +1,2300 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 10001,
+    "title": "第零话 · 黒闇",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 521,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "logic.2.field.10.choice.4608",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "小暮在学生时代是美术部的",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮在学生时代是美术部的"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.10.choice.4609",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "小暮在学生时代是柔道部的",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮在学生时代是柔道部的"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.10.choice.4619",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "小暮有轻度的贫血",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮有轻度的贫血"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.10.choice.4639",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "小暮正在找对象",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮正在找对象"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.10.choice.4668",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "小暮怕见血",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮怕见血"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.11.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.11.choice.4631",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "霜苑在绘画中注入了诅咒",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "霜苑在绘画中注入了诅咒"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.11.choice.4665",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "霜苑在巴死后，画了这幅画",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "霜苑在巴死后，画了这幅画"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.11.choice.4668",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "霜苑用自己的血画了这幅画",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "霜苑用自己的血画了这幅画"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.11.choice.4669",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "霜苑将自己的灵魂注入了这幅画",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "霜苑将自己的灵魂注入了这幅画"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.12.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.12.choice.4636",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "画中描绘的是黑暗天",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "画中描绘的是黑暗天"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.12.choice.4637",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "画中描绘的是吉祥天",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "画中描绘的是吉祥天"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.12.choice.4638",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "画中描绘的是穷神",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "画中描绘的是穷神"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.12.choice.4658",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "画中描绘的是黑衣女",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "画中描绘的是黑衣女"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.12.choice.4664",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "画中描绘的是死神",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "画中描绘的是死神"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.12.choice.4665",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "画中描绘的是巴",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "画中描绘的是巴"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.13.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.13.choice.4601",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "女人画像使房客迷恋赌博",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女人画像使房客迷恋赌博"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.13.choice.4606",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "女人画像迫使房客自杀",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女人画像迫使房客自杀"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.13.choice.4631",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "女人画像诅咒了房客",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女人画像诅咒了房客"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.13.choice.4632",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "女人画像使房客心衰竭",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女人画像使房客心衰竭"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.13.choice.4633",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "女人画像使房客饿死",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女人画像使房客饿死"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.13.choice.4634",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "女人画像使房客失踪",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女人画像使房客失踪"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.13.choice.4635",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "女人画像使房客胁同家人自杀",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女人画像使房客胁同家人自杀"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.13.choice.4661",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "女人画像里散发出来的毒素杀死了房客",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女人画像里散发出来的毒素杀死了房客"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.13.choice.4662",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "女人画像实现了房客的愿望",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女人画像实现了房客的愿望"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.14.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.14.choice.4613",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "神符是住持制作的",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "神符是住持制作的"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.14.choice.4660",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "住持在卖假神符",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "住持在卖假神符"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.14.choice.4667",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "住持将鬼哭寺据为己有",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "住持将鬼哭寺据为己有"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.15.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.15.choice.4604",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "贺茂泉曾经爱过圭一",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉曾经爱过圭一"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.15.choice.4611",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "贺茂泉对画廊的经营有兴趣",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉对画廊的经营有兴趣"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.15.choice.4634",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "贺茂泉认为圭一失踪了",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉认为圭一失踪了"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.15.choice.4660",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "贺茂泉一直在追查赝品案件",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉一直在追查赝品案件"
+        },
+        "notes": "关系图候选含错误解释，逐项保留原选择含义；共同自杀旧词待辞典语义核对。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4600",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "小暮宗一郎",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮宗一郎"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4615",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "犬童兰子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬童兰子"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4601",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "博彩",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "博彩"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4603",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "同学",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "同学"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4604",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "初恋",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "初恋"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4643",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "右臂",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "右臂"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4605",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "春日雪乃",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "春日雪乃"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4606",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "自杀",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "自杀"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4607",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "后援会",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "后援会"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4608",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "美术部",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "美术部"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4609",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "柔道部",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "柔道部"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4610",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "日本画",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "日本画"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4611",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "画廊",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "画廊"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4612",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "荞麦过敏",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "荞麦过敏"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4619",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "贫血",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贫血"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4613",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "神符",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "神符"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4614",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "女人的画像",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女人的画像"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4624",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "邻居",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "邻居"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4620",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "幽灵",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "幽灵"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4627",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "今村浩二",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "今村浩二"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4621",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "观测者",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "观测者"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4618",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "贺茂泉戈薇",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉戈薇"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4622",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "科搜研",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "科搜研"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4623",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "犯罪心理画像",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犯罪心理画像"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4670",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "他杀",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他杀"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4617",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "春日圭一",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "春日圭一"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4641",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "传闻",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "传闻"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4628",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "古关静江",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关静江"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4631",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "诅咒",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "诅咒"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4645",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "中上律子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "中上律子"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4646",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "小野畑晶",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小野畑晶"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4647",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "小野畑昭江",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小野畑昭江"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4644",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "２０２号房",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "202号房"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4648",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "城崎丰",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "城崎丰"
+        },
+        "notes": "角色姓名、机构、画作及案件关键词沿用正文，不改动对应ID。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4633",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "饿死",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "饿死"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4634",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "失踪",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "失踪"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4635",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "胁同自杀",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "胁同自杀"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4649",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "目的是保险金",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "目的是保险金"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4651",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "争吵",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "争吵"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4650",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "家庭暴力",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "家庭暴力"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4652",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "事故",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "事故"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4653",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "胃药",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "胃药"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4640",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "隐瞒",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "隐瞒"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4654",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "战后",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "战后"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4655",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "敏感",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "敏感"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4656",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "幻听",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "幻听"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4657",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "相思病",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "相思病"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4626",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "古关太太的女儿",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关太太的女儿"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4629",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "古关和子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关和子"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4658",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "黑衣女",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "黑衣女"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4630",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "小修",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小修"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4642",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "肾病",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "肾病"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4659",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "颜料",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "颜料"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4660",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "赝品",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "赝品"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4616",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "雨月霜苑",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雨月霜苑"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4636",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "黑暗天",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "黑暗天"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4637",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "吉祥天",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "吉祥天"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4669",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "魂",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "魂"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4632",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "心衰竭",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "心衰竭"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4664",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "死神",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "死神"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4638",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "穷神",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "穷神"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4665",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "巴",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "巴"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4668",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "血液",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "血液"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "keywords.4639",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "恋人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "恋人"
+        },
+        "notes": "死亡与医疗、艺术宗教关键词，保留作为收录索引的短标签。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "logic.2.field.10.choice.4608",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.10.choice.4609",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.10.choice.4619",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.10.choice.4639",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.10.choice.4668",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.11.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.11.choice.4631",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.11.choice.4665",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.11.choice.4668",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.11.choice.4669",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.12.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.12.choice.4636",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.12.choice.4637",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.12.choice.4638",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.12.choice.4658",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.12.choice.4664",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.12.choice.4665",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.13.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.13.choice.4601",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.13.choice.4606",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.13.choice.4631",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.13.choice.4632",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.13.choice.4633",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.13.choice.4634",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.13.choice.4635",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.13.choice.4661",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.13.choice.4662",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.14.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.14.choice.4613",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.14.choice.4660",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.14.choice.4667",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.15.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.15.choice.4604",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.15.choice.4611",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.15.choice.4634",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.15.choice.4660",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4600",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4615",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4601",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4603",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4604",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4643",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4605",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4606",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4607",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4608",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4609",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4610",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4611",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4612",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4619",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4613",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4614",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4624",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4620",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4627",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4621",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4618",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4622",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4623",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4670",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4617",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4641",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4628",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4631",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4645",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4646",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4647",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4648",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4633",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4634",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4635",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4649",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4651",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4650",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4652",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4653",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4640",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4654",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4655",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4656",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4657",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4626",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4629",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4658",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4630",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4642",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4659",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4660",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4616",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4636",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4637",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4669",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4632",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4664",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4638",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4665",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4668",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4639",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

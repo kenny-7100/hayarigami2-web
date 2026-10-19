@@ -1,0 +1,1948 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 60001,
+    "title": "贺茂泉篇 · 座敷わらし",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 1348,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "prompt.64402.89",
+        "collection": "strings",
+        "kind": "confirmation",
+        "source": "これで決定でよろしいですか？",
+        "baseHash": null,
+        "location": {
+          "script": 64402,
+          "offset": 4196892
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "确定使用当前填写的关系吗？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.1",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "大好きだったお祖母様。\nどんなときでも、私の味方だった。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "我最爱的奶奶。无论什么时候，她都站在我这边。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.2",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "あの日の火事で死亡。\nお祖母様が死んで、\n私を守ってくれる人はいなくなった。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "死于那场火灾。奶奶走后，就再也没有保护我的人了。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.3",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "お母様。寂しそうな表情で、\n毎日お父様の顔色ばかり\n窺って生きている人だった。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "母亲大人。总是一脸寂寞，每天看着父亲大人的脸色过活。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.4",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "お母様。あの日の火事で死亡。\n少し悲しい気もしたけど、ちーちゃんとの\nお別れのほうが、もっと悲しかった。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "母亲大人，死于那场火灾。似乎有些难过，但和小千告别，让我更伤心。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.5",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "お父様。いつも怖い顔をしていた。\n私やお母様に怒っていた記憶しかない。\n礼儀作法や格式に異常にこだわる父だった。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "父亲大人，总是板着可怕的脸。记忆里只有他斥责我和母亲大人的样子。他对礼仪和门第，有着近乎异常的执着。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.6",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "お父様。あの日の火事で死亡。\n悲しみはなく、怖いお父様はいないという\n事実だけを冷静に認識していた。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "父亲大人，死于那场火灾。我没有感到悲伤，只是冷静地认识到，那个可怕的父亲已经不在了。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.7",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "おかっぱのカワイイ女の子。\nこの子となら仲良くなれる。\nそんな確信めいた予感があった。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "留着齐耳短发的可爱女孩。我有一种近乎确信的预感：和她，一定能成为朋友。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.8",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "ちーちゃん。私の初めての友達で、\n唯一の親友だった。\nもうあんな気持ちになることはないだろう。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小千。我的第一个朋友，也是唯一的挚友。以后，大概再也不会有那样的心情了。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.9",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "ちーちゃん。\n彼女はいったい、どこから来て、\nどこに行ってしまったのだろう？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小千。她究竟从哪里来，又去了哪里？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.10",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "県警の小倉と名乗った男。\n軽薄な態度だが、油断ならない印象だった。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "自称县警小仓的男人。态度轻浮，却让人觉得不能掉以轻心。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.11",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "不気味な老婆。\n瞳には薄暗い炎が宿っている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "令人不安的老妇人。眼中仿佛燃着幽暗的火。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.12",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "ちーちゃんの母親。\n賀茂泉家に強い恨みを抱いている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小千的母亲。对贺茂泉家怀着强烈的怨恨。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.13",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "火事の現場で私を殺そうとした女。\nその瞳には強い憎しみと悲しみが\n浮かんでいた。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "火灾时试图杀死我的女人。眼中浮现着强烈的憎恨与悲伤。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.description.14",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "ちーちゃんの母親。\n私の家を放火した犯人でもある。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小千的母亲，也是放火烧我家的凶手。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.0.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.0.choice.5006",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの人は賀茂泉家のお手伝いさんだった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她曾是贺茂泉家的帮佣"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.0.choice.5016",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの人が賀茂泉家に放火をした",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她放火烧了贺茂泉家"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.0.choice.5039",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "あの人は賀茂泉家に復讐した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她向贺茂泉家复仇"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.1.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.1.choice.5013",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "父にとって彼女は恋人だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "对父亲来说，她是恋人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.1.choice.5036",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "父は彼女と子宝に恵まれた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "父亲和她有了孩子"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.1.choice.5040",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "父は彼女を捨てた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "父亲抛弃了她"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.1.choice.5051",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "父はオバサンを妾にしていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "父亲纳她为妾"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.2.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.2.choice.5023",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女は父にとって、いい人だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她是父亲的相好"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.2.choice.5030",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女は血縁になることを望んでいた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她希望成为家族的血亲"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.2.choice.5039",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女は父に復讐をした",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她向父亲复仇"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.2.choice.5040",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女は父を捨てた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她抛弃了父亲"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.2.choice.5052",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女は遺産目当てに父と付き合っていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她为了遗产和父亲交往"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.2.choice.5053",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女は父の愛人だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她是父亲的情人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.3.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.3.choice.5018",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "賀茂泉家は封建的だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉家很封建"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.3.choice.5027",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "賀茂泉家は時代錯誤だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉家古板迂腐"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.3.choice.5028",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "賀茂泉家は厳格だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉家规矩严厉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.3.choice.5041",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "賀茂泉家は宮司の家系だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉家世代担任宫司"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.3.choice.5048",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "賀茂泉家は私にとって忌むべきものだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉家是我该憎恨的地方"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.3.choice.5049",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "賀茂泉家は歴史ある神社だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉家是一座历史悠久的神社"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.3.choice.5050",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "賀茂泉家はなくなってしまえばいいのだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉家消失就好了"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.4.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.4.choice.5013",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "両親は恋愛結婚だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "父母因相爱而结婚"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.4.choice.5037",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "両親は政略結婚だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "父母的婚姻是家族联姻"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.4.choice.5045",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "両親はいつもピリピリしている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "父母总是神经紧绷"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.4.choice.5047",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人ともいなくなってしまえばいい",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他们两个都消失吧"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.5.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.5.choice.5020",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女達は鬼であった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她们是恶鬼"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.5.choice.5021",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼女は千鶴ちゃんのお母さんだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "她是千鹤的妈妈"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.5.choice.5033",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "火事の時の彼女は山姥になった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "火灾时，她化成了山姥"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.6.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.6.choice.5021",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "老婆はちーちゃんの母だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "老妇人是小千的母亲"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.6.choice.5022",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "老婆は恨むべき犯人だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "老妇人是我该憎恨的凶手"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.6.choice.5030",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "老婆は私の血縁者だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "老妇人是我的血亲"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.6.choice.5031",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "老婆は私の討つべき仇だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "老妇人是我该报复的仇人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.6.choice.5033",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "この老婆は山姥だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这个老妇人是山姥"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.7.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.7.choice.5007",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんは跡取り娘だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤是家族继承人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.7.choice.5025",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんはお人形だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤是娃娃"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.7.choice.5034",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんと彼女は親子だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤和她是母女"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.7.choice.5035",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "写真には千鶴ちゃんが写っていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "照片上拍的是千鹤"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.8.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.8.choice.5009",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんは賀茂泉家の座敷わらしだった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤是贺茂泉家的座敷童子"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.8.choice.5016",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんは父への恨みから放火した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤因怨恨父亲而纵火"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.8.choice.5034",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんと私の父は親子だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤和我父亲是父女"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.8.choice.5038",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんは私の父にとって不要なもの",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "对我父亲来说，千鹤是多余之物"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.9.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.9.choice.5004",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんは私のお友達だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤是我的朋友"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.9.choice.5010",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんは私の妹だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤是我的妹妹"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.9.choice.5011",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんは私の姉だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤是我的姐姐"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.9.choice.5012",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんと私は双子だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤和我是双胞胎"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.9.choice.5022",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんは犯人だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤是凶手"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.9.choice.5029",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんが指輪を持っている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤拿着戒指"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.10.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.10.choice.5009",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんを座敷わらしだと考えていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "认为千鹤是座敷童子"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.10.choice.5022",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "放火の犯人として千鶴ちゃんを疑っていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "怀疑千鹤是纵火犯"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.10.choice.5024",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんを抱っこした",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "抱起千鹤"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.6.field.10.choice.5025",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "千鶴ちゃんとお人形ごっこした",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "和千鹤玩娃娃"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5000",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "故乡",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "故乡"
+        },
+        "notes": "保留已有简中地理称谓「故乡」。"
+      },
+      {
+        "key": "keywords.5048",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "应该憎恶的？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "该憎恨的地方？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5025",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "人偶",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "娃娃"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5049",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "有历史的神社",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "历史悠久的神社"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5054",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "母亲",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "妈妈"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5003",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "母亲",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "母亲大人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5042",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "一模一样",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一模一样"
+        },
+        "notes": "保留已有简中相似外貌描述「一模一样」。"
+      },
+      {
+        "key": "keywords.5004",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "朋友",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "朋友"
+        },
+        "notes": "保留已有简中关系词「朋友」。"
+      },
+      {
+        "key": "keywords.5005",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "千鹤",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千鹤"
+        },
+        "notes": "保留既定角色名「千鹤」，与正文一致。"
+      },
+      {
+        "key": "keywords.5002",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "父亲",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "父亲大人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5045",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "神经过敏",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "神经紧绷"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5006",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "家务助理",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "帮佣"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5007",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "后嗣之女",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "继承人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5050",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "一去不复返？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "消失就好了"
+        },
+        "notes": "对应关系说明「賀茂泉家はなくなってしまえばいいのだ」及童年厨房愿望，旧「一去不复返？」误解了消失愿望。"
+      },
+      {
+        "key": "keywords.5047",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "一去不复返？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "都消失吧"
+        },
+        "notes": "对应关系说明「二人ともいなくなってしまえばいい」；指父母都消失的愿望，区别5050对家宅的愿望。"
+      },
+      {
+        "key": "keywords.5008",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "祖母",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "奶奶"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5046",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "唯命是从",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "唯命是从"
+        },
+        "notes": "保留已有简中词语，指母亲服从父亲，与剧情含义一致。"
+      },
+      {
+        "key": "keywords.5041",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "神官",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "神官"
+        },
+        "notes": "保留已有简中神职称谓，不改为国内宗教职位。"
+      },
+      {
+        "key": "keywords.5013",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "恋人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "恋人"
+        },
+        "notes": "保留已有简中关系词，与正文相好解释一致。"
+      },
+      {
+        "key": "keywords.5014",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "妖怪",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "鬼怪"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5016",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "纵火",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "纵火"
+        },
+        "notes": "保留已有简中犯罪行为词，与推理关系说明一致。"
+      },
+      {
+        "key": "keywords.5026",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "警察",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警察"
+        },
+        "notes": "保留已有简中职业名，与正文一致。"
+      },
+      {
+        "key": "keywords.5017",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "小仓",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小仓"
+        },
+        "notes": "保留既定警察姓氏「小仓」。"
+      },
+      {
+        "key": "keywords.5024",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "拥抱",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "抱起来"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "keywords.5000",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5042",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5004",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5005",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5046",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5041",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5013",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5016",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5026",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5017",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

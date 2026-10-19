@@ -1,0 +1,4913 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 90001,
+    "title": "人见篇 · よみがえり",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 2792,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.90401:4615052.4e4f0fdf",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「失礼します！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"くんの声だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"少し間を置いて「落合さん！」という\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"悲鳴にも似た声が響く。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4615052",
+          "route": "chapter-8-end-90701.json",
+          "step": 201
+        },
+        "requiredRefs": [
+          {
+            "ref": 2,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4614780.911516a0",
+            "step": 199,
+            "script": 90401,
+            "text": "ロビーに連絡を取り、せめてもの応急処置を\n施そうとしたとき、廊下から誰かが\n走ってくる音が聞こえた。",
+            "translation": "我联系了前台，正想先做些急救，走廊里忽然传来一阵奔跑声。"
+          },
+          {
+            "key": "page.90401:4614960.b5857be0",
+            "step": 200,
+            "script": 90401,
+            "text": "後ろ暗さから、私は反射的に\nクローゼットに身を隠した。",
+            "translation": "心虚之下，我反射性地躲进了衣柜。"
+          },
+          {
+            "key": "page.90401:4615052.4e4f0fdf",
+            "step": 201,
+            "script": 90401,
+            "text": "「失礼します！」\n纯也くんの声だ。\n少し間を置いて「落合さん！」という\n悲鳴にも似た声が響く。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615196.d7daf3b7",
+            "step": 202,
+            "script": 90401,
+            "text": "いまひとつ状況が見えないが、\nバスルームに倒れている落合を発見して\n驚いているのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615320.e39af273",
+            "step": 203,
+            "script": 90401,
+            "text": "このままでは、この部屋は纯也くん達に\n封鎖される。\n当然このクローゼットも調べるに決まっている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「打扰了！」\n是"
+            },
+            {
+              "ref": 2
+            },
+            {
+              "text": "的声音。\n片刻之后，传来一声近乎惊叫的「落合先生！」。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4615196.d7daf3b7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"いまひとつ状況が見えないが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"バスルームに倒れている落合を発見して\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"驚いているのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4615196",
+          "route": "chapter-8-end-90701.json",
+          "step": 202
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4614960.b5857be0",
+            "step": 200,
+            "script": 90401,
+            "text": "後ろ暗さから、私は反射的に\nクローゼットに身を隠した。",
+            "translation": "心虚之下，我反射性地躲进了衣柜。"
+          },
+          {
+            "key": "page.90401:4615052.4e4f0fdf",
+            "step": 201,
+            "script": 90401,
+            "text": "「失礼します！」\n纯也くんの声だ。\n少し間を置いて「落合さん！」という\n悲鳴にも似た声が響く。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615196.d7daf3b7",
+            "step": 202,
+            "script": 90401,
+            "text": "いまひとつ状況が見えないが、\nバスルームに倒れている落合を発見して\n驚いているのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615320.e39af273",
+            "step": 203,
+            "script": 90401,
+            "text": "このままでは、この部屋は纯也くん達に\n封鎖される。\n当然このクローゼットも調べるに決まっている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615456.41e79e01",
+            "step": 204,
+            "script": 90401,
+            "text": "彼らが部屋を空にして応援を呼びにいくとも\n思えない以上、この部屋を出るのは落合に\n気を取られている今をおいて他にない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "虽然看不清情况，但他大概是发现了倒在浴室里的落合，吃了一惊吧。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4615320.e39af273",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"このままでは、この部屋は\",\"color\":0,\"size\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"くん達に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"封鎖される。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"当然このクローゼットも調べるに決まっている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4615320",
+          "route": "chapter-8-end-90701.json",
+          "step": 203
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4615052.4e4f0fdf",
+            "step": 201,
+            "script": 90401,
+            "text": "「失礼します！」\n纯也くんの声だ。\n少し間を置いて「落合さん！」という\n悲鳴にも似た声が響く。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615196.d7daf3b7",
+            "step": 202,
+            "script": 90401,
+            "text": "いまひとつ状況が見えないが、\nバスルームに倒れている落合を発見して\n驚いているのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615320.e39af273",
+            "step": 203,
+            "script": 90401,
+            "text": "このままでは、この部屋は纯也くん達に\n封鎖される。\n当然このクローゼットも調べるに決まっている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615456.41e79e01",
+            "step": 204,
+            "script": 90401,
+            "text": "彼らが部屋を空にして応援を呼びにいくとも\n思えない以上、この部屋を出るのは落合に\n気を取られている今をおいて他にない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615612.9221e3f1",
+            "step": 205,
+            "script": 90401,
+            "text": "意を決してドアに向かったところで、\nバスルームから「あっ！」という声が届いた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "再这样下去，房间就会被"
+            },
+            {
+              "ref": 1
+            },
+            {
+              "text": "他们封锁。这个衣柜，当然也免不了被搜查。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4615456.41e79e01",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"彼らが部屋を空にして応援を呼びにいくとも\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"思えない以上、この部屋を出るのは落合に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"気を取られている今をおいて他にない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4615456",
+          "route": "chapter-8-end-90701.json",
+          "step": 204
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4615196.d7daf3b7",
+            "step": 202,
+            "script": 90401,
+            "text": "いまひとつ状況が見えないが、\nバスルームに倒れている落合を発見して\n驚いているのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615320.e39af273",
+            "step": 203,
+            "script": 90401,
+            "text": "このままでは、この部屋は纯也くん達に\n封鎖される。\n当然このクローゼットも調べるに決まっている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615456.41e79e01",
+            "step": 204,
+            "script": 90401,
+            "text": "彼らが部屋を空にして応援を呼びにいくとも\n思えない以上、この部屋を出るのは落合に\n気を取られている今をおいて他にない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615612.9221e3f1",
+            "step": 205,
+            "script": 90401,
+            "text": "意を決してドアに向かったところで、\nバスルームから「あっ！」という声が届いた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615724.29b5354a",
+            "step": 206,
+            "script": 90401,
+            "text": "見つかったか！？\n私は廊下を飛び出し、全速力で走った。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "他们不可能把房间空着，跑出去找人帮忙。要离开，就只能趁现在，他们的注意力还在落合身上。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4615612.9221e3f1",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"意を決してドアに向かったところで、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"バスルームから「あっ！」という声が届いた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4615612",
+          "route": "chapter-8-end-90701.json",
+          "step": 205
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4615320.e39af273",
+            "step": 203,
+            "script": 90401,
+            "text": "このままでは、この部屋は纯也くん達に\n封鎖される。\n当然このクローゼットも調べるに決まっている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615456.41e79e01",
+            "step": 204,
+            "script": 90401,
+            "text": "彼らが部屋を空にして応援を呼びにいくとも\n思えない以上、この部屋を出るのは落合に\n気を取られている今をおいて他にない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615612.9221e3f1",
+            "step": 205,
+            "script": 90401,
+            "text": "意を決してドアに向かったところで、\nバスルームから「あっ！」という声が届いた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615724.29b5354a",
+            "step": 206,
+            "script": 90401,
+            "text": "見つかったか！？\n私は廊下を飛び出し、全速力で走った。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615816.997afb69",
+            "step": 207,
+            "script": 90401,
+            "text": "一瞬、見覚えのあるような顔が\n視界に飛び込んだ気がするが、\nそれを確かめる余裕はない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我下定决心，朝门口走去。就在这时，浴室里传来一声「啊！」。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4615724.29b5354a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"見つかったか！？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私は廊下を飛び出し、全速力で走った。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4615724",
+          "route": "chapter-8-end-90701.json",
+          "step": 206
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4615456.41e79e01",
+            "step": 204,
+            "script": 90401,
+            "text": "彼らが部屋を空にして応援を呼びにいくとも\n思えない以上、この部屋を出るのは落合に\n気を取られている今をおいて他にない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615612.9221e3f1",
+            "step": 205,
+            "script": 90401,
+            "text": "意を決してドアに向かったところで、\nバスルームから「あっ！」という声が届いた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615724.29b5354a",
+            "step": 206,
+            "script": 90401,
+            "text": "見つかったか！？\n私は廊下を飛び出し、全速力で走った。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615816.997afb69",
+            "step": 207,
+            "script": 90401,
+            "text": "一瞬、見覚えのあるような顔が\n視界に飛び込んだ気がするが、\nそれを確かめる余裕はない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615940.a01ed870",
+            "step": 208,
+            "script": 90401,
+            "text": "それが例え、安曇くんに見えたとしても……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "被发现了！？\n我冲出房间，在走廊里拼命奔跑。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4615816.997afb69",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"一瞬、見覚えのあるような顔が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"視界に飛び込んだ気がするが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それを確かめる余裕はない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4615816",
+          "route": "chapter-8-end-90701.json",
+          "step": 207
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4615612.9221e3f1",
+            "step": 205,
+            "script": 90401,
+            "text": "意を決してドアに向かったところで、\nバスルームから「あっ！」という声が届いた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615724.29b5354a",
+            "step": 206,
+            "script": 90401,
+            "text": "見つかったか！？\n私は廊下を飛び出し、全速力で走った。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615816.997afb69",
+            "step": 207,
+            "script": 90401,
+            "text": "一瞬、見覚えのあるような顔が\n視界に飛び込んだ気がするが、\nそれを確かめる余裕はない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615940.a01ed870",
+            "step": 208,
+            "script": 90401,
+            "text": "それが例え、安曇くんに見えたとしても……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616012.47b68d71",
+            "step": 209,
+            "script": 90401,
+            "text": "一体、どれほど走っただろうか？\n従業員通路を抜けてエレベーターへ\n逃げ込んだ私は、やっとの思いで纯也くんの\n追走を振り切った……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "有那么一瞬，一张似曾相识的脸，仿佛闯进了视野。可我根本没有余裕去确认。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4615940.a01ed870",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それが例え、安曇くんに見えたとしても……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4615940",
+          "route": "chapter-8-end-90701.json",
+          "step": 208
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4615724.29b5354a",
+            "step": 206,
+            "script": 90401,
+            "text": "見つかったか！？\n私は廊下を飛び出し、全速力で走った。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615816.997afb69",
+            "step": 207,
+            "script": 90401,
+            "text": "一瞬、見覚えのあるような顔が\n視界に飛び込んだ気がするが、\nそれを確かめる余裕はない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615940.a01ed870",
+            "step": 208,
+            "script": 90401,
+            "text": "それが例え、安曇くんに見えたとしても……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616012.47b68d71",
+            "step": 209,
+            "script": 90401,
+            "text": "一体、どれほど走っただろうか？\n従業員通路を抜けてエレベーターへ\n逃げ込んだ私は、やっとの思いで纯也くんの\n追走を振り切った……。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616284.6bcb3a27",
+            "step": 210,
+            "script": 90401,
+            "text": "次の日——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "即使，那张脸看起来像是安昙……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4616012.47b68d71",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"一体、どれほど走っただろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"従業員通路を抜けてエレベーターへ\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"逃げ込んだ私は、やっとの思いで\",\"color\":0,\"size\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"くんの\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"追走を振り切った……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4616012",
+          "route": "chapter-8-end-90701.json",
+          "step": 209
+        },
+        "requiredRefs": [
+          {
+            "ref": 5,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4615816.997afb69",
+            "step": 207,
+            "script": 90401,
+            "text": "一瞬、見覚えのあるような顔が\n視界に飛び込んだ気がするが、\nそれを確かめる余裕はない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4615940.a01ed870",
+            "step": 208,
+            "script": 90401,
+            "text": "それが例え、安曇くんに見えたとしても……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616012.47b68d71",
+            "step": 209,
+            "script": 90401,
+            "text": "一体、どれほど走っただろうか？\n従業員通路を抜けてエレベーターへ\n逃げ込んだ私は、やっとの思いで纯也くんの\n追走を振り切った……。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616284.6bcb3a27",
+            "step": 210,
+            "script": 90401,
+            "text": "次の日——",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616452.d5d56a1a",
+            "step": 211,
+            "script": 90401,
+            "text": "息を潜めるという行為が、これほどストレスになるとは\n思っていなかった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我到底跑了多久？\n穿过员工通道，逃进电梯，我才终于甩掉了追在身后的"
+            },
+            {
+              "ref": 5
+            },
+            {
+              "text": "……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4616284.6bcb3a27",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"次の日———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4616284",
+          "route": "chapter-8-end-90701.json",
+          "step": 210
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4615940.a01ed870",
+            "step": 208,
+            "script": 90401,
+            "text": "それが例え、安曇くんに見えたとしても……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616012.47b68d71",
+            "step": 209,
+            "script": 90401,
+            "text": "一体、どれほど走っただろうか？\n従業員通路を抜けてエレベーターへ\n逃げ込んだ私は、やっとの思いで纯也くんの\n追走を振り切った……。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616284.6bcb3a27",
+            "step": 210,
+            "script": 90401,
+            "text": "次の日——",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616452.d5d56a1a",
+            "step": 211,
+            "script": 90401,
+            "text": "息を潜めるという行為が、これほどストレスになるとは\n思っていなかった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616556.bcd10193",
+            "step": 212,
+            "script": 90401,
+            "text": "いや、正確には息を潜めるのがストレスなのではない。\n息を潜めて、壁に耳を当て、隣の部屋の音を\n聞き漏らすまいとする行為がストレスなのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "第二天——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4616452.d5d56a1a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"息を潜めるという行為が、これほどストレスになるとは\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"思っていなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4616452",
+          "route": "chapter-8-end-90701.json",
+          "step": 211
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4616012.47b68d71",
+            "step": 209,
+            "script": 90401,
+            "text": "一体、どれほど走っただろうか？\n従業員通路を抜けてエレベーターへ\n逃げ込んだ私は、やっとの思いで纯也くんの\n追走を振り切った……。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616284.6bcb3a27",
+            "step": 210,
+            "script": 90401,
+            "text": "次の日——",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616452.d5d56a1a",
+            "step": 211,
+            "script": 90401,
+            "text": "息を潜めるという行為が、これほどストレスになるとは\n思っていなかった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616556.bcd10193",
+            "step": 212,
+            "script": 90401,
+            "text": "いや、正確には息を潜めるのがストレスなのではない。\n息を潜めて、壁に耳を当て、隣の部屋の音を\n聞き漏らすまいとする行為がストレスなのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616732.d3c3b4fc",
+            "step": 213,
+            "script": 90401,
+            "text": "ホテルの寮にある福井さんの部屋に\n私は身を置いている。\nその隣の部屋を纯也くん達が\n調査しているらしいのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我从没想过，屏住呼吸，竟会带来如此大的压力。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4616556.bcd10193",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"いや、正確には息を潜めるのがストレスなのではない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"息を潜めて、壁に耳を当て、隣の部屋の音を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"聞き漏らすまいとする行為がストレスなのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4616556",
+          "route": "chapter-8-end-90701.json",
+          "step": 212
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4616284.6bcb3a27",
+            "step": 210,
+            "script": 90401,
+            "text": "次の日——",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616452.d5d56a1a",
+            "step": 211,
+            "script": 90401,
+            "text": "息を潜めるという行為が、これほどストレスになるとは\n思っていなかった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616556.bcd10193",
+            "step": 212,
+            "script": 90401,
+            "text": "いや、正確には息を潜めるのがストレスなのではない。\n息を潜めて、壁に耳を当て、隣の部屋の音を\n聞き漏らすまいとする行為がストレスなのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616732.d3c3b4fc",
+            "step": 213,
+            "script": 90401,
+            "text": "ホテルの寮にある福井さんの部屋に\n私は身を置いている。\nその隣の部屋を纯也くん達が\n調査しているらしいのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616888.1c30227e",
+            "step": 214,
+            "script": 90401,
+            "text": "隣は確か、谷という青年の部屋だ。\n何か不審な点でもあったのだろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不，准确地说，压力并不是来自屏息，而是来自屏着气，将耳朵贴在墙上，生怕漏听隔壁的任何动静。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4616732.d3c3b4fc",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ホテルの寮にある福井さんの部屋に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私は身を置いている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その隣の部屋を\",\"color\":0,\"size\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"くん達が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"調査しているらしいのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4616732",
+          "route": "chapter-8-end-90701.json",
+          "step": 213
+        },
+        "requiredRefs": [
+          {
+            "ref": 5,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4616452.d5d56a1a",
+            "step": 211,
+            "script": 90401,
+            "text": "息を潜めるという行為が、これほどストレスになるとは\n思っていなかった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616556.bcd10193",
+            "step": 212,
+            "script": 90401,
+            "text": "いや、正確には息を潜めるのがストレスなのではない。\n息を潜めて、壁に耳を当て、隣の部屋の音を\n聞き漏らすまいとする行為がストレスなのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616732.d3c3b4fc",
+            "step": 213,
+            "script": 90401,
+            "text": "ホテルの寮にある福井さんの部屋に\n私は身を置いている。\nその隣の部屋を纯也くん達が\n調査しているらしいのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616888.1c30227e",
+            "step": 214,
+            "script": 90401,
+            "text": "隣は確か、谷という青年の部屋だ。\n何か不審な点でもあったのだろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616988.d68c83f9",
+            "step": 215,
+            "script": 90401,
+            "text": "とにかく纯也くん達の状況も\n知っておきたかった私は、盗み聞きを試みたのだが、\nそれは予想していた何倍もの苦痛を\n伴うものだった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我正待在酒店员工宿舍里，福井的房间中。\n"
+            },
+            {
+              "ref": 5
+            },
+            {
+              "text": "他们，似乎正在调查隔壁。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4616888.1c30227e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"隣は確か、谷という青年の部屋だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何か不審な点でもあったのだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4616888",
+          "route": "chapter-8-end-90701.json",
+          "step": 214
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4616556.bcd10193",
+            "step": 212,
+            "script": 90401,
+            "text": "いや、正確には息を潜めるのがストレスなのではない。\n息を潜めて、壁に耳を当て、隣の部屋の音を\n聞き漏らすまいとする行為がストレスなのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616732.d3c3b4fc",
+            "step": 213,
+            "script": 90401,
+            "text": "ホテルの寮にある福井さんの部屋に\n私は身を置いている。\nその隣の部屋を纯也くん達が\n調査しているらしいのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616888.1c30227e",
+            "step": 214,
+            "script": 90401,
+            "text": "隣は確か、谷という青年の部屋だ。\n何か不審な点でもあったのだろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616988.d68c83f9",
+            "step": 215,
+            "script": 90401,
+            "text": "とにかく纯也くん達の状況も\n知っておきたかった私は、盗み聞きを試みたのだが、\nそれは予想していた何倍もの苦痛を\n伴うものだった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617164.112b065d",
+            "step": 216,
+            "script": 90401,
+            "text": "卑怯な行為に身を置くのは自尊心を傷つけ、\n罪悪感に苛まれ、心をすさませていくものだ\nということが身にしみて……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "隔壁应该是那个叫谷的年轻人的房间。难道有什么可疑之处？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4616988.d68c83f9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"とにかく\",\"color\":0,\"size\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"くん達の状況も\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"知っておきたかった私は、盗み聞きを試みたのだが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それは予想していた何倍もの苦痛を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"伴うものだった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4616988",
+          "route": "chapter-8-end-90701.json",
+          "step": 215
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4616732.d3c3b4fc",
+            "step": 213,
+            "script": 90401,
+            "text": "ホテルの寮にある福井さんの部屋に\n私は身を置いている。\nその隣の部屋を纯也くん達が\n調査しているらしいのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616888.1c30227e",
+            "step": 214,
+            "script": 90401,
+            "text": "隣は確か、谷という青年の部屋だ。\n何か不審な点でもあったのだろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616988.d68c83f9",
+            "step": 215,
+            "script": 90401,
+            "text": "とにかく纯也くん達の状況も\n知っておきたかった私は、盗み聞きを試みたのだが、\nそれは予想していた何倍もの苦痛を\n伴うものだった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617164.112b065d",
+            "step": 216,
+            "script": 90401,
+            "text": "卑怯な行為に身を置くのは自尊心を傷つけ、\n罪悪感に苛まれ、心をすさませていくものだ\nということが身にしみて……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617340.2cc3c184",
+            "step": 217,
+            "script": 90401,
+            "text": "……あれ？\n何か耳の中がくすぐったいような……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "总之，我也想知道"
+            },
+            {
+              "ref": 1
+            },
+            {
+              "text": "他们的调查进展，便试着偷听。可这件事带来的痛苦，却是预想中的好几倍。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4617164.112b065d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"卑怯な行為に身を置くのは自尊心を傷つけ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"罪悪感に苛まれ、心をすさませていくものだ\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ということが身にしみて……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4617164",
+          "route": "chapter-8-end-90701.json",
+          "step": 216
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4616888.1c30227e",
+            "step": 214,
+            "script": 90401,
+            "text": "隣は確か、谷という青年の部屋だ。\n何か不審な点でもあったのだろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4616988.d68c83f9",
+            "step": 215,
+            "script": 90401,
+            "text": "とにかく纯也くん達の状況も\n知っておきたかった私は、盗み聞きを試みたのだが、\nそれは予想していた何倍もの苦痛を\n伴うものだった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617164.112b065d",
+            "step": 216,
+            "script": 90401,
+            "text": "卑怯な行為に身を置くのは自尊心を傷つけ、\n罪悪感に苛まれ、心をすさませていくものだ\nということが身にしみて……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617340.2cc3c184",
+            "step": 217,
+            "script": 90401,
+            "text": "……あれ？\n何か耳の中がくすぐったいような……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617484.d2e0fa03",
+            "step": 218,
+            "script": 90401,
+            "text": "……なんだろう？\n猛烈なかゆみと違和感が私の耳を支配する。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "原来，做这种卑劣的事，会伤害自尊，让人被罪恶感折磨，内心也渐渐荒芜。我正切身体会着……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4617340.2cc3c184",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"……あれ？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何か耳の中がくすぐったいような……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4617340",
+          "route": "chapter-8-end-90701.json",
+          "step": 217
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4616988.d68c83f9",
+            "step": 215,
+            "script": 90401,
+            "text": "とにかく纯也くん達の状況も\n知っておきたかった私は、盗み聞きを試みたのだが、\nそれは予想していた何倍もの苦痛を\n伴うものだった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617164.112b065d",
+            "step": 216,
+            "script": 90401,
+            "text": "卑怯な行為に身を置くのは自尊心を傷つけ、\n罪悪感に苛まれ、心をすさませていくものだ\nということが身にしみて……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617340.2cc3c184",
+            "step": 217,
+            "script": 90401,
+            "text": "……あれ？\n何か耳の中がくすぐったいような……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617484.d2e0fa03",
+            "step": 218,
+            "script": 90401,
+            "text": "……なんだろう？\n猛烈なかゆみと違和感が私の耳を支配する。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617660.9780982c",
+            "step": 219,
+            "script": 90401,
+            "text": "じっとしていられないほどのかゆみに\n思わず頭を傾けて振ったところ、\n何かがポロリと落ちたのが見えた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……咦？\n耳朵里面，好像有点痒……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4617484.d2e0fa03",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"……なんだろう？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"猛烈なかゆみと違和感が私の耳を支配する。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4617484",
+          "route": "chapter-8-end-90701.json",
+          "step": 218
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4617164.112b065d",
+            "step": 216,
+            "script": 90401,
+            "text": "卑怯な行為に身を置くのは自尊心を傷つけ、\n罪悪感に苛まれ、心をすさませていくものだ\nということが身にしみて……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617340.2cc3c184",
+            "step": 217,
+            "script": 90401,
+            "text": "……あれ？\n何か耳の中がくすぐったいような……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617484.d2e0fa03",
+            "step": 218,
+            "script": 90401,
+            "text": "……なんだろう？\n猛烈なかゆみと違和感が私の耳を支配する。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617660.9780982c",
+            "step": 219,
+            "script": 90401,
+            "text": "じっとしていられないほどのかゆみに\n思わず頭を傾けて振ったところ、\n何かがポロリと落ちたのが見えた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617800.326d2291",
+            "step": 220,
+            "script": 90401,
+            "text": "そして老廃物だろうと思っていた２つの欠片は、\nまるで生き物であるかのように\nモゾモゾと動き始めた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……怎么回事？\n强烈的瘙痒与异样感，充斥了整只耳朵。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4617660.9780982c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"じっとしていられないほどのかゆみに\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"思わず頭を傾けて振ったところ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何かがポロリと落ちたのが見えた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4617660",
+          "route": "chapter-8-end-90701.json",
+          "step": 219
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4617340.2cc3c184",
+            "step": 217,
+            "script": 90401,
+            "text": "……あれ？\n何か耳の中がくすぐったいような……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617484.d2e0fa03",
+            "step": 218,
+            "script": 90401,
+            "text": "……なんだろう？\n猛烈なかゆみと違和感が私の耳を支配する。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617660.9780982c",
+            "step": 219,
+            "script": 90401,
+            "text": "じっとしていられないほどのかゆみに\n思わず頭を傾けて振ったところ、\n何かがポロリと落ちたのが見えた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617800.326d2291",
+            "step": 220,
+            "script": 90401,
+            "text": "そして老廃物だろうと思っていた２つの欠片は、\nまるで生き物であるかのように\nモゾモゾと動き始めた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617944.4e3a09e6",
+            "step": 221,
+            "script": 90401,
+            "text": "蜘蛛……！？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "痒得实在坐不住，我不由得歪过头，摇了摇。有什么东西，啪嗒掉了下来。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4617800.326d2291",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そして老廃物だろうと思っていた２つの欠片は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"まるで生き物であるかのように\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"モゾモゾと動き始めた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4617800",
+          "route": "chapter-8-end-90701.json",
+          "step": 220
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4617484.d2e0fa03",
+            "step": 218,
+            "script": 90401,
+            "text": "……なんだろう？\n猛烈なかゆみと違和感が私の耳を支配する。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617660.9780982c",
+            "step": 219,
+            "script": 90401,
+            "text": "じっとしていられないほどのかゆみに\n思わず頭を傾けて振ったところ、\n何かがポロリと落ちたのが見えた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617800.326d2291",
+            "step": 220,
+            "script": 90401,
+            "text": "そして老廃物だろうと思っていた２つの欠片は、\nまるで生き物であるかのように\nモゾモゾと動き始めた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617944.4e3a09e6",
+            "step": 221,
+            "script": 90401,
+            "text": "蜘蛛……！？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618008.51eceb6a",
+            "step": 222,
+            "script": 90401,
+            "text": "漏れ出しそうになった声を必死に堪えながら、\n私は２匹の蜘蛛を凝視した。\nどこからこんなものが……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我本以为那是耳垢，可掉下来的２个小东西，却仿佛活物一般，开始窸窸窣窣地动了起来。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4617944.4e3a09e6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"蜘蛛……！？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4617944",
+          "route": "chapter-8-end-90701.json",
+          "step": 221
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4617660.9780982c",
+            "step": 219,
+            "script": 90401,
+            "text": "じっとしていられないほどのかゆみに\n思わず頭を傾けて振ったところ、\n何かがポロリと落ちたのが見えた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617800.326d2291",
+            "step": 220,
+            "script": 90401,
+            "text": "そして老廃物だろうと思っていた２つの欠片は、\nまるで生き物であるかのように\nモゾモゾと動き始めた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617944.4e3a09e6",
+            "step": 221,
+            "script": 90401,
+            "text": "蜘蛛……！？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618008.51eceb6a",
+            "step": 222,
+            "script": 90401,
+            "text": "漏れ出しそうになった声を必死に堪えながら、\n私は２匹の蜘蛛を凝視した。\nどこからこんなものが……？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618208.a0a27bdc",
+            "step": 223,
+            "script": 90401,
+            "text": "そんな疑問をかきけすように、さらに耳の中で\nカサコソと何かが動くような音が聞こえる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "蜘蛛……！？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4618008.51eceb6a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"漏れ出しそうになった声を必死に堪えながら、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私は２匹の蜘蛛を凝視した。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どこからこんなものが……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4618008",
+          "route": "chapter-8-end-90701.json",
+          "step": 222
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4617800.326d2291",
+            "step": 220,
+            "script": 90401,
+            "text": "そして老廃物だろうと思っていた２つの欠片は、\nまるで生き物であるかのように\nモゾモゾと動き始めた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4617944.4e3a09e6",
+            "step": 221,
+            "script": 90401,
+            "text": "蜘蛛……！？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618008.51eceb6a",
+            "step": 222,
+            "script": 90401,
+            "text": "漏れ出しそうになった声を必死に堪えながら、\n私は２匹の蜘蛛を凝視した。\nどこからこんなものが……？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618208.a0a27bdc",
+            "step": 223,
+            "script": 90401,
+            "text": "そんな疑問をかきけすように、さらに耳の中で\nカサコソと何かが動くような音が聞こえる。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618408.dbd8a9",
+            "step": 224,
+            "script": 90401,
+            "text": "……まさか、まだ耳の中に蜘蛛が？\nおぞましい想像が脳内を駆け巡る。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我拼命咽下险些脱口而出的叫声，死死盯着那２只蜘蛛。\n这种东西，是从哪里来的……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4618208.a0a27bdc",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そんな疑問をかきけすように、さらに耳の中で\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"カサコソと何かが動くような音が聞こえる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4618208",
+          "route": "chapter-8-end-90701.json",
+          "step": 223
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4617944.4e3a09e6",
+            "step": 221,
+            "script": 90401,
+            "text": "蜘蛛……！？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618008.51eceb6a",
+            "step": 222,
+            "script": 90401,
+            "text": "漏れ出しそうになった声を必死に堪えながら、\n私は２匹の蜘蛛を凝視した。\nどこからこんなものが……？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618208.a0a27bdc",
+            "step": 223,
+            "script": 90401,
+            "text": "そんな疑問をかきけすように、さらに耳の中で\nカサコソと何かが動くような音が聞こえる。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618408.dbd8a9",
+            "step": 224,
+            "script": 90401,
+            "text": "……まさか、まだ耳の中に蜘蛛が？\nおぞましい想像が脳内を駆け巡る。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618648.ea4204b7",
+            "step": 225,
+            "script": 90401,
+            "text": "気が狂いそうな不快感から解放されたのは、\nそれから数分後のことだった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "仿佛要打断这个疑问，耳朵里又传来了窸窸窣窣的声响，像是还有什么在动。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4618408.dbd8a9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"……まさか、まだ耳の中に蜘蛛が？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"おぞましい想像が脳内を駆け巡る。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4618408",
+          "route": "chapter-8-end-90701.json",
+          "step": 224
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4618008.51eceb6a",
+            "step": 222,
+            "script": 90401,
+            "text": "漏れ出しそうになった声を必死に堪えながら、\n私は２匹の蜘蛛を凝視した。\nどこからこんなものが……？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618208.a0a27bdc",
+            "step": 223,
+            "script": 90401,
+            "text": "そんな疑問をかきけすように、さらに耳の中で\nカサコソと何かが動くような音が聞こえる。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618408.dbd8a9",
+            "step": 224,
+            "script": 90401,
+            "text": "……まさか、まだ耳の中に蜘蛛が？\nおぞましい想像が脳内を駆け巡る。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618648.ea4204b7",
+            "step": 225,
+            "script": 90401,
+            "text": "気が狂いそうな不快感から解放されたのは、\nそれから数分後のことだった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618768.aadc82d1",
+            "step": 226,
+            "script": 90401,
+            "text": "纯也くん達が隣の部屋から\n出て行ったのに比例するように、不快感は消滅した。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……难道，耳朵里还有蜘蛛？\n可怕的想象，在脑海中飞快蔓延。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4618648.ea4204b7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"気が狂いそうな不快感から解放されたのは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それから数分後のことだった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4618648",
+          "route": "chapter-8-end-90701.json",
+          "step": 225
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4618208.a0a27bdc",
+            "step": 223,
+            "script": 90401,
+            "text": "そんな疑問をかきけすように、さらに耳の中で\nカサコソと何かが動くような音が聞こえる。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618408.dbd8a9",
+            "step": 224,
+            "script": 90401,
+            "text": "……まさか、まだ耳の中に蜘蛛が？\nおぞましい想像が脳内を駆け巡る。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618648.ea4204b7",
+            "step": 225,
+            "script": 90401,
+            "text": "気が狂いそうな不快感から解放されたのは、\nそれから数分後のことだった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618768.aadc82d1",
+            "step": 226,
+            "script": 90401,
+            "text": "纯也くん達が隣の部屋から\n出て行ったのに比例するように、不快感は消滅した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618876.375aa253",
+            "step": 227,
+            "script": 90401,
+            "text": "盗み聞きという行為から来た予想外のストレスが、\n私に幻覚を見せたのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "直到几分钟后，那股几乎令人发疯的不适，才终于消退。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4618768.aadc82d1",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"くん達が隣の部屋から\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"出て行ったのに比例するように、不快感は消滅した。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4618768",
+          "route": "chapter-8-end-90701.json",
+          "step": 226
+        },
+        "requiredRefs": [
+          {
+            "ref": 0,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4618408.dbd8a9",
+            "step": 224,
+            "script": 90401,
+            "text": "……まさか、まだ耳の中に蜘蛛が？\nおぞましい想像が脳内を駆け巡る。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618648.ea4204b7",
+            "step": 225,
+            "script": 90401,
+            "text": "気が狂いそうな不快感から解放されたのは、\nそれから数分後のことだった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618768.aadc82d1",
+            "step": 226,
+            "script": 90401,
+            "text": "纯也くん達が隣の部屋から\n出て行ったのに比例するように、不快感は消滅した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618876.375aa253",
+            "step": 227,
+            "script": 90401,
+            "text": "盗み聞きという行為から来た予想外のストレスが、\n私に幻覚を見せたのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618988.fa7eeceb",
+            "step": 228,
+            "script": 90401,
+            "text": "……いずれにしても、都内に戻ったら、\n真っ先に耳鼻科の予約をしよう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "随着"
+            },
+            {
+              "ref": 0
+            },
+            {
+              "text": "他们离开隔壁，异样的感觉也一点点消失了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4618876.375aa253",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"盗み聞きという行為から来た予想外のストレスが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私に幻覚を見せたのだろうか……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4618876",
+          "route": "chapter-8-end-90701.json",
+          "step": 227
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4618648.ea4204b7",
+            "step": 225,
+            "script": 90401,
+            "text": "気が狂いそうな不快感から解放されたのは、\nそれから数分後のことだった。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618768.aadc82d1",
+            "step": 226,
+            "script": 90401,
+            "text": "纯也くん達が隣の部屋から\n出て行ったのに比例するように、不快感は消滅した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618876.375aa253",
+            "step": 227,
+            "script": 90401,
+            "text": "盗み聞きという行為から来た予想外のストレスが、\n私に幻覚を見せたのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618988.fa7eeceb",
+            "step": 228,
+            "script": 90401,
+            "text": "……いずれにしても、都内に戻ったら、\n真っ先に耳鼻科の予約をしよう。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619180.fd6a0e75",
+            "step": 229,
+            "script": 90401,
+            "text": "それから数時間後——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "难道是偷听所带来的、出乎意料的压力，让我产生了幻觉……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4618988.fa7eeceb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"……いずれにしても、都内に戻ったら、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"真っ先に耳鼻科の予約をしよう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4618988",
+          "route": "chapter-8-end-90701.json",
+          "step": 228
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4618768.aadc82d1",
+            "step": 226,
+            "script": 90401,
+            "text": "纯也くん達が隣の部屋から\n出て行ったのに比例するように、不快感は消滅した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618876.375aa253",
+            "step": 227,
+            "script": 90401,
+            "text": "盗み聞きという行為から来た予想外のストレスが、\n私に幻覚を見せたのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618988.fa7eeceb",
+            "step": 228,
+            "script": 90401,
+            "text": "……いずれにしても、都内に戻ったら、\n真っ先に耳鼻科の予約をしよう。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619180.fd6a0e75",
+            "step": 229,
+            "script": 90401,
+            "text": "それから数時間後——",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619324.4eeb326c",
+            "step": 230,
+            "script": 90401,
+            "text": "「どうかしたんですか、耳？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……不管怎么说，回东京之后，第一件事就是预约耳鼻喉科。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4619180.fd6a0e75",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それから数時間後———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4619180",
+          "route": "chapter-8-end-90701.json",
+          "step": 229
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4618876.375aa253",
+            "step": 227,
+            "script": 90401,
+            "text": "盗み聞きという行為から来た予想外のストレスが、\n私に幻覚を見せたのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4618988.fa7eeceb",
+            "step": 228,
+            "script": 90401,
+            "text": "……いずれにしても、都内に戻ったら、\n真っ先に耳鼻科の予約をしよう。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619180.fd6a0e75",
+            "step": 229,
+            "script": 90401,
+            "text": "それから数時間後——",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619324.4eeb326c",
+            "step": 230,
+            "script": 90401,
+            "text": "「どうかしたんですか、耳？」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619384.2307e940",
+            "step": 231,
+            "script": 90401,
+            "text": "部屋に戻ってきた福井さんが、\nしきりに耳を触っている私を見咎めて尋ねた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "几个小时之后——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4619324.4eeb326c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「どうかしたんですか、耳？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4619324",
+          "route": "chapter-8-end-90701.json",
+          "step": 230
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4618988.fa7eeceb",
+            "step": 228,
+            "script": 90401,
+            "text": "……いずれにしても、都内に戻ったら、\n真っ先に耳鼻科の予約をしよう。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619180.fd6a0e75",
+            "step": 229,
+            "script": 90401,
+            "text": "それから数時間後——",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619324.4eeb326c",
+            "step": 230,
+            "script": 90401,
+            "text": "「どうかしたんですか、耳？」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619384.2307e940",
+            "step": 231,
+            "script": 90401,
+            "text": "部屋に戻ってきた福井さんが、\nしきりに耳を触っている私を見咎めて尋ねた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619488.2ccaf6f9",
+            "step": 232,
+            "script": 90401,
+            "text": "「いえ、ちょっと……何でもないわ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「您的耳朵，怎么了？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4619384.2307e940",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"部屋に戻ってきた福井さんが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"しきりに耳を触っている私を見咎めて尋ねた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4619384",
+          "route": "chapter-8-end-90701.json",
+          "step": 231
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4619180.fd6a0e75",
+            "step": 229,
+            "script": 90401,
+            "text": "それから数時間後——",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619324.4eeb326c",
+            "step": 230,
+            "script": 90401,
+            "text": "「どうかしたんですか、耳？」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619384.2307e940",
+            "step": 231,
+            "script": 90401,
+            "text": "部屋に戻ってきた福井さんが、\nしきりに耳を触っている私を見咎めて尋ねた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619488.2ccaf6f9",
+            "step": 232,
+            "script": 90401,
+            "text": "「いえ、ちょっと……何でもないわ」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619548.bad2aa86",
+            "step": 233,
+            "script": 90401,
+            "text": "まさか耳の中に蜘蛛が入ったなんて\n子供じみた話を出来るはずもない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "回到房里的福井，看见我不停地摸耳朵，便开口问道。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4619488.2ccaf6f9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「いえ、ちょっと……何でもないわ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4619488",
+          "route": "chapter-8-end-90701.json",
+          "step": 232
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4619324.4eeb326c",
+            "step": 230,
+            "script": 90401,
+            "text": "「どうかしたんですか、耳？」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619384.2307e940",
+            "step": 231,
+            "script": 90401,
+            "text": "部屋に戻ってきた福井さんが、\nしきりに耳を触っている私を見咎めて尋ねた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619488.2ccaf6f9",
+            "step": 232,
+            "script": 90401,
+            "text": "「いえ、ちょっと……何でもないわ」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619548.bad2aa86",
+            "step": 233,
+            "script": 90401,
+            "text": "まさか耳の中に蜘蛛が入ったなんて\n子供じみた話を出来るはずもない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619644.2213aee7",
+            "step": 234,
+            "script": 90401,
+            "text": "「ところで、あなたは？　まだ勤務中でしょ？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「没什么，只是有点……没事。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4619548.bad2aa86",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"まさか耳の中に蜘蛛が入ったなんて\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"子供じみた話を出来るはずもない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4619548",
+          "route": "chapter-8-end-90701.json",
+          "step": 233
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4619384.2307e940",
+            "step": 231,
+            "script": 90401,
+            "text": "部屋に戻ってきた福井さんが、\nしきりに耳を触っている私を見咎めて尋ねた。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619488.2ccaf6f9",
+            "step": 232,
+            "script": 90401,
+            "text": "「いえ、ちょっと……何でもないわ」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619548.bad2aa86",
+            "step": 233,
+            "script": 90401,
+            "text": "まさか耳の中に蜘蛛が入ったなんて\n子供じみた話を出来るはずもない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619644.2213aee7",
+            "step": 234,
+            "script": 90401,
+            "text": "「ところで、あなたは？　まだ勤務中でしょ？」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619712.a9fb61fa",
+            "step": 235,
+            "script": 90401,
+            "text": "「いえ、お客さんの中に体調が悪くなった人が\nいるんですよ。\n急な夜勤に備えて一旦休憩ってわけです」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "总不能说，耳朵里爬进了蜘蛛。这种话，听起来未免太像小孩子的胡思乱想。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4619644.2213aee7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ところで、あなたは？　まだ勤務中でしょ？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4619644",
+          "route": "chapter-8-end-90701.json",
+          "step": 234
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4619488.2ccaf6f9",
+            "step": 232,
+            "script": 90401,
+            "text": "「いえ、ちょっと……何でもないわ」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619548.bad2aa86",
+            "step": 233,
+            "script": 90401,
+            "text": "まさか耳の中に蜘蛛が入ったなんて\n子供じみた話を出来るはずもない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619644.2213aee7",
+            "step": 234,
+            "script": 90401,
+            "text": "「ところで、あなたは？　まだ勤務中でしょ？」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619712.a9fb61fa",
+            "step": 235,
+            "script": 90401,
+            "text": "「いえ、お客さんの中に体調が悪くなった人が\nいるんですよ。\n急な夜勤に備えて一旦休憩ってわけです」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619852.5eb71f98",
+            "step": 236,
+            "script": 90401,
+            "text": "詳しくその客の状況を聞くと、\nそれはまさにこの常世島の風土病に\nピッタリ合致する。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「倒是你，怎么回来了？不是还在上班吗？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4619712.a9fb61fa",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「いえ、お客さんの中に体調が悪くなった人が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いるんですよ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"急な夜勤に備えて一旦休憩ってわけです」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4619712",
+          "route": "chapter-8-end-90701.json",
+          "step": 235
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4619548.bad2aa86",
+            "step": 233,
+            "script": 90401,
+            "text": "まさか耳の中に蜘蛛が入ったなんて\n子供じみた話を出来るはずもない。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619644.2213aee7",
+            "step": 234,
+            "script": 90401,
+            "text": "「ところで、あなたは？　まだ勤務中でしょ？」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619712.a9fb61fa",
+            "step": 235,
+            "script": 90401,
+            "text": "「いえ、お客さんの中に体調が悪くなった人が\nいるんですよ。\n急な夜勤に備えて一旦休憩ってわけです」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619852.5eb71f98",
+            "step": 236,
+            "script": 90401,
+            "text": "詳しくその客の状況を聞くと、\nそれはまさにこの常世島の風土病に\nピッタリ合致する。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619972.de041716",
+            "step": 237,
+            "script": 90401,
+            "text": "しかも、客は間宮ゆうかだというではないか。\nこのまま本土に帰らせるわけには行かない。\n本土には治療薬が無いのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「有位客人身体不舒服。可能临时需要值夜班，所以我先回来休息一下。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4619852.5eb71f98",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"詳しくその客の状況を聞くと、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それはまさにこの常世島の風土病に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ピッタリ合致する。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4619852",
+          "route": "chapter-8-end-90701.json",
+          "step": 236
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4619644.2213aee7",
+            "step": 234,
+            "script": 90401,
+            "text": "「ところで、あなたは？　まだ勤務中でしょ？」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619712.a9fb61fa",
+            "step": 235,
+            "script": 90401,
+            "text": "「いえ、お客さんの中に体調が悪くなった人が\nいるんですよ。\n急な夜勤に備えて一旦休憩ってわけです」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619852.5eb71f98",
+            "step": 236,
+            "script": 90401,
+            "text": "詳しくその客の状況を聞くと、\nそれはまさにこの常世島の風土病に\nピッタリ合致する。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619972.de041716",
+            "step": 237,
+            "script": 90401,
+            "text": "しかも、客は間宮ゆうかだというではないか。\nこのまま本土に帰らせるわけには行かない。\n本土には治療薬が無いのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620124.7b2bd579",
+            "step": 238,
+            "script": 90401,
+            "text": "「福井さん！　急いで私と一緒に来て！\n事情はあとで説明するわ！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "仔细问过那位客人的情况，我发现，症状竟与常世岛的地方病完全吻合。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4619972.de041716",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかも、客は間宮ゆうかだというではないか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"このまま本土に帰らせるわけには行かない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"本土には治療薬が無いのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4619972",
+          "route": "chapter-8-end-90701.json",
+          "step": 237
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.90401:4619712.a9fb61fa",
+            "step": 235,
+            "script": 90401,
+            "text": "「いえ、お客さんの中に体調が悪くなった人が\nいるんですよ。\n急な夜勤に備えて一旦休憩ってわけです」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619852.5eb71f98",
+            "step": 236,
+            "script": 90401,
+            "text": "詳しくその客の状況を聞くと、\nそれはまさにこの常世島の風土病に\nピッタリ合致する。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619972.de041716",
+            "step": 237,
+            "script": 90401,
+            "text": "しかも、客は間宮ゆうかだというではないか。\nこのまま本土に帰らせるわけには行かない。\n本土には治療薬が無いのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620124.7b2bd579",
+            "step": 238,
+            "script": 90401,
+            "text": "「福井さん！　急いで私と一緒に来て！\n事情はあとで説明するわ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620352.6fa26cbb",
+            "step": 239,
+            "script": 90401,
+            "text": "間宮ゆうかを隔離し、風土病の治療を\n行うつもりが、何の因果だろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而且，那位客人居然是间宫悠香。\n不能让她就这样回本土去。那里没有治疗这种病的药。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4620124.7b2bd579",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「福井さん！　急いで私と一緒に来て！\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"事情はあとで説明するわ！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4620124",
+          "route": "chapter-8-end-90701.json",
+          "step": 238
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4619852.5eb71f98",
+            "step": 236,
+            "script": 90401,
+            "text": "詳しくその客の状況を聞くと、\nそれはまさにこの常世島の風土病に\nピッタリ合致する。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4619972.de041716",
+            "step": 237,
+            "script": 90401,
+            "text": "しかも、客は間宮ゆうかだというではないか。\nこのまま本土に帰らせるわけには行かない。\n本土には治療薬が無いのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620124.7b2bd579",
+            "step": 238,
+            "script": 90401,
+            "text": "「福井さん！　急いで私と一緒に来て！\n事情はあとで説明するわ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620352.6fa26cbb",
+            "step": 239,
+            "script": 90401,
+            "text": "間宮ゆうかを隔離し、風土病の治療を\n行うつもりが、何の因果だろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620452.b7f2a243",
+            "step": 240,
+            "script": 90401,
+            "text": "１０年前の事件のときに『よみがえり』に\n成功した安曇くんの妹が、\n今、私の目の前に立っている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「福井！快跟我走！原因我之后再解释！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4620352.6fa26cbb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"間宮ゆうかを隔離し、風土病の治療を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"行うつもりが、何の因果だろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4620352",
+          "route": "chapter-8-end-90701.json",
+          "step": 239
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.90401:4619972.de041716",
+            "step": 237,
+            "script": 90401,
+            "text": "しかも、客は間宮ゆうかだというではないか。\nこのまま本土に帰らせるわけには行かない。\n本土には治療薬が無いのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620124.7b2bd579",
+            "step": 238,
+            "script": 90401,
+            "text": "「福井さん！　急いで私と一緒に来て！\n事情はあとで説明するわ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620352.6fa26cbb",
+            "step": 239,
+            "script": 90401,
+            "text": "間宮ゆうかを隔離し、風土病の治療を\n行うつもりが、何の因果だろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620452.b7f2a243",
+            "step": 240,
+            "script": 90401,
+            "text": "１０年前の事件のときに『よみがえり』に\n成功した安曇くんの妹が、\n今、私の目の前に立っている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620616.bead56af",
+            "step": 241,
+            "script": 90401,
+            "text": "決して感動の対面ではない。\n安曇くんの妹……七原のぞみは福井さんの喉首に\nメスを突き立てている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我只是想把间宫悠香隔离起来，治疗她的地方病。\n可究竟是怎样的因果，才会让事情变成这样？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4620452.b7f2a243",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"１０年前の事件のときに『よみがえり』に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"成功した安曇くんの妹が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今、私の目の前に立っている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4620452",
+          "route": "chapter-8-end-90701.json",
+          "step": 240
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4620124.7b2bd579",
+            "step": 238,
+            "script": 90401,
+            "text": "「福井さん！　急いで私と一緒に来て！\n事情はあとで説明するわ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620352.6fa26cbb",
+            "step": 239,
+            "script": 90401,
+            "text": "間宮ゆうかを隔離し、風土病の治療を\n行うつもりが、何の因果だろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620452.b7f2a243",
+            "step": 240,
+            "script": 90401,
+            "text": "１０年前の事件のときに『よみがえり』に\n成功した安曇くんの妹が、\n今、私の目の前に立っている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620616.bead56af",
+            "step": 241,
+            "script": 90401,
+            "text": "決して感動の対面ではない。\n安曇くんの妹……七原のぞみは福井さんの喉首に\nメスを突き立てている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620764.e078561f",
+            "step": 242,
+            "script": 90401,
+            "text": "やはり彼女は、あのときの……\n安曇くんの妹だったのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "１０年前那起事件中，成功『复苏』的安昙的妹妹，此刻正站在我面前。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4620616.bead56af",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"決して感動の対面ではない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"安曇くんの妹……七原のぞみは福井さんの喉首に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"メスを突き立てている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4620616",
+          "route": "chapter-8-end-90701.json",
+          "step": 241
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4620352.6fa26cbb",
+            "step": 239,
+            "script": 90401,
+            "text": "間宮ゆうかを隔離し、風土病の治療を\n行うつもりが、何の因果だろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620452.b7f2a243",
+            "step": 240,
+            "script": 90401,
+            "text": "１０年前の事件のときに『よみがえり』に\n成功した安曇くんの妹が、\n今、私の目の前に立っている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620616.bead56af",
+            "step": 241,
+            "script": 90401,
+            "text": "決して感動の対面ではない。\n安曇くんの妹……七原のぞみは福井さんの喉首に\nメスを突き立てている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620764.e078561f",
+            "step": 242,
+            "script": 90401,
+            "text": "やはり彼女は、あのときの……\n安曇くんの妹だったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620848.117be888",
+            "step": 243,
+            "script": 90401,
+            "text": "１０年前、安曇くんは妹を治療する為に\n常世島の民間伝承を信じ、神に反逆した。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这绝不是令人感动的重逢。\n安昙的妹妹……七原望，正将手术刀抵在福井的喉咙上。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4620764.e078561f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"やはり彼女は、あのときの……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"安曇くんの妹だったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4620764",
+          "route": "chapter-8-end-90701.json",
+          "step": 242
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4620452.b7f2a243",
+            "step": 240,
+            "script": 90401,
+            "text": "１０年前の事件のときに『よみがえり』に\n成功した安曇くんの妹が、\n今、私の目の前に立っている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620616.bead56af",
+            "step": 241,
+            "script": 90401,
+            "text": "決して感動の対面ではない。\n安曇くんの妹……七原のぞみは福井さんの喉首に\nメスを突き立てている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620764.e078561f",
+            "step": 242,
+            "script": 90401,
+            "text": "やはり彼女は、あのときの……\n安曇くんの妹だったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620848.117be888",
+            "step": 243,
+            "script": 90401,
+            "text": "１０年前、安曇くんは妹を治療する為に\n常世島の民間伝承を信じ、神に反逆した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620956.1c4ccf1f",
+            "step": 244,
+            "script": 90401,
+            "text": "同じく私も風土病に感染して死んだ安曇くんを\n蘇らせる為に、神に反逆した。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她果然就是那时的……\n安昙的妹妹。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4620848.117be888",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"１０年前、安曇くんは妹を治療する為に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"常世島の民間伝承を信じ、神に反逆した。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4620848",
+          "route": "chapter-8-end-90701.json",
+          "step": 243
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4620616.bead56af",
+            "step": 241,
+            "script": 90401,
+            "text": "決して感動の対面ではない。\n安曇くんの妹……七原のぞみは福井さんの喉首に\nメスを突き立てている。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620764.e078561f",
+            "step": 242,
+            "script": 90401,
+            "text": "やはり彼女は、あのときの……\n安曇くんの妹だったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620848.117be888",
+            "step": 243,
+            "script": 90401,
+            "text": "１０年前、安曇くんは妹を治療する為に\n常世島の民間伝承を信じ、神に反逆した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620956.1c4ccf1f",
+            "step": 244,
+            "script": 90401,
+            "text": "同じく私も風土病に感染して死んだ安曇くんを\n蘇らせる為に、神に反逆した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621060.5980cb4d",
+            "step": 245,
+            "script": 90401,
+            "text": "そして人の心を失ったまま蘇った安曇くんを\n私は２度目の死に追いやった……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "１０年前，安昙为了治好妹妹的病，相信了常世岛的民间传说，违抗了神。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4620956.1c4ccf1f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"同じく私も風土病に感染して死んだ安曇くんを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"蘇らせる為に、神に反逆した。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4620956",
+          "route": "chapter-8-end-90701.json",
+          "step": 244
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4620764.e078561f",
+            "step": 242,
+            "script": 90401,
+            "text": "やはり彼女は、あのときの……\n安曇くんの妹だったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620848.117be888",
+            "step": 243,
+            "script": 90401,
+            "text": "１０年前、安曇くんは妹を治療する為に\n常世島の民間伝承を信じ、神に反逆した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620956.1c4ccf1f",
+            "step": 244,
+            "script": 90401,
+            "text": "同じく私も風土病に感染して死んだ安曇くんを\n蘇らせる為に、神に反逆した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621060.5980cb4d",
+            "step": 245,
+            "script": 90401,
+            "text": "そして人の心を失ったまま蘇った安曇くんを\n私は２度目の死に追いやった……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621164.cc82b2d6",
+            "step": 246,
+            "script": 90401,
+            "text": "それから１０年経った今、蘇っていた彼の妹が\n再び同じことを繰り返そうというのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而我也一样。为了让感染地方病而死去的安昙复活，我违抗了神。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4621060.5980cb4d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そして人の心を失ったまま蘇った安曇くんを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私は２度目の死に追いやった……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4621060",
+          "route": "chapter-8-end-90701.json",
+          "step": 245
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4620848.117be888",
+            "step": 243,
+            "script": 90401,
+            "text": "１０年前、安曇くんは妹を治療する為に\n常世島の民間伝承を信じ、神に反逆した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4620956.1c4ccf1f",
+            "step": 244,
+            "script": 90401,
+            "text": "同じく私も風土病に感染して死んだ安曇くんを\n蘇らせる為に、神に反逆した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621060.5980cb4d",
+            "step": 245,
+            "script": 90401,
+            "text": "そして人の心を失ったまま蘇った安曇くんを\n私は２度目の死に追いやった……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621164.cc82b2d6",
+            "step": 246,
+            "script": 90401,
+            "text": "それから１０年経った今、蘇っていた彼の妹が\n再び同じことを繰り返そうというのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621276.1dec097f",
+            "step": 247,
+            "script": 90401,
+            "text": "だが、この悲しい因果の連鎖も\nそろそろ断ち切るべきだろう。\nその結果、１０年前に長らえた命を失おうとも、\n別に今更惜しむつもりも無い。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，安昙虽然复活，却失去了人心。于是，我又亲手将他推向了第２次死亡……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4621164.cc82b2d6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それから１０年経った今、蘇っていた彼の妹が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"再び同じことを繰り返そうというのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4621164",
+          "route": "chapter-8-end-90701.json",
+          "step": 246
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4620956.1c4ccf1f",
+            "step": 244,
+            "script": 90401,
+            "text": "同じく私も風土病に感染して死んだ安曇くんを\n蘇らせる為に、神に反逆した。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621060.5980cb4d",
+            "step": 245,
+            "script": 90401,
+            "text": "そして人の心を失ったまま蘇った安曇くんを\n私は２度目の死に追いやった……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621164.cc82b2d6",
+            "step": 246,
+            "script": 90401,
+            "text": "それから１０年経った今、蘇っていた彼の妹が\n再び同じことを繰り返そうというのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621276.1dec097f",
+            "step": 247,
+            "script": 90401,
+            "text": "だが、この悲しい因果の連鎖も\nそろそろ断ち切るべきだろう。\nその結果、１０年前に長らえた命を失おうとも、\n別に今更惜しむつもりも無い。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621452.6f59c760",
+            "step": 248,
+            "script": 90401,
+            "text": "ただ彼女の心の闇だけは解放してあげたい。\nその一点だけを望みとし、\n私は一歩踏み出した——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "１０年后的今天，早已复苏的妹妹，又要重复同样的事。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4621276.1dec097f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、この悲しい因果の連鎖も\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そろそろ断ち切るべきだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その結果、１０年前に長らえた命を失おうとも、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"別に今更惜しむつもりも無い。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4621276",
+          "route": "chapter-8-end-90701.json",
+          "step": 247
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4621060.5980cb4d",
+            "step": 245,
+            "script": 90401,
+            "text": "そして人の心を失ったまま蘇った安曇くんを\n私は２度目の死に追いやった……",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621164.cc82b2d6",
+            "step": 246,
+            "script": 90401,
+            "text": "それから１０年経った今、蘇っていた彼の妹が\n再び同じことを繰り返そうというのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621276.1dec097f",
+            "step": 247,
+            "script": 90401,
+            "text": "だが、この悲しい因果の連鎖も\nそろそろ断ち切るべきだろう。\nその結果、１０年前に長らえた命を失おうとも、\n別に今更惜しむつもりも無い。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621452.6f59c760",
+            "step": 248,
+            "script": 90401,
+            "text": "ただ彼女の心の闇だけは解放してあげたい。\nその一点だけを望みとし、\n私は一歩踏み出した——",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4621996.5f023f79",
+            "step": 249,
+            "script": 90501,
+            "text": "「やめさない、安曇くんはそんなこと、\n望んでいないわ——！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，这条悲哀的因果之链，也该斩断了。哪怕为此失去１０年前苟延下来的性命，事到如今，我也没什么可惜的。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90401:4621452.6f59c760",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ただ彼女の心の闇だけは解放してあげたい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その一点だけを望みとし、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私は一歩踏み出した———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90401,
+          "page": "90401:4621452",
+          "route": "chapter-8-end-90701.json",
+          "step": 248
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4621164.cc82b2d6",
+            "step": 246,
+            "script": 90401,
+            "text": "それから１０年経った今、蘇っていた彼の妹が\n再び同じことを繰り返そうというのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621276.1dec097f",
+            "step": 247,
+            "script": 90401,
+            "text": "だが、この悲しい因果の連鎖も\nそろそろ断ち切るべきだろう。\nその結果、１０年前に長らえた命を失おうとも、\n別に今更惜しむつもりも無い。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621452.6f59c760",
+            "step": 248,
+            "script": 90401,
+            "text": "ただ彼女の心の闇だけは解放してあげたい。\nその一点だけを望みとし、\n私は一歩踏み出した——",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4621996.5f023f79",
+            "step": 249,
+            "script": 90501,
+            "text": "「やめさない、安曇くんはそんなこと、\n望んでいないわ——！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4622248.837107ef",
+            "step": 250,
+            "script": 90501,
+            "text": "「たった一人の家族なの。\nそれにお兄ちゃんは私を助ける為に、\nあんなふうになってしまったのよ。\nそれを見捨てる方が、人として間違っているわ！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "只是，我想让她摆脱心中的黑暗。\n只抱着这一个愿望，我向前迈出了一步——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4621996.5f023f79",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「やめさない、安曇くんはそんなこと、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"望んでいないわ———！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4621996",
+          "route": "chapter-8-end-90701.json",
+          "step": 249
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4621276.1dec097f",
+            "step": 247,
+            "script": 90401,
+            "text": "だが、この悲しい因果の連鎖も\nそろそろ断ち切るべきだろう。\nその結果、１０年前に長らえた命を失おうとも、\n別に今更惜しむつもりも無い。",
+            "translation": null
+          },
+          {
+            "key": "page.90401:4621452.6f59c760",
+            "step": 248,
+            "script": 90401,
+            "text": "ただ彼女の心の闇だけは解放してあげたい。\nその一点だけを望みとし、\n私は一歩踏み出した——",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4621996.5f023f79",
+            "step": 249,
+            "script": 90501,
+            "text": "「やめさない、安曇くんはそんなこと、\n望んでいないわ——！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4622248.837107ef",
+            "step": 250,
+            "script": 90501,
+            "text": "「たった一人の家族なの。\nそれにお兄ちゃんは私を助ける為に、\nあんなふうになってしまったのよ。\nそれを見捨てる方が、人として間違っているわ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4622680.2b031919",
+            "step": 251,
+            "script": 90501,
+            "text": "「安曇！　お前……！！」\n「安曇くん——！」\n「お兄ちゃん……！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「住手，安昙不会希望你这么做的——！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4622248.837107ef",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「たった一人の家族なの。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それにお兄ちゃんは私を助ける為に、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あんなふうになってしまったのよ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それを見捨てる方が、人として間違っているわ！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4622248",
+          "route": "chapter-8-end-90701.json",
+          "step": 250
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90401:4621452.6f59c760",
+            "step": 248,
+            "script": 90401,
+            "text": "ただ彼女の心の闇だけは解放してあげたい。\nその一点だけを望みとし、\n私は一歩踏み出した——",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4621996.5f023f79",
+            "step": 249,
+            "script": 90501,
+            "text": "「やめさない、安曇くんはそんなこと、\n望んでいないわ——！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4622248.837107ef",
+            "step": 250,
+            "script": 90501,
+            "text": "「たった一人の家族なの。\nそれにお兄ちゃんは私を助ける為に、\nあんなふうになってしまったのよ。\nそれを見捨てる方が、人として間違っているわ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4622680.2b031919",
+            "step": 251,
+            "script": 90501,
+            "text": "「安曇！　お前……！！」\n「安曇くん——！」\n「お兄ちゃん……！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623060.77d3faf9",
+            "step": 252,
+            "script": 90501,
+            "text": "「もうやめて！ もういいの、いいのよ……」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「他是我唯一的家人。而且，哥哥就是为了救我，才变成了那个样子！就这样抛弃他，才是做人不该做的事！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4622680.2b031919",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「安曇！　お前……！！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「安曇くん———！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「お兄ちゃん……！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4622680",
+          "route": "chapter-8-end-90701.json",
+          "step": 251
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4621996.5f023f79",
+            "step": 249,
+            "script": 90501,
+            "text": "「やめさない、安曇くんはそんなこと、\n望んでいないわ——！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4622248.837107ef",
+            "step": 250,
+            "script": 90501,
+            "text": "「たった一人の家族なの。\nそれにお兄ちゃんは私を助ける為に、\nあんなふうになってしまったのよ。\nそれを見捨てる方が、人として間違っているわ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4622680.2b031919",
+            "step": 251,
+            "script": 90501,
+            "text": "「安曇！　お前……！！」\n「安曇くん——！」\n「お兄ちゃん……！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623060.77d3faf9",
+            "step": 252,
+            "script": 90501,
+            "text": "「もうやめて！ もういいの、いいのよ……」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623220.8ef9eb2e",
+            "step": 253,
+            "script": 90501,
+            "text": "「ひ……と、み…………？」\n「安曇くん……まさか…………！？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「安昙！你……！！」\n「安昙——！」\n「哥哥……！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4623060.77d3faf9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「もうやめて！ もういいの、いいのよ……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4623060",
+          "route": "chapter-8-end-90701.json",
+          "step": 252
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4622248.837107ef",
+            "step": 250,
+            "script": 90501,
+            "text": "「たった一人の家族なの。\nそれにお兄ちゃんは私を助ける為に、\nあんなふうになってしまったのよ。\nそれを見捨てる方が、人として間違っているわ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4622680.2b031919",
+            "step": 251,
+            "script": 90501,
+            "text": "「安曇！　お前……！！」\n「安曇くん——！」\n「お兄ちゃん……！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623060.77d3faf9",
+            "step": 252,
+            "script": 90501,
+            "text": "「もうやめて！ もういいの、いいのよ……」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623220.8ef9eb2e",
+            "step": 253,
+            "script": 90501,
+            "text": "「ひ……と、み…………？」\n「安曇くん……まさか…………！？」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623620.cfd64b23",
+            "step": 254,
+            "script": 90501,
+            "text": "「まずいぞ、纯也！　\nこのままじゃ倒壊に巻き込まれる！」\n「逃げましょう、人見さん！ 七原さんと安曇さんも！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「别再这样了！够了，已经够了……」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4623220.8ef9eb2e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ひ……と、み…………？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「安曇くん……まさか…………！？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4623220",
+          "route": "chapter-8-end-90701.json",
+          "step": 253
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4622680.2b031919",
+            "step": 251,
+            "script": 90501,
+            "text": "「安曇！　お前……！！」\n「安曇くん——！」\n「お兄ちゃん……！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623060.77d3faf9",
+            "step": 252,
+            "script": 90501,
+            "text": "「もうやめて！ もういいの、いいのよ……」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623220.8ef9eb2e",
+            "step": 253,
+            "script": 90501,
+            "text": "「ひ……と、み…………？」\n「安曇くん……まさか…………！？」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623620.cfd64b23",
+            "step": 254,
+            "script": 90501,
+            "text": "「まずいぞ、纯也！　\nこのままじゃ倒壊に巻き込まれる！」\n「逃げましょう、人見さん！ 七原さんと安曇さんも！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623884.24dc32c",
+            "step": 255,
+            "script": 90501,
+            "text": "「人見さん——！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「人……见…………？」\n「安昙……难道你…………！？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4623620.cfd64b23",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「まずいぞ、\",\"color\":0,\"size\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"！　\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"このままじゃ倒壊に巻き込まれる！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「逃げましょう、人見さん！ 七原さんと安曇さんも！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4623620",
+          "route": "chapter-8-end-90701.json",
+          "step": 254
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.90501:4623060.77d3faf9",
+            "step": 252,
+            "script": 90501,
+            "text": "「もうやめて！ もういいの、いいのよ……」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623220.8ef9eb2e",
+            "step": 253,
+            "script": 90501,
+            "text": "「ひ……と、み…………？」\n「安曇くん……まさか…………！？」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623620.cfd64b23",
+            "step": 254,
+            "script": 90501,
+            "text": "「まずいぞ、纯也！　\nこのままじゃ倒壊に巻き込まれる！」\n「逃げましょう、人見さん！ 七原さんと安曇さんも！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623884.24dc32c",
+            "step": 255,
+            "script": 90501,
+            "text": "「人見さん——！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624048.71e0c57b",
+            "step": 256,
+            "script": 90501,
+            "text": "「ごめんなさい」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「不好，"
+            },
+            {
+              "ref": 1
+            },
+            {
+              "text": "！再不走，就要被埋在里面了！」\n「快逃，人见小姐！七原小姐、安昙先生，你们也一起！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4623884.24dc32c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「人見さん———！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4623884",
+          "route": "chapter-8-end-90701.json",
+          "step": 255
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.90501:4623220.8ef9eb2e",
+            "step": 253,
+            "script": 90501,
+            "text": "「ひ……と、み…………？」\n「安曇くん……まさか…………！？」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623620.cfd64b23",
+            "step": 254,
+            "script": 90501,
+            "text": "「まずいぞ、纯也！　\nこのままじゃ倒壊に巻き込まれる！」\n「逃げましょう、人見さん！ 七原さんと安曇さんも！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623884.24dc32c",
+            "step": 255,
+            "script": 90501,
+            "text": "「人見さん——！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624048.71e0c57b",
+            "step": 256,
+            "script": 90501,
+            "text": "「ごめんなさい」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624220.8412d9b",
+            "step": 257,
+            "script": 90501,
+            "text": "「人見さん！ 七原さん！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「人见小姐——！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4624048.71e0c57b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ごめんなさい」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4624048",
+          "route": "chapter-8-end-90701.json",
+          "step": 256
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4623620.cfd64b23",
+            "step": 254,
+            "script": 90501,
+            "text": "「まずいぞ、纯也！　\nこのままじゃ倒壊に巻き込まれる！」\n「逃げましょう、人見さん！ 七原さんと安曇さんも！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4623884.24dc32c",
+            "step": 255,
+            "script": 90501,
+            "text": "「人見さん——！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624048.71e0c57b",
+            "step": 256,
+            "script": 90501,
+            "text": "「ごめんなさい」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624220.8412d9b",
+            "step": 257,
+            "script": 90501,
+            "text": "「人見さん！ 七原さん！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624560.7b3ac6f7",
+            "step": 258,
+            "script": 90501,
+            "text": "『二人を頼む——！』",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「对不起。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4624220.8412d9b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「人見さん！ 七原さん！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4624220",
+          "route": "chapter-8-end-90701.json",
+          "step": 257
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.90501:4623884.24dc32c",
+            "step": 255,
+            "script": 90501,
+            "text": "「人見さん——！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624048.71e0c57b",
+            "step": 256,
+            "script": 90501,
+            "text": "「ごめんなさい」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624220.8412d9b",
+            "step": 257,
+            "script": 90501,
+            "text": "「人見さん！ 七原さん！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624560.7b3ac6f7",
+            "step": 258,
+            "script": 90501,
+            "text": "『二人を頼む——！』",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624992.e5d037e6",
+            "step": 259,
+            "script": 90501,
+            "text": "「いや、まだだ！ 安曇を助けないと！」\n「ここで兄さんまで死なせるわけには\n行かないんだ！」\n「纯也、放せ！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「人见小姐！七原小姐！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4624560.7b3ac6f7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"　　　　　『二人を頼む———！』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4624560",
+          "route": "chapter-8-end-90701.json",
+          "step": 258
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4624048.71e0c57b",
+            "step": 256,
+            "script": 90501,
+            "text": "「ごめんなさい」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624220.8412d9b",
+            "step": 257,
+            "script": 90501,
+            "text": "「人見さん！ 七原さん！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624560.7b3ac6f7",
+            "step": 258,
+            "script": 90501,
+            "text": "『二人を頼む——！』",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624992.e5d037e6",
+            "step": 259,
+            "script": 90501,
+            "text": "「いや、まだだ！ 安曇を助けないと！」\n「ここで兄さんまで死なせるわけには\n行かないんだ！」\n「纯也、放せ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4625816.1b7b8e61",
+            "step": 260,
+            "script": 90501,
+            "text": "……これが本当の決着と言えるのかどうか、\n私には分からない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "『她们两个，就拜托你们了——！』"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4624992.e5d037e6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「いや、まだだ！ 安曇を助けないと！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「ここで兄さんまで死なせるわけには\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"行かないんだ！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「\",\"color\":0,\"size\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"、放せ！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4624992",
+          "route": "chapter-8-end-90701.json",
+          "step": 259
+        },
+        "requiredRefs": [
+          {
+            "ref": 7,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4624220.8412d9b",
+            "step": 257,
+            "script": 90501,
+            "text": "「人見さん！ 七原さん！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624560.7b3ac6f7",
+            "step": 258,
+            "script": 90501,
+            "text": "『二人を頼む——！』",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624992.e5d037e6",
+            "step": 259,
+            "script": 90501,
+            "text": "「いや、まだだ！ 安曇を助けないと！」\n「ここで兄さんまで死なせるわけには\n行かないんだ！」\n「纯也、放せ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4625816.1b7b8e61",
+            "step": 260,
+            "script": 90501,
+            "text": "……これが本当の決着と言えるのかどうか、\n私には分からない。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4625908.b81d076d",
+            "step": 261,
+            "script": 90501,
+            "text": "結果として私はまたしても生き長らえ、\n安曇くんは３度目の死を迎えた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「不，还不行！必须救出安昙！」\n「我不能让哥也死在这里！」\n「"
+            },
+            {
+              "ref": 7
+            },
+            {
+              "text": "，放手！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4625816.1b7b8e61",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"……これが本当の決着と言えるのかどうか、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私には分からない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4625816",
+          "route": "chapter-8-end-90701.json",
+          "step": 260
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4624560.7b3ac6f7",
+            "step": 258,
+            "script": 90501,
+            "text": "『二人を頼む——！』",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4624992.e5d037e6",
+            "step": 259,
+            "script": 90501,
+            "text": "「いや、まだだ！ 安曇を助けないと！」\n「ここで兄さんまで死なせるわけには\n行かないんだ！」\n「纯也、放せ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4625816.1b7b8e61",
+            "step": 260,
+            "script": 90501,
+            "text": "……これが本当の決着と言えるのかどうか、\n私には分からない。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4625908.b81d076d",
+            "step": 261,
+            "script": 90501,
+            "text": "結果として私はまたしても生き長らえ、\n安曇くんは３度目の死を迎えた。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626008.1289d6bd",
+            "step": 262,
+            "script": 90501,
+            "text": "これは運命なのか？\nそれとも私の愚かしさゆえの結末なのか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……这是否算得上真正的了断，我不知道。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4625908.b81d076d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"結果として私はまたしても生き長らえ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"安曇くんは３度目の死を迎えた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4625908",
+          "route": "chapter-8-end-90701.json",
+          "step": 261
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4624992.e5d037e6",
+            "step": 259,
+            "script": 90501,
+            "text": "「いや、まだだ！ 安曇を助けないと！」\n「ここで兄さんまで死なせるわけには\n行かないんだ！」\n「纯也、放せ！」",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4625816.1b7b8e61",
+            "step": 260,
+            "script": 90501,
+            "text": "……これが本当の決着と言えるのかどうか、\n私には分からない。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4625908.b81d076d",
+            "step": 261,
+            "script": 90501,
+            "text": "結果として私はまたしても生き長らえ、\n安曇くんは３度目の死を迎えた。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626008.1289d6bd",
+            "step": 262,
+            "script": 90501,
+            "text": "これは運命なのか？\nそれとも私の愚かしさゆえの結末なのか？",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626100.e080a3f7",
+            "step": 263,
+            "script": 90501,
+            "text": "その答えを自分なりに出すには、\nまた長い時が必要になりそうだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "结果，我再一次活了下来。\n而安昙，迎来了第３次死亡。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4626008.1289d6bd",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"これは運命なのか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それとも私の愚かしさゆえの結末なのか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4626008",
+          "route": "chapter-8-end-90701.json",
+          "step": 262
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4625816.1b7b8e61",
+            "step": 260,
+            "script": 90501,
+            "text": "……これが本当の決着と言えるのかどうか、\n私には分からない。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4625908.b81d076d",
+            "step": 261,
+            "script": 90501,
+            "text": "結果として私はまたしても生き長らえ、\n安曇くんは３度目の死を迎えた。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626008.1289d6bd",
+            "step": 262,
+            "script": 90501,
+            "text": "これは運命なのか？\nそれとも私の愚かしさゆえの結末なのか？",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626100.e080a3f7",
+            "step": 263,
+            "script": 90501,
+            "text": "その答えを自分なりに出すには、\nまた長い時が必要になりそうだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626196.804b73c6",
+            "step": 264,
+            "script": 90501,
+            "text": "それまでは、この１０年と同じく、\n私はロジカルな思考に身を委ねて生きていこう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这是命运吗？\n还是说，这只是我的愚蠢所导致的结局？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4626100.e080a3f7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"その答えを自分なりに出すには、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"また長い時が必要になりそうだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4626100",
+          "route": "chapter-8-end-90701.json",
+          "step": 263
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4625908.b81d076d",
+            "step": 261,
+            "script": 90501,
+            "text": "結果として私はまたしても生き長らえ、\n安曇くんは３度目の死を迎えた。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626008.1289d6bd",
+            "step": 262,
+            "script": 90501,
+            "text": "これは運命なのか？\nそれとも私の愚かしさゆえの結末なのか？",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626100.e080a3f7",
+            "step": 263,
+            "script": 90501,
+            "text": "その答えを自分なりに出すには、\nまた長い時が必要になりそうだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626196.804b73c6",
+            "step": 264,
+            "script": 90501,
+            "text": "それまでは、この１０年と同じく、\n私はロジカルな思考に身を委ねて生きていこう。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626304.21bdea60",
+            "step": 265,
+            "script": 90501,
+            "text": "それが私に出来る唯一の贖罪であり、\n生き延びた者が背負うべき責任だと思う。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "要找到属于我自己的答案，恐怕还需要很长的时间。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4626196.804b73c6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それまでは、この１０年と同じく、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私はロジカルな思考に身を委ねて生きていこう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4626196",
+          "route": "chapter-8-end-90701.json",
+          "step": 264
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4626008.1289d6bd",
+            "step": 262,
+            "script": 90501,
+            "text": "これは運命なのか？\nそれとも私の愚かしさゆえの結末なのか？",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626100.e080a3f7",
+            "step": 263,
+            "script": 90501,
+            "text": "その答えを自分なりに出すには、\nまた長い時が必要になりそうだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626196.804b73c6",
+            "step": 264,
+            "script": 90501,
+            "text": "それまでは、この１０年と同じく、\n私はロジカルな思考に身を委ねて生きていこう。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626304.21bdea60",
+            "step": 265,
+            "script": 90501,
+            "text": "それが私に出来る唯一の贖罪であり、\n生き延びた者が背負うべき責任だと思う。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626412.3a7692c0",
+            "step": 266,
+            "script": 90501,
+            "text": "だけど、最期の最期に安曇くんが見せてくれた\nあの懐かしい瞳の輝き……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "在那之前，就和过去１０年一样，我会继续依靠逻辑思考，活下去。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4626304.21bdea60",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それが私に出来る唯一の贖罪であり、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"生き延びた者が背負うべき責任だと思う。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4626304",
+          "route": "chapter-8-end-90701.json",
+          "step": 265
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4626100.e080a3f7",
+            "step": 263,
+            "script": 90501,
+            "text": "その答えを自分なりに出すには、\nまた長い時が必要になりそうだ。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626196.804b73c6",
+            "step": 264,
+            "script": 90501,
+            "text": "それまでは、この１０年と同じく、\n私はロジカルな思考に身を委ねて生きていこう。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626304.21bdea60",
+            "step": 265,
+            "script": 90501,
+            "text": "それが私に出来る唯一の贖罪であり、\n生き延びた者が背負うべき責任だと思う。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626412.3a7692c0",
+            "step": 266,
+            "script": 90501,
+            "text": "だけど、最期の最期に安曇くんが見せてくれた\nあの懐かしい瞳の輝き……",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626512.e57b4dee",
+            "step": 267,
+            "script": 90501,
+            "text": "あの輝きの中に昔の彼を感じることが出来たから、\n私の心は以前よりもほんの少しだけ\n軽やかなのだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我想，这是我唯一能做的赎罪，也是幸存者应该背负的责任。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4626412.3a7692c0",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だけど、最期の最期に安曇くんが見せてくれた\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あの懐かしい瞳の輝き……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4626412",
+          "route": "chapter-8-end-90701.json",
+          "step": 266
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4626196.804b73c6",
+            "step": 264,
+            "script": 90501,
+            "text": "それまでは、この１０年と同じく、\n私はロジカルな思考に身を委ねて生きていこう。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626304.21bdea60",
+            "step": 265,
+            "script": 90501,
+            "text": "それが私に出来る唯一の贖罪であり、\n生き延びた者が背負うべき責任だと思う。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626412.3a7692c0",
+            "step": 266,
+            "script": 90501,
+            "text": "だけど、最期の最期に安曇くんが見せてくれた\nあの懐かしい瞳の輝き……",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626512.e57b4dee",
+            "step": 267,
+            "script": 90501,
+            "text": "あの輝きの中に昔の彼を感じることが出来たから、\n私の心は以前よりもほんの少しだけ\n軽やかなのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626652.9e3ea5cf",
+            "step": 268,
+            "script": 90501,
+            "text": "あのとき、瓦礫の雨が降り注ぐ中で\n「ごめんなさい」しか言えなかったけど……\n１０年後にもう一度、この島を訪れて、\nそのときこそ言おう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，在最后的最后，安昙眼中闪过的，那道令人怀念的光……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4626512.e57b4dee",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あの輝きの中に昔の彼を感じることが出来たから、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私の心は以前よりもほんの少しだけ\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"軽やかなのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4626512",
+          "route": "chapter-8-end-90701.json",
+          "step": 267
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4626304.21bdea60",
+            "step": 265,
+            "script": 90501,
+            "text": "それが私に出来る唯一の贖罪であり、\n生き延びた者が背負うべき責任だと思う。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626412.3a7692c0",
+            "step": 266,
+            "script": 90501,
+            "text": "だけど、最期の最期に安曇くんが見せてくれた\nあの懐かしい瞳の輝き……",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626512.e57b4dee",
+            "step": 267,
+            "script": 90501,
+            "text": "あの輝きの中に昔の彼を感じることが出来たから、\n私の心は以前よりもほんの少しだけ\n軽やかなのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626652.9e3ea5cf",
+            "step": 268,
+            "script": 90501,
+            "text": "あのとき、瓦礫の雨が降り注ぐ中で\n「ごめんなさい」しか言えなかったけど……\n１０年後にもう一度、この島を訪れて、\nそのときこそ言おう。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626828.e200105a",
+            "step": 269,
+            "script": 90501,
+            "text": "私の命と魂を救ってくれたこと、\nそしてかけがえの無い時をくれたことに、\n「ありがとう」と……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "正因为在那道光里，我看见了从前的他，我的心，才会比过去轻盈了那么一点吧。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4626652.9e3ea5cf",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あのとき、瓦礫の雨が降り注ぐ中で\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「ごめんなさい」しか言えなかったけど……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"１０年後にもう一度、この島を訪れて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そのときこそ言おう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4626652",
+          "route": "chapter-8-end-90701.json",
+          "step": 268
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4626412.3a7692c0",
+            "step": 266,
+            "script": 90501,
+            "text": "だけど、最期の最期に安曇くんが見せてくれた\nあの懐かしい瞳の輝き……",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626512.e57b4dee",
+            "step": 267,
+            "script": 90501,
+            "text": "あの輝きの中に昔の彼を感じることが出来たから、\n私の心は以前よりもほんの少しだけ\n軽やかなのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626652.9e3ea5cf",
+            "step": 268,
+            "script": 90501,
+            "text": "あのとき、瓦礫の雨が降り注ぐ中で\n「ごめんなさい」しか言えなかったけど……\n１０年後にもう一度、この島を訪れて、\nそのときこそ言おう。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626828.e200105a",
+            "step": 269,
+            "script": 90501,
+            "text": "私の命と魂を救ってくれたこと、\nそしてかけがえの無い時をくれたことに、\n「ありがとう」と……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那时，在纷纷坠落的瓦砾之中，我只能说出一句「对不起」……\n１０年之后，我会再来这座岛。到那时，一定要亲口告诉他。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90501:4626828.e200105a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"私の命と魂を救ってくれたこと、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そしてかけがえの無い時をくれたことに、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「ありがとう」と……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90501,
+          "page": "90501:4626828",
+          "route": "chapter-8-end-90701.json",
+          "step": 269
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90501:4626512.e57b4dee",
+            "step": 267,
+            "script": 90501,
+            "text": "あの輝きの中に昔の彼を感じることが出来たから、\n私の心は以前よりもほんの少しだけ\n軽やかなのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626652.9e3ea5cf",
+            "step": 268,
+            "script": 90501,
+            "text": "あのとき、瓦礫の雨が降り注ぐ中で\n「ごめんなさい」しか言えなかったけど……\n１０年後にもう一度、この島を訪れて、\nそのときこそ言おう。",
+            "translation": null
+          },
+          {
+            "key": "page.90501:4626828.e200105a",
+            "step": 269,
+            "script": 90501,
+            "text": "私の命と魂を救ってくれたこと、\nそしてかけがえの無い時をくれたことに、\n「ありがとう」と……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "谢谢你，救了我的生命，也救了我的灵魂。\n谢谢你，给了我那段无可替代的时光……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90701:4635652.6d7c121e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ご苦労さん。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"なかなか貴重な報告だったよ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90701,
+          "page": "90701:4635652",
+          "route": "chapter-8-end-90701.json",
+          "step": 330
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90701:4635652.6d7c121e",
+            "step": 330,
+            "script": 90701,
+            "text": "「ご苦労さん。\nなかなか貴重な報告だったよ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4635804.d17ec73c",
+            "step": 331,
+            "script": 90701,
+            "text": "「………………」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4635920.a7b7abca",
+            "step": 332,
+            "script": 90701,
+            "text": "「ま、そんな顔しなさんな。\nこうして協力してくれたからこそ、\nあんたは死なずに済んだんだ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「辛苦了。这份报告，倒是相当有价值。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90701:4635804.d17ec73c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「………………」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90701,
+          "page": "90701:4635804",
+          "route": "chapter-8-end-90701.json",
+          "step": 331
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90701:4635652.6d7c121e",
+            "step": 330,
+            "script": 90701,
+            "text": "「ご苦労さん。\nなかなか貴重な報告だったよ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4635804.d17ec73c",
+            "step": 331,
+            "script": 90701,
+            "text": "「………………」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4635920.a7b7abca",
+            "step": 332,
+            "script": 90701,
+            "text": "「ま、そんな顔しなさんな。\nこうして協力してくれたからこそ、\nあんたは死なずに済んだんだ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636124.ba707ca7",
+            "step": 333,
+            "script": 90701,
+            "text": "「…………はい」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「………………」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90701:4635920.a7b7abca",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ま、そんな顔しなさんな。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"こうして協力してくれたからこそ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あんたは死なずに済んだんだ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90701,
+          "page": "90701:4635920",
+          "route": "chapter-8-end-90701.json",
+          "step": 332
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90701:4635652.6d7c121e",
+            "step": 330,
+            "script": 90701,
+            "text": "「ご苦労さん。\nなかなか貴重な報告だったよ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4635804.d17ec73c",
+            "step": 331,
+            "script": 90701,
+            "text": "「………………」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4635920.a7b7abca",
+            "step": 332,
+            "script": 90701,
+            "text": "「ま、そんな顔しなさんな。\nこうして協力してくれたからこそ、\nあんたは死なずに済んだんだ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636124.ba707ca7",
+            "step": 333,
+            "script": 90701,
+            "text": "「…………はい」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636240.b2e56742",
+            "step": 334,
+            "script": 90701,
+            "text": "「うちの局長の筋書きじゃ、\nあんた最期は生き埋めだったんだから。\n感謝しなきゃ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「别摆出那种表情嘛。正因为你肯这样配合，才捡回了一条命。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90701:4636124.ba707ca7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「…………はい」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90701,
+          "page": "90701:4636124",
+          "route": "chapter-8-end-90701.json",
+          "step": 333
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90701:4635804.d17ec73c",
+            "step": 331,
+            "script": 90701,
+            "text": "「………………」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4635920.a7b7abca",
+            "step": 332,
+            "script": 90701,
+            "text": "「ま、そんな顔しなさんな。\nこうして協力してくれたからこそ、\nあんたは死なずに済んだんだ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636124.ba707ca7",
+            "step": 333,
+            "script": 90701,
+            "text": "「…………はい」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636240.b2e56742",
+            "step": 334,
+            "script": 90701,
+            "text": "「うちの局長の筋書きじゃ、\nあんた最期は生き埋めだったんだから。\n感謝しなきゃ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636436.d17ec73c",
+            "step": 335,
+            "script": 90701,
+            "text": "「………………」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「…………是。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90701:4636240.b2e56742",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「うちの局長の筋書きじゃ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あんた最期は生き埋めだったんだから。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"感謝しなきゃ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90701,
+          "page": "90701:4636240",
+          "route": "chapter-8-end-90701.json",
+          "step": 334
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90701:4635920.a7b7abca",
+            "step": 332,
+            "script": 90701,
+            "text": "「ま、そんな顔しなさんな。\nこうして協力してくれたからこそ、\nあんたは死なずに済んだんだ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636124.ba707ca7",
+            "step": 333,
+            "script": 90701,
+            "text": "「…………はい」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636240.b2e56742",
+            "step": 334,
+            "script": 90701,
+            "text": "「うちの局長の筋書きじゃ、\nあんた最期は生き埋めだったんだから。\n感謝しなきゃ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636436.d17ec73c",
+            "step": 335,
+            "script": 90701,
+            "text": "「………………」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636544.dec33b8b",
+            "step": 336,
+            "script": 90701,
+            "text": "「心配無用。\nこのことを口外しなけりゃ\nあんたの安全は国家の保障付っすよ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「按照我们局长的剧本，你最后可是要被活埋的。该好好感激才对。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90701:4636436.d17ec73c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「………………」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90701,
+          "page": "90701:4636436",
+          "route": "chapter-8-end-90701.json",
+          "step": 335
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90701:4636124.ba707ca7",
+            "step": 333,
+            "script": 90701,
+            "text": "「…………はい」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636240.b2e56742",
+            "step": 334,
+            "script": 90701,
+            "text": "「うちの局長の筋書きじゃ、\nあんた最期は生き埋めだったんだから。\n感謝しなきゃ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636436.d17ec73c",
+            "step": 335,
+            "script": 90701,
+            "text": "「………………」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636544.dec33b8b",
+            "step": 336,
+            "script": 90701,
+            "text": "「心配無用。\nこのことを口外しなけりゃ\nあんたの安全は国家の保障付っすよ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636656.851896eb",
+            "step": 337,
+            "script": 90701,
+            "text": "「ただし、いつでも監視されていることを\n忘れずに……ね？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「………………」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90701:4636544.dec33b8b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「心配無用。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"このことを口外しなけりゃ\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あんたの安全は国家の保障付っすよ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90701,
+          "page": "90701:4636544",
+          "route": "chapter-8-end-90701.json",
+          "step": 336
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90701:4636240.b2e56742",
+            "step": 334,
+            "script": 90701,
+            "text": "「うちの局長の筋書きじゃ、\nあんた最期は生き埋めだったんだから。\n感謝しなきゃ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636436.d17ec73c",
+            "step": 335,
+            "script": 90701,
+            "text": "「………………」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636544.dec33b8b",
+            "step": 336,
+            "script": 90701,
+            "text": "「心配無用。\nこのことを口外しなけりゃ\nあんたの安全は国家の保障付っすよ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636656.851896eb",
+            "step": 337,
+            "script": 90701,
+            "text": "「ただし、いつでも監視されていることを\n忘れずに……ね？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「不用担心。只要你不把这件事说出去，你的安全，自然有国家作保。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.90701:4636656.851896eb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ただし、いつでも監視されていることを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"忘れずに……ね？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 90701,
+          "page": "90701:4636656",
+          "route": "chapter-8-end-90701.json",
+          "step": 337
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.90701:4636436.d17ec73c",
+            "step": 335,
+            "script": 90701,
+            "text": "「………………」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636544.dec33b8b",
+            "step": 336,
+            "script": 90701,
+            "text": "「心配無用。\nこのことを口外しなけりゃ\nあんたの安全は国家の保障付っすよ」",
+            "translation": null
+          },
+          {
+            "key": "page.90701:4636656.851896eb",
+            "step": 337,
+            "script": 90701,
+            "text": "「ただし、いつでも監視されていることを\n忘れずに……ね？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「不过，可别忘了……你随时都在监视之中哦。」"
+            }
+          ]
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

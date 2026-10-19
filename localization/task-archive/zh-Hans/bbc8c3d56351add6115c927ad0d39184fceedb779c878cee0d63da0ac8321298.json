@@ -1,0 +1,2469 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 80001,
+    "title": "道明寺篇",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 3216,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.80101:4575828.c078deb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ご無沙汰っす、\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"局長」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この一応の上司にあたる人物に会うのは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"例の先生方を処理して以来だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「……後始末は終わったかね、道明寺君？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あれから、数ヶ月の時を経ているが\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今頃になって確認とは、のんびりしたものだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4575828",
+          "route": "chapter-7-end-80101.json",
+          "step": 1
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4575828.c078deb",
+            "step": 1,
+            "script": 80101,
+            "text": "「ご無沙汰っす、风海局長」\nこの一応の上司にあたる人物に会うのは、\n例の先生方を処理して以来だ。\n「……後始末は終わったかね、道明寺君？」\nあれから、数ヶ月の時を経ているが\n今頃になって確認とは、のんびりしたものだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4576200.d3e74dc5",
+            "step": 2,
+            "script": 80101,
+            "text": "というか本題はそこにはなくて、\n局長にとって彼らの後始末など、\n世間話程度のことなのだろう。\n「ええ、思ったよりも速やかに退場してくれたっすよ。\nあの手の先生方は、ほんと楽っすよね。\n土壇場になっても無意味な権力を振りかざすか、\n命乞いぐらいしか出来ないんすから」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4576592.d63b2624",
+            "step": 3,
+            "script": 80101,
+            "text": "「テキトーに振り分けときましたんで\nもう東南アジア諸国に出回って、\nスターになってるんじゃないっすかね？\nなぁに、足が付くことはないっすよ。\nそれこそ肉親ですら見分けが付かないほど\n極上の見世物に仕上げてありますから」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「好久不见啊，"
+            },
+            {
+              "ref": 1
+            },
+            {
+              "text": "局长。」\n自从处理掉那几位大人物之后，我还是第一次见到这位名义上的上司。\n「……善后的事办妥了吗，道明寺君？」\n都过去好几个月了，现在才来问，还真是悠闲。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4576200.d3e74dc5",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"というか本題はそこにはなくて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"局長にとって彼らの後始末など、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"世間話程度のことなのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「ええ、思ったよりも速やかに退場してくれたっすよ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あの手の先生方は、ほんと楽っすよね。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"土壇場になっても無意味な権力を振りかざすか、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"命乞いぐらいしか出来ないんすから」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4576200",
+          "route": "chapter-7-end-80101.json",
+          "step": 2
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4575828.c078deb",
+            "step": 1,
+            "script": 80101,
+            "text": "「ご無沙汰っす、风海局長」\nこの一応の上司にあたる人物に会うのは、\n例の先生方を処理して以来だ。\n「……後始末は終わったかね、道明寺君？」\nあれから、数ヶ月の時を経ているが\n今頃になって確認とは、のんびりしたものだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4576200.d3e74dc5",
+            "step": 2,
+            "script": 80101,
+            "text": "というか本題はそこにはなくて、\n局長にとって彼らの後始末など、\n世間話程度のことなのだろう。\n「ええ、思ったよりも速やかに退場してくれたっすよ。\nあの手の先生方は、ほんと楽っすよね。\n土壇場になっても無意味な権力を振りかざすか、\n命乞いぐらいしか出来ないんすから」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4576592.d63b2624",
+            "step": 3,
+            "script": 80101,
+            "text": "「テキトーに振り分けときましたんで\nもう東南アジア諸国に出回って、\nスターになってるんじゃないっすかね？\nなぁに、足が付くことはないっすよ。\nそれこそ肉親ですら見分けが付かないほど\n極上の見世物に仕上げてありますから」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4576892.aa122473",
+            "step": 4,
+            "script": 80101,
+            "text": "「……あいかわらず、えげつない仕事しよるなぁ、\n『㈲』の連中は」\nそう言って現れたのは、例のオバサンだ。\n組織専属の退魔師として、事件の闇に根ざすものを\n排除する役目を負っている。\nご苦労なこった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不过，他想说的恐怕根本不是这个。对局长而言，替那些人善后，大概也就是闲聊的话题吧。\n「嗯，他们退场得比想象中还利索。这种大人物最好对付了。都到最后关头了，不是还端着那点没用的权势吓唬人，就是只会求饶。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4576592.d63b2624",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「テキトーに振り分けときましたんで\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"もう東南アジア諸国に出回って、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"スターになってるんじゃないっすかね？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"なぁに、足が付くことはないっすよ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それこそ肉親ですら見分けが付かないほど\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"極上の見世物に仕上げてありますから」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4576592",
+          "route": "chapter-7-end-80101.json",
+          "step": 3
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4575828.c078deb",
+            "step": 1,
+            "script": 80101,
+            "text": "「ご無沙汰っす、风海局長」\nこの一応の上司にあたる人物に会うのは、\n例の先生方を処理して以来だ。\n「……後始末は終わったかね、道明寺君？」\nあれから、数ヶ月の時を経ているが\n今頃になって確認とは、のんびりしたものだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4576200.d3e74dc5",
+            "step": 2,
+            "script": 80101,
+            "text": "というか本題はそこにはなくて、\n局長にとって彼らの後始末など、\n世間話程度のことなのだろう。\n「ええ、思ったよりも速やかに退場してくれたっすよ。\nあの手の先生方は、ほんと楽っすよね。\n土壇場になっても無意味な権力を振りかざすか、\n命乞いぐらいしか出来ないんすから」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4576592.d63b2624",
+            "step": 3,
+            "script": 80101,
+            "text": "「テキトーに振り分けときましたんで\nもう東南アジア諸国に出回って、\nスターになってるんじゃないっすかね？\nなぁに、足が付くことはないっすよ。\nそれこそ肉親ですら見分けが付かないほど\n極上の見世物に仕上げてありますから」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4576892.aa122473",
+            "step": 4,
+            "script": 80101,
+            "text": "「……あいかわらず、えげつない仕事しよるなぁ、\n『㈲』の連中は」\nそう言って現れたのは、例のオバサンだ。\n組織専属の退魔師として、事件の闇に根ざすものを\n排除する役目を負っている。\nご苦労なこった。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4577296.674cc6f7",
+            "step": 5,
+            "script": 80101,
+            "text": "「『㈲』の仕事は、世間様に知られたら\n余計なパニックを引き起こすような、\nきわどい事件を闇に葬るだけっすよ。えげつない\n仕事は『野槌』の連中に任せてますから……」\n「闇に葬るねぇ。その割には、\nあの风海の彼女……誰やったかなぁ？\n……あの件は危なかったんとちゃうか？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「我已经随便分配好了。这会儿，他们大概已经流落到东南亚各国，成了台上的明星吧？放心，查不到咱们头上。我把他们弄成了上好的奇观，连亲人都认不出来。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4576892.aa122473",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「……あいかわらず、えげつない仕事しよるなぁ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"『㈲』\",\"color\":0,\"size\":0},{\"text\":\"の連中は」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そう言って現れたのは、例のオバサンだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"組織専属の退魔師として、事件の闇に根ざすものを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"排除する役目を負っている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ご苦労なこった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4576892",
+          "route": "chapter-7-end-80101.json",
+          "step": 4
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4576200.d3e74dc5",
+            "step": 2,
+            "script": 80101,
+            "text": "というか本題はそこにはなくて、\n局長にとって彼らの後始末など、\n世間話程度のことなのだろう。\n「ええ、思ったよりも速やかに退場してくれたっすよ。\nあの手の先生方は、ほんと楽っすよね。\n土壇場になっても無意味な権力を振りかざすか、\n命乞いぐらいしか出来ないんすから」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4576592.d63b2624",
+            "step": 3,
+            "script": 80101,
+            "text": "「テキトーに振り分けときましたんで\nもう東南アジア諸国に出回って、\nスターになってるんじゃないっすかね？\nなぁに、足が付くことはないっすよ。\nそれこそ肉親ですら見分けが付かないほど\n極上の見世物に仕上げてありますから」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4576892.aa122473",
+            "step": 4,
+            "script": 80101,
+            "text": "「……あいかわらず、えげつない仕事しよるなぁ、\n『㈲』の連中は」\nそう言って現れたのは、例のオバサンだ。\n組織専属の退魔師として、事件の闇に根ざすものを\n排除する役目を負っている。\nご苦労なこった。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4577296.674cc6f7",
+            "step": 5,
+            "script": 80101,
+            "text": "「『㈲』の仕事は、世間様に知られたら\n余計なパニックを引き起こすような、\nきわどい事件を闇に葬るだけっすよ。えげつない\n仕事は『野槌』の連中に任せてますから……」\n「闇に葬るねぇ。その割には、\nあの风海の彼女……誰やったかなぁ？\n……あの件は危なかったんとちゃうか？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4577764.a5d531a3",
+            "step": 6,
+            "script": 80101,
+            "text": "「ああ、間宮ゆうかの件っすか？\nあれは、うちの新人の担当でして。\n間宮ゆうかとは旧知の仲だったんで\nつい情が出たようでして……」\n「ふーん、アンタんとこも、色々大変そうやなぁ」\n「いやー、編纂室ほどじゃないっすよ。またキャラの\n立った新人が配属されたじゃないっすか」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「……你们『㈲』那帮人，干的活还是这么缺德啊。」\n说着这话出现的，是那位大婶。作为组织专属的驱魔师，她负责清除那些扎根于案件阴影中的东西。还真是辛苦她了。"
+            }
+          ]
+        },
+        "notes": "组织代称源文为「㈲」，保留原专名符号，不臆断为乱码或另造组织名称。"
+      },
+      {
+        "key": "page.80101:4577296.674cc6f7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「\",\"color\":0,\"size\":0},{\"text\":\"『㈲』\",\"color\":0,\"size\":0},{\"text\":\"の仕事は、世間様に知られたら\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"余計なパニックを引き起こすような、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"きわどい事件を闇に葬るだけっすよ。\",\"color\":0,\"size\":0},{\"text\":\"えげつない\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"仕事は『\",\"color\":0,\"size\":0},{\"text\":\"野槌\",\"color\":0,\"size\":0},{\"text\":\"』の連中に任せてますから……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「闇に葬るねぇ。その割には、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あの\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"の彼女……誰やったかなぁ？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"……あの件は危なかったんとちゃうか？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4577296",
+          "route": "chapter-7-end-80101.json",
+          "step": 5
+        },
+        "requiredRefs": [
+          {
+            "ref": 16,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4576592.d63b2624",
+            "step": 3,
+            "script": 80101,
+            "text": "「テキトーに振り分けときましたんで\nもう東南アジア諸国に出回って、\nスターになってるんじゃないっすかね？\nなぁに、足が付くことはないっすよ。\nそれこそ肉親ですら見分けが付かないほど\n極上の見世物に仕上げてありますから」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4576892.aa122473",
+            "step": 4,
+            "script": 80101,
+            "text": "「……あいかわらず、えげつない仕事しよるなぁ、\n『㈲』の連中は」\nそう言って現れたのは、例のオバサンだ。\n組織専属の退魔師として、事件の闇に根ざすものを\n排除する役目を負っている。\nご苦労なこった。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4577296.674cc6f7",
+            "step": 5,
+            "script": 80101,
+            "text": "「『㈲』の仕事は、世間様に知られたら\n余計なパニックを引き起こすような、\nきわどい事件を闇に葬るだけっすよ。えげつない\n仕事は『野槌』の連中に任せてますから……」\n「闇に葬るねぇ。その割には、\nあの风海の彼女……誰やったかなぁ？\n……あの件は危なかったんとちゃうか？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4577764.a5d531a3",
+            "step": 6,
+            "script": 80101,
+            "text": "「ああ、間宮ゆうかの件っすか？\nあれは、うちの新人の担当でして。\n間宮ゆうかとは旧知の仲だったんで\nつい情が出たようでして……」\n「ふーん、アンタんとこも、色々大変そうやなぁ」\n「いやー、編纂室ほどじゃないっすよ。またキャラの\n立った新人が配属されたじゃないっすか」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578144.acd87a8e",
+            "step": 7,
+            "script": 80101,
+            "text": "「賀茂泉か。あれは結構難儀やで。\nうちが大昔に書いた論文まで見つけてきて\nあれやこれやと口やかましいてなぁ。胃が痛いわ」\nと言って、大げさに胃を押さえる。その彼女の胃は、\n通常の人間の半分のサイズしかない。\n他の内臓もかなり痛々しいもので、\n全ては常人離れした呪力を得た為の代償だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「我们『㈲』只是把那些一旦传出去，就会引起无谓恐慌的棘手案件埋进黑暗里。缺德的活，可是交给『野槌』那帮人干的……」\n「埋进黑暗啊。可那个"
+            },
+            {
+              "ref": 16
+            },
+            {
+              "text": "的女朋友……叫什么来着？……那件事，不是差点闹大吗？」"
+            }
+          ]
+        },
+        "notes": "「㈲」「野槌」为源组织代称；“女朋友”保留犬童调侃口吻，不当作确认恋爱关系。"
+      },
+      {
+        "key": "page.80101:4577764.a5d531a3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ああ、間宮ゆうかの件っすか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あれは、うちの新人の担当でして。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"間宮ゆうかとは旧知の仲だったんで\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"つい情が出たようでして……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「ふーん、アンタんとこも、色々大変そうやなぁ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「いやー、編纂室ほどじゃないっすよ。\",\"color\":0,\"size\":0},{\"text\":\"またキャラの\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"立った新人が配属されたじゃないっすか」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4577764",
+          "route": "chapter-7-end-80101.json",
+          "step": 6
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.80101:4576892.aa122473",
+            "step": 4,
+            "script": 80101,
+            "text": "「……あいかわらず、えげつない仕事しよるなぁ、\n『㈲』の連中は」\nそう言って現れたのは、例のオバサンだ。\n組織専属の退魔師として、事件の闇に根ざすものを\n排除する役目を負っている。\nご苦労なこった。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4577296.674cc6f7",
+            "step": 5,
+            "script": 80101,
+            "text": "「『㈲』の仕事は、世間様に知られたら\n余計なパニックを引き起こすような、\nきわどい事件を闇に葬るだけっすよ。えげつない\n仕事は『野槌』の連中に任せてますから……」\n「闇に葬るねぇ。その割には、\nあの风海の彼女……誰やったかなぁ？\n……あの件は危なかったんとちゃうか？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4577764.a5d531a3",
+            "step": 6,
+            "script": 80101,
+            "text": "「ああ、間宮ゆうかの件っすか？\nあれは、うちの新人の担当でして。\n間宮ゆうかとは旧知の仲だったんで\nつい情が出たようでして……」\n「ふーん、アンタんとこも、色々大変そうやなぁ」\n「いやー、編纂室ほどじゃないっすよ。またキャラの\n立った新人が配属されたじゃないっすか」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578144.acd87a8e",
+            "step": 7,
+            "script": 80101,
+            "text": "「賀茂泉か。あれは結構難儀やで。\nうちが大昔に書いた論文まで見つけてきて\nあれやこれやと口やかましいてなぁ。胃が痛いわ」\nと言って、大げさに胃を押さえる。その彼女の胃は、\n通常の人間の半分のサイズしかない。\n他の内臓もかなり痛々しいもので、\n全ては常人離れした呪力を得た為の代償だ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578532.a8292a37",
+            "step": 8,
+            "script": 80101,
+            "text": "冗談めかして愚痴るオバサンをたしなめるように、\n风海局長が落ち着いた声で説明する。\n「賀茂泉かごめ警部補の配属には、\nある派閥からの強力な圧力があったらしい。\n恐らく、編纂室の解体を望む派閥が\n警察庁上層部に働きかけたのだろう」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「啊，您说间宫悠香的事？那是我们一个新人负责的。他跟间宫悠香是老相识，一时心软了……」\n「哦，你们那儿也不容易啊。」\n「哪儿啊，跟编纂室可没法比。你们不也又调来了一个挺有个性的新人吗？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4578144.acd87a8e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「賀茂泉か。あれは結構難儀やで。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"うちが大昔に書いた論文まで見つけてきて\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あれやこれやと口やかましいてなぁ。胃が痛いわ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"と言って、大げさに胃を押さえる。その彼女の胃は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"通常の人間の半分のサイズしかない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"他の内臓もかなり痛々しいもので、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"全ては常人離れした呪力を得た為の代償だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4578144",
+          "route": "chapter-7-end-80101.json",
+          "step": 7
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.80101:4577296.674cc6f7",
+            "step": 5,
+            "script": 80101,
+            "text": "「『㈲』の仕事は、世間様に知られたら\n余計なパニックを引き起こすような、\nきわどい事件を闇に葬るだけっすよ。えげつない\n仕事は『野槌』の連中に任せてますから……」\n「闇に葬るねぇ。その割には、\nあの风海の彼女……誰やったかなぁ？\n……あの件は危なかったんとちゃうか？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4577764.a5d531a3",
+            "step": 6,
+            "script": 80101,
+            "text": "「ああ、間宮ゆうかの件っすか？\nあれは、うちの新人の担当でして。\n間宮ゆうかとは旧知の仲だったんで\nつい情が出たようでして……」\n「ふーん、アンタんとこも、色々大変そうやなぁ」\n「いやー、編纂室ほどじゃないっすよ。またキャラの\n立った新人が配属されたじゃないっすか」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578144.acd87a8e",
+            "step": 7,
+            "script": 80101,
+            "text": "「賀茂泉か。あれは結構難儀やで。\nうちが大昔に書いた論文まで見つけてきて\nあれやこれやと口やかましいてなぁ。胃が痛いわ」\nと言って、大げさに胃を押さえる。その彼女の胃は、\n通常の人間の半分のサイズしかない。\n他の内臓もかなり痛々しいもので、\n全ては常人離れした呪力を得た為の代償だ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578532.a8292a37",
+            "step": 8,
+            "script": 80101,
+            "text": "冗談めかして愚痴るオバサンをたしなめるように、\n风海局長が落ち着いた声で説明する。\n「賀茂泉かごめ警部補の配属には、\nある派閥からの強力な圧力があったらしい。\n恐らく、編纂室の解体を望む派閥が\n警察庁上層部に働きかけたのだろう」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578844.18a88c65",
+            "step": 9,
+            "script": 80101,
+            "text": "「彼女自身に悪意があるわけではないだろうから、\nしばらくは様子見を続けてくれたまえ」\n「それはかまいませんけど、うちより先にオタクの\n息子さんが参ってしまうんと、ちゃいますか？」\n「……アレはアレで、自分で選んだ道を\n進んでいるのだ。\nその程度のことで参られては困るよ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「贺茂泉啊。那丫头可真够难缠的，连我老早以前写的论文都翻出来了，整天这个那个地念叨，闹得我胃疼。」\n她夸张地捂住胃，嘴上还在抱怨。可她的胃，实际上只有常人一半大小。其他内脏的状况也相当凄惨——那都是换取超乎常人的咒力，所付出的代价。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4578532.a8292a37",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"冗談めかして愚痴るオバサンをたしなめるように、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"局長が落ち着いた声で説明する。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「賀茂泉かごめ警部補の配属には、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ある派閥からの強力な圧力があったらしい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"恐らく、編纂室の解体を望む派閥が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"警察庁上層部に働きかけたのだろう」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4578532",
+          "route": "chapter-7-end-80101.json",
+          "step": 8
+        },
+        "requiredRefs": [
+          {
+            "ref": 2,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.80101:4577764.a5d531a3",
+            "step": 6,
+            "script": 80101,
+            "text": "「ああ、間宮ゆうかの件っすか？\nあれは、うちの新人の担当でして。\n間宮ゆうかとは旧知の仲だったんで\nつい情が出たようでして……」\n「ふーん、アンタんとこも、色々大変そうやなぁ」\n「いやー、編纂室ほどじゃないっすよ。またキャラの\n立った新人が配属されたじゃないっすか」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578144.acd87a8e",
+            "step": 7,
+            "script": 80101,
+            "text": "「賀茂泉か。あれは結構難儀やで。\nうちが大昔に書いた論文まで見つけてきて\nあれやこれやと口やかましいてなぁ。胃が痛いわ」\nと言って、大げさに胃を押さえる。その彼女の胃は、\n通常の人間の半分のサイズしかない。\n他の内臓もかなり痛々しいもので、\n全ては常人離れした呪力を得た為の代償だ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578532.a8292a37",
+            "step": 8,
+            "script": 80101,
+            "text": "冗談めかして愚痴るオバサンをたしなめるように、\n风海局長が落ち着いた声で説明する。\n「賀茂泉かごめ警部補の配属には、\nある派閥からの強力な圧力があったらしい。\n恐らく、編纂室の解体を望む派閥が\n警察庁上層部に働きかけたのだろう」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578844.18a88c65",
+            "step": 9,
+            "script": 80101,
+            "text": "「彼女自身に悪意があるわけではないだろうから、\nしばらくは様子見を続けてくれたまえ」\n「それはかまいませんけど、うちより先にオタクの\n息子さんが参ってしまうんと、ちゃいますか？」\n「……アレはアレで、自分で選んだ道を\n進んでいるのだ。\nその程度のことで参られては困るよ」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579220.4c0ce0d8",
+            "step": 10,
+            "script": 80101,
+            "text": "风海纯也が編纂室に\n配属されて以来、局長が身内のことを\n口にするのは初めての気がする。\n「参るといえば、小暮宗一郎は大丈夫なんすか？」\nただでさえ苦手な怪異満載の職場に加え、\n口うるさい上司まで加わったのだ。\nストレスで倒れちまうんじゃないのか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "像是要劝住这位半开玩笑发牢骚的大婶，"
+            },
+            {
+              "ref": 2
+            },
+            {
+              "text": "局长沉声解释道：\n「贺茂泉戈薇警部补被调过来，似乎是某个派系强力施压的结果。恐怕是希望解散编纂室的人，向警察厅高层做了工作。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4578844.18a88c65",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「彼女自身に悪意があるわけではないだろうから、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"しばらくは様子見を続けてくれたまえ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「それはかまいませんけど、うちより先にオタクの\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"息子さんが参ってしまうんと、ちゃいますか？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「……アレはアレで、自分で選んだ道を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"進んでいるのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その程度のことで参られては困るよ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4578844",
+          "route": "chapter-7-end-80101.json",
+          "step": 9
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4578144.acd87a8e",
+            "step": 7,
+            "script": 80101,
+            "text": "「賀茂泉か。あれは結構難儀やで。\nうちが大昔に書いた論文まで見つけてきて\nあれやこれやと口やかましいてなぁ。胃が痛いわ」\nと言って、大げさに胃を押さえる。その彼女の胃は、\n通常の人間の半分のサイズしかない。\n他の内臓もかなり痛々しいもので、\n全ては常人離れした呪力を得た為の代償だ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578532.a8292a37",
+            "step": 8,
+            "script": 80101,
+            "text": "冗談めかして愚痴るオバサンをたしなめるように、\n风海局長が落ち着いた声で説明する。\n「賀茂泉かごめ警部補の配属には、\nある派閥からの強力な圧力があったらしい。\n恐らく、編纂室の解体を望む派閥が\n警察庁上層部に働きかけたのだろう」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578844.18a88c65",
+            "step": 9,
+            "script": 80101,
+            "text": "「彼女自身に悪意があるわけではないだろうから、\nしばらくは様子見を続けてくれたまえ」\n「それはかまいませんけど、うちより先にオタクの\n息子さんが参ってしまうんと、ちゃいますか？」\n「……アレはアレで、自分で選んだ道を\n進んでいるのだ。\nその程度のことで参られては困るよ」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579220.4c0ce0d8",
+            "step": 10,
+            "script": 80101,
+            "text": "风海纯也が編纂室に\n配属されて以来、局長が身内のことを\n口にするのは初めての気がする。\n「参るといえば、小暮宗一郎は大丈夫なんすか？」\nただでさえ苦手な怪異満載の職場に加え、\n口うるさい上司まで加わったのだ。\nストレスで倒れちまうんじゃないのか？",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579564.11ba937d",
+            "step": 11,
+            "script": 80101,
+            "text": "「あいつは自分では気付いとらんけど、\nかなりエエもん持っとるで。\n素質だけで言うたら、うちよりも上や」\nこのオバサンが言うからには、\n真実、素質には恵まれているのだろう。\n怖がりの本人にとっては恵まれない境遇だが……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「她本人应该没有恶意。你们暂且继续观察吧。」\n「这倒没问题。不过，还没等我受不了，您儿子怕是先撑不住了吧？」\n「……那孩子有他自己选的路。要是连这点事都撑不过去，可不行。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4579220.4c0ce0d8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"が編纂室に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"配属されて以来、局長が身内のことを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"口にするのは初めての気がする。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「参るといえば、小暮宗一郎は大丈夫なんすか？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ただでさえ苦手な怪異満載の職場に加え、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"口うるさい上司まで加わったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ストレスで倒れちまうんじゃないのか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4579220",
+          "route": "chapter-7-end-80101.json",
+          "step": 10
+        },
+        "requiredRefs": [
+          {
+            "ref": 0,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          },
+          {
+            "ref": 1,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.80101:4578532.a8292a37",
+            "step": 8,
+            "script": 80101,
+            "text": "冗談めかして愚痴るオバサンをたしなめるように、\n风海局長が落ち着いた声で説明する。\n「賀茂泉かごめ警部補の配属には、\nある派閥からの強力な圧力があったらしい。\n恐らく、編纂室の解体を望む派閥が\n警察庁上層部に働きかけたのだろう」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4578844.18a88c65",
+            "step": 9,
+            "script": 80101,
+            "text": "「彼女自身に悪意があるわけではないだろうから、\nしばらくは様子見を続けてくれたまえ」\n「それはかまいませんけど、うちより先にオタクの\n息子さんが参ってしまうんと、ちゃいますか？」\n「……アレはアレで、自分で選んだ道を\n進んでいるのだ。\nその程度のことで参られては困るよ」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579220.4c0ce0d8",
+            "step": 10,
+            "script": 80101,
+            "text": "风海纯也が編纂室に\n配属されて以来、局長が身内のことを\n口にするのは初めての気がする。\n「参るといえば、小暮宗一郎は大丈夫なんすか？」\nただでさえ苦手な怪異満載の職場に加え、\n口うるさい上司まで加わったのだ。\nストレスで倒れちまうんじゃないのか？",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579564.11ba937d",
+            "step": 11,
+            "script": 80101,
+            "text": "「あいつは自分では気付いとらんけど、\nかなりエエもん持っとるで。\n素質だけで言うたら、うちよりも上や」\nこのオバサンが言うからには、\n真実、素質には恵まれているのだろう。\n怖がりの本人にとっては恵まれない境遇だが……。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579880.2937b93",
+            "step": 12,
+            "script": 80101,
+            "text": "長年迷宮入りしていた御園雛子管理官と\n原朋子の件を解決したのも、その素質によるものだし、\n『あの男』が認めただけのことはあるってわけか。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "自从"
+            },
+            {
+              "ref": 0
+            },
+            {
+              "ref": 1
+            },
+            {
+              "text": "被调进编纂室，我似乎还是第一次听到局长提起自己的家人。\n「说起撑不住，小暮宗一郎那边没问题吗？」\n工作环境里本来就尽是他最怕的怪异事件，现在又多了个爱训人的上司。他不会被压力压垮吧？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4579564.11ba937d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「あいつは自分では気付いとらんけど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"かなりエエもん持っとるで。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"素質だけで言うたら、うちよりも上や」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"このオバサンが言うからには、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"真実、素質には恵まれているのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"怖がりの本人にとっては恵まれない境遇だが……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4579564",
+          "route": "chapter-7-end-80101.json",
+          "step": 11
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4578844.18a88c65",
+            "step": 9,
+            "script": 80101,
+            "text": "「彼女自身に悪意があるわけではないだろうから、\nしばらくは様子見を続けてくれたまえ」\n「それはかまいませんけど、うちより先にオタクの\n息子さんが参ってしまうんと、ちゃいますか？」\n「……アレはアレで、自分で選んだ道を\n進んでいるのだ。\nその程度のことで参られては困るよ」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579220.4c0ce0d8",
+            "step": 10,
+            "script": 80101,
+            "text": "风海纯也が編纂室に\n配属されて以来、局長が身内のことを\n口にするのは初めての気がする。\n「参るといえば、小暮宗一郎は大丈夫なんすか？」\nただでさえ苦手な怪異満載の職場に加え、\n口うるさい上司まで加わったのだ。\nストレスで倒れちまうんじゃないのか？",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579564.11ba937d",
+            "step": 11,
+            "script": 80101,
+            "text": "「あいつは自分では気付いとらんけど、\nかなりエエもん持っとるで。\n素質だけで言うたら、うちよりも上や」\nこのオバサンが言うからには、\n真実、素質には恵まれているのだろう。\n怖がりの本人にとっては恵まれない境遇だが……。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579880.2937b93",
+            "step": 12,
+            "script": 80101,
+            "text": "長年迷宮入りしていた御園雛子管理官と\n原朋子の件を解決したのも、その素質によるものだし、\n『あの男』が認めただけのことはあるってわけか。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580084.a4ea7a10",
+            "step": 13,
+            "script": 80101,
+            "text": "と、そのときだ——\n狙いすましたように『あの男』が登場した。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「那小子自己还没发现，其实他很有两下子。光论天分，比我还强。」\n既然这位大婶都这么说了，那家伙大概确实天赋异禀。只是对胆小的他来说，这天分可算不上什么福气……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4579880.2937b93",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"長年迷宮入りしていた御園雛子管理官と\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"原朋子の件を解決したのも、その素質によるものだし、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"『あの男』が認めただけのことはあるってわけか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4579880",
+          "route": "chapter-7-end-80101.json",
+          "step": 12
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4579220.4c0ce0d8",
+            "step": 10,
+            "script": 80101,
+            "text": "风海纯也が編纂室に\n配属されて以来、局長が身内のことを\n口にするのは初めての気がする。\n「参るといえば、小暮宗一郎は大丈夫なんすか？」\nただでさえ苦手な怪異満載の職場に加え、\n口うるさい上司まで加わったのだ。\nストレスで倒れちまうんじゃないのか？",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579564.11ba937d",
+            "step": 11,
+            "script": 80101,
+            "text": "「あいつは自分では気付いとらんけど、\nかなりエエもん持っとるで。\n素質だけで言うたら、うちよりも上や」\nこのオバサンが言うからには、\n真実、素質には恵まれているのだろう。\n怖がりの本人にとっては恵まれない境遇だが……。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579880.2937b93",
+            "step": 12,
+            "script": 80101,
+            "text": "長年迷宮入りしていた御園雛子管理官と\n原朋子の件を解決したのも、その素質によるものだし、\n『あの男』が認めただけのことはあるってわけか。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580084.a4ea7a10",
+            "step": 13,
+            "script": 80101,
+            "text": "と、そのときだ——\n狙いすましたように『あの男』が登場した。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580256.b18e8e19",
+            "step": 14,
+            "script": 80101,
+            "text": "「……遅れて、すまない」\n「遅刻やで、オッサン」\nオバサンがいきなり失礼な挨拶を浴びせた男は、\n风海纯也らが配属される以前に\n警察史編纂室の刑事として活躍した人物……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "御园雏子管理官和原朋子那桩悬了多年的案子，也多亏了他的天分才得以解决。看来，确实不愧是『那个男人』看中的人。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4580084.a4ea7a10",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"と、そのときだ———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"狙いすましたように『あの男』が登場した。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4580084",
+          "route": "chapter-7-end-80101.json",
+          "step": 13
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4579564.11ba937d",
+            "step": 11,
+            "script": 80101,
+            "text": "「あいつは自分では気付いとらんけど、\nかなりエエもん持っとるで。\n素質だけで言うたら、うちよりも上や」\nこのオバサンが言うからには、\n真実、素質には恵まれているのだろう。\n怖がりの本人にとっては恵まれない境遇だが……。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4579880.2937b93",
+            "step": 12,
+            "script": 80101,
+            "text": "長年迷宮入りしていた御園雛子管理官と\n原朋子の件を解決したのも、その素質によるものだし、\n『あの男』が認めただけのことはあるってわけか。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580084.a4ea7a10",
+            "step": 13,
+            "script": 80101,
+            "text": "と、そのときだ——\n狙いすましたように『あの男』が登場した。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580256.b18e8e19",
+            "step": 14,
+            "script": 80101,
+            "text": "「……遅れて、すまない」\n「遅刻やで、オッサン」\nオバサンがいきなり失礼な挨拶を浴びせた男は、\n风海纯也らが配属される以前に\n警察史編纂室の刑事として活躍した人物……",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580540.43ee39a8",
+            "step": 15,
+            "script": 80101,
+            "text": "今もなお警視庁の怪談として語られている\n地下５階での惨殺事件。\nその主人公が、この男だ。\n俺もあの惨殺事件の隠蔽に関わったが、\nよく生きていたものだと感心する。\nこの男も人魚の肉を喰ったんじゃないかと\n疑いたくなるくらいだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "就在这时——\n仿佛算准了时机，『那个男人』出现了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4580256.b18e8e19",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「……遅れて、すまない」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「遅刻やで、オッサン」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"オバサンがいきなり失礼な挨拶を浴びせた男は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"らが配属される以前に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"警察史編纂室の刑事として活躍した人物……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4580256",
+          "route": "chapter-7-end-80101.json",
+          "step": 14
+        },
+        "requiredRefs": [
+          {
+            "ref": 6,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          },
+          {
+            "ref": 7,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4579880.2937b93",
+            "step": 12,
+            "script": 80101,
+            "text": "長年迷宮入りしていた御園雛子管理官と\n原朋子の件を解決したのも、その素質によるものだし、\n『あの男』が認めただけのことはあるってわけか。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580084.a4ea7a10",
+            "step": 13,
+            "script": 80101,
+            "text": "と、そのときだ——\n狙いすましたように『あの男』が登場した。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580256.b18e8e19",
+            "step": 14,
+            "script": 80101,
+            "text": "「……遅れて、すまない」\n「遅刻やで、オッサン」\nオバサンがいきなり失礼な挨拶を浴びせた男は、\n风海纯也らが配属される以前に\n警察史編纂室の刑事として活躍した人物……",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580540.43ee39a8",
+            "step": 15,
+            "script": 80101,
+            "text": "今もなお警視庁の怪談として語られている\n地下５階での惨殺事件。\nその主人公が、この男だ。\n俺もあの惨殺事件の隠蔽に関わったが、\nよく生きていたものだと感心する。\nこの男も人魚の肉を喰ったんじゃないかと\n疑いたくなるくらいだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580904.926eea",
+            "step": 16,
+            "script": 80101,
+            "text": "組織に裏切られ、闇に葬られ、そして蘇り……\n立派な復讐鬼が完成したというわけだ。\n「それでは始めようか」\n全員が揃ったことを確認し、\n风海局長が口火を切る。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「……抱歉，来晚了。」\n「迟到了啊，大叔。」\n大婶一见面就毫不客气地招呼了一句。眼前这个男人，曾在"
+            },
+            {
+              "ref": 6
+            },
+            {
+              "ref": 7
+            },
+            {
+              "text": "等人被调来之前，以警察史编纂室刑警的身份活跃一时……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4580540.43ee39a8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"今もなお警視庁の怪談として語られている\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"地下５階での惨殺事件。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その主人公が、この男だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"俺もあの惨殺事件の\",\"color\":0,\"size\":0},{\"text\":\"隠蔽\",\"color\":0,\"size\":0},{\"text\":\"に関わったが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"よく生きていたものだと感心する。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この男も人魚の肉を喰ったんじゃないかと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"疑いたくなるくらいだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4580540",
+          "route": "chapter-7-end-80101.json",
+          "step": 15
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4580084.a4ea7a10",
+            "step": 13,
+            "script": 80101,
+            "text": "と、そのときだ——\n狙いすましたように『あの男』が登場した。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580256.b18e8e19",
+            "step": 14,
+            "script": 80101,
+            "text": "「……遅れて、すまない」\n「遅刻やで、オッサン」\nオバサンがいきなり失礼な挨拶を浴びせた男は、\n风海纯也らが配属される以前に\n警察史編纂室の刑事として活躍した人物……",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580540.43ee39a8",
+            "step": 15,
+            "script": 80101,
+            "text": "今もなお警視庁の怪談として語られている\n地下５階での惨殺事件。\nその主人公が、この男だ。\n俺もあの惨殺事件の隠蔽に関わったが、\nよく生きていたものだと感心する。\nこの男も人魚の肉を喰ったんじゃないかと\n疑いたくなるくらいだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580904.926eea",
+            "step": 16,
+            "script": 80101,
+            "text": "組織に裏切られ、闇に葬られ、そして蘇り……\n立派な復讐鬼が完成したというわけだ。\n「それでは始めようか」\n全員が揃ったことを確認し、\n风海局長が口火を切る。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4581192.dbafc234",
+            "step": 17,
+            "script": 80101,
+            "text": "「わざわざ危険を冒してまで\n集まってもらったのは他でもない。\n既に気付いているだろうが、\n組織の動きが活発化している。\nここ最近、編纂室に持ち込まれた事件も\n多様化・増加の一途をたどる傾向にある」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "直到今天，警视厅里还流传着地下５层惨杀事件的怪谈。而这个男人，正是那起事件的主角。我也参与过掩盖那桩惨案，真佩服他居然还能活下来。简直让人怀疑，这家伙是不是也吃过人鱼肉。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4580904.926eea",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"組織に裏切られ、闇に葬られ、そして蘇り……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"立派な復讐鬼が完成したというわけだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「それでは始めようか」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"全員が揃ったことを確認し、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"局長が口火を切る。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4580904",
+          "route": "chapter-7-end-80101.json",
+          "step": 16
+        },
+        "requiredRefs": [
+          {
+            "ref": 8,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4580256.b18e8e19",
+            "step": 14,
+            "script": 80101,
+            "text": "「……遅れて、すまない」\n「遅刻やで、オッサン」\nオバサンがいきなり失礼な挨拶を浴びせた男は、\n风海纯也らが配属される以前に\n警察史編纂室の刑事として活躍した人物……",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580540.43ee39a8",
+            "step": 15,
+            "script": 80101,
+            "text": "今もなお警視庁の怪談として語られている\n地下５階での惨殺事件。\nその主人公が、この男だ。\n俺もあの惨殺事件の隠蔽に関わったが、\nよく生きていたものだと感心する。\nこの男も人魚の肉を喰ったんじゃないかと\n疑いたくなるくらいだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580904.926eea",
+            "step": 16,
+            "script": 80101,
+            "text": "組織に裏切られ、闇に葬られ、そして蘇り……\n立派な復讐鬼が完成したというわけだ。\n「それでは始めようか」\n全員が揃ったことを確認し、\n风海局長が口火を切る。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4581192.dbafc234",
+            "step": 17,
+            "script": 80101,
+            "text": "「わざわざ危険を冒してまで\n集まってもらったのは他でもない。\n既に気付いているだろうが、\n組織の動きが活発化している。\nここ最近、編纂室に持ち込まれた事件も\n多様化・増加の一途をたどる傾向にある」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4581612.d5ac7549",
+            "step": 18,
+            "script": 80101,
+            "text": "「警視庁非公認事件記録 か－２６ 『黒闇天』……\n 警視庁非公認事件記録 や－２ 『予知夢』……\n 警視庁非公認事件記録 さ－３ 『心霊写真』……\n 警視庁非公認事件記録 は－１３ 『流行り神』……\n\nいずれの事件も、この日本という国に太古の昔から\n根ざしている『呪い』が関連していたのだが——」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "遭组织背叛，被埋进黑暗，又死而复生……就这样，一个彻头彻尾的复仇鬼诞生了。\n「那么，开始吧。」\n见人已到齐，"
+            },
+            {
+              "ref": 8
+            },
+            {
+              "text": "局长开了口。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4581192.dbafc234",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「わざわざ危険を冒してまで\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"集まってもらったのは他でもない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"既に気付いているだろうが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"組織の動きが活発化している。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ここ最近、編纂室に持ち込まれた事件も\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"多様化・増加の一途をたどる傾向にある」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4581192",
+          "route": "chapter-7-end-80101.json",
+          "step": 17
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4580540.43ee39a8",
+            "step": 15,
+            "script": 80101,
+            "text": "今もなお警視庁の怪談として語られている\n地下５階での惨殺事件。\nその主人公が、この男だ。\n俺もあの惨殺事件の隠蔽に関わったが、\nよく生きていたものだと感心する。\nこの男も人魚の肉を喰ったんじゃないかと\n疑いたくなるくらいだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4580904.926eea",
+            "step": 16,
+            "script": 80101,
+            "text": "組織に裏切られ、闇に葬られ、そして蘇り……\n立派な復讐鬼が完成したというわけだ。\n「それでは始めようか」\n全員が揃ったことを確認し、\n风海局長が口火を切る。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4581192.dbafc234",
+            "step": 17,
+            "script": 80101,
+            "text": "「わざわざ危険を冒してまで\n集まってもらったのは他でもない。\n既に気付いているだろうが、\n組織の動きが活発化している。\nここ最近、編纂室に持ち込まれた事件も\n多様化・増加の一途をたどる傾向にある」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4581612.d5ac7549",
+            "step": 18,
+            "script": 80101,
+            "text": "「警視庁非公認事件記録 か－２６ 『黒闇天』……\n 警視庁非公認事件記録 や－２ 『予知夢』……\n 警視庁非公認事件記録 さ－３ 『心霊写真』……\n 警視庁非公認事件記録 は－１３ 『流行り神』……\n\nいずれの事件も、この日本という国に太古の昔から\n根ざしている『呪い』が関連していたのだが——」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582244.41c43ab3",
+            "step": 19,
+            "script": 80101,
+            "text": "「道明寺からの報告で既に承知とは思うが、\n『呪いの平和利用』などというバカげた考えを\n持つ者まで出てきた。\nこれまでも一部の派閥がイレギュラーな\n動きを見せることはあったが、\n組織全体としての動きではなく、\n権力者の個人的な野心によるものだった」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「这次特意请各位冒险前来，原因只有一个。想必你们也已察觉，组织的活动正日益频繁。最近交到编纂室的案件，也越来越多，种类愈发复杂。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4581612.d5ac7549",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「警視庁非公認事件記録 か－２６ 『黒闇天』……\",\"color\":0,\"size\":-1},{\"text\":\"\\n\",\"color\":0,\"size\":-1},{\"text\":\" 警視庁非公認事件記録 や－２ 『予知夢』……\",\"color\":0,\"size\":-1},{\"text\":\"\\n\",\"color\":0,\"size\":-1},{\"text\":\" 警視庁非公認事件記録 さ－３ 『心霊写真』……\",\"color\":0,\"size\":-1},{\"text\":\"\\n\",\"color\":0,\"size\":-1},{\"text\":\" 警視庁非公認事件記録 は－１３ 『流行り神』……\",\"color\":0,\"size\":-1},{\"text\":\"\\n\",\"color\":0,\"size\":-1},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いずれの事件も、この日本という国に太古の昔から\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"根ざしている『呪い』が関連していたのだが———」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4581612",
+          "route": "chapter-7-end-80101.json",
+          "step": 18
+        },
+        "requiredRefs": [
+          {
+            "ref": 0,
+            "text": "「警視庁非公認事件記録 か－２６ 『黒闇天』……",
+            "color": 0,
+            "size": -1
+          },
+          {
+            "ref": 1,
+            "text": "\n",
+            "color": 0,
+            "size": -1
+          },
+          {
+            "ref": 2,
+            "text": " 警視庁非公認事件記録 や－２ 『予知夢』……",
+            "color": 0,
+            "size": -1
+          },
+          {
+            "ref": 3,
+            "text": "\n",
+            "color": 0,
+            "size": -1
+          },
+          {
+            "ref": 4,
+            "text": " 警視庁非公認事件記録 さ－３ 『心霊写真』……",
+            "color": 0,
+            "size": -1
+          },
+          {
+            "ref": 5,
+            "text": "\n",
+            "color": 0,
+            "size": -1
+          },
+          {
+            "ref": 6,
+            "text": " 警視庁非公認事件記録 は－１３ 『流行り神』……",
+            "color": 0,
+            "size": -1
+          },
+          {
+            "ref": 7,
+            "text": "\n",
+            "color": 0,
+            "size": -1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4580904.926eea",
+            "step": 16,
+            "script": 80101,
+            "text": "組織に裏切られ、闇に葬られ、そして蘇り……\n立派な復讐鬼が完成したというわけだ。\n「それでは始めようか」\n全員が揃ったことを確認し、\n风海局長が口火を切る。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4581192.dbafc234",
+            "step": 17,
+            "script": 80101,
+            "text": "「わざわざ危険を冒してまで\n集まってもらったのは他でもない。\n既に気付いているだろうが、\n組織の動きが活発化している。\nここ最近、編纂室に持ち込まれた事件も\n多様化・増加の一途をたどる傾向にある」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4581612.d5ac7549",
+            "step": 18,
+            "script": 80101,
+            "text": "「警視庁非公認事件記録 か－２６ 『黒闇天』……\n 警視庁非公認事件記録 や－２ 『予知夢』……\n 警視庁非公認事件記録 さ－３ 『心霊写真』……\n 警視庁非公認事件記録 は－１３ 『流行り神』……\n\nいずれの事件も、この日本という国に太古の昔から\n根ざしている『呪い』が関連していたのだが——」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582244.41c43ab3",
+            "step": 19,
+            "script": 80101,
+            "text": "「道明寺からの報告で既に承知とは思うが、\n『呪いの平和利用』などというバカげた考えを\n持つ者まで出てきた。\nこれまでも一部の派閥がイレギュラーな\n動きを見せることはあったが、\n組織全体としての動きではなく、\n権力者の個人的な野心によるものだった」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582556.d44d7e37",
+            "step": 20,
+            "script": 80101,
+            "text": "「しかし、昨今の事態を見るに、それぞれの事件は\n過去同様に個の野心であったとしても、\nここまで同時期に多発するからには\n一つの結論を出さざるを得ない。\nすなわち、組織は完全に本来の目的を見失い、\nその存在意義とは程遠いところに向かおうとしている、\nという結論だ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "ref": 0,
+              "text": "「警视厅非公认事件记录　か－２６　『黑暗天』……"
+            },
+            {
+              "ref": 1
+            },
+            {
+              "ref": 2,
+              "text": "警视厅非公认事件记录　や－２　『预知梦』……"
+            },
+            {
+              "ref": 3
+            },
+            {
+              "ref": 4,
+              "text": "警视厅非公认事件记录　さ－３　『灵异照片』……"
+            },
+            {
+              "ref": 5
+            },
+            {
+              "ref": 6,
+              "text": "警视厅非公认事件记录　は－１３　『流行之神』……"
+            },
+            {
+              "ref": 7
+            },
+            {
+              "text": "\n这些案件，都与自太古以来便扎根于日本这个国家的『诅咒』有关——」"
+            }
+          ]
+        },
+        "notes": "四条源案号か－２６／や－２／さ－３／は－１３是档案标识，保留假名与数字，章名按简中统一。"
+      },
+      {
+        "key": "page.80101:4582244.41c43ab3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「道明寺からの報告で既に承知とは思うが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"『呪いの平和利用』などというバカげた考えを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"持つ者まで出てきた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"これまでも一部の派閥がイレギュラーな\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"動きを見せることはあったが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"組織全体としての動きではなく、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"権力者の個人的な野心によるものだった」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4582244",
+          "route": "chapter-7-end-80101.json",
+          "step": 19
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4581192.dbafc234",
+            "step": 17,
+            "script": 80101,
+            "text": "「わざわざ危険を冒してまで\n集まってもらったのは他でもない。\n既に気付いているだろうが、\n組織の動きが活発化している。\nここ最近、編纂室に持ち込まれた事件も\n多様化・増加の一途をたどる傾向にある」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4581612.d5ac7549",
+            "step": 18,
+            "script": 80101,
+            "text": "「警視庁非公認事件記録 か－２６ 『黒闇天』……\n 警視庁非公認事件記録 や－２ 『予知夢』……\n 警視庁非公認事件記録 さ－３ 『心霊写真』……\n 警視庁非公認事件記録 は－１３ 『流行り神』……\n\nいずれの事件も、この日本という国に太古の昔から\n根ざしている『呪い』が関連していたのだが——」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582244.41c43ab3",
+            "step": 19,
+            "script": 80101,
+            "text": "「道明寺からの報告で既に承知とは思うが、\n『呪いの平和利用』などというバカげた考えを\n持つ者まで出てきた。\nこれまでも一部の派閥がイレギュラーな\n動きを見せることはあったが、\n組織全体としての動きではなく、\n権力者の個人的な野心によるものだった」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582556.d44d7e37",
+            "step": 20,
+            "script": 80101,
+            "text": "「しかし、昨今の事態を見るに、それぞれの事件は\n過去同様に個の野心であったとしても、\nここまで同時期に多発するからには\n一つの結論を出さざるを得ない。\nすなわち、組織は完全に本来の目的を見失い、\nその存在意義とは程遠いところに向かおうとしている、\nという結論だ」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582888.8ebc8aad",
+            "step": 21,
+            "script": 80101,
+            "text": "オバサンが隣で「ふわー」とあくびをしている。\nいまさら何を眠たいことを言うとるんや、\nとでも言いたいのだろう。\n俺も同感だ。\n組織が既に堕ちるところまで堕ちているのは明白だ。\nわざわざ俺達を集めて\n宣言するほどのことではない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「道明寺已经汇报过，想必各位也知道，竟有人提出了『和平利用诅咒』这种荒唐想法。过去，某些派系也曾做出越轨之举，但那终究只是掌权者的个人野心，并非整个组织的意志。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4582556.d44d7e37",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「しかし、昨今の事態を見るに、それぞれの事件は\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"過去同様に個の野心であったとしても、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ここまで同時期に多発するからには\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一つの結論を出さざるを得ない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"すなわち、組織は完全に本来の目的を見失い、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その存在意義とは程遠いところに向かおうとしている、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"という結論だ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4582556",
+          "route": "chapter-7-end-80101.json",
+          "step": 20
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4581612.d5ac7549",
+            "step": 18,
+            "script": 80101,
+            "text": "「警視庁非公認事件記録 か－２６ 『黒闇天』……\n 警視庁非公認事件記録 や－２ 『予知夢』……\n 警視庁非公認事件記録 さ－３ 『心霊写真』……\n 警視庁非公認事件記録 は－１３ 『流行り神』……\n\nいずれの事件も、この日本という国に太古の昔から\n根ざしている『呪い』が関連していたのだが——」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582244.41c43ab3",
+            "step": 19,
+            "script": 80101,
+            "text": "「道明寺からの報告で既に承知とは思うが、\n『呪いの平和利用』などというバカげた考えを\n持つ者まで出てきた。\nこれまでも一部の派閥がイレギュラーな\n動きを見せることはあったが、\n組織全体としての動きではなく、\n権力者の個人的な野心によるものだった」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582556.d44d7e37",
+            "step": 20,
+            "script": 80101,
+            "text": "「しかし、昨今の事態を見るに、それぞれの事件は\n過去同様に個の野心であったとしても、\nここまで同時期に多発するからには\n一つの結論を出さざるを得ない。\nすなわち、組織は完全に本来の目的を見失い、\nその存在意義とは程遠いところに向かおうとしている、\nという結論だ」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582888.8ebc8aad",
+            "step": 21,
+            "script": 80101,
+            "text": "オバサンが隣で「ふわー」とあくびをしている。\nいまさら何を眠たいことを言うとるんや、\nとでも言いたいのだろう。\n俺も同感だ。\n組織が既に堕ちるところまで堕ちているのは明白だ。\nわざわざ俺達を集めて\n宣言するほどのことではない。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583176.2e3b4efd",
+            "step": 22,
+            "script": 80101,
+            "text": "唯一、真剣な面持ちで聞いていた男が\n风海局長の憂いに応える。\n「決着をつけるべき時が近い……\nそう言いたいのか、风海？」\n风海局長が俺に\n仮初の名を付ける時、この男の名を取ったと言うが、\nそこにはどんな想いが込められているのだろうか。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「然而，眼下这些事件，即使各自仍是由个人野心驱使，却在同一时期接连发生。面对这样的情形，我们不得不得出一个结论：组织已经彻底丧失了原本的目标，正走向与其存在意义背道而驰的方向。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4582888.8ebc8aad",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"オバサンが隣で「ふわー」とあくびをしている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いまさら何を眠たいことを言うとるんや、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"とでも言いたいのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"俺も同感だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"組織が既に堕ちるところまで堕ちているのは明白だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"わざわざ俺達を集めて\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"宣言するほどのことではない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4582888",
+          "route": "chapter-7-end-80101.json",
+          "step": 21
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4582244.41c43ab3",
+            "step": 19,
+            "script": 80101,
+            "text": "「道明寺からの報告で既に承知とは思うが、\n『呪いの平和利用』などというバカげた考えを\n持つ者まで出てきた。\nこれまでも一部の派閥がイレギュラーな\n動きを見せることはあったが、\n組織全体としての動きではなく、\n権力者の個人的な野心によるものだった」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582556.d44d7e37",
+            "step": 20,
+            "script": 80101,
+            "text": "「しかし、昨今の事態を見るに、それぞれの事件は\n過去同様に個の野心であったとしても、\nここまで同時期に多発するからには\n一つの結論を出さざるを得ない。\nすなわち、組織は完全に本来の目的を見失い、\nその存在意義とは程遠いところに向かおうとしている、\nという結論だ」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582888.8ebc8aad",
+            "step": 21,
+            "script": 80101,
+            "text": "オバサンが隣で「ふわー」とあくびをしている。\nいまさら何を眠たいことを言うとるんや、\nとでも言いたいのだろう。\n俺も同感だ。\n組織が既に堕ちるところまで堕ちているのは明白だ。\nわざわざ俺達を集めて\n宣言するほどのことではない。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583176.2e3b4efd",
+            "step": 22,
+            "script": 80101,
+            "text": "唯一、真剣な面持ちで聞いていた男が\n风海局長の憂いに応える。\n「決着をつけるべき時が近い……\nそう言いたいのか、风海？」\n风海局長が俺に\n仮初の名を付ける時、この男の名を取ったと言うが、\nそこにはどんな想いが込められているのだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583544.b8d5f7eb",
+            "step": 23,
+            "script": 80101,
+            "text": "「そうだ。もはや対症療法では完治出来ない。\n根本治療をしなければ、組織の崩壊どころか、\n国家崩壊の憂き目を見ることになる」\n「根本治療はいいが、\nお前が目指すのは組織を潰すことか？\nそれとも組織の上層部を根絶やしにして、\nお前が組織を正しい方向に導くということか？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "大婶在旁边长长打了个哈欠。她大概是想说，事到如今，还说这些让人犯困的话干什么。我也深有同感。组织早就堕落到了无可救药的地步，这是明摆着的事，何必专门把我们召来宣布。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4583176.2e3b4efd",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"唯一、真剣な面持ちで聞いていた男が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"局長の憂いに応える。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「決着をつけるべき時が近い……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そう言いたいのか、\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"局長が俺に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"仮初の名を付ける時、この男の名を取ったと言うが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そこにはどんな想いが込められているのだろうか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4583176",
+          "route": "chapter-7-end-80101.json",
+          "step": 22
+        },
+        "requiredRefs": [
+          {
+            "ref": 2,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          },
+          {
+            "ref": 8,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          },
+          {
+            "ref": 11,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4582556.d44d7e37",
+            "step": 20,
+            "script": 80101,
+            "text": "「しかし、昨今の事態を見るに、それぞれの事件は\n過去同様に個の野心であったとしても、\nここまで同時期に多発するからには\n一つの結論を出さざるを得ない。\nすなわち、組織は完全に本来の目的を見失い、\nその存在意義とは程遠いところに向かおうとしている、\nという結論だ」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4582888.8ebc8aad",
+            "step": 21,
+            "script": 80101,
+            "text": "オバサンが隣で「ふわー」とあくびをしている。\nいまさら何を眠たいことを言うとるんや、\nとでも言いたいのだろう。\n俺も同感だ。\n組織が既に堕ちるところまで堕ちているのは明白だ。\nわざわざ俺達を集めて\n宣言するほどのことではない。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583176.2e3b4efd",
+            "step": 22,
+            "script": 80101,
+            "text": "唯一、真剣な面持ちで聞いていた男が\n风海局長の憂いに応える。\n「決着をつけるべき時が近い……\nそう言いたいのか、风海？」\n风海局長が俺に\n仮初の名を付ける時、この男の名を取ったと言うが、\nそこにはどんな想いが込められているのだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583544.b8d5f7eb",
+            "step": 23,
+            "script": 80101,
+            "text": "「そうだ。もはや対症療法では完治出来ない。\n根本治療をしなければ、組織の崩壊どころか、\n国家崩壊の憂き目を見ることになる」\n「根本治療はいいが、\nお前が目指すのは組織を潰すことか？\nそれとも組織の上層部を根絶やしにして、\nお前が組織を正しい方向に導くということか？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583888.1da51c4e",
+            "step": 24,
+            "script": 80101,
+            "text": "男が突き刺すような視線と口調で局長に問いかける。\nこの男、局長とは古くからの友人だそうだが、\n場合によっては、この場で袂を分かつ覚悟を\n秘めているのだろう。\nその言葉には、それだけの迫力がある。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "唯一认真听着的那个男人，回应了"
+            },
+            {
+              "ref": 2
+            },
+            {
+              "text": "局长的忧虑。\n「该做个了断的时候，已经不远了……你想说的是这个吧，"
+            },
+            {
+              "ref": 8
+            },
+            {
+              "text": "？」\n据说，"
+            },
+            {
+              "ref": 11
+            },
+            {
+              "text": "局长给我取这个临时的名字时，用的就是这个男人的名字。不知道，其中又寄托着怎样的心情。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4583544.b8d5f7eb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「そうだ。\",\"color\":0,\"size\":0},{\"text\":\"もはや対症療法では完治出来ない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"根本治療をしなければ、組織の崩壊どころか、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"国家崩壊の憂き目を見ることになる」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「根本治療はいいが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"お前が目指すのは組織を潰すことか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それとも組織の上層部を根絶やしにして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"お前が組織を正しい方向に導くということか？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4583544",
+          "route": "chapter-7-end-80101.json",
+          "step": 23
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4582888.8ebc8aad",
+            "step": 21,
+            "script": 80101,
+            "text": "オバサンが隣で「ふわー」とあくびをしている。\nいまさら何を眠たいことを言うとるんや、\nとでも言いたいのだろう。\n俺も同感だ。\n組織が既に堕ちるところまで堕ちているのは明白だ。\nわざわざ俺達を集めて\n宣言するほどのことではない。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583176.2e3b4efd",
+            "step": 22,
+            "script": 80101,
+            "text": "唯一、真剣な面持ちで聞いていた男が\n风海局長の憂いに応える。\n「決着をつけるべき時が近い……\nそう言いたいのか、风海？」\n风海局長が俺に\n仮初の名を付ける時、この男の名を取ったと言うが、\nそこにはどんな想いが込められているのだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583544.b8d5f7eb",
+            "step": 23,
+            "script": 80101,
+            "text": "「そうだ。もはや対症療法では完治出来ない。\n根本治療をしなければ、組織の崩壊どころか、\n国家崩壊の憂き目を見ることになる」\n「根本治療はいいが、\nお前が目指すのは組織を潰すことか？\nそれとも組織の上層部を根絶やしにして、\nお前が組織を正しい方向に導くということか？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583888.1da51c4e",
+            "step": 24,
+            "script": 80101,
+            "text": "男が突き刺すような視線と口調で局長に問いかける。\nこの男、局長とは古くからの友人だそうだが、\n場合によっては、この場で袂を分かつ覚悟を\n秘めているのだろう。\nその言葉には、それだけの迫力がある。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584152.c026c57f",
+            "step": 25,
+            "script": 80101,
+            "text": "「組織の本来の目的は正しいものだった。\n現状の組織をどうするにせよ、この国で起こっている\n怪異を秘密裏に処理する者の存在が必要だ。\nその意義を守り抜ける者が誰もいないなら、\n私がそれを守り抜いてみせよう。\nだが、もし君が憂慮しているように\n私が第二、第三の悪しき根になるようなら——」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「没错。只治标，已经救不了了。若不从根上医治，到时崩溃的恐怕不只是组织，连国家都会遭殃。」\n「治本当然可以。可你的目标究竟是摧毁组织，还是把组织高层连根拔起，再由你来把组织引上正途？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4583888.1da51c4e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"男が突き刺すような視線と口調で局長に問いかける。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この男、局長とは古くからの友人だそうだが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"場合によっては、この場で\",\"color\":0,\"size\":0},{\"text\":\"袂\",\"color\":0,\"size\":0},{\"text\":\"を分かつ覚悟を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"秘めているのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その言葉には、それだけの迫力がある。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4583888",
+          "route": "chapter-7-end-80101.json",
+          "step": 24
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4583176.2e3b4efd",
+            "step": 22,
+            "script": 80101,
+            "text": "唯一、真剣な面持ちで聞いていた男が\n风海局長の憂いに応える。\n「決着をつけるべき時が近い……\nそう言いたいのか、风海？」\n风海局長が俺に\n仮初の名を付ける時、この男の名を取ったと言うが、\nそこにはどんな想いが込められているのだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583544.b8d5f7eb",
+            "step": 23,
+            "script": 80101,
+            "text": "「そうだ。もはや対症療法では完治出来ない。\n根本治療をしなければ、組織の崩壊どころか、\n国家崩壊の憂き目を見ることになる」\n「根本治療はいいが、\nお前が目指すのは組織を潰すことか？\nそれとも組織の上層部を根絶やしにして、\nお前が組織を正しい方向に導くということか？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583888.1da51c4e",
+            "step": 24,
+            "script": 80101,
+            "text": "男が突き刺すような視線と口調で局長に問いかける。\nこの男、局長とは古くからの友人だそうだが、\n場合によっては、この場で袂を分かつ覚悟を\n秘めているのだろう。\nその言葉には、それだけの迫力がある。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584152.c026c57f",
+            "step": 25,
+            "script": 80101,
+            "text": "「組織の本来の目的は正しいものだった。\n現状の組織をどうするにせよ、この国で起こっている\n怪異を秘密裏に処理する者の存在が必要だ。\nその意義を守り抜ける者が誰もいないなら、\n私がそれを守り抜いてみせよう。\nだが、もし君が憂慮しているように\n私が第二、第三の悪しき根になるようなら——」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584504.cad22624",
+            "step": 26,
+            "script": 80101,
+            "text": "「その時は君の手で断ち切ってくれたまえ、\n霧崎……」\n局長は決意の眼差しで長年の戦友を見つめ返す。\n男は、ふっと口元を緩めると、\n俺達の顔を一人一人見渡した。\n「果たして、この中で何人が\n生き残れるだろうな……？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "男人望向局长，目光与语气都像利刃一般。据说，他们是多年的老友。可他大概也做好了准备，必要时，就在这里与局长分道扬镳。他的话里，带着这样的决绝。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4584152.c026c57f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「組織の本来の目的は正しいものだった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"現状の組織をどうするにせよ、この国で起こっている\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"怪異を秘密裏に処理する者の存在が必要だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その意義を守り抜ける者が誰もいないなら、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私がそれを守り抜いてみせよう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"だが、もし君が憂慮しているように\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私が第二、第三の悪しき根になるようなら———」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4584152",
+          "route": "chapter-7-end-80101.json",
+          "step": 25
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4583544.b8d5f7eb",
+            "step": 23,
+            "script": 80101,
+            "text": "「そうだ。もはや対症療法では完治出来ない。\n根本治療をしなければ、組織の崩壊どころか、\n国家崩壊の憂き目を見ることになる」\n「根本治療はいいが、\nお前が目指すのは組織を潰すことか？\nそれとも組織の上層部を根絶やしにして、\nお前が組織を正しい方向に導くということか？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4583888.1da51c4e",
+            "step": 24,
+            "script": 80101,
+            "text": "男が突き刺すような視線と口調で局長に問いかける。\nこの男、局長とは古くからの友人だそうだが、\n場合によっては、この場で袂を分かつ覚悟を\n秘めているのだろう。\nその言葉には、それだけの迫力がある。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584152.c026c57f",
+            "step": 25,
+            "script": 80101,
+            "text": "「組織の本来の目的は正しいものだった。\n現状の組織をどうするにせよ、この国で起こっている\n怪異を秘密裏に処理する者の存在が必要だ。\nその意義を守り抜ける者が誰もいないなら、\n私がそれを守り抜いてみせよう。\nだが、もし君が憂慮しているように\n私が第二、第三の悪しき根になるようなら——」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584504.cad22624",
+            "step": 26,
+            "script": 80101,
+            "text": "「その時は君の手で断ち切ってくれたまえ、\n霧崎……」\n局長は決意の眼差しで長年の戦友を見つめ返す。\n男は、ふっと口元を緩めると、\n俺達の顔を一人一人見渡した。\n「果たして、この中で何人が\n生き残れるだろうな……？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584784.1e0d9c68",
+            "step": 27,
+            "script": 80101,
+            "text": "「私や蘭子君と同じ運命をたどらせたくはない。\nせめて編纂室のメンバーには、\n生き残って欲しいものだ……」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「组织最初的目标，并没有错。无论要如何处置如今的组织，这个国家都需要有人在暗中处理怪异事件。如果没有人能守住这份意义，那就由我来守。可是，如果真如你所担忧的，我也成了第二个、第三个祸根——」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4584504.cad22624",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「その時は君の手で断ち切ってくれたまえ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"霧崎……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"局長は決意の眼差しで長年の戦友を見つめ返す。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"男は、ふっと口元を緩めると、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"俺達の顔を一人一人見渡した。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「果たして、この中で何人が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"生き残れるだろうな……？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4584504",
+          "route": "chapter-7-end-80101.json",
+          "step": 26
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          },
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.80101:4583888.1da51c4e",
+            "step": 24,
+            "script": 80101,
+            "text": "男が突き刺すような視線と口調で局長に問いかける。\nこの男、局長とは古くからの友人だそうだが、\n場合によっては、この場で袂を分かつ覚悟を\n秘めているのだろう。\nその言葉には、それだけの迫力がある。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584152.c026c57f",
+            "step": 25,
+            "script": 80101,
+            "text": "「組織の本来の目的は正しいものだった。\n現状の組織をどうするにせよ、この国で起こっている\n怪異を秘密裏に処理する者の存在が必要だ。\nその意義を守り抜ける者が誰もいないなら、\n私がそれを守り抜いてみせよう。\nだが、もし君が憂慮しているように\n私が第二、第三の悪しき根になるようなら——」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584504.cad22624",
+            "step": 26,
+            "script": 80101,
+            "text": "「その時は君の手で断ち切ってくれたまえ、\n霧崎……」\n局長は決意の眼差しで長年の戦友を見つめ返す。\n男は、ふっと口元を緩めると、\n俺達の顔を一人一人見渡した。\n「果たして、この中で何人が\n生き残れるだろうな……？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584784.1e0d9c68",
+            "step": 27,
+            "script": 80101,
+            "text": "「私や蘭子君と同じ運命をたどらせたくはない。\nせめて編纂室のメンバーには、\n生き残って欲しいものだ……」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585044.a21a7733",
+            "step": 28,
+            "script": 80101,
+            "text": "男の言葉は、自分の死は当然のことのように\n受け容れた上でのものだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「到那时，就请你亲手斩断它吧，雾崎……」\n局长以坚定的目光，回望这位多年的战友。男人的嘴角微微松动，依次看过我们的脸。\n「到最后，我们中又能有几个人活下来呢……？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4584784.1e0d9c68",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「私や蘭子君と同じ運命をたどらせたくはない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"せめて編纂室のメンバーには、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"生き残って欲しいものだ……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4584784",
+          "route": "chapter-7-end-80101.json",
+          "step": 27
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.80101:4584152.c026c57f",
+            "step": 25,
+            "script": 80101,
+            "text": "「組織の本来の目的は正しいものだった。\n現状の組織をどうするにせよ、この国で起こっている\n怪異を秘密裏に処理する者の存在が必要だ。\nその意義を守り抜ける者が誰もいないなら、\n私がそれを守り抜いてみせよう。\nだが、もし君が憂慮しているように\n私が第二、第三の悪しき根になるようなら——」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584504.cad22624",
+            "step": 26,
+            "script": 80101,
+            "text": "「その時は君の手で断ち切ってくれたまえ、\n霧崎……」\n局長は決意の眼差しで長年の戦友を見つめ返す。\n男は、ふっと口元を緩めると、\n俺達の顔を一人一人見渡した。\n「果たして、この中で何人が\n生き残れるだろうな……？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584784.1e0d9c68",
+            "step": 27,
+            "script": 80101,
+            "text": "「私や蘭子君と同じ運命をたどらせたくはない。\nせめて編纂室のメンバーには、\n生き残って欲しいものだ……」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585044.a21a7733",
+            "step": 28,
+            "script": 80101,
+            "text": "男の言葉は、自分の死は当然のことのように\n受け容れた上でのものだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585140.c9cc9ce9",
+            "step": 29,
+            "script": 80101,
+            "text": "オバサンも、局長も……\n死は覚悟の上での決起だろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「我不希望他们落得和我、和兰子君一样的命运。至少，希望编纂室那些人能活下去……」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4585044.a21a7733",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"男の言葉は、自分の死は当然のことのように\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"受け容れた上でのものだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4585044",
+          "route": "chapter-7-end-80101.json",
+          "step": 28
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4584504.cad22624",
+            "step": 26,
+            "script": 80101,
+            "text": "「その時は君の手で断ち切ってくれたまえ、\n霧崎……」\n局長は決意の眼差しで長年の戦友を見つめ返す。\n男は、ふっと口元を緩めると、\n俺達の顔を一人一人見渡した。\n「果たして、この中で何人が\n生き残れるだろうな……？」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4584784.1e0d9c68",
+            "step": 27,
+            "script": 80101,
+            "text": "「私や蘭子君と同じ運命をたどらせたくはない。\nせめて編纂室のメンバーには、\n生き残って欲しいものだ……」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585044.a21a7733",
+            "step": 28,
+            "script": 80101,
+            "text": "男の言葉は、自分の死は当然のことのように\n受け容れた上でのものだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585140.c9cc9ce9",
+            "step": 29,
+            "script": 80101,
+            "text": "オバサンも、局長も……\n死は覚悟の上での決起だろう。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585224.cd169fab",
+            "step": 30,
+            "script": 80101,
+            "text": "俺は……\nもし俺が死ねるのであれば、それは本望だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "男人说出这番话时，仿佛早已理所当然地接受了自己的死亡。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4585140.c9cc9ce9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"オバサンも、局長も……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"死は覚悟の上での決起だろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4585140",
+          "route": "chapter-7-end-80101.json",
+          "step": 29
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4584784.1e0d9c68",
+            "step": 27,
+            "script": 80101,
+            "text": "「私や蘭子君と同じ運命をたどらせたくはない。\nせめて編纂室のメンバーには、\n生き残って欲しいものだ……」",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585044.a21a7733",
+            "step": 28,
+            "script": 80101,
+            "text": "男の言葉は、自分の死は当然のことのように\n受け容れた上でのものだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585140.c9cc9ce9",
+            "step": 29,
+            "script": 80101,
+            "text": "オバサンも、局長も……\n死は覚悟の上での決起だろう。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585224.cd169fab",
+            "step": 30,
+            "script": 80101,
+            "text": "俺は……\nもし俺が死ねるのであれば、それは本望だ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585304.6d2f0348",
+            "step": 31,
+            "script": 80101,
+            "text": "あの気に喰わない神々どもを始末出来るのなら、\nこんなに痛快なことはない。\nこの軽い命を賭ける意味もある。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "大婶也好，局长也好……想必都是抱着必死的觉悟，才决定起事。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4585224.cd169fab",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"俺は……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"もし俺が死ねるのであれば、それは本望だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4585224",
+          "route": "chapter-7-end-80101.json",
+          "step": 30
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4585044.a21a7733",
+            "step": 28,
+            "script": 80101,
+            "text": "男の言葉は、自分の死は当然のことのように\n受け容れた上でのものだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585140.c9cc9ce9",
+            "step": 29,
+            "script": 80101,
+            "text": "オバサンも、局長も……\n死は覚悟の上での決起だろう。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585224.cd169fab",
+            "step": 30,
+            "script": 80101,
+            "text": "俺は……\nもし俺が死ねるのであれば、それは本望だ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585304.6d2f0348",
+            "step": 31,
+            "script": 80101,
+            "text": "あの気に喰わない神々どもを始末出来るのなら、\nこんなに痛快なことはない。\nこの軽い命を賭ける意味もある。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585448.fc43573f",
+            "step": 32,
+            "script": 80101,
+            "text": "そうなると、せいぜい編纂室の連中にも\n働いてもらわないとな。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "至于我……\n如果我真的能死，那倒是求之不得。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4585304.6d2f0348",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あの気に喰わない神々どもを始末出来るのなら、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"こんなに痛快なことはない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この軽い命を賭ける意味もある。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4585304",
+          "route": "chapter-7-end-80101.json",
+          "step": 31
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4585140.c9cc9ce9",
+            "step": 29,
+            "script": 80101,
+            "text": "オバサンも、局長も……\n死は覚悟の上での決起だろう。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585224.cd169fab",
+            "step": 30,
+            "script": 80101,
+            "text": "俺は……\nもし俺が死ねるのであれば、それは本望だ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585304.6d2f0348",
+            "step": 31,
+            "script": 80101,
+            "text": "あの気に喰わない神々どもを始末出来るのなら、\nこんなに痛快なことはない。\nこの軽い命を賭ける意味もある。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585448.fc43573f",
+            "step": 32,
+            "script": 80101,
+            "text": "そうなると、せいぜい編纂室の連中にも\n働いてもらわないとな。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585540.e9ab663f",
+            "step": 33,
+            "script": 80101,
+            "text": "俺はこの男と違って、\n編纂室の連中に生き残って欲しいと\n思っているわけじゃない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "只要能收拾掉那帮讨厌的神，还有什么比这更痛快的呢？这条轻贱的命，也就有了值得押上的地方。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4585448.fc43573f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そうなると、せいぜい編纂室の連中にも\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"働いてもらわないとな。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4585448",
+          "route": "chapter-7-end-80101.json",
+          "step": 32
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4585224.cd169fab",
+            "step": 30,
+            "script": 80101,
+            "text": "俺は……\nもし俺が死ねるのであれば、それは本望だ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585304.6d2f0348",
+            "step": 31,
+            "script": 80101,
+            "text": "あの気に喰わない神々どもを始末出来るのなら、\nこんなに痛快なことはない。\nこの軽い命を賭ける意味もある。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585448.fc43573f",
+            "step": 32,
+            "script": 80101,
+            "text": "そうなると、せいぜい編纂室の連中にも\n働いてもらわないとな。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585540.e9ab663f",
+            "step": 33,
+            "script": 80101,
+            "text": "俺はこの男と違って、\n編纂室の連中に生き残って欲しいと\n思っているわけじゃない。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585656.d422f8f8",
+            "step": 34,
+            "script": 80101,
+            "text": "やつらにも、やるべき仕事をやって貰うつもりだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这样一来，也得让编纂室那帮人好好出力才行。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4585540.e9ab663f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"俺はこの男と違って、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"編纂室の連中に生き残って欲しいと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"思っているわけじゃない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4585540",
+          "route": "chapter-7-end-80101.json",
+          "step": 33
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4585304.6d2f0348",
+            "step": 31,
+            "script": 80101,
+            "text": "あの気に喰わない神々どもを始末出来るのなら、\nこんなに痛快なことはない。\nこの軽い命を賭ける意味もある。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585448.fc43573f",
+            "step": 32,
+            "script": 80101,
+            "text": "そうなると、せいぜい編纂室の連中にも\n働いてもらわないとな。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585540.e9ab663f",
+            "step": 33,
+            "script": 80101,
+            "text": "俺はこの男と違って、\n編纂室の連中に生き残って欲しいと\n思っているわけじゃない。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585656.d422f8f8",
+            "step": 34,
+            "script": 80101,
+            "text": "やつらにも、やるべき仕事をやって貰うつもりだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585764.eb36e576",
+            "step": 35,
+            "script": 80101,
+            "text": "さて——\n誰が生き残れるのやら……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我跟这个男人不同，并不是希望编纂室那帮人都能活下来。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4585656.d422f8f8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"やつらにも、やるべき仕事をやって貰うつもりだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4585656",
+          "route": "chapter-7-end-80101.json",
+          "step": 34
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4585448.fc43573f",
+            "step": 32,
+            "script": 80101,
+            "text": "そうなると、せいぜい編纂室の連中にも\n働いてもらわないとな。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585540.e9ab663f",
+            "step": 33,
+            "script": 80101,
+            "text": "俺はこの男と違って、\n編纂室の連中に生き残って欲しいと\n思っているわけじゃない。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585656.d422f8f8",
+            "step": 34,
+            "script": 80101,
+            "text": "やつらにも、やるべき仕事をやって貰うつもりだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585764.eb36e576",
+            "step": 35,
+            "script": 80101,
+            "text": "さて——\n誰が生き残れるのやら……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "该他们干的活，我一样也不会让他们少干。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.80101:4585764.eb36e576",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"さて\",\"color\":0,\"size\":0},{\"text\":\"———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"誰が生き残れるのやら……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 80101,
+          "page": "80101:4585764",
+          "route": "chapter-7-end-80101.json",
+          "step": 35
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.80101:4585540.e9ab663f",
+            "step": 33,
+            "script": 80101,
+            "text": "俺はこの男と違って、\n編纂室の連中に生き残って欲しいと\n思っているわけじゃない。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585656.d422f8f8",
+            "step": 34,
+            "script": 80101,
+            "text": "やつらにも、やるべき仕事をやって貰うつもりだ。",
+            "translation": null
+          },
+          {
+            "key": "page.80101:4585764.eb36e576",
+            "step": 35,
+            "script": 80101,
+            "text": "さて——\n誰が生き残れるのやら……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那么——\n究竟谁能活到最后呢……"
+            }
+          ]
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "page.80101:4581612.d5ac7549",
+        "message": "Japanese kana remains; inspect names, case identifiers or untranslated refs",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

@@ -29,3 +29,5 @@
 - [第二话简中译文验收](reviews/CHAPTER_TWO_ZH_HANS.md)：完整性门禁、科学/灵异路线身份、术语与原作疑点、媒体和四视口抽查。
 
 - [最终话简中翻译与验收](reviews/CHAPTER_THREE_ZH_HANS.md)：源覆盖、各分支、片尾、术语及媒体释文。
+
+- [全部剩余章节简中译稿与验收](reviews/REMAINING_ZH_HANS.md)：全库覆盖、各入口基线、孤立源块、编辑取舍、媒体释文与浏览器验收范围。

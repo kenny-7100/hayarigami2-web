@@ -1,0 +1,542 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 1,
+    "title": "序章",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 256,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.4:62400.1becffee",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「……你是怎么知道我名字的？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"不容轻视的诸神发起意想不到的反击，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"令我脑海中问号不断。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 4,
+          "page": "4:62400",
+          "route": "isolated-prologue-record-4",
+          "step": 0
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.4:62400.1becffee",
+            "step": 0,
+            "script": 4,
+            "text": "「……你是怎么知道我名字的？」\n不容轻视的诸神发起意想不到的反击，\n令我脑海中问号不断。",
+            "translation": null
+          },
+          {
+            "key": "page.4:62584.e7074fbd",
+            "step": 1,
+            "script": 4,
+            "text": "「也未必永远让你做监视方面的事活」\n昂然自得的一个神发言。",
+            "translation": null
+          },
+          {
+            "key": "page.4:62720.febdbd62",
+            "step": 2,
+            "script": 4,
+            "text": "……奇怪，这个连候补都不算的家伙\n是怎么进来的？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「……你怎么知道我的名字？」不可小觑的诸神突然反将一军，令我满脑子疑问。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.4:62584.e7074fbd",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「也未必永远让你做监视方面的事活」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"昂然自得的一个神发言。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 4,
+          "page": "4:62584",
+          "route": "isolated-prologue-record-4",
+          "step": 1
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.4:62400.1becffee",
+            "step": 0,
+            "script": 4,
+            "text": "「……你是怎么知道我名字的？」\n不容轻视的诸神发起意想不到的反击，\n令我脑海中问号不断。",
+            "translation": null
+          },
+          {
+            "key": "page.4:62584.e7074fbd",
+            "step": 1,
+            "script": 4,
+            "text": "「也未必永远让你做监视方面的事活」\n昂然自得的一个神发言。",
+            "translation": null
+          },
+          {
+            "key": "page.4:62720.febdbd62",
+            "step": 2,
+            "script": 4,
+            "text": "……奇怪，这个连候补都不算的家伙\n是怎么进来的？",
+            "translation": null
+          },
+          {
+            "key": "page.4:62828.9af09429",
+            "step": 3,
+            "script": 4,
+            "text": "「道明寺君，\n这位是通过特殊途径紧急应邀出席的」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「也未必会一直让你做监视工作。」其中一位神，得意洋洋地开口。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.4:62720.febdbd62",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"……奇怪，\",\"color\":0,\"size\":0},{\"text\":\"这个连候补都不算的家伙\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"是怎么进来的？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 4,
+          "page": "4:62720",
+          "route": "isolated-prologue-record-4",
+          "step": 2
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.4:62400.1becffee",
+            "step": 0,
+            "script": 4,
+            "text": "「……你是怎么知道我名字的？」\n不容轻视的诸神发起意想不到的反击，\n令我脑海中问号不断。",
+            "translation": null
+          },
+          {
+            "key": "page.4:62584.e7074fbd",
+            "step": 1,
+            "script": 4,
+            "text": "「也未必永远让你做监视方面的事活」\n昂然自得的一个神发言。",
+            "translation": null
+          },
+          {
+            "key": "page.4:62720.febdbd62",
+            "step": 2,
+            "script": 4,
+            "text": "……奇怪，这个连候补都不算的家伙\n是怎么进来的？",
+            "translation": null
+          },
+          {
+            "key": "page.4:62828.9af09429",
+            "step": 3,
+            "script": 4,
+            "text": "「道明寺君，\n这位是通过特殊途径紧急应邀出席的」",
+            "translation": null
+          },
+          {
+            "key": "page.4:62936.916c9912",
+            "step": 4,
+            "script": 4,
+            "text": "在这黑暗的神之领域中，\n唯一一个我认识的男人终于开口了。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……奇怪，这个连候选人都算不上的家伙，是怎么进来的？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.4:62828.9af09429",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「道明寺君，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"这位是通过特殊途径\",\"color\":0,\"size\":0},{\"text\":\"紧急应邀出席的」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 4,
+          "page": "4:62828",
+          "route": "isolated-prologue-record-4",
+          "step": 3
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.4:62584.e7074fbd",
+            "step": 1,
+            "script": 4,
+            "text": "「也未必永远让你做监视方面的事活」\n昂然自得的一个神发言。",
+            "translation": null
+          },
+          {
+            "key": "page.4:62720.febdbd62",
+            "step": 2,
+            "script": 4,
+            "text": "……奇怪，这个连候补都不算的家伙\n是怎么进来的？",
+            "translation": null
+          },
+          {
+            "key": "page.4:62828.9af09429",
+            "step": 3,
+            "script": 4,
+            "text": "「道明寺君，\n这位是通过特殊途径紧急应邀出席的」",
+            "translation": null
+          },
+          {
+            "key": "page.4:62936.916c9912",
+            "step": 4,
+            "script": 4,
+            "text": "在这黑暗的神之领域中，\n唯一一个我认识的男人终于开口了。",
+            "translation": null
+          },
+          {
+            "key": "page.4:63020.6c96c2a3",
+            "step": 5,
+            "script": 4,
+            "text": "「怎么回事，风海局长？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「道明寺，这位是通过特殊途径，紧急受邀出席的。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.4:62936.916c9912",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"在这黑暗的神之领域中，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"唯一一个我认识的男人终于开口了。\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 4,
+          "page": "4:62936",
+          "route": "isolated-prologue-record-4",
+          "step": 4
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.4:62720.febdbd62",
+            "step": 2,
+            "script": 4,
+            "text": "……奇怪，这个连候补都不算的家伙\n是怎么进来的？",
+            "translation": null
+          },
+          {
+            "key": "page.4:62828.9af09429",
+            "step": 3,
+            "script": 4,
+            "text": "「道明寺君，\n这位是通过特殊途径紧急应邀出席的」",
+            "translation": null
+          },
+          {
+            "key": "page.4:62936.916c9912",
+            "step": 4,
+            "script": 4,
+            "text": "在这黑暗的神之领域中，\n唯一一个我认识的男人终于开口了。",
+            "translation": null
+          },
+          {
+            "key": "page.4:63020.6c96c2a3",
+            "step": 5,
+            "script": 4,
+            "text": "「怎么回事，风海局长？」",
+            "translation": null
+          },
+          {
+            "key": "page.4:63080.c5dfff13",
+            "step": 6,
+            "script": 4,
+            "text": "「情况有变。\n对于特殊途径来的就应该给予特殊的款待。\n怎么样？　你把那件事说出来吧……」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "在这片黑暗的神之领域中，唯一一个我认识的男人，终于开口了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.4:63020.6c96c2a3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「怎么回事，风海局长？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 4,
+          "page": "4:63020",
+          "route": "isolated-prologue-record-4",
+          "step": 5
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.4:62828.9af09429",
+            "step": 3,
+            "script": 4,
+            "text": "「道明寺君，\n这位是通过特殊途径紧急应邀出席的」",
+            "translation": null
+          },
+          {
+            "key": "page.4:62936.916c9912",
+            "step": 4,
+            "script": 4,
+            "text": "在这黑暗的神之领域中，\n唯一一个我认识的男人终于开口了。",
+            "translation": null
+          },
+          {
+            "key": "page.4:63020.6c96c2a3",
+            "step": 5,
+            "script": 4,
+            "text": "「怎么回事，风海局长？」",
+            "translation": null
+          },
+          {
+            "key": "page.4:63080.c5dfff13",
+            "step": 6,
+            "script": 4,
+            "text": "「情况有变。\n对于特殊途径来的就应该给予特殊的款待。\n怎么样？　你把那件事说出来吧……」",
+            "translation": null
+          },
+          {
+            "key": "page.4:63244.c0d633fe",
+            "step": 7,
+            "script": 4,
+            "text": "「……了解。\n既然如此那我就公布出来了。\n这就叫监视方面的实力——」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「怎么回事，风海局长？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.4:63080.c5dfff13",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「情况有变。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"对于特殊途径来的就应该给予特殊的款待。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"怎么样？　你把那件事说出来吧……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 4,
+          "page": "4:63080",
+          "route": "isolated-prologue-record-4",
+          "step": 6
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.4:62936.916c9912",
+            "step": 4,
+            "script": 4,
+            "text": "在这黑暗的神之领域中，\n唯一一个我认识的男人终于开口了。",
+            "translation": null
+          },
+          {
+            "key": "page.4:63020.6c96c2a3",
+            "step": 5,
+            "script": 4,
+            "text": "「怎么回事，风海局长？」",
+            "translation": null
+          },
+          {
+            "key": "page.4:63080.c5dfff13",
+            "step": 6,
+            "script": 4,
+            "text": "「情况有变。\n对于特殊途径来的就应该给予特殊的款待。\n怎么样？　你把那件事说出来吧……」",
+            "translation": null
+          },
+          {
+            "key": "page.4:63244.c0d633fe",
+            "step": 7,
+            "script": 4,
+            "text": "「……了解。\n既然如此那我就公布出来了。\n这就叫监视方面的实力——」",
+            "translation": null
+          },
+          {
+            "key": "page.4:63376.b99ab19a",
+            "step": 8,
+            "script": 4,
+            "text": "「这是从朋友的朋友那里听来的……」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「情况有变。既然通过特殊途径来，就该给予特殊的款待。怎么样？把那件事说出来吧……」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.4:63244.c0d633fe",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「……了解。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"既然如此那我就公布出来了。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"这就叫监视方面的实力———」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 4,
+          "page": "4:63244",
+          "route": "isolated-prologue-record-4",
+          "step": 7
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.4:63020.6c96c2a3",
+            "step": 5,
+            "script": 4,
+            "text": "「怎么回事，风海局长？」",
+            "translation": null
+          },
+          {
+            "key": "page.4:63080.c5dfff13",
+            "step": 6,
+            "script": 4,
+            "text": "「情况有变。\n对于特殊途径来的就应该给予特殊的款待。\n怎么样？　你把那件事说出来吧……」",
+            "translation": null
+          },
+          {
+            "key": "page.4:63244.c0d633fe",
+            "step": 7,
+            "script": 4,
+            "text": "「……了解。\n既然如此那我就公布出来了。\n这就叫监视方面的实力——」",
+            "translation": null
+          },
+          {
+            "key": "page.4:63376.b99ab19a",
+            "step": 8,
+            "script": 4,
+            "text": "「这是从朋友的朋友那里听来的……」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「……明白。既然如此，我就公开了。这就是负责监视的人所掌握的情报——」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.4:63376.b99ab19a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「这是从朋友的朋友那里听来的……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 4,
+          "page": "4:63376",
+          "route": "isolated-prologue-record-4",
+          "step": 8
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.4:63080.c5dfff13",
+            "step": 6,
+            "script": 4,
+            "text": "「情况有变。\n对于特殊途径来的就应该给予特殊的款待。\n怎么样？　你把那件事说出来吧……」",
+            "translation": null
+          },
+          {
+            "key": "page.4:63244.c0d633fe",
+            "step": 7,
+            "script": 4,
+            "text": "「……了解。\n既然如此那我就公布出来了。\n这就叫监视方面的实力——」",
+            "translation": null
+          },
+          {
+            "key": "page.4:63376.b99ab19a",
+            "step": 8,
+            "script": 4,
+            "text": "「这是从朋友的朋友那里听来的……」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「这是从朋友的朋友那里听来的……」"
+            }
+          ]
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

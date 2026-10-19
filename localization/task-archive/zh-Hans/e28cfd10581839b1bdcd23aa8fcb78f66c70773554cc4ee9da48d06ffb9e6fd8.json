@@ -1,0 +1,2285 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 10001,
+    "title": "第零话 · 黒闇",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 1704,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "label.【验证１】",
+        "collection": "strings",
+        "kind": "overlay-label",
+        "source": "【验证１】",
+        "baseHash": null,
+        "location": {
+          "script": 17811,
+          "offset": 729308
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【验证1】"
+        },
+        "notes": "验证标题与确认交互。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "label.【验证２】",
+        "collection": "strings",
+        "kind": "overlay-label",
+        "source": "【验证２】",
+        "baseHash": null,
+        "location": {
+          "script": 17812,
+          "offset": 731336
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【验证2】"
+        },
+        "notes": "验证标题与确认交互。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "label.【验证3】",
+        "collection": "strings",
+        "kind": "overlay-label",
+        "source": "【验证3】",
+        "baseHash": null,
+        "location": {
+          "script": 17813,
+          "offset": 736308
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【验证3】"
+        },
+        "notes": "验证标题与确认交互。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "prompt.19981.117",
+        "collection": "strings",
+        "kind": "confirmation",
+        "source": "是否确定？",
+        "baseHash": null,
+        "location": {
+          "script": 19981,
+          "offset": 728824
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "是否确定？"
+        },
+        "notes": "验证标题与确认交互。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.1",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "春日雪乃。\n已经死亡。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "春日雪乃。\n已经死亡。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.2",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "春日雪乃\n未婚前姓“橘”\n高中时代的同学，也是我的初恋。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "春日雪乃\n未婚前姓“橘”\n高中时代的同学，也是我的初恋。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.3",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "春日先生。雪乃的丈夫。\n自杀身亡。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "春日先生。雪乃的丈夫。\n自杀身亡。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.4",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "雪乃的邻居。\n住在三云庄２０１号房。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雪乃的邻居。\n住在三云庄201号房。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.5",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "今村浩二\n雪乃公寓里的邻居。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "今村浩二\n雪乃公寓里的邻居。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.6",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "犬童兰子\n警部。编纂室的头头。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬童兰子\n警部。编纂室的头头。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.7",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "小暮宗一郎\n巡查部长。编纂室的同事。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮宗一郎\n巡查部长。编纂室的同事。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.8",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "贺茂泉戈薇\n警部补。\n科学搜查研究所犯罪心理画像组的成员。\n此人的性格似乎一言难尽。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉戈薇\n警部补。\n科学搜查研究所犯罪心理画像组的成员。\n此人的性格似乎一言难尽。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.9",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "雪乃租住公寓的房东。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雪乃租住公寓的房东。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.10",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "古关静江\n三云庄的房东。\n看起来好象在隐瞒着什么。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关静江\n三云庄的房东。\n看起来好像在隐瞒着什么。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 规范用字。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.11",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "小暮宗一郎\n巡查部长。编纂室的同事。\n外表看上去很强壮，但其实最怕血和鬼故事。\n有着很强的第六感。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮宗一郎\n巡查部长。编纂室的同事。\n外表看上去很强壮，但其实最怕血和鬼故事。\n有着很强的第六感。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.12",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "三云庄房东古关的女儿。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "三云庄房东古关的女儿。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.13",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "古关和子\n三云庄房东的女儿。\n担心着身体突然不舒服的母亲。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关和子\n三云庄房东的女儿。\n担心着身体突然不舒服的母亲。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.14",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "雨月霜苑\n二战时期活跃的女画家。\n专画鬼怪、地狱之类与众不同\n的题材。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雨月霜苑\n二战时期活跃的女画家。\n专画鬼怪、地狱之类与众不同的题材。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 去除句中掌机断行。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.15",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "城崎丰\n三云庄２０２号房的原房客。\n因生活困苦而被饿死。\n在尸体的胃中检验出大量报纸的成分。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "城崎丰\n三云庄202号房的原房客。\n因生活困苦而被饿死。\n在尸体的胃中检验出大量报纸的成分。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.16",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "中上律子\n三云庄２０２号房的原房客。\n２０XX年２月4日　因为已失踪超过7年，\n被法律正式认定为失踪。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "中上律子\n三云庄202号房的原房客。\n20XX年2月4日　因为已失踪超过7年，\n被依法宣告失踪，视为死亡。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 七年失踪宣告的法律效力与剧情正文一致。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.17",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "小野畑昭江\n三云庄２０２号房的原房客。\n２０XX年１１月１８日，\n用煤气与家人一同自杀。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小野畑昭江\n三云庄202号房的原房客。\n20XX年11月18日，\n用煤气与家人一同自杀。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.18",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "小野畑晶\n三云庄２０２号房的原房客。\n２０XX年１１月１８日，\n用煤气与家人一同自杀。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小野畑晶\n三云庄202号房的原房客。\n20XX年11月18日，\n用煤气与家人一同自杀。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.19",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "鬼哭寺的住持。\n自古就供奉着鬼子母神。\n非公认事件记录Ｇ－１１『鬼』事件时承蒙他帮助。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "鬼哭寺的住持。\n自古就供奉着鬼子母神。\n非公认事件记录G-11『鬼』事件时承蒙他帮助。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.20",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "鬼哭寺的住持。\n自古就供奉着鬼子母神。\n非公认事件记录Ｇ－１１『鬼』事件时承蒙他帮助。\n似乎与犬童警部有着奇妙的因缘。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "鬼哭寺的住持。\n自古就供奉着鬼子母神。\n非公认事件记录G-11『鬼』事件时承蒙他帮助。\n似乎与犬童警部有着奇妙的因缘。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.21",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "春日雪乃\n未婚前姓“橘”\n高中时代的同学，也是我的初恋。\n她的丈夫自杀身亡。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "春日雪乃\n未婚前姓“橘”\n高中时代的同学，也是我的初恋。\n她的丈夫自杀身亡。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.22",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "雪乃的丈夫。6月１日在位于\n三云庄２０２号房的家中上吊自杀。\n曾在银座做过画商但后来破产。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雪乃的丈夫。6月1日在位于三云庄202号房的家中上吊自杀。\n曾在银座做过画商但后来破产。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 去除句中硬断行。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.23",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "雪乃的丈夫。\n在三云庄２０２号房上吊自杀。\n但是，他的死有可疑的地方。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雪乃的丈夫。\n在三云庄202号房上吊自杀。\n但是，他的死有可疑的地方。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.24",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "贺茂泉戈薇\n警部补。科学侦查研究所犯罪心理画像组的\n成员，追查春日圭一自杀一案。\n性格乖僻。是个不好相处的人。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉戈薇\n警部补。科学搜查研究所犯罪心理画像组的成员，追查春日圭一自杀一案。\n性格乖僻。是个不好相处的人。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 统一机构名。 去除句中硬断行。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.25",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "古关静江\n三云庄的房东。\n在明知２０２号房有异样的情况下\n依然继续出租公寓。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关静江\n三云庄的房东。\n在明知202号房有异样的情况下依然继续出租公寓。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 去除句中硬断行。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.26",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "古关静江\n三云庄的房东。\n身体变得不舒服，卧床不起。\n好像见过一名黑衣女。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关静江\n三云庄的房东。\n身体变得不舒服，卧床不起。\n好像见过一名黑衣女。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.27",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "古关静江\n三云庄的房东。\n身体变得不舒服，卧床不起。\n脖子上出现了黑瘢。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关静江\n三云庄的房东。\n身体变得不舒服，卧床不起。\n脖子上出现了黑瘢。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.28",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "古关静江\n三云庄的房东。\n突然死亡。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关静江\n三云庄的房东。\n突然死亡。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.29",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "古关和子\n三云庄房东的女儿。\n因为母亲的突然离世而憔悴不堪。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关和子\n三云庄房东的女儿。\n因为母亲的突然离世而憔悴不堪。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.30",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "雨月霜苑\n二战时期活跃的女画家。\n对这个世界抱有强烈的愤怒与仇恨，\n据说２０２号房里的画是她画的。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雨月霜苑\n二战时期活跃的女画家。\n对这个世界抱有强烈的愤怒与仇恨，\n据说202号房里的画是她画的。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.31",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "犬童兰子\n警部。编纂室的头头。\n每天都开着电视，热衷于博彩节目，\n怎么看都不像是个公务员应有的生活方式。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬童兰子\n警部。编纂室的头头。\n每天都开着电视，热衷于博彩节目，\n怎么看都不像是个公务员应有的生活方式。"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.description.32",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "雪乃的邻居。\n住在三云庄２０１号房。\n似乎相信２０２号房\n有幽灵出没……？",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雪乃的邻居。\n住在三云庄201号房。\n似乎相信202号房有幽灵出没……？"
+        },
+        "notes": "人物说明各阶段保持生死、怀疑和亲属关系的信息边界，前作鬼事件编号保留。 去除句中硬断行。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.0.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.0.choice.4601",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "邻居邀约春日圭一去赌博",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "邻居邀约春日圭一去赌博"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.0.choice.4606",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "邻居逼迫春日圭一自杀",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "邻居逼迫春日圭一自杀"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.0.choice.4620",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "邻居知道关于春日圭一幽灵的传闻",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "邻居知道关于春日圭一幽灵的传闻"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.0.choice.4641",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "邻居把传闻告诉了圭一",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "邻居把传闻告诉了圭一"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.1.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.1.choice.4606",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "雪乃逼迫圭一自杀",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雪乃逼迫圭一自杀"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.1.choice.4610",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "雪乃教过圭一画日本画",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雪乃教过圭一画日本画"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.1.choice.4636",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "雪乃借黑暗天之力咒杀了圭一",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雪乃借黑暗天之力咒杀了圭一"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.1.choice.4662",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "雪乃祈求圭一死去",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雪乃祈求圭一死去"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.1.choice.4670",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "雪乃杀害了圭一",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雪乃杀害了圭一"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.2.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.2.choice.4601",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "圭一教雪乃赌博",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "圭一教雪乃赌博"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.2.choice.4604",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "圭一的初恋是雪乃",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "圭一的初恋是雪乃"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.2.choice.4613",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "圭一为雪乃买了神符",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "圭一为雪乃买了神符"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.2.choice.4614",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "圭一让雪乃画了女人的画像",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "圭一让雪乃画了女人的画像"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.2.choice.4635",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "圭一企图与雪乃同归于尽",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "圭一企图与雪乃同归于尽"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.2.choice.4650",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "圭一对雪乃施行了家庭暴力",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "圭一对雪乃施行了家庭暴力"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.2.choice.4660",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "圭一让雪乃绘制赝品",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "圭一让雪乃绘制赝品"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.3.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.3.choice.4612",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "贺茂泉警部补对荞麦过敏",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉警部补对荞麦过敏"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.3.choice.4620",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "贺茂泉警部补是幽灵",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉警部补是幽灵"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.3.choice.4621",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "贺茂泉警部补是观测者",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉警部补是观测者"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.3.choice.4623",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "贺茂泉警部补擅长犯罪心理画像",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉警部补擅长犯罪心理画像"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.4.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.4.choice.4606",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "怀疑雪乃与圭一的自杀有关",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "怀疑雪乃与圭一的自杀有关"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.4.choice.4608",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "怀疑雪乃不是美术部的",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "怀疑雪乃不是美术部的"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.4.choice.4620",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "怀疑雪乃是幽灵",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "怀疑雪乃是幽灵"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.4.choice.4640",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "怀疑雪乃隐瞒了情况",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "怀疑雪乃隐瞒了情况"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.5.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.5.choice.4607",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "房东曾是雪乃所在后援会的会员",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "房东曾是雪乃所在后援会的会员"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.5.choice.4608",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "房东曾是雪乃所在美术部的顾问",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "房东曾是雪乃所在美术部的顾问"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.5.choice.4611",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "房东曾是画廊的顾客",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "房东曾是画廊的顾客"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.5.choice.4624",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "房东住在雪乃隔壁的房间",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "房东住在雪乃隔壁的房间"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.5.choice.4640",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "房东对雪乃房间过去发生的事只字不提",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "房东对雪乃房间过去发生的事只字不提"
+        },
+        "notes": "推理候选包括故意错误的赌博、幽灵、初恋等关系，不改为正确答案。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.6.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.6.choice.4606",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "房东的家族中有很多自杀者",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "房东的家族中有很多自杀者"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.6.choice.4611",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "房东经营着画廊",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "房东经营着画廊"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.6.choice.4619",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "房东家族中有很多人贫血",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "房东家族中有很多人贫血"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.6.choice.4621",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "房东一直观察着雪乃的公寓",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "房东一直观察着雪乃的公寓"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.6.choice.4630",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "古关家一直想救治小修",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关家一直想救治小修"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.6.choice.4632",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "古关家所有人都因心衰竭而死",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关家所有人都因心衰竭而死"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.6.choice.4642",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "为外孙患有先天性疾病而烦恼",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "为外孙患有先天性疾病而烦恼"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.6.choice.4654",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "古关家的公寓在战后一直未能重建",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古关家的公寓在战后一直未能重建"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.7.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.7.choice.4610",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "雨月教过雪乃画日本画",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雨月教过雪乃画日本画"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.7.choice.4611",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "雪乃曾邀请雨月去画廊",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雪乃曾邀请雨月去画廊"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.7.choice.4614",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "雨月在雪乃的公寓里画了女人的画像",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雨月在雪乃的公寓里画了女人的画像"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.7.choice.4631",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "雨月对雪乃下了诅咒",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雨月对雪乃下了诅咒"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.8.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.8.choice.4601",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "犬童警部非常喜欢博彩",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬童警部非常喜欢博彩"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.8.choice.4610",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "犬童警部非常喜欢日本画",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬童警部非常喜欢日本画"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.8.choice.4613",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "犬童警部持有神符",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬童警部持有神符"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.8.choice.4631",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "犬童警部能施行法术",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬童警部能施行法术"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.8.choice.4638",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "犬童警部向我转嫁穷神",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬童警部向我转嫁穷神"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.8.choice.4664",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "犬童警部向我转嫁死神",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬童警部向我转嫁死神"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.9.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.9.choice.4608",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "两人在美术部相遇",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人在美术部相遇"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.9.choice.4609",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "两人在柔道部相遇",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人在柔道部相遇"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.9.choice.4611",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "两人曾共同经营画廊",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人曾共同经营画廊"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.9.choice.4616",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "两人曾是雨月霜苑的拥冕",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人曾是雨月霜苑的拥趸"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 修正错字。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.9.choice.4644",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "两人在２０２号房相遇",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人在202号房相遇"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.10.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "保留空白",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "保留空白"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      },
+      {
+        "key": "logic.2.field.10.choice.4607",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "小暮曾是某偶像后援会的会员",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮曾是某偶像后援会的会员"
+        },
+        "notes": "家族救治小修和神祇关系的候选，错误选项也逐字保留意图。 保留镜像已有简体中文及有意义的说明分行，只规范全角英数字。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "label.【验证3】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "prompt.19981.117",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.1",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.2",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.3",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.5",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.6",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.7",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.8",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.9",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.11",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.12",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.13",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.21",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.26",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.27",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.28",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.29",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.description.31",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.0.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.0.choice.4601",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.0.choice.4606",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.0.choice.4620",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.0.choice.4641",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.1.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.1.choice.4606",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.1.choice.4610",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.1.choice.4636",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.1.choice.4662",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.1.choice.4670",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.2.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.2.choice.4601",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.2.choice.4604",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.2.choice.4613",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.2.choice.4614",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.2.choice.4635",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.2.choice.4650",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.2.choice.4660",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.3.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.3.choice.4612",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.3.choice.4620",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.3.choice.4621",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.3.choice.4623",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.4.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.4.choice.4606",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.4.choice.4608",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.4.choice.4620",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.4.choice.4640",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.5.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.5.choice.4607",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.5.choice.4608",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.5.choice.4611",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.5.choice.4624",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.5.choice.4640",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.6.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.6.choice.4606",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.6.choice.4611",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.6.choice.4619",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.6.choice.4621",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.6.choice.4630",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.6.choice.4632",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.6.choice.4642",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.6.choice.4654",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.7.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.7.choice.4610",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.7.choice.4611",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.7.choice.4614",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.7.choice.4631",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.8.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.8.choice.4601",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.8.choice.4610",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.8.choice.4613",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.8.choice.4631",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.8.choice.4638",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.8.choice.4664",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.9.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.9.choice.4608",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.9.choice.4609",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.9.choice.4611",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.10.choice.0",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "logic.2.field.10.choice.4607",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

@@ -1,0 +1,1428 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 70001,
+    "title": "由香篇 · 作られた都市伝説",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 1008,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.79009:4350820.a3534eac",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"確か付き合っている相手がいたはずだけど……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79009,
+          "page": "79009:4350820",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79009-61",
+          "step": 61
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79009:4350820.a3534eac",
+            "step": 61,
+            "script": 79009,
+            "text": "確か付き合っている相手がいたはずだけど……",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.0.e52314bd",
+            "step": 61,
+            "script": 79009,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.1.25bc3cf7",
+            "step": 61,
+            "script": 79009,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.2.e9a95fdc",
+            "step": 61,
+            "script": 79009,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "记得他应该有过交往对象……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79009.76.0.e52314bd",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"湯川 果歩\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79009,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79009-61",
+          "step": 61
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79009:4350820.a3534eac",
+            "step": 61,
+            "script": 79009,
+            "text": "確か付き合っている相手がいたはずだけど……",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.0.e52314bd",
+            "step": 61,
+            "script": 79009,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.1.25bc3cf7",
+            "step": 61,
+            "script": 79009,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.2.e9a95fdc",
+            "step": 61,
+            "script": 79009,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "汤川果步"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79009.76.1.25bc3cf7",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"菱田 桃代\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79009,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79009-61",
+          "step": 61
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79009:4350820.a3534eac",
+            "step": 61,
+            "script": 79009,
+            "text": "確か付き合っている相手がいたはずだけど……",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.0.e52314bd",
+            "step": 61,
+            "script": 79009,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.1.25bc3cf7",
+            "step": 61,
+            "script": 79009,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.2.e9a95fdc",
+            "step": 61,
+            "script": 79009,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "菱田桃代"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79009.76.2.e9a95fdc",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"藤原 朝希\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79009,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79009-61",
+          "step": 61
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79009:4350820.a3534eac",
+            "step": 61,
+            "script": 79009,
+            "text": "確か付き合っている相手がいたはずだけど……",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.0.e52314bd",
+            "step": 61,
+            "script": 79009,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.1.25bc3cf7",
+            "step": 61,
+            "script": 79009,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79009.76.2.e9a95fdc",
+            "step": 61,
+            "script": 79009,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "藤原朝希"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79010:4356036.a4bd5965",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希が彼女達と関係している可能性はある。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"無関係であることは証明出来ない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"しかし、人と顔を合わせるのを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"極端に嫌う朝希だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79010,
+          "page": "79010:4356036",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79010-31",
+          "step": 31
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79010:4356036.a4bd5965",
+            "step": 31,
+            "script": 79010,
+            "text": "朝希が彼女達と関係している可能性はある。\n無関係であることは証明出来ない。\nしかし、人と顔を合わせるのを\n極端に嫌う朝希だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希也可能与她们有关系。无法证明她完全无关。可是，朝希极度讨厌与人当面接触。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79010:4356204.d4c2b2ce",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"まさか彼女達と\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"知り合いということはないだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それに朝希自身、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そんなことは一言だって口にしていなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79010,
+          "page": "79010:4356204",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79010-41",
+          "step": 41
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79010:4356204.d4c2b2ce",
+            "step": 41,
+            "script": 79010,
+            "text": "まさか彼女達と\n知り合いということはないだろう。\nそれに朝希自身、\nそんなことは一言だって口にしていなかった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "应该不至于认识她们吧。而且，她自己也从没提过一句。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79010:4356376.6fa6ac07",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"菱田 桃代と湯川 果歩を繋ぐのは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"穂坂先生しか考えられない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79010,
+          "page": "79010:4356376",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79010-53",
+          "step": 53
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79010:4356376.6fa6ac07",
+            "step": 53,
+            "script": 79010,
+            "text": "菱田 桃代と湯川 果歩を繋ぐのは、\n穂坂先生しか考えられない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "将菱田桃代与汤川果步联系起来的人，只能想到穗坂老师。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79010:4356480.64e7fa47",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"その穂坂先生には、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"確か交際相手がいたように思ったけれど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79010,
+          "page": "79010:4356480",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79010-60",
+          "step": 60
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79010:4356480.64e7fa47",
+            "step": 60,
+            "script": 79010,
+            "text": "その穂坂先生には、\n確か交際相手がいたように思ったけれど、",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "记得他似乎有过交往对象，"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79010:4356580.4e1f128b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それは……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79010,
+          "page": "79010:4356580",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79010-67",
+          "step": 67
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79010:4356580.4e1f128b",
+            "step": 67,
+            "script": 79010,
+            "text": "それは……",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.0.e52314bd",
+            "step": 67,
+            "script": 79010,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.1.25bc3cf7",
+            "step": 67,
+            "script": 79010,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.2.e9a95fdc",
+            "step": 67,
+            "script": 79010,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那个人是……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79010.82.0.e52314bd",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"湯川 果歩\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79010,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79010-67",
+          "step": 67
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79010:4356580.4e1f128b",
+            "step": 67,
+            "script": 79010,
+            "text": "それは……",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.0.e52314bd",
+            "step": 67,
+            "script": 79010,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.1.25bc3cf7",
+            "step": 67,
+            "script": 79010,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.2.e9a95fdc",
+            "step": 67,
+            "script": 79010,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "汤川果步"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79010.82.1.25bc3cf7",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"菱田 桃代\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79010,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79010-67",
+          "step": 67
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79010:4356580.4e1f128b",
+            "step": 67,
+            "script": 79010,
+            "text": "それは……",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.0.e52314bd",
+            "step": 67,
+            "script": 79010,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.1.25bc3cf7",
+            "step": 67,
+            "script": 79010,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.2.e9a95fdc",
+            "step": 67,
+            "script": 79010,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "菱田桃代"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79010.82.2.e9a95fdc",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"藤原 朝希\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79010,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79010-67",
+          "step": 67
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79010:4356580.4e1f128b",
+            "step": 67,
+            "script": 79010,
+            "text": "それは……",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.0.e52314bd",
+            "step": 67,
+            "script": 79010,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.1.25bc3cf7",
+            "step": 67,
+            "script": 79010,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79010.82.2.e9a95fdc",
+            "step": 67,
+            "script": 79010,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "藤原朝希"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79011:4346108.3db097ff",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"湯川 果歩の妹と、穂坂先生が交わしていた\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"会話からは、無関係ではないものの、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"交際相手と断定出来るだけのものはなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79011,
+          "page": "79011:4346108",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79011-31",
+          "step": 31
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79011:4346108.3db097ff",
+            "step": 31,
+            "script": 79011,
+            "text": "湯川 果歩の妹と、穂坂先生が交わしていた\n会話からは、無関係ではないものの、\n交際相手と断定出来るだけのものはなかった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "从汤川果步的妹妹与老师的交谈来看，两人虽然并非毫无关系，却也没有足够的信息，能断定他们曾在交往。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79011:4346276.4fb0bc64",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"一方、菱田 桃代は……殺害された当時、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"お腹に赤ちゃんがいたという。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"朝希によれば、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それは穂坂先生との間に出来た子供という話だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79011,
+          "page": "79011:4346276",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79011-40",
+          "step": 40
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79011:4346276.4fb0bc64",
+            "step": 40,
+            "script": 79011,
+            "text": "一方、菱田 桃代は……殺害された当時、\nお腹に赤ちゃんがいたという。\n朝希によれば、\nそれは穂坂先生との間に出来た子供という話だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "另一方面，菱田桃代……据说遇害时腹中已有孩子。按照朝希的说法，那是她与穗坂老师的孩子。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79011:4346476.bff6cc41",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"もしこの噂が真実だとしたら、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何故二人は結婚や婚約など、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"はっきりとしたケジメをつけようとは\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"しなかったのだろう？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79011,
+          "page": "79011:4346476",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79011-53",
+          "step": 53
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79011:4346476.bff6cc41",
+            "step": 53,
+            "script": 79011,
+            "text": "もしこの噂が真実だとしたら、\n何故二人は結婚や婚約など、\nはっきりとしたケジメをつけようとは\nしなかったのだろう？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "如果这传闻是真的，两人为什么不通过结婚、订婚等方式，给这段关系一个明确的交代？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79011:4346652.2fd16d1e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"考えられる理由は一つ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その子供が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"望まれてはいない存在だったということだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79011,
+          "page": "79011:4346652",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79011-65",
+          "step": 65
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79011:4346652.2fd16d1e",
+            "step": 65,
+            "script": 79011,
+            "text": "考えられる理由は一つ。\nその子供が、\n望まれてはいない存在だったということだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "能想到的理由只有一个。那个孩子，并不是被期待的存在。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79011:4346792.e7efb3ed",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"つまり……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79011,
+          "page": "79011:4346792",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79011-76",
+          "step": 76
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79011:4346792.e7efb3ed",
+            "step": 76,
+            "script": 79011,
+            "text": "つまり……",
+            "translation": null
+          },
+          {
+            "key": "choice.79011.87.0.521190fd",
+            "step": 76,
+            "script": 79011,
+            "text": "桃代の目的は、穂坂先生との結婚ではない",
+            "translation": null
+          },
+          {
+            "key": "choice.79011.87.1.e629c66f",
+            "step": 76,
+            "script": 79011,
+            "text": "穂坂先生は、スキャンダルの発覚を恐れた",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也就是说……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79011.87.0.521190fd",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"桃代の目的は、穂坂先生との結婚ではない\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79011,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79011-76",
+          "step": 76
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79011:4346792.e7efb3ed",
+            "step": 76,
+            "script": 79011,
+            "text": "つまり……",
+            "translation": null
+          },
+          {
+            "key": "choice.79011.87.0.521190fd",
+            "step": 76,
+            "script": 79011,
+            "text": "桃代の目的は、穂坂先生との結婚ではない",
+            "translation": null
+          },
+          {
+            "key": "choice.79011.87.1.e629c66f",
+            "step": 76,
+            "script": 79011,
+            "text": "穂坂先生は、スキャンダルの発覚を恐れた",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "桃代的目的，并不是和穗坂老师结婚"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79011.87.1.e629c66f",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"穂坂先生は、スキャンダルの発覚を恐れた\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79011,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79011-76",
+          "step": 76
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79011:4346792.e7efb3ed",
+            "step": 76,
+            "script": 79011,
+            "text": "つまり……",
+            "translation": null
+          },
+          {
+            "key": "choice.79011.87.0.521190fd",
+            "step": 76,
+            "script": 79011,
+            "text": "桃代の目的は、穂坂先生との結婚ではない",
+            "translation": null
+          },
+          {
+            "key": "choice.79011.87.1.e629c66f",
+            "step": 76,
+            "script": 79011,
+            "text": "穂坂先生は、スキャンダルの発覚を恐れた",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "穗坂老师害怕丑闻曝光"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79012:4351388.c8b6d720",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"殺害当時、菱田 桃代は妊娠をしていたという。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"朝希によれば、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それは穂坂先生との間に出来た子供という話だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79012,
+          "page": "79012:4351388",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79012-31",
+          "step": 31
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79012:4351388.c8b6d720",
+            "step": 31,
+            "script": 79012,
+            "text": "殺害当時、菱田 桃代は妊娠をしていたという。\n朝希によれば、\nそれは穂坂先生との間に出来た子供という話だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "据说菱田桃代遇害时已经怀孕。按照朝希的说法，那是她与穗坂老师的孩子。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79012:4351548.4eb7a93a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"これが真実かどうか現時点では分からないが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"もし真実であるなら、何故二人は結婚や婚約など、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"はっきりとしたケジメをつけようとは\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"しなかったのだろう？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79012,
+          "page": "79012:4351548",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79012-41",
+          "step": 41
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79012:4351548.4eb7a93a",
+            "step": 41,
+            "script": 79012,
+            "text": "これが真実かどうか現時点では分からないが、\nもし真実であるなら、何故二人は結婚や婚約など、\nはっきりとしたケジメをつけようとは\nしなかったのだろう？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "眼下还不知道是真是假。可如果是真的，两人为什么不通过结婚、订婚等方式，给这段关系一个明确的交代？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79012:4351760.f05c55bb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"考えられる理由は一つ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"悲しいことだけど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その子供が望まれていない存在だったということだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79012,
+          "page": "79012:4351760",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79012-53",
+          "step": 53
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79012:4351760.f05c55bb",
+            "step": 53,
+            "script": 79012,
+            "text": "考えられる理由は一つ。\n悲しいことだけど、\nその子供が望まれていない存在だったということだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "能想到的理由只有一个。虽然令人难过，但那个孩子，并不是被期待的存在。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79012:4351908.e7efb3ed",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"つまり……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79012,
+          "page": "79012:4351908",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79012-63",
+          "step": 63
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79012:4351908.e7efb3ed",
+            "step": 63,
+            "script": 79012,
+            "text": "つまり……",
+            "translation": null
+          },
+          {
+            "key": "choice.79012.74.0.521190fd",
+            "step": 63,
+            "script": 79012,
+            "text": "桃代の目的は、穂坂先生との結婚ではない",
+            "translation": null
+          },
+          {
+            "key": "choice.79012.74.1.e629c66f",
+            "step": 63,
+            "script": 79012,
+            "text": "穂坂先生は、スキャンダルの発覚を恐れた",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也就是说……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79012.74.0.521190fd",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"桃代の目的は、穂坂先生との結婚ではない\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79012,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79012-63",
+          "step": 63
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79012:4351908.e7efb3ed",
+            "step": 63,
+            "script": 79012,
+            "text": "つまり……",
+            "translation": null
+          },
+          {
+            "key": "choice.79012.74.0.521190fd",
+            "step": 63,
+            "script": 79012,
+            "text": "桃代の目的は、穂坂先生との結婚ではない",
+            "translation": null
+          },
+          {
+            "key": "choice.79012.74.1.e629c66f",
+            "step": 63,
+            "script": 79012,
+            "text": "穂坂先生は、スキャンダルの発覚を恐れた",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "桃代的目的，并不是和穗坂老师结婚"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79012.74.1.e629c66f",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"穂坂先生は、スキャンダルの発覚を恐れた\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79012,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79012-63",
+          "step": 63
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79012:4351908.e7efb3ed",
+            "step": 63,
+            "script": 79012,
+            "text": "つまり……",
+            "translation": null
+          },
+          {
+            "key": "choice.79012.74.0.521190fd",
+            "step": 63,
+            "script": 79012,
+            "text": "桃代の目的は、穂坂先生との結婚ではない",
+            "translation": null
+          },
+          {
+            "key": "choice.79012.74.1.e629c66f",
+            "step": 63,
+            "script": 79012,
+            "text": "穂坂先生は、スキャンダルの発覚を恐れた",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "穗坂老师害怕丑闻曝光"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79013:4357116.620e4873",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希と穂坂先生が付き合っていた？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"……可能性として皆無ではないかもしれないけれど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それはないだろう。なにしろ朝希は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"極端に人と顔を合わせるのを嫌っているんだから。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79013,
+          "page": "79013:4357116",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79013-31",
+          "step": 31
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79013:4357116.620e4873",
+            "step": 31,
+            "script": 79013,
+            "text": "朝希と穂坂先生が付き合っていた？\n……可能性として皆無ではないかもしれないけれど、\nそれはないだろう。なにしろ朝希は、\n極端に人と顔を合わせるのを嫌っているんだから。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希与穗坂老师交往过？……虽然也许并非完全没有可能，但应该不会吧。毕竟，朝希极度讨厌与人当面接触。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79013:4357352.c89c8b5c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そういえば、朝希が確か、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"菱田 桃代のお腹にいる赤ちゃんは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"穂坂先生との子供だって言っていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"菱田 桃代が交際相手だったのだろうか……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79013,
+          "page": "79013:4357352",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79013-44",
+          "step": 44
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79013:4357352.c89c8b5c",
+            "step": 44,
+            "script": 79013,
+            "text": "そういえば、朝希が確か、\n菱田 桃代のお腹にいる赤ちゃんは、\n穂坂先生との子供だって言っていた。\n菱田 桃代が交際相手だったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "说起来，她确实说过，菱田桃代腹中的孩子，是穗坂老师的。交往对象会是菱田桃代吗……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79013:4357556.945d38b8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"でも、もしそれが本当なら、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何故二人は結婚や婚約など、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"はっきりとしたケジメをつけようとは\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"しなかったのだろう？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79013,
+          "page": "79013:4357556",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79013-56",
+          "step": 56
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79013:4357556.945d38b8",
+            "step": 56,
+            "script": 79013,
+            "text": "でも、もしそれが本当なら、\n何故二人は結婚や婚約など、\nはっきりとしたケジメをつけようとは\nしなかったのだろう？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，假如是真的，两人为什么不通过结婚、订婚等方式，给这段关系一个明确的交代？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79013:4357732.a8281e7a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"考えられる理由は一つしかない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その子供が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"望まれてはいない存在だったということだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79013,
+          "page": "79013:4357732",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79013-68",
+          "step": 68
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79013:4357732.a8281e7a",
+            "step": 68,
+            "script": 79013,
+            "text": "考えられる理由は一つしかない。\nその子供が、\n望まれてはいない存在だったということだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "能想到的理由只有一个。那个孩子，并不是被期待的存在。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79013:4357880.e7efb3ed",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"つまり……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79013,
+          "page": "79013:4357880",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79013-79",
+          "step": 79
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79013:4357880.e7efb3ed",
+            "step": 79,
+            "script": 79013,
+            "text": "つまり……",
+            "translation": null
+          },
+          {
+            "key": "choice.79013.90.0.521190fd",
+            "step": 79,
+            "script": 79013,
+            "text": "桃代の目的は、穂坂先生との結婚ではない",
+            "translation": null
+          },
+          {
+            "key": "choice.79013.90.1.e629c66f",
+            "step": 79,
+            "script": 79013,
+            "text": "穂坂先生は、スキャンダルの発覚を恐れた",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也就是说……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79013.90.0.521190fd",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"桃代の目的は、穂坂先生との結婚ではない\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79013,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79013-79",
+          "step": 79
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79013:4357880.e7efb3ed",
+            "step": 79,
+            "script": 79013,
+            "text": "つまり……",
+            "translation": null
+          },
+          {
+            "key": "choice.79013.90.0.521190fd",
+            "step": 79,
+            "script": 79013,
+            "text": "桃代の目的は、穂坂先生との結婚ではない",
+            "translation": null
+          },
+          {
+            "key": "choice.79013.90.1.e629c66f",
+            "step": 79,
+            "script": 79013,
+            "text": "穂坂先生は、スキャンダルの発覚を恐れた",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "桃代的目的，并不是和穗坂老师结婚"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79013.90.1.e629c66f",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"穂坂先生は、スキャンダルの発覚を恐れた\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79013,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79013-79",
+          "step": 79
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79013:4357880.e7efb3ed",
+            "step": 79,
+            "script": 79013,
+            "text": "つまり……",
+            "translation": null
+          },
+          {
+            "key": "choice.79013.90.0.521190fd",
+            "step": 79,
+            "script": 79013,
+            "text": "桃代の目的は、穂坂先生との結婚ではない",
+            "translation": null
+          },
+          {
+            "key": "choice.79013.90.1.e629c66f",
+            "step": 79,
+            "script": 79013,
+            "text": "穂坂先生は、スキャンダルの発覚を恐れた",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "穗坂老师害怕丑闻曝光"
+            }
+          ]
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

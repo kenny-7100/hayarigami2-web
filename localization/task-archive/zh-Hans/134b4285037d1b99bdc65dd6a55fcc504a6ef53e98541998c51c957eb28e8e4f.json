@@ -1,0 +1,296 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 50001,
+    "title": "小暮篇 · エレベーター幽霊",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 124,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.51001:3610124.ecb3ecfe",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"〔１２楼〕\",\"size\":0,\"keyword\":5139},{\"text\":\"のボタンを押すと、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"軽快なチャイムの音とともに扉がゆっくりと閉まり、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"エレベーターが動き出す。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "ef61558a248eae9862f586db994808d45156009fac9b3ef3d7475fd2db238ac1",
+        "location": {
+          "script": 51001,
+          "page": "51001:3610124",
+          "route": "chapter-4-end-58102.json",
+          "step": 205
+        },
+        "requiredRefs": [
+          {
+            "ref": 0,
+            "text": "〔１２楼〕",
+            "size": 0,
+            "keyword": 5139
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.51002:3614412.34551408",
+            "step": 203,
+            "script": 51002,
+            "text": "こみ上げる恐怖から逃れるように自分は扉を開け、\n２階のエレベーターホールに飛び込んだ。\nエレベーターホールの明かりは\n今の自分には眩しいくらいの明るさだった。",
+            "translation": "为了逃开不断涌来的恐惧，我推开门，一头冲进2楼的电梯厅。这里的灯光，对此刻的我来说，亮得简直有些刺眼。"
+          },
+          {
+            "key": "page.51002:3614628.7cc8a819",
+            "step": 204,
+            "script": 51002,
+            "text": "暗闇から逃れ、渇望していた光を\n手に入れたい一心で、エレベーターに乗り込む。",
+            "translation": "一心只想逃离黑暗，投入渴望已久的光明，我钻进了电梯。"
+          },
+          {
+            "key": "page.51001:3610124.ecb3ecfe",
+            "step": 205,
+            "script": 51001,
+            "text": "〔１２楼〕のボタンを押すと、\n軽快なチャイムの音とともに扉がゆっくりと閉まり、\nエレベーターが動き出す。",
+            "translation": "按下〔１２楼〕的按钮，伴着轻快的提示音，门缓缓关上，电梯开始移动。"
+          },
+          {
+            "key": "page.51001:3610324.e7ecfd0d",
+            "step": 206,
+            "script": 51001,
+            "text": "そして、ようやく一息ついた。\n「ふぅ……、やはり明るいところが一番だな」",
+            "translation": "我终于喘了口气。\n「呼……果然还是亮堂的地方好。」"
+          },
+          {
+            "key": "page.51001:3610428.50385103",
+            "step": 207,
+            "script": 51001,
+            "text": "上昇していくフロアランプを見つめながら、\nいまだ頭に浮かび上がる幽霊話を必死に\n振り払おうとする。",
+            "translation": "我望着不断上升的楼层指示灯，拼命想把仍在脑海中盘旋的鬼故事赶走。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"〔１２楼〕\",\"size\":0,\"keyword\":5139},{\"text\":\"のボタンを押すと、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"軽快なチャイムの音とともに扉がゆっくりと閉まり、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"エレベーターが動き出す。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "按下"
+            },
+            {
+              "ref": 0
+            },
+            {
+              "text": "的按钮，伴着轻快的提示音，门缓缓关上，电梯开始移动。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "按下"
+            },
+            {
+              "ref": 0,
+              "text": "〔12楼〕"
+            },
+            {
+              "text": "的按钮，伴着轻快的提示音，门缓缓关上，电梯开始移动。"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔１２楼〕→12楼。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      },
+      {
+        "key": "page.51001:3610624.be63feb2",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そんな中、ランプが\",\"color\":0,\"size\":0},{\"text\":\"〔１０楼〕\",\"size\":0,\"keyword\":5138},{\"text\":\"を表示したとき、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何故かエレベーターが停止した。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "99b68da6674ee788a303da276d4dfcf1b35eb99c1d6ca23cc367ba1f6bd6eb65",
+        "location": {
+          "script": 51001,
+          "page": "51001:3610624",
+          "route": "chapter-4-end-58102.json",
+          "step": 208
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "〔１０楼〕",
+            "size": 0,
+            "keyword": 5138
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.51001:3610324.e7ecfd0d",
+            "step": 206,
+            "script": 51001,
+            "text": "そして、ようやく一息ついた。\n「ふぅ……、やはり明るいところが一番だな」",
+            "translation": "我终于喘了口气。\n「呼……果然还是亮堂的地方好。」"
+          },
+          {
+            "key": "page.51001:3610428.50385103",
+            "step": 207,
+            "script": 51001,
+            "text": "上昇していくフロアランプを見つめながら、\nいまだ頭に浮かび上がる幽霊話を必死に\n振り払おうとする。",
+            "translation": "我望着不断上升的楼层指示灯，拼命想把仍在脑海中盘旋的鬼故事赶走。"
+          },
+          {
+            "key": "page.51001:3610624.be63feb2",
+            "step": 208,
+            "script": 51001,
+            "text": "そんな中、ランプが〔１０楼〕を表示したとき、\n何故かエレベーターが停止した。",
+            "translation": "就在这时，指示灯显示到〔１０楼〕，电梯却不知为何停了下来。"
+          },
+          {
+            "key": "page.51001:3610828.d0dd5acc",
+            "step": 209,
+            "script": 51001,
+            "text": "「誰か乗ってくるのか？」\n自分は入り口付近に乗っていた為、\n一歩後ろに下がり扉が開くのを待つ。",
+            "translation": "「有人要上来吗？」\n我站在门口附近，于是往后退了一步，等着门打开。"
+          },
+          {
+            "key": "page.51001:3611008.83157dbf",
+            "step": 210,
+            "script": 51001,
+            "text": "ところが、\n開いた扉の先には人が立っているどころか、\n漆黒の闇が広がっている。",
+            "translation": "然而，打开的门外不但没有人，反而是一片漆黑。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"そんな中、ランプが\",\"color\":0,\"size\":0},{\"text\":\"〔１０楼〕\",\"size\":0,\"keyword\":5138},{\"text\":\"を表示したとき、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何故かエレベーターが停止した。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "就在这时，指示灯显示到"
+            },
+            {
+              "ref": 1
+            },
+            {
+              "text": "，电梯却不知为何停了下来。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "就在这时，指示灯显示到"
+            },
+            {
+              "ref": 1,
+              "text": "〔10楼〕"
+            },
+            {
+              "text": "，电梯却不知为何停了下来。"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔１０楼〕→10楼。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      },
+      {
+        "key": "page.55501:3773712.1c7322cb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"最初は何か分からなかったが、すぐに\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"〔腐烂尸体〕\",\"size\":0,\"keyword\":5131},{\"text\":\"で\",\"color\":0,\"size\":0},{\"text\":\"あることに気付く。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "b88b5f60a2f19c15e59276e473fa719ae8c4d9a763afb3b6411c6254ee786573",
+        "location": {
+          "script": 55501,
+          "page": "55501:3773712",
+          "route": "chapter-4-end-58102.json",
+          "step": 773
+        },
+        "requiredRefs": [
+          {
+            "ref": 2,
+            "text": "〔腐烂尸体〕",
+            "size": 0,
+            "keyword": 5131
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.55501:3773304.4d017fb4",
+            "step": 771,
+            "script": 55501,
+            "text": "「管理官、何かありましたか——」\n自分が言おうとした、そのときだ。",
+            "translation": "「管理官，发现什么了吗——」\n就在我想这么问的时候——"
+          },
+          {
+            "key": "page.55501:3773456.5d2053f3",
+            "step": 772,
+            "script": 55501,
+            "text": "自分の鼻先に、\nいきなり何か大きなものが落ちてきた。",
+            "translation": "一个巨大的东西，突然掉在了我的鼻尖前。"
+          },
+          {
+            "key": "page.55501:3773712.1c7322cb",
+            "step": 773,
+            "script": 55501,
+            "text": "最初は何か分からなかったが、すぐに\n〔腐烂尸体〕であることに気付く。",
+            "translation": "起初我没看出是什么，但很快便意识到，那是一具〔腐烂尸体〕。"
+          },
+          {
+            "key": "page.55501:3773884.88311664",
+            "step": 774,
+            "script": 55501,
+            "text": "本来であれば、叫び声を上げるところだが、\nあまりの突然の出来事に息が詰まり、\nそれすら出来ない。",
+            "translation": "按理我该放声尖叫，可事发太突然，我连气都喘不上来，更别说叫出声。"
+          },
+          {
+            "key": "page.55501:3774048.39c19323",
+            "step": 775,
+            "script": 55501,
+            "text": "自分は詰まる喉で必死に呼吸をしようと試み、\n意識を保とうとした。",
+            "translation": "我喉咙发紧，拼命试着呼吸，想保持意识。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"最初は何か分からなかったが、すぐに\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"〔腐烂尸体〕\",\"size\":0,\"keyword\":5131},{\"text\":\"で\",\"color\":0,\"size\":0},{\"text\":\"あることに気付く。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "起初我没看出是什么，但很快便意识到，那是一具"
+            },
+            {
+              "ref": 2
+            },
+            {
+              "text": "。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "起初我没看出是什么，但很快便意识到，那是一具"
+            },
+            {
+              "ref": 2,
+              "text": "〔腐尸〕"
+            },
+            {
+              "text": "。"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔腐烂尸体〕→腐尸。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

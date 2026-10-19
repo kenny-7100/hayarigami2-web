@@ -1,0 +1,66 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 80001,
+    "title": "道明寺篇",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 1058,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "terms.200",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "【Ｆ．Ｏ．Ａ．Ｆ．】",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【Ｆ．Ｏ．Ａ．Ｆ．】"
+        },
+        "notes": "组织专名沿用源英文字母缩写与括号形式；正文完整释义已译为简中。"
+      },
+      {
+        "key": "definitions.200",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "Ｆ．Ｏ．Ａ．Ｆ．とは『友達の友達』———\n都市伝説が世間に流布する際に登場する\n実体のない人物のことだ。\n\n彼らはしばしば身近で都合の良いポジションで\n都市伝説の信憑性の向上に一役買っている。\n\nでは、友達の友達は存在しないのだろうか？\n……否。\n\n我々が所属する組織Ｆ．Ｏ．Ａ．Ｆ．の存在意義は、\n本来民衆をパニックに陥れるような怪異現象\nを秘密裏に解明し、処理することにある。\n警察史編纂室は、その組織の役割の一翼を\n担っている。\nだが、ここ十数年で組織の在りようも大きく\n変質してきた。\n\n本来の目的を忘れ自己の利益を追求する者。\n権力に溺れ策謀術に勤しむ者。\n欲に取り憑かれる者が後を絶たない。\n\n次第に組織の中にも権力闘争が生まれ、\n現在では複数の派閥が存在するに至る。\n\n私が所属する派閥は、本来の存在意義を\n取り戻そうとする、いわば原理主義派だ。\nそこには目的の為なら手段を選ばないという\n側面もある。\nしかし、そこは裏社会。\n綺麗事では済まされないことは、いくらでもあ\nるのだ。 事実、私も一度は殺された身だ。\n\n……前置きは、これぐらいでいいだろう。\n\n近頃、怪異現象の頻度が高まりつつある。\n編纂室の報告を聞いても、ただならぬ状況が\n窺える。\nこれは日本という国そのものが病んでいるから\nだろうか？確かに日本には怪異を生み出す、\n独特の風土がある。\n八百万の神々を受け容れる懐の広さを持つ\n一方で古来より日本人は倒した敵を神として\n崇めるという『畏れ（おそれ）』の心を持って\nいる。 この畏れの心は、いまも尚日本人の\n中に深く根付いている。\n恨み、妬み、嫉み、憎しみといった負の感情\nは人を攻撃的にし、代償として何か大切なものを\n失う。 それが一般的に『呪い』と総称される\nもののメカニズムであり、それは唯一\n『畏れ』を抱くことによってのみ防止出来るの\nではないだろうか。\nところが、傲慢な人間の浅はかさと欲深さに\nは際限が無い。 道明寺からの報告では\n『呪いの平和利用』などと称し、平然と国民に\n危機と犠牲を求めようとする政財界の大物達\nが存在したらしい。 事前に我々が\n用意したテストに引っ掛かったから良かった\nようなものの、彼らが別の派閥に与していたら、\nどうなっていたことか。\n日本は確実に歪みつつある。\nそして、その歪みは淀みとなり、\nいずれ取り返しのつかない災禍を巻き起こす。\n\nその前に何とかしなければ。\n誰かが何とかしなければならないのだ……。\n\nＤ．Ｋ．\n\n",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "Ｆ．Ｏ．Ａ．Ｆ．，意为『朋友的朋友』——都市传说在世间流传时，总会提到的、没有确切面貌的人物。\n\n他们常以一种离我们不远、又恰到好处的身份出现，为传说增添可信度。\n\n那么，朋友的朋友真的不存在吗？\n……不。\n\n我们所属的组织Ｆ．Ｏ．Ａ．Ｆ．，原本的存在意义，就是秘密查明并处理那些足以让民众陷入恐慌的怪异现象。警察史编纂室，也承担着其中一部分职责。然而，过去十几年间，组织的面貌已发生了巨大的变化。\n\n有人忘记初衷，只顾追逐私利；有人沉溺权力，热衷阴谋。被欲望攫住的人，始终络绎不绝。\n组织内部渐渐出现权力斗争，如今，更分裂成了多个派系。\n\n我所属的派系，试图找回组织原本的存在意义，可以说是回归初衷的一派。我们也确实有为了目的、不择手段的一面。但这里毕竟是暗中的世界。许多事，并非说几句漂亮话就能解决。事实上，我自己就曾被杀死过一次。\n\n……开场白，就说到这里吧。\n\n近来，怪异现象出现得越来越频繁。即使只听编纂室的报告，也能感觉到事态非同寻常。这是因为，日本这个国家本身已经病了吗？\n日本确实有孕育怪异的独特土壤。这里既有容纳八百万神明的胸怀，也有自古延续的『敬畏』之心——将被自己击败的敌人奉为神明，予以祭祀。这份敬畏，至今仍深深扎根于日本人心中。\n怨恨、嫉妒、憎恶等负面情绪，会使人变得富于攻击性，而人也会为此付出代价，失去某种重要的东西。这便是通常被统称为『诅咒』的事物运作的方式。或许，唯有心怀敬畏，才能阻止它发生。\n可傲慢之人的浅薄与贪婪，却从来没有止境。据道明寺汇报，竟有政商界的大人物，打着『和平利用诅咒』的旗号，若无其事地想让国民承担危险、付出牺牲。幸好他们落入了我们事先布下的试探；倘若他们投靠了其他派系，后果又会如何？\n日本，正在一点点扭曲。而这份扭曲将沉积为污浊，终有一天，酿成无法挽回的灾祸。\n\n必须在那之前想办法。\n必须有人，想办法阻止这一切……\n\nＤ．Ｋ．"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "terms.200",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

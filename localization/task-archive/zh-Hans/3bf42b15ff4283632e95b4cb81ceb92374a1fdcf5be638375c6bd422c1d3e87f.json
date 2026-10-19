@@ -1,0 +1,2629 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 10001,
+    "title": "第零话 · 黒闇",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 1085,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.17812:731884.4701a876",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"这幅画是谁画的？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"为什么含有那种毒素？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"这些似乎都有必要验证。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17812,
+          "page": "17812:731884",
+          "route": "remaining-10001-branches",
+          "trial": 73,
+          "step": 2573
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17812:731640.8e35ec33",
+            "step": 2571,
+            "script": 17812,
+            "text": "女人画像迫使房客们自杀。\n诚然，也可以这么说。",
+            "translation": "女人画像迫使房客们自杀。诚然，也可以这么说。"
+          },
+          {
+            "key": "page.17812:731736.1272fddc",
+            "step": 2572,
+            "script": 17812,
+            "text": "事实上，从画中检出了毒素。\n它可以令人精神异常，使得\n房客们一个接一个地失踪和自杀。",
+            "translation": "事实上，从画中检出了毒素。它可以令人精神异常，使得房客们一个接一个地失踪和自杀。"
+          },
+          {
+            "key": "page.17812:731884.4701a876",
+            "step": 2573,
+            "script": 17812,
+            "text": "这幅画是谁画的？\n为什么含有那种毒素？\n这些似乎都有必要验证。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这幅画是谁画的？为什么含有那种毒素？这些似乎都有必要验证。"
+            }
+          ]
+        },
+        "notes": "科学线主动打电话约雪乃的入口，与被动回拨版本区分。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17501:644712.fe95e6bc",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"我决定给雪乃打个电话。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"电话那头的她很愉快地\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"接受了我的邀请。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17501,
+          "page": "17501:644712",
+          "route": "remaining-10001-branches",
+          "trial": 88,
+          "step": 2306
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17501:644712.fe95e6bc",
+            "step": 2306,
+            "script": 17501,
+            "text": "我决定给雪乃打个电话。\n电话那头的她很愉快地\n接受了我的邀请。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:644868.6dced3a",
+            "step": 2307,
+            "script": 17501,
+            "text": "心好痛。\n我又想到了与雪乃的第一次相遇……。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645072.3f26aff6",
+            "step": 2308,
+            "script": 17501,
+            "text": "常去的家庭餐厅。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我决定给雪乃打个电话。电话那头的她很愉快地接受了我的邀请。"
+            }
+          ]
+        },
+        "notes": "科学线主动打电话约雪乃的入口，与被动回拨版本区分。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17501:644868.6dced3a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"心好痛。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"我又想到了与雪乃的\",\"color\":0,\"size\":0},{\"text\":\"第一次相遇……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17501,
+          "page": "17501:644868",
+          "route": "remaining-10001-branches",
+          "trial": 88,
+          "step": 2307
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17501:644712.fe95e6bc",
+            "step": 2306,
+            "script": 17501,
+            "text": "我决定给雪乃打个电话。\n电话那头的她很愉快地\n接受了我的邀请。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:644868.6dced3a",
+            "step": 2307,
+            "script": 17501,
+            "text": "心好痛。\n我又想到了与雪乃的第一次相遇……。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645072.3f26aff6",
+            "step": 2308,
+            "script": 17501,
+            "text": "常去的家庭餐厅。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645136.bed733d7",
+            "step": 2309,
+            "script": 17501,
+            "text": "常坐的座位。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "心好痛。我又想到了与雪乃的第一次相遇……。"
+            }
+          ]
+        },
+        "notes": "科学线主动打电话约雪乃的入口，与被动回拨版本区分。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17501:645072.3f26aff6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"常去的家庭餐厅。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17501,
+          "page": "17501:645072",
+          "route": "remaining-10001-branches",
+          "trial": 88,
+          "step": 2308
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17501:644712.fe95e6bc",
+            "step": 2306,
+            "script": 17501,
+            "text": "我决定给雪乃打个电话。\n电话那头的她很愉快地\n接受了我的邀请。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:644868.6dced3a",
+            "step": 2307,
+            "script": 17501,
+            "text": "心好痛。\n我又想到了与雪乃的第一次相遇……。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645072.3f26aff6",
+            "step": 2308,
+            "script": 17501,
+            "text": "常去的家庭餐厅。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645136.bed733d7",
+            "step": 2309,
+            "script": 17501,
+            "text": "常坐的座位。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645184.855d1848",
+            "step": 2310,
+            "script": 17501,
+            "text": "如果雪乃坐在我对面的话，\n我们看起来像是哪种关系呢？\n〔恋人〕？ 还是…………。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "常去的家庭餐厅。"
+            }
+          ]
+        },
+        "notes": "科学线主动打电话约雪乃的入口，与被动回拨版本区分。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17501:645136.bed733d7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"常坐的座位。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17501,
+          "page": "17501:645136",
+          "route": "remaining-10001-branches",
+          "trial": 88,
+          "step": 2309
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17501:644868.6dced3a",
+            "step": 2307,
+            "script": 17501,
+            "text": "心好痛。\n我又想到了与雪乃的第一次相遇……。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645072.3f26aff6",
+            "step": 2308,
+            "script": 17501,
+            "text": "常去的家庭餐厅。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645136.bed733d7",
+            "step": 2309,
+            "script": 17501,
+            "text": "常坐的座位。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645184.855d1848",
+            "step": 2310,
+            "script": 17501,
+            "text": "如果雪乃坐在我对面的话，\n我们看起来像是哪种关系呢？\n〔恋人〕？ 还是…………。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645412.b438141b",
+            "step": 2311,
+            "script": 17501,
+            "text": "比我晚到了几分钟的雪乃依然和往常一样，\n那沉稳的笑容中，夹杂着某种似乎洞悉一切\n的敏锐。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "常坐的座位。"
+            }
+          ]
+        },
+        "notes": "科学线主动打电话约雪乃的入口，与被动回拨版本区分。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17501:645184.855d1848",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"如果雪乃坐在我对面的话，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"我们看起来像是哪种关系呢？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"〔恋人〕\",\"size\":0,\"keyword\":4639},{\"text\":\"？ 还是…………。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17501,
+          "page": "17501:645184",
+          "route": "remaining-10001-branches",
+          "trial": 88,
+          "step": 2310
+        },
+        "requiredRefs": [
+          {
+            "ref": 4,
+            "text": "〔恋人〕",
+            "size": 0,
+            "keyword": 4639
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17501:645072.3f26aff6",
+            "step": 2308,
+            "script": 17501,
+            "text": "常去的家庭餐厅。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645136.bed733d7",
+            "step": 2309,
+            "script": 17501,
+            "text": "常坐的座位。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645184.855d1848",
+            "step": 2310,
+            "script": 17501,
+            "text": "如果雪乃坐在我对面的话，\n我们看起来像是哪种关系呢？\n〔恋人〕？ 还是…………。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645412.b438141b",
+            "step": 2311,
+            "script": 17501,
+            "text": "比我晚到了几分钟的雪乃依然和往常一样，\n那沉稳的笑容中，夹杂着某种似乎洞悉一切\n的敏锐。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645608.40084adf",
+            "step": 2312,
+            "script": 17501,
+            "text": "「真少见呢，风海君竟然会约我出来」\n「对不起，这个时间把你约出来」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "如果雪乃坐在我对面的话，我们看起来像是哪种关系呢？"
+            },
+            {
+              "ref": 4
+            },
+            {
+              "text": "？ 还是…………。"
+            }
+          ]
+        },
+        "notes": "科学线主动打电话约雪乃的入口，与被动回拨版本区分。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17501:645412.b438141b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"比我晚到了几分钟的\",\"color\":0,\"size\":0},{\"text\":\"雪乃依然和往常一样，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"那沉稳的笑容中，\",\"color\":0,\"size\":0},{\"text\":\"夹杂着某种似乎洞\",\"color\":0,\"size\":0},{\"text\":\"悉一\",\"color\":0,\"size\":0},{\"text\":\"切\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"的敏锐。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17501,
+          "page": "17501:645412",
+          "route": "remaining-10001-branches",
+          "trial": 88,
+          "step": 2311
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17501:645136.bed733d7",
+            "step": 2309,
+            "script": 17501,
+            "text": "常坐的座位。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645184.855d1848",
+            "step": 2310,
+            "script": 17501,
+            "text": "如果雪乃坐在我对面的话，\n我们看起来像是哪种关系呢？\n〔恋人〕？ 还是…………。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645412.b438141b",
+            "step": 2311,
+            "script": 17501,
+            "text": "比我晚到了几分钟的雪乃依然和往常一样，\n那沉稳的笑容中，夹杂着某种似乎洞悉一切\n的敏锐。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645608.40084adf",
+            "step": 2312,
+            "script": 17501,
+            "text": "「真少见呢，风海君竟然会约我出来」\n「对不起，这个时间把你约出来」",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645724.1701184e",
+            "step": 2313,
+            "script": 17501,
+            "text": "「没关系，\n反正一个人在家待着也是胡思乱想」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "比我晚到了几分钟的雪乃依然和往常一样，那沉稳的笑容中，夹杂着某种似乎洞悉一切的敏锐。"
+            }
+          ]
+        },
+        "notes": "科学线主动打电话约雪乃的入口，与被动回拨版本区分。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17501:645608.40084adf",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「真少见呢，\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"君竟然会约我出来」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「对不起，这个时间把你约出来」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17501,
+          "page": "17501:645608",
+          "route": "remaining-10001-branches",
+          "trial": 88,
+          "step": 2312
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17501:645184.855d1848",
+            "step": 2310,
+            "script": 17501,
+            "text": "如果雪乃坐在我对面的话，\n我们看起来像是哪种关系呢？\n〔恋人〕？ 还是…………。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645412.b438141b",
+            "step": 2311,
+            "script": 17501,
+            "text": "比我晚到了几分钟的雪乃依然和往常一样，\n那沉稳的笑容中，夹杂着某种似乎洞悉一切\n的敏锐。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645608.40084adf",
+            "step": 2312,
+            "script": 17501,
+            "text": "「真少见呢，风海君竟然会约我出来」\n「对不起，这个时间把你约出来」",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645724.1701184e",
+            "step": 2313,
+            "script": 17501,
+            "text": "「没关系，\n反正一个人在家待着也是胡思乱想」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「真少见呢，"
+            },
+            {
+              "ref": 1
+            },
+            {
+              "text": "君竟然会约我出来」「对不起，这个时间把你约出来」"
+            }
+          ]
+        },
+        "notes": "科学线主动打电话约雪乃的入口，与被动回拨版本区分。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17501:645724.1701184e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「没关系，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"反正一个人在家待着也是胡思乱想」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17501,
+          "page": "17501:645724",
+          "route": "remaining-10001-branches",
+          "trial": 88,
+          "step": 2313
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17501:645412.b438141b",
+            "step": 2311,
+            "script": 17501,
+            "text": "比我晚到了几分钟的雪乃依然和往常一样，\n那沉稳的笑容中，夹杂着某种似乎洞悉一切\n的敏锐。",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645608.40084adf",
+            "step": 2312,
+            "script": 17501,
+            "text": "「真少见呢，风海君竟然会约我出来」\n「对不起，这个时间把你约出来」",
+            "translation": null
+          },
+          {
+            "key": "page.17501:645724.1701184e",
+            "step": 2313,
+            "script": 17501,
+            "text": "「没关系，\n反正一个人在家待着也是胡思乱想」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「没关系，反正一个人在家待着也是胡思乱想」"
+            }
+          ]
+        },
+        "notes": "科学线主动打电话约雪乃的入口，与被动回拨版本区分。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17812:732772.17606862",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"心衰竭……在现代的死因分析中，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"原本就是最常用的词汇之一。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17812,
+          "page": "17812:732772",
+          "route": "remaining-10001-branches",
+          "trial": 121,
+          "step": 2794
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17812:732772.17606862",
+            "step": 2794,
+            "script": 17812,
+            "text": "心衰竭……在现代的死因分析中，\n原本就是最常用的词汇之一。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:732884.6f766c63",
+            "step": 2795,
+            "script": 17812,
+            "text": "于是，与三云庄２０２号房扯上关系的人，\n都被归结为这种常见的死因。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:733032.ef9d9e64",
+            "step": 2796,
+            "script": 17812,
+            "text": "心衰竭只是形式上的说法，\n其实应该是死因不明。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "心衰竭……在现代的死因分析中，原本就是最常用的词汇之一。"
+            }
+          ]
+        },
+        "notes": "心衰竭图解反馈为人物对未知死因的认识，不冒充现代临床定义。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17812:732884.6f766c63",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"于是，与三云庄２０２号房扯上关系的人，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"都被归结为\",\"color\":0,\"size\":0},{\"text\":\"这种常见的死因。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17812,
+          "page": "17812:732884",
+          "route": "remaining-10001-branches",
+          "trial": 121,
+          "step": 2795
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17812:732772.17606862",
+            "step": 2794,
+            "script": 17812,
+            "text": "心衰竭……在现代的死因分析中，\n原本就是最常用的词汇之一。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:732884.6f766c63",
+            "step": 2795,
+            "script": 17812,
+            "text": "于是，与三云庄２０２号房扯上关系的人，\n都被归结为这种常见的死因。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:733032.ef9d9e64",
+            "step": 2796,
+            "script": 17812,
+            "text": "心衰竭只是形式上的说法，\n其实应该是死因不明。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:733132.927b072f",
+            "step": 2797,
+            "script": 17812,
+            "text": "受那幅画影响而患上心脏病的人们……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "于是，与三云庄202号房扯上关系的人，都被归结为这种常见的死因。"
+            }
+          ]
+        },
+        "notes": "心衰竭图解反馈为人物对未知死因的认识，不冒充现代临床定义。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17812:733032.ef9d9e64",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"心衰竭只是形式上的说法，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"其实应该是死因不明。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17812,
+          "page": "17812:733032",
+          "route": "remaining-10001-branches",
+          "trial": 121,
+          "step": 2796
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17812:732772.17606862",
+            "step": 2794,
+            "script": 17812,
+            "text": "心衰竭……在现代的死因分析中，\n原本就是最常用的词汇之一。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:732884.6f766c63",
+            "step": 2795,
+            "script": 17812,
+            "text": "于是，与三云庄２０２号房扯上关系的人，\n都被归结为这种常见的死因。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:733032.ef9d9e64",
+            "step": 2796,
+            "script": 17812,
+            "text": "心衰竭只是形式上的说法，\n其实应该是死因不明。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:733132.927b072f",
+            "step": 2797,
+            "script": 17812,
+            "text": "受那幅画影响而患上心脏病的人们……。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:733200.5fd03b37",
+            "step": 2798,
+            "script": 17812,
+            "text": "自从那幅画绘制出来以后，\n究竟有多少人是这样丢了性命呢？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "心衰竭只是形式上的说法，其实应该是死因不明。"
+            }
+          ]
+        },
+        "notes": "心衰竭图解反馈为人物对未知死因的认识，不冒充现代临床定义。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17812:733132.927b072f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"受那幅画影响而患上心脏病的人们……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17812,
+          "page": "17812:733132",
+          "route": "remaining-10001-branches",
+          "trial": 121,
+          "step": 2797
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17812:732884.6f766c63",
+            "step": 2795,
+            "script": 17812,
+            "text": "于是，与三云庄２０２号房扯上关系的人，\n都被归结为这种常见的死因。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:733032.ef9d9e64",
+            "step": 2796,
+            "script": 17812,
+            "text": "心衰竭只是形式上的说法，\n其实应该是死因不明。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:733132.927b072f",
+            "step": 2797,
+            "script": 17812,
+            "text": "受那幅画影响而患上心脏病的人们……。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:733200.5fd03b37",
+            "step": 2798,
+            "script": 17812,
+            "text": "自从那幅画绘制出来以后，\n究竟有多少人是这样丢了性命呢？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "受那幅画影响而患上心脏病的人们……。"
+            }
+          ]
+        },
+        "notes": "心衰竭图解反馈为人物对未知死因的认识，不冒充现代临床定义。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17812:733200.5fd03b37",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"自从那幅画绘制出来以后，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"究竟有多少人是这样丢了性命呢？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17812,
+          "page": "17812:733200",
+          "route": "remaining-10001-branches",
+          "trial": 121,
+          "step": 2798
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17812:733032.ef9d9e64",
+            "step": 2796,
+            "script": 17812,
+            "text": "心衰竭只是形式上的说法，\n其实应该是死因不明。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:733132.927b072f",
+            "step": 2797,
+            "script": 17812,
+            "text": "受那幅画影响而患上心脏病的人们……。",
+            "translation": null
+          },
+          {
+            "key": "page.17812:733200.5fd03b37",
+            "step": 2798,
+            "script": 17812,
+            "text": "自从那幅画绘制出来以后，\n究竟有多少人是这样丢了性命呢？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "自从那幅画绘制出来以后，究竟有多少人是这样丢了性命呢？"
+            }
+          ]
+        },
+        "notes": "心衰竭图解反馈为人物对未知死因的认识，不冒充现代临床定义。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:670092.b1714dbe",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「你……不再爱他了吗？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「怎么说呢……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:670092",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2376
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670092.b1714dbe",
+            "step": 2376,
+            "script": 17602,
+            "text": "「你……不再爱他了吗？」\n「怎么说呢……」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670184.c72afdbb",
+            "step": 2377,
+            "script": 17602,
+            "text": "雪乃眺望着远处。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670236.efcf4af8",
+            "step": 2378,
+            "script": 17602,
+            "text": "「怎么说呢……」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「你……不再爱他了吗？」「怎么说呢……」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:670184.c72afdbb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"雪乃眺望着远处。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:670184",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2377
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670092.b1714dbe",
+            "step": 2376,
+            "script": 17602,
+            "text": "「你……不再爱他了吗？」\n「怎么说呢……」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670184.c72afdbb",
+            "step": 2377,
+            "script": 17602,
+            "text": "雪乃眺望着远处。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670236.efcf4af8",
+            "step": 2378,
+            "script": 17602,
+            "text": "「怎么说呢……」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670284.e93f4473",
+            "step": 2379,
+            "script": 17602,
+            "text": "她又小声说了一遍，好像是在追问自己。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "雪乃眺望着远处。"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:670236.efcf4af8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「怎么说呢……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:670236",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2378
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670092.b1714dbe",
+            "step": 2376,
+            "script": 17602,
+            "text": "「你……不再爱他了吗？」\n「怎么说呢……」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670184.c72afdbb",
+            "step": 2377,
+            "script": 17602,
+            "text": "雪乃眺望着远处。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670236.efcf4af8",
+            "step": 2378,
+            "script": 17602,
+            "text": "「怎么说呢……」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670284.e93f4473",
+            "step": 2379,
+            "script": 17602,
+            "text": "她又小声说了一遍，好像是在追问自己。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670344.589e530c",
+            "step": 2380,
+            "script": 17602,
+            "text": "雪乃盯着桌子看了好一会儿，\n才渐渐地面露微笑，抬头看着我。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「怎么说呢……」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:670284.e93f4473",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"她又小声说了一遍，好像是在追问自己。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:670284",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2379
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670184.c72afdbb",
+            "step": 2377,
+            "script": 17602,
+            "text": "雪乃眺望着远处。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670236.efcf4af8",
+            "step": 2378,
+            "script": 17602,
+            "text": "「怎么说呢……」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670284.e93f4473",
+            "step": 2379,
+            "script": 17602,
+            "text": "她又小声说了一遍，好像是在追问自己。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670344.589e530c",
+            "step": 2380,
+            "script": 17602,
+            "text": "雪乃盯着桌子看了好一会儿，\n才渐渐地面露微笑，抬头看着我。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670480.5a0dab39",
+            "step": 2381,
+            "script": 17602,
+            "text": "可她的笑容却十分僵硬……\n好像只要稍微触动就会崩溃似的。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她又小声说了一遍，好像是在追问自己。"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:670344.589e530c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"雪乃盯着桌子看了好一会儿，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"才渐渐地面露微笑，抬头看着我。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:670344",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2380
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670236.efcf4af8",
+            "step": 2378,
+            "script": 17602,
+            "text": "「怎么说呢……」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670284.e93f4473",
+            "step": 2379,
+            "script": 17602,
+            "text": "她又小声说了一遍，好像是在追问自己。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670344.589e530c",
+            "step": 2380,
+            "script": 17602,
+            "text": "雪乃盯着桌子看了好一会儿，\n才渐渐地面露微笑，抬头看着我。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670480.5a0dab39",
+            "step": 2381,
+            "script": 17602,
+            "text": "可她的笑容却十分僵硬……\n好像只要稍微触动就会崩溃似的。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670616.320ed033",
+            "step": 2382,
+            "script": 17602,
+            "text": "「风海君呢？ 不准备结婚吗？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "雪乃盯着桌子看了好一会儿，才渐渐地面露微笑，抬头看着我。"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:670480.5a0dab39",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"可她的笑容却十分僵硬……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"好像只要稍微触动\",\"color\":0,\"size\":0},{\"text\":\"就会崩溃似的。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:670480",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2381
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670284.e93f4473",
+            "step": 2379,
+            "script": 17602,
+            "text": "她又小声说了一遍，好像是在追问自己。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670344.589e530c",
+            "step": 2380,
+            "script": 17602,
+            "text": "雪乃盯着桌子看了好一会儿，\n才渐渐地面露微笑，抬头看着我。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670480.5a0dab39",
+            "step": 2381,
+            "script": 17602,
+            "text": "可她的笑容却十分僵硬……\n好像只要稍微触动就会崩溃似的。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670616.320ed033",
+            "step": 2382,
+            "script": 17602,
+            "text": "「风海君呢？ 不准备结婚吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670680.a3392f83",
+            "step": 2383,
+            "script": 17602,
+            "text": "「啊！？ 我吗？ ……这个嘛，\n结婚这种事，还没考虑过呢」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可她的笑容却十分僵硬……好像只要稍微触动就会崩溃似的。"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:670616.320ed033",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"君呢？ 不准备结婚吗？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:670616",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2382
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670344.589e530c",
+            "step": 2380,
+            "script": 17602,
+            "text": "雪乃盯着桌子看了好一会儿，\n才渐渐地面露微笑，抬头看着我。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670480.5a0dab39",
+            "step": 2381,
+            "script": 17602,
+            "text": "可她的笑容却十分僵硬……\n好像只要稍微触动就会崩溃似的。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670616.320ed033",
+            "step": 2382,
+            "script": 17602,
+            "text": "「风海君呢？ 不准备结婚吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670680.a3392f83",
+            "step": 2383,
+            "script": 17602,
+            "text": "「啊！？ 我吗？ ……这个嘛，\n结婚这种事，还没考虑过呢」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670776.6b69ccdb",
+            "step": 2384,
+            "script": 17602,
+            "text": "「这样啊。风海君\n应该会是个好丈夫呢」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「"
+            },
+            {
+              "ref": 1
+            },
+            {
+              "text": "君呢？ 不准备结婚吗？」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:670680.a3392f83",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「啊！？ 我吗？ ……这个嘛，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"结婚这种事，还没考虑过呢」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:670680",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2383
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670480.5a0dab39",
+            "step": 2381,
+            "script": 17602,
+            "text": "可她的笑容却十分僵硬……\n好像只要稍微触动就会崩溃似的。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670616.320ed033",
+            "step": 2382,
+            "script": 17602,
+            "text": "「风海君呢？ 不准备结婚吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670680.a3392f83",
+            "step": 2383,
+            "script": 17602,
+            "text": "「啊！？ 我吗？ ……这个嘛，\n结婚这种事，还没考虑过呢」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670776.6b69ccdb",
+            "step": 2384,
+            "script": 17602,
+            "text": "「这样啊。风海君\n应该会是个好丈夫呢」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670876.4b80bb2a",
+            "step": 2385,
+            "script": 17602,
+            "text": "是这样吗？\n结婚、当父亲，\n这些事我完全无法想象。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「啊！？ 我吗？ ……这个嘛，结婚这种事，还没考虑过呢」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:670776.6b69ccdb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「这样啊。\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"君\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"应该会是个好丈夫呢」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:670776",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2384
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670616.320ed033",
+            "step": 2382,
+            "script": 17602,
+            "text": "「风海君呢？ 不准备结婚吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670680.a3392f83",
+            "step": 2383,
+            "script": 17602,
+            "text": "「啊！？ 我吗？ ……这个嘛，\n结婚这种事，还没考虑过呢」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670776.6b69ccdb",
+            "step": 2384,
+            "script": 17602,
+            "text": "「这样啊。风海君\n应该会是个好丈夫呢」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670876.4b80bb2a",
+            "step": 2385,
+            "script": 17602,
+            "text": "是这样吗？\n结婚、当父亲，\n这些事我完全无法想象。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670996.4ad55719",
+            "step": 2386,
+            "script": 17602,
+            "text": "「至少你已经有女朋友了吧？」\n「不，还没有，工作太忙了」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「这样啊。"
+            },
+            {
+              "ref": 1
+            },
+            {
+              "text": "君应该会是个好丈夫呢」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:670876.4b80bb2a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"是这样吗？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"结婚、当父亲，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"这些事我完全无法想象。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:670876",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2385
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670680.a3392f83",
+            "step": 2383,
+            "script": 17602,
+            "text": "「啊！？ 我吗？ ……这个嘛，\n结婚这种事，还没考虑过呢」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670776.6b69ccdb",
+            "step": 2384,
+            "script": 17602,
+            "text": "「这样啊。风海君\n应该会是个好丈夫呢」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670876.4b80bb2a",
+            "step": 2385,
+            "script": 17602,
+            "text": "是这样吗？\n结婚、当父亲，\n这些事我完全无法想象。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670996.4ad55719",
+            "step": 2386,
+            "script": 17602,
+            "text": "「至少你已经有女朋友了吧？」\n「不，还没有，工作太忙了」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671104.a65d1f88",
+            "step": 2387,
+            "script": 17602,
+            "text": "「真的？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "是这样吗？结婚、当父亲，这些事我完全无法想象。"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:670996.4ad55719",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「至少你已经有女朋友了吧？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「不，还没有，工作太忙了」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:670996",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2386
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670776.6b69ccdb",
+            "step": 2384,
+            "script": 17602,
+            "text": "「这样啊。风海君\n应该会是个好丈夫呢」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670876.4b80bb2a",
+            "step": 2385,
+            "script": 17602,
+            "text": "是这样吗？\n结婚、当父亲，\n这些事我完全无法想象。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670996.4ad55719",
+            "step": 2386,
+            "script": 17602,
+            "text": "「至少你已经有女朋友了吧？」\n「不，还没有，工作太忙了」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671104.a65d1f88",
+            "step": 2387,
+            "script": 17602,
+            "text": "「真的？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671140.20664926",
+            "step": 2388,
+            "script": 17602,
+            "text": "雪乃歪着头，一副孩子般\n天真无邪的表情。\n为何她的这些举止和眼神，\n都能让我的脉搏剧烈跳动？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「至少你已经有女朋友了吧？」「不，还没有，工作太忙了」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:671104.a65d1f88",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「真的？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:671104",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2387
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670876.4b80bb2a",
+            "step": 2385,
+            "script": 17602,
+            "text": "是这样吗？\n结婚、当父亲，\n这些事我完全无法想象。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:670996.4ad55719",
+            "step": 2386,
+            "script": 17602,
+            "text": "「至少你已经有女朋友了吧？」\n「不，还没有，工作太忙了」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671104.a65d1f88",
+            "step": 2387,
+            "script": 17602,
+            "text": "「真的？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671140.20664926",
+            "step": 2388,
+            "script": 17602,
+            "text": "雪乃歪着头，一副孩子般\n天真无邪的表情。\n为何她的这些举止和眼神，\n都能让我的脉搏剧烈跳动？",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671312.35e1ced9",
+            "step": 2389,
+            "script": 17602,
+            "text": "「真、真的。而且，在单位\n也没有结识女性的机会」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「真的？」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:671140.20664926",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"雪乃歪着头，一副孩子般\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"天真无邪的表情。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"为何她的这些举止和眼神，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"都能让我的脉搏剧烈跳动？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:671140",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2388
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:670996.4ad55719",
+            "step": 2386,
+            "script": 17602,
+            "text": "「至少你已经有女朋友了吧？」\n「不，还没有，工作太忙了」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671104.a65d1f88",
+            "step": 2387,
+            "script": 17602,
+            "text": "「真的？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671140.20664926",
+            "step": 2388,
+            "script": 17602,
+            "text": "雪乃歪着头，一副孩子般\n天真无邪的表情。\n为何她的这些举止和眼神，\n都能让我的脉搏剧烈跳动？",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671312.35e1ced9",
+            "step": 2389,
+            "script": 17602,
+            "text": "「真、真的。而且，在单位\n也没有结识女性的机会」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671416.f18362cc",
+            "step": 2390,
+            "script": 17602,
+            "text": "「呵……太可惜了。\n风海君这么温柔帅气的人」\n「没有那回事，别再奉承我啦」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "雪乃歪着头，一副孩子般天真无邪的表情。为何她的这些举止和眼神，都能让我的脉搏剧烈跳动？"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:671312.35e1ced9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「真、真的。而且，在单位\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"也没有结识女性的机会」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:671312",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2389
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:671104.a65d1f88",
+            "step": 2387,
+            "script": 17602,
+            "text": "「真的？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671140.20664926",
+            "step": 2388,
+            "script": 17602,
+            "text": "雪乃歪着头，一副孩子般\n天真无邪的表情。\n为何她的这些举止和眼神，\n都能让我的脉搏剧烈跳动？",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671312.35e1ced9",
+            "step": 2389,
+            "script": 17602,
+            "text": "「真、真的。而且，在单位\n也没有结识女性的机会」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671416.f18362cc",
+            "step": 2390,
+            "script": 17602,
+            "text": "「呵……太可惜了。\n风海君这么温柔帅气的人」\n「没有那回事，别再奉承我啦」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671580.f0f40d0c",
+            "step": 2391,
+            "script": 17602,
+            "text": "虽然知道只是个玩笑，\n但还是不由得满脸通红起来。\n可是，似乎想让我更箸迫似的，\n雪乃摇摇头说道：",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「真、真的。而且，在单位也没有结识女性的机会」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:671416.f18362cc",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「呵……太可惜了。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"君\",\"color\":0,\"size\":0},{\"text\":\"这么温柔帅气的人」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「没有那回事，别再奉承我啦」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:671416",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2390
+        },
+        "requiredRefs": [
+          {
+            "ref": 2,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:671140.20664926",
+            "step": 2388,
+            "script": 17602,
+            "text": "雪乃歪着头，一副孩子般\n天真无邪的表情。\n为何她的这些举止和眼神，\n都能让我的脉搏剧烈跳动？",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671312.35e1ced9",
+            "step": 2389,
+            "script": 17602,
+            "text": "「真、真的。而且，在单位\n也没有结识女性的机会」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671416.f18362cc",
+            "step": 2390,
+            "script": 17602,
+            "text": "「呵……太可惜了。\n风海君这么温柔帅气的人」\n「没有那回事，别再奉承我啦」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671580.f0f40d0c",
+            "step": 2391,
+            "script": 17602,
+            "text": "虽然知道只是个玩笑，\n但还是不由得满脸通红起来。\n可是，似乎想让我更箸迫似的，\n雪乃摇摇头说道：",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671768.ea21b218",
+            "step": 2392,
+            "script": 17602,
+            "text": "「我没跟你开玩笑哦\n——我是认真的」\n「啊………？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「呵……太可惜了。"
+            },
+            {
+              "ref": 2
+            },
+            {
+              "text": "君这么温柔帅气的人」「没有那回事，别再奉承我啦」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:671580.f0f40d0c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"虽然知道只是个玩笑，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"但还是不由得满脸通红起来。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"可是，似乎想让我更箸迫似的，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"雪乃摇摇头说道：\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:671580",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2391
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:671312.35e1ced9",
+            "step": 2389,
+            "script": 17602,
+            "text": "「真、真的。而且，在单位\n也没有结识女性的机会」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671416.f18362cc",
+            "step": 2390,
+            "script": 17602,
+            "text": "「呵……太可惜了。\n风海君这么温柔帅气的人」\n「没有那回事，别再奉承我啦」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671580.f0f40d0c",
+            "step": 2391,
+            "script": 17602,
+            "text": "虽然知道只是个玩笑，\n但还是不由得满脸通红起来。\n可是，似乎想让我更箸迫似的，\n雪乃摇摇头说道：",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671768.ea21b218",
+            "step": 2392,
+            "script": 17602,
+            "text": "「我没跟你开玩笑哦\n——我是认真的」\n「啊………？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671860.e365732e",
+            "step": 2393,
+            "script": 17602,
+            "text": "雪乃的眼眸，宛如刚刚从水中\n捞出的宝石一样。\n闪闪发光，让我无法移开视线。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "虽然知道只是个玩笑，但还是不由得满脸通红起来。可是，似乎想让我更窘迫似的，雪乃摇摇头说道："
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 修正错字。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:671768.ea21b218",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「我没跟你开玩笑哦\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"———我是认真的」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「啊………？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:671768",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2392
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:671416.f18362cc",
+            "step": 2390,
+            "script": 17602,
+            "text": "「呵……太可惜了。\n风海君这么温柔帅气的人」\n「没有那回事，别再奉承我啦」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671580.f0f40d0c",
+            "step": 2391,
+            "script": 17602,
+            "text": "虽然知道只是个玩笑，\n但还是不由得满脸通红起来。\n可是，似乎想让我更箸迫似的，\n雪乃摇摇头说道：",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671768.ea21b218",
+            "step": 2392,
+            "script": 17602,
+            "text": "「我没跟你开玩笑哦\n——我是认真的」\n「啊………？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671860.e365732e",
+            "step": 2393,
+            "script": 17602,
+            "text": "雪乃的眼眸，宛如刚刚从水中\n捞出的宝石一样。\n闪闪发光，让我无法移开视线。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672004.e564acb7",
+            "step": 2394,
+            "script": 17602,
+            "text": "凝视着她的眼睛，\n周围的嘈杂也好，自己的立场\n也好，所有一切似乎都忘记了。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「我没跟你开玩笑哦———我是认真的」「啊………？」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:671860.e365732e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"雪乃的眼眸，宛如刚刚从水中\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"捞出的宝石一样。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"闪闪发光，让我无法移开视线。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:671860",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2393
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:671580.f0f40d0c",
+            "step": 2391,
+            "script": 17602,
+            "text": "虽然知道只是个玩笑，\n但还是不由得满脸通红起来。\n可是，似乎想让我更箸迫似的，\n雪乃摇摇头说道：",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671768.ea21b218",
+            "step": 2392,
+            "script": 17602,
+            "text": "「我没跟你开玩笑哦\n——我是认真的」\n「啊………？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671860.e365732e",
+            "step": 2393,
+            "script": 17602,
+            "text": "雪乃的眼眸，宛如刚刚从水中\n捞出的宝石一样。\n闪闪发光，让我无法移开视线。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672004.e564acb7",
+            "step": 2394,
+            "script": 17602,
+            "text": "凝视着她的眼睛，\n周围的嘈杂也好，自己的立场\n也好，所有一切似乎都忘记了。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672136.3cb13891",
+            "step": 2395,
+            "script": 17602,
+            "text": "「雪……雪乃…………」\n「什么——？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "雪乃的眼眸，宛如刚刚从水中捞出的宝石一样。闪闪发光，让我无法移开视线。"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:672004.e564acb7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"凝视着她的眼睛，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"周围的嘈杂也好，自己的立场\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"也好，所有一切似乎都忘记了。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:672004",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2394
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:671768.ea21b218",
+            "step": 2392,
+            "script": 17602,
+            "text": "「我没跟你开玩笑哦\n——我是认真的」\n「啊………？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:671860.e365732e",
+            "step": 2393,
+            "script": 17602,
+            "text": "雪乃的眼眸，宛如刚刚从水中\n捞出的宝石一样。\n闪闪发光，让我无法移开视线。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672004.e564acb7",
+            "step": 2394,
+            "script": 17602,
+            "text": "凝视着她的眼睛，\n周围的嘈杂也好，自己的立场\n也好，所有一切似乎都忘记了。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672136.3cb13891",
+            "step": 2395,
+            "script": 17602,
+            "text": "「雪……雪乃…………」\n「什么——？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672212.22e183a3",
+            "step": 2396,
+            "script": 17602,
+            "text": "…………不、不行。\n像是喝醉了酒一样，快要失去理性。\n我努力抑制着冲动，挤出了一句话：",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "凝视着她的眼睛，周围的嘈杂也好，自己的立场也好，所有一切似乎都忘记了。"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:672136.3cb13891",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「雪……雪乃…………」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「什么———？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:672136",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2395
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:671860.e365732e",
+            "step": 2393,
+            "script": 17602,
+            "text": "雪乃的眼眸，宛如刚刚从水中\n捞出的宝石一样。\n闪闪发光，让我无法移开视线。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672004.e564acb7",
+            "step": 2394,
+            "script": 17602,
+            "text": "凝视着她的眼睛，\n周围的嘈杂也好，自己的立场\n也好，所有一切似乎都忘记了。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672136.3cb13891",
+            "step": 2395,
+            "script": 17602,
+            "text": "「雪……雪乃…………」\n「什么——？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672212.22e183a3",
+            "step": 2396,
+            "script": 17602,
+            "text": "…………不、不行。\n像是喝醉了酒一样，快要失去理性。\n我努力抑制着冲动，挤出了一句话：",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672384.ef2468c0",
+            "step": 2397,
+            "script": 17602,
+            "text": "「要、要回去吗？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「雪……雪乃…………」「什么———？」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:672212.22e183a3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"…………不、不行。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"像是喝醉了酒一样，快要失去理性。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"我努力抑制着冲动，挤出了一句话：\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:672212",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2396
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:672004.e564acb7",
+            "step": 2394,
+            "script": 17602,
+            "text": "凝视着她的眼睛，\n周围的嘈杂也好，自己的立场\n也好，所有一切似乎都忘记了。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672136.3cb13891",
+            "step": 2395,
+            "script": 17602,
+            "text": "「雪……雪乃…………」\n「什么——？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672212.22e183a3",
+            "step": 2396,
+            "script": 17602,
+            "text": "…………不、不行。\n像是喝醉了酒一样，快要失去理性。\n我努力抑制着冲动，挤出了一句话：",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672384.ef2468c0",
+            "step": 2397,
+            "script": 17602,
+            "text": "「要、要回去吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672436.e3ed7996",
+            "step": 2398,
+            "script": 17602,
+            "text": "「啊，真的呢，已经这么晚了？\n每次和风海君在一起，\n时间总是过得特别快呢」\n「我也有同感……」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "…………不、不行。像是喝醉了酒一样，快要失去理性。我努力抑制着冲动，挤出了一句话："
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:672384.ef2468c0",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「要、要回去吗？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:672384",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2397
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:672136.3cb13891",
+            "step": 2395,
+            "script": 17602,
+            "text": "「雪……雪乃…………」\n「什么——？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672212.22e183a3",
+            "step": 2396,
+            "script": 17602,
+            "text": "…………不、不行。\n像是喝醉了酒一样，快要失去理性。\n我努力抑制着冲动，挤出了一句话：",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672384.ef2468c0",
+            "step": 2397,
+            "script": 17602,
+            "text": "「要、要回去吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672436.e3ed7996",
+            "step": 2398,
+            "script": 17602,
+            "text": "「啊，真的呢，已经这么晚了？\n每次和风海君在一起，\n时间总是过得特别快呢」\n「我也有同感……」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672580.f9970401",
+            "step": 2399,
+            "script": 17602,
+            "text": "「那，你能送我回家吗？」\n「啊！？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「要、要回去吗？」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:672436.e3ed7996",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「啊，真的呢，已经这么晚了？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"每次和\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"君在一起，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"时间总是过得特别快呢」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「我也有同感……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:672436",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2398
+        },
+        "requiredRefs": [
+          {
+            "ref": 3,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:672212.22e183a3",
+            "step": 2396,
+            "script": 17602,
+            "text": "…………不、不行。\n像是喝醉了酒一样，快要失去理性。\n我努力抑制着冲动，挤出了一句话：",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672384.ef2468c0",
+            "step": 2397,
+            "script": 17602,
+            "text": "「要、要回去吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672436.e3ed7996",
+            "step": 2398,
+            "script": 17602,
+            "text": "「啊，真的呢，已经这么晚了？\n每次和风海君在一起，\n时间总是过得特别快呢」\n「我也有同感……」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672580.f9970401",
+            "step": 2399,
+            "script": 17602,
+            "text": "「那，你能送我回家吗？」\n「啊！？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672660.b665cc1",
+            "step": 2400,
+            "script": 17602,
+            "text": "我的反应过于夸张和不自然了，\n雪乃也不由得睁大了眼睛。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「啊，真的呢，已经这么晚了？每次和"
+            },
+            {
+              "ref": 3
+            },
+            {
+              "text": "君在一起，时间总是过得特别快呢」「我也有同感……」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:672580.f9970401",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「那，你能送我回家吗？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「啊！？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:672580",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2399
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:672384.ef2468c0",
+            "step": 2397,
+            "script": 17602,
+            "text": "「要、要回去吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672436.e3ed7996",
+            "step": 2398,
+            "script": 17602,
+            "text": "「啊，真的呢，已经这么晚了？\n每次和风海君在一起，\n时间总是过得特别快呢」\n「我也有同感……」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672580.f9970401",
+            "step": 2399,
+            "script": 17602,
+            "text": "「那，你能送我回家吗？」\n「啊！？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672660.b665cc1",
+            "step": 2400,
+            "script": 17602,
+            "text": "我的反应过于夸张和不自然了，\n雪乃也不由得睁大了眼睛。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672772.6e1f4ba3",
+            "step": 2401,
+            "script": 17602,
+            "text": "「我说了让你那么吃惊的话吗？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「那，你能送我回家吗？」「啊！？」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:672660.b665cc1",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"我的反应过于夸张和不自然了，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"雪乃也不由得睁大了眼睛。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:672660",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2400
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:672436.e3ed7996",
+            "step": 2398,
+            "script": 17602,
+            "text": "「啊，真的呢，已经这么晚了？\n每次和风海君在一起，\n时间总是过得特别快呢」\n「我也有同感……」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672580.f9970401",
+            "step": 2399,
+            "script": 17602,
+            "text": "「那，你能送我回家吗？」\n「啊！？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672660.b665cc1",
+            "step": 2400,
+            "script": 17602,
+            "text": "我的反应过于夸张和不自然了，\n雪乃也不由得睁大了眼睛。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672772.6e1f4ba3",
+            "step": 2401,
+            "script": 17602,
+            "text": "「我说了让你那么吃惊的话吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672840.4c8dad1a",
+            "step": 2402,
+            "script": 17602,
+            "text": "「没、没有，不是啦。那个……嗯，\n一个人走夜路很危险，我送你吧」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我的反应过于夸张和不自然了，雪乃也不由得睁大了眼睛。"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:672772.6e1f4ba3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「我说了让你那么吃惊的话吗？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:672772",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2401
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:672580.f9970401",
+            "step": 2399,
+            "script": 17602,
+            "text": "「那，你能送我回家吗？」\n「啊！？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672660.b665cc1",
+            "step": 2400,
+            "script": 17602,
+            "text": "我的反应过于夸张和不自然了，\n雪乃也不由得睁大了眼睛。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672772.6e1f4ba3",
+            "step": 2401,
+            "script": 17602,
+            "text": "「我说了让你那么吃惊的话吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672840.4c8dad1a",
+            "step": 2402,
+            "script": 17602,
+            "text": "「没、没有，不是啦。那个……嗯，\n一个人走夜路很危险，我送你吧」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672964.5e2502d6",
+            "step": 2403,
+            "script": 17602,
+            "text": "「谢谢。\n我知道风海君肯定会这么说的」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「我说了让你那么吃惊的话吗？」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:672840.4c8dad1a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「没、没有，不是啦。那个……嗯，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一个人走夜路很危险，我送你吧」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:672840",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2402
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:672660.b665cc1",
+            "step": 2400,
+            "script": 17602,
+            "text": "我的反应过于夸张和不自然了，\n雪乃也不由得睁大了眼睛。",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672772.6e1f4ba3",
+            "step": 2401,
+            "script": 17602,
+            "text": "「我说了让你那么吃惊的话吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672840.4c8dad1a",
+            "step": 2402,
+            "script": 17602,
+            "text": "「没、没有，不是啦。那个……嗯，\n一个人走夜路很危险，我送你吧」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672964.5e2502d6",
+            "step": 2403,
+            "script": 17602,
+            "text": "「谢谢。\n我知道风海君肯定会这么说的」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「没、没有，不是啦。那个……嗯，一个人走夜路很危险，我送你吧」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      },
+      {
+        "key": "page.17602:672964.5e2502d6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「谢谢。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"我知道\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"君肯定会这么说的」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 17602,
+          "page": "17602:672964",
+          "route": "remaining-10001-branches",
+          "trial": 200,
+          "step": 2403
+        },
+        "requiredRefs": [
+          {
+            "ref": 3,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17602:672772.6e1f4ba3",
+            "step": 2401,
+            "script": 17602,
+            "text": "「我说了让你那么吃惊的话吗？」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672840.4c8dad1a",
+            "step": 2402,
+            "script": 17602,
+            "text": "「没、没有，不是啦。那个……嗯，\n一个人走夜路很危险，我送你吧」",
+            "translation": null
+          },
+          {
+            "key": "page.17602:672964.5e2502d6",
+            "step": 2403,
+            "script": 17602,
+            "text": "「谢谢。\n我知道风海君肯定会这么说的」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「谢谢。我知道"
+            },
+            {
+              "ref": 3
+            },
+            {
+              "text": "君肯定会这么说的」"
+            }
+          ]
+        },
+        "notes": "询问是否仍爱丈夫引出结婚女友话题，含蓄试探与风海慌乱保留。 保留镜像已有简中，清理固定行宽断行及全角ASCII；姓名与强调引用保持原结构。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

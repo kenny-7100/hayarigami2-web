@@ -1,0 +1,329 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 10001,
+    "title": "第零话 · 黒闇",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 119,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.13501:290180.9be9d205",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"还有小野畑夫妇用煤气\",\"color\":0,\"size\":0},{\"text\":\"〔胁同自杀〕\",\"size\":0,\"keyword\":4635},{\"text\":\"的事件……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "f251384795a64424467f2bfc361090046f11827a9515e5e408b32f110499c34e",
+        "location": {
+          "script": 13501,
+          "page": "13501:290180",
+          "route": "chapter-zero-science-success",
+          "step": 1035
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "〔胁同自杀〕",
+            "size": 0,
+            "keyword": 4635
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.13501:289632.79ce34fc",
+            "step": 1033,
+            "script": 13501,
+            "text": "不一会儿，屏幕上显示出的内容，\n足以令人充满不安的想象。",
+            "translation": "不一会儿，屏幕上显示出的内容，足以令人充满不安的想象。"
+          },
+          {
+            "key": "page.13501:289992.4bf9f117",
+            "step": 1034,
+            "script": 13501,
+            "text": "〔城崎丰〕是〔饿死〕的。\n而中上，由于失踪超过7年，\n根据民法第3０条第１项，一般会判定为〔失踪〕。\n这也就意味着在法律上已被宣告死亡。",
+            "translation": "〔城崎丰〕是〔饿死〕的。而中上，由于失踪超过7年，根据民法第30条第1项，一般会判定为〔失踪〕。这也就意味着在法律上已被宣告死亡。"
+          },
+          {
+            "key": "page.13501:290180.9be9d205",
+            "step": 1035,
+            "script": 13501,
+            "text": "还有小野畑夫妇用煤气〔胁同自杀〕的事件……。",
+            "translation": "还有小野畑夫妇用煤气〔胁同自杀〕的事件……。"
+          },
+          {
+            "key": "page.13501:290256.66bd2f7c",
+            "step": 1036,
+            "script": 13501,
+            "text": "这样一来，出现那种传闻也是理所当然。\n那个房间果然还是有着『什么』，\n这个『什么』到底是什么东西还不清楚……\n我必须要查明真相。",
+            "translation": "这样一来，出现那种传闻也是理所当然。那个房间果然还是有着『什么』，这个『什么』到底是什么东西还不清楚……我必须要查明真相。"
+          },
+          {
+            "key": "page.13501:290456.e618723e",
+            "step": 1037,
+            "script": 13501,
+            "text": "「才6点多啊……」",
+            "translation": "「才6点多啊……」"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"还有小野畑夫妇用煤气\",\"color\":0,\"size\":0},{\"text\":\"〔胁同自杀〕\",\"size\":0,\"keyword\":4635},{\"text\":\"的事件……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "还有小野畑夫妇用煤气"
+            },
+            {
+              "ref": 1
+            },
+            {
+              "text": "的事件……。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "还有小野畑夫妇用煤气"
+            },
+            {
+              "ref": 1,
+              "text": "〔胁迫自杀〕"
+            },
+            {
+              "text": "的事件……。"
+            }
+          ]
+        },
+        "notes": "编辑修正镜像旧译的不规范中文“胁同”：按原句胁迫家人共同死亡之意，关键词用“胁迫自杀”，描述保留家人这一对象，不改为双方自愿殉情；不改变第零话错误推理本身。"
+      },
+      {
+        "key": "page.17812:734192.aa7684e8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"三云庄２０２号房的房客中\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"有胁同家人一起自杀的。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "2841fb68fc0b1031222cc2992293408fa19e79ae80a9ab4ac4759b42b17d3adb",
+        "location": {
+          "script": 17812,
+          "page": "17812:734192",
+          "route": "remaining-10001-branches",
+          "trial": 6,
+          "step": 2758
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17812:734192.aa7684e8",
+            "step": 2758,
+            "script": 17812,
+            "text": "三云庄２０２号房的房客中\n有胁同家人一起自杀的。",
+            "translation": "三云庄202号房的房客中有胁同家人一起自杀的。"
+          },
+          {
+            "key": "page.17812:734284.de474f8c",
+            "step": 2759,
+            "script": 17812,
+            "text": "但房客们还有其他死因，\n所以并不能认定胁同自杀\n就是画像的特定效果。",
+            "translation": "但房客们还有其他死因，所以并不能认定胁同自杀就是画像的特定效果。"
+          },
+          {
+            "key": "page.17812:734404.6e892052",
+            "step": 2760,
+            "script": 17812,
+            "text": "只能说胁同自杀确实也是\n画像产生的效果之一。",
+            "translation": "只能说胁同自杀确实也是画像产生的效果之一。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"三云庄２０２号房的房客中\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"有胁同家人一起自杀的。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "三云庄202号房的房客中有胁同家人一起自杀的。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "三云庄202号房的房客中有胁迫家人一同自杀的。"
+            }
+          ]
+        },
+        "notes": "编辑修正镜像旧译的不规范中文“胁同”：按原句胁迫家人共同死亡之意，关键词用“胁迫自杀”，描述保留家人这一对象，不改为双方自愿殉情；不改变第零话错误推理本身。"
+      },
+      {
+        "key": "page.17812:734284.de474f8c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"但房客们还有其他死因，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"所以并不能认定胁同自杀\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"就是\",\"color\":0,\"size\":0},{\"text\":\"画像的特定效果。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "61cd7ad0874310117b090e8227f068fb17056f59e0e50d93d507ea180b1a98b1",
+        "location": {
+          "script": 17812,
+          "page": "17812:734284",
+          "route": "remaining-10001-branches",
+          "trial": 6,
+          "step": 2759
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17812:734192.aa7684e8",
+            "step": 2758,
+            "script": 17812,
+            "text": "三云庄２０２号房的房客中\n有胁同家人一起自杀的。",
+            "translation": "三云庄202号房的房客中有胁同家人一起自杀的。"
+          },
+          {
+            "key": "page.17812:734284.de474f8c",
+            "step": 2759,
+            "script": 17812,
+            "text": "但房客们还有其他死因，\n所以并不能认定胁同自杀\n就是画像的特定效果。",
+            "translation": "但房客们还有其他死因，所以并不能认定胁同自杀就是画像的特定效果。"
+          },
+          {
+            "key": "page.17812:734404.6e892052",
+            "step": 2760,
+            "script": 17812,
+            "text": "只能说胁同自杀确实也是\n画像产生的效果之一。",
+            "translation": "只能说胁同自杀确实也是画像产生的效果之一。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"但房客们还有其他死因，\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"所以并不能认定胁同自杀\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"就是\",\"color\":0,\"size\":0},{\"text\":\"画像的特定效果。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "但房客们还有其他死因，所以并不能认定胁同自杀就是画像的特定效果。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "但房客们还有其他死因，所以并不能认定胁迫自杀就是画像的特定效果。"
+            }
+          ]
+        },
+        "notes": "编辑修正镜像旧译的不规范中文“胁同”：按原句胁迫家人共同死亡之意，关键词用“胁迫自杀”，描述保留家人这一对象，不改为双方自愿殉情；不改变第零话错误推理本身。"
+      },
+      {
+        "key": "page.17812:734404.6e892052",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"只能说胁同自杀确实也是\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"画像产生的效果之一。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "816a3f59e0b657e48f7cb90388d8b4ddcca52380a993865d1fb56e1d3941129d",
+        "location": {
+          "script": 17812,
+          "page": "17812:734404",
+          "route": "remaining-10001-branches",
+          "trial": 6,
+          "step": 2760
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.17812:734192.aa7684e8",
+            "step": 2758,
+            "script": 17812,
+            "text": "三云庄２０２号房的房客中\n有胁同家人一起自杀的。",
+            "translation": "三云庄202号房的房客中有胁同家人一起自杀的。"
+          },
+          {
+            "key": "page.17812:734284.de474f8c",
+            "step": 2759,
+            "script": 17812,
+            "text": "但房客们还有其他死因，\n所以并不能认定胁同自杀\n就是画像的特定效果。",
+            "translation": "但房客们还有其他死因，所以并不能认定胁同自杀就是画像的特定效果。"
+          },
+          {
+            "key": "page.17812:734404.6e892052",
+            "step": 2760,
+            "script": 17812,
+            "text": "只能说胁同自杀确实也是\n画像产生的效果之一。",
+            "translation": "只能说胁同自杀确实也是画像产生的效果之一。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"只能说胁同自杀确实也是\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"画像产生的效果之一。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "只能说胁同自杀确实也是画像产生的效果之一。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "只能说胁迫自杀确实也是画像产生的效果之一。"
+            }
+          ]
+        },
+        "notes": "编辑修正镜像旧译的不规范中文“胁同”：按原句胁迫家人共同死亡之意，关键词用“胁迫自杀”，描述保留家人这一对象，不改为双方自愿殉情；不改变第零话错误推理本身。"
+      },
+      {
+        "key": "logic.2.field.13.choice.4635",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "女人画像使房客胁同家人自杀",
+        "baseHash": "2b9bca550eb63a2e263eebea5939750ab066806ef16283cc7cb2ee11f8768144",
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": {
+          "source": "女人画像使房客胁同家人自杀",
+          "text": "女人画像使房客胁同家人自杀",
+          "status": "draft"
+        },
+        "translation": {
+          "text": "女人画像使房客胁迫家人一同自杀"
+        },
+        "notes": "编辑修正镜像旧译的不规范中文“胁同”：按原句胁迫家人共同死亡之意，关键词用“胁迫自杀”，描述保留家人这一对象，不改为双方自愿殉情；不改变第零话错误推理本身。"
+      },
+      {
+        "key": "keywords.4635",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "胁同自杀",
+        "baseHash": "682bcc42c65f2b844533b7a23b67a75958e6e180d4874caa0fb1e80377ea7e45",
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": {
+          "source": "胁同自杀",
+          "text": "胁同自杀",
+          "status": "draft"
+        },
+        "translation": {
+          "text": "胁迫自杀"
+        },
+        "notes": "编辑修正镜像旧译的不规范中文“胁同”：按原句胁迫家人共同死亡之意，关键词用“胁迫自杀”，描述保留家人这一对象，不改为双方自愿殉情；不改变第零话错误推理本身。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

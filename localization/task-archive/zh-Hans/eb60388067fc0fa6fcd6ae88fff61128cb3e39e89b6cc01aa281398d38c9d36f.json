@@ -1,0 +1,964 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 60001,
+    "title": "贺茂泉篇 · 座敷わらし",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 5745,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "keywords.5022",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "犯人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "凶手"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5052",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "遗产",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "遗产"
+        },
+        "notes": "保留已有简中法律财产用语，与继承情节一致。"
+      },
+      {
+        "key": "keywords.5027",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "落伍",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "古板"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5028",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "严格",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "严厉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5018",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "封建的",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "封建"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5019",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "老姬",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "老妇人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5033",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "山姥",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "山姥"
+        },
+        "notes": "保留日本民俗妖怪专名「山姥」，辞典同名。"
+      },
+      {
+        "key": "keywords.5020",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "鬼",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "鬼"
+        },
+        "notes": "保留原关键词「鬼」，用于火海中女人形貌的比喻。"
+      },
+      {
+        "key": "keywords.5021",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "小千的母亲",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小千的母亲"
+        },
+        "notes": "保留已有简中亲属关系，与火灾呼喊及身份揭示一致。"
+      },
+      {
+        "key": "keywords.5039",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "复仇",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "复仇"
+        },
+        "notes": "保留已有简中动机词。"
+      },
+      {
+        "key": "keywords.5051",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "妾",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "妾室"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5001",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "贺茂泉家",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉家"
+        },
+        "notes": "保留既定家族名称。"
+      },
+      {
+        "key": "keywords.5009",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "座敷童子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "座敷童子"
+        },
+        "notes": "保留既定民俗专名，与章名和辞典一致。"
+      },
+      {
+        "key": "keywords.5010",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "妹",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "妹妹"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5011",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "姐姐",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "姐姐"
+        },
+        "notes": "保留已有简中亲属词，正确关系为同父异母姐姐。"
+      },
+      {
+        "key": "keywords.5012",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "孪生",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "双胞胎"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5029",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "戒指",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "戒指"
+        },
+        "notes": "保留已有简中物品名，指红蓝星形戒指。"
+      },
+      {
+        "key": "keywords.5023",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "好人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "相好"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5015",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "火灾",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "火灾"
+        },
+        "notes": "保留已有简中事件名，与正文一致。"
+      },
+      {
+        "key": "keywords.5035",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "照片",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "照片"
+        },
+        "notes": "保留已有简中物品名，指千鹤照片。"
+      },
+      {
+        "key": "keywords.5044",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "父亲",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "父亲"
+        },
+        "notes": "此处为千鹤父亲的关系词，区别5002戈薇的敬称父亲大人。"
+      },
+      {
+        "key": "keywords.5031",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "仇",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "仇人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5053",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "情人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "情人"
+        },
+        "notes": "保留已有简中关系词，与父亲婚外交往语境一致。"
+      },
+      {
+        "key": "keywords.5030",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "血缘",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "血亲"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5036",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "孩子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "孩子"
+        },
+        "notes": "保留已有简中子女用语。"
+      },
+      {
+        "key": "keywords.5037",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "政治婚姻",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "家族联姻"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5040",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "抛弃",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "抛弃"
+        },
+        "notes": "保留已有简中行为词，指父亲抛弃母女。"
+      },
+      {
+        "key": "keywords.5034",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "亲子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "母女"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5038",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "无用的东西",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "多余之物"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5043",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "小千",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小千"
+        },
+        "notes": "保留千鹤的既定昵称，与正文一致。"
+      },
+      {
+        "key": "terms.190",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "柳田國男",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "柳田国男"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.190",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "民俗学者の柳田國男は、明治８年（１８７５年）\n兵庫県神崎郡福崎町に生まれた。 幼少時から\n山への深い関心を寄せ、それは柳田の生涯に\nおける研究の重要なファクターとなった。\n東京帝国大学法科大学政治科を卒業後、\n農商務省に入省する。 その後も農政学者・\n抒情詩人として名を馳せた。 主な著書に\n「遠野物語」「山人考」「後狩詞記」「雪国の春」\nがある。 代表作の「遠野物語」は日本にまだ、\n民俗学が浸透していなかった頃に発表された\nもので、柳田民俗学の出発の書として有名。\nまた柳田は、明治３８年ころから、山男への\n興味を示し、度々旅行に出かけていたという。\n山男＝異人種説を唱えていたが、研究を進める\nうちに確証が難しいことを悟る。 しかし、この\nような彼の論考にロマンを覚え、民俗学に惹かれ、\nその道へ進んだ者もまた、少なくないだろう。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "民俗学家柳田国男于明治8年（1875年）出生在兵库县神崎郡福崎町。他自幼对山有着浓厚兴趣，这也成为贯穿其一生研究的重要因素。\n从东京帝国大学法科大学政治科毕业后，他进入农商务省任职，此后又以农业政策学者和抒情诗人的身份闻名。主要著作有《远野物语》《山人考》《后狩词记》《雪国之春》。代表作《远野物语》发表于民俗学尚未在日本普及时，素有柳田民俗学出发点之称。\n据说，柳田从明治38年前后开始关注山男传说，多次为此旅行。他曾提出山男属于不同族群的说法，但随着研究深入，也意识到难以找到确证。不过，正是这类论述中的浪漫色彩，吸引了不少人走上民俗学研究之路。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.191",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "遠野物語",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "远野物语"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.191",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "遠野物語は明治４３年、柳田國男が遠野の\n土淵村出身である佐々木喜善から聞いた話を\n元に作られた。\n３５０部を自費出版し、一部の研究者や文学者\nの反応は良かったものの、世間一般の関心は\n今ひとつだった。 それが昭和３０年代の民俗学\nブームで一転、注目されるようになる。\n半世紀という長い時を経て、物語が人々に\n浸透していった。\n\n内容は、地勢の紹介・伝承、世間話に噂話など、\n全１１９話が収められている。 遠野の村人達が\n普段から話題にしている、喜びや悲しみと\nいったものに繋がる話だけを対象にしている\nのが特徴である。 あたかも、小説や紙芝居を\n聞いているような気分にさせ、これは作り話で\n現実にはない物語なのでは、と思わせる作りに\nなっている。 現代の都市伝説やネットロアの\n原型がここにあるのかもしれない。\n\n現在の岩手県遠野市には、遠野物語の\n話者・佐々木喜善の記念館のある「伝承園」や、\n遠野の昔話を紹介している「とおの昔話園」\nなど、遠野物語に縁のある観光施設がある。\n伝承園の近くには今も河童が現れるという、\n「カッパ淵」もある。 現地に赴いて、\n遠野物語に思いを馳せるのもまた一興かも\nしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "《远野物语》成书于明治43年，以柳田国男从远野土渊村出身的佐佐木喜善那里听到的故事为基础。最初自费印行350册，虽得到部分研究者和文学家的好评，却没有引起社会广泛关注。直到昭和30年代的民俗学热潮兴起，它才受到瞩目。历经半个世纪，这些故事终于逐渐走入人们心中。\n全书共收录119则故事，内容包括地理介绍、地方传承、日常闲谈与传闻。其特点在于，只选取远野村民平日会谈起、与他们的喜悦和悲伤紧密相连的故事。读来仿佛在听小说或纸芝居，有时又令人怀疑，这是否只是一则虚构的、现实中并不存在的故事。现代都市传说和网络传说的雏形，或许就藏在其中。\n在岩手县远野市，有设立了讲述者佐佐木喜善纪念馆的『传承园』，以及介绍当地民间故事的『远野昔话园』等相关景点。传承园附近还有据说至今仍会出现河童的『河童渊』。亲自前往，遥想《远野物语》中的世界，也许别有一番趣味。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.124",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "血筋",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "血统"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.124",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "かごめの父が血筋を重んじているのは、\n賀茂泉家が代々宮司として神社を守り、\n奉ってきたことと深く関係している。\nもっともかごめに兄弟はないことから、\nこのまま親元で成長していた場合、彼女には\n婿養子が用意された可能性が高いだろう。\nところが、ここで問題になるのが「男系継承」\nと「女系継承」だ。 そもそも神社で祭儀や社務\nを行う神職は、現代でこそ男女ともになることが\n出来る職業だが、戦前までは男性に限られた\n職であった。 またかごめやかごめの母、祖母\nに対する態度からしても、現在の宮司である\nかごめの父は賀茂泉家の男系継承者（父方\nの血筋をたどると、賀茂泉家に連なっている）で\nあると考えられる。 だがかごめの代での直系\nは、前述のとおりかごめ一人。 彼女が婿養子を\n取って賀茂泉家を継ぐことになれば、一部例\n外を除き、その時点で賀茂泉家の男系継承\nは途切れ、以降女系継承となる。 何故なら\n賀茂泉の血を引かない男性と、直系のかごめ\nの間に子供が生まれても、その子は父方だけ\nをたどって賀茂泉家に行き着くことが出来ないか\nらだ。 尚一部例外とは、かごめの婿養子に\n父方の血統をたどっていくと賀茂泉家本家に\n繋がる血筋を持った親戚が用意された場合で\nある。 この場合は、かごめと婿養子の間に\n生まれた子も、父方をたどると賀茂泉家にたどり\n着くことが出来、男系継承と見做すことが出来る。\nもっとも賀茂泉家も神社も絶えてしまった今\nとなっては、繰り言にしかならず、かごめ本人\nも重荷を下ろして清々しているのかもしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "戈薇的父亲重视血统，与贺茂泉家世代担任宫司、守护并祭奉神社有着深刻联系。不过，戈薇没有兄弟姐妹，如果她一直留在父母身边长大，很可能会被安排招赘，让丈夫入籍成为养子。\n这里就涉及『男系继承』与『女系继承』的问题。负责神社祭仪及社务的神职，如今男女皆可担任；按原作此处的叙述，战前则只限男性。从戈薇父亲对女儿、妻子和祖母的态度来看，他这位宫司应是贺茂泉家的男系继承人，也就是沿父系血缘可以追溯到贺茂泉家。\n可到了戈薇这一代，直系继承人只有她。如果她招赘继承家业，除少数例外，贺茂泉家的男系传承便会在此中断，转为女系传承。因为，不具有贺茂泉家血统的男性与直系女儿戈薇生下孩子后，孩子无法仅沿父系追溯到贺茂泉家。\n所谓例外，是指为她安排的入赘者，本身就是沿父系能够追溯到贺茂泉本家的亲属。这样，两人的孩子仍能通过父系追溯到贺茂泉家，也就可以视为男系继承。\n当然，如今家族与神社都已不复存在，这些终究只能成为徒劳的假设。戈薇本人或许也已经卸下重担，感到轻松了。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.106",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "山姥",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "山姥"
+        },
+        "notes": "沿用民俗专名，与关键词一致；汉字写法本身已适用于简中。"
+      },
+      {
+        "key": "definitions.106",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "山奥に住むといわれている鬼女のこと。\n山に住み、怪力を有するという女の化け物の\nことをいう。\n\nその姿は日本全国の民話に見受けられるが、\n山姥と呼ばれる者達は、老婆の姿をしており、\n恐ろしいものとして描かれることが多い。\n「三枚の御札」では、小僧を食べてしまおうと\n延々追いかけてくる。 これこそが、もっとも\n多くの人が抱く山姥のイメージであろう。\n\nしかし地方によっては地元の民と変わらぬ\n暮らしを営み、時には酒屋へ酒を買いに\n来たりもしていたようだ。 その時には、２合ほど\nしか入らぬ徳利を持って「１升入れろ」など\nと言うのだが、不思議なことにその徳利には\n言われたとおりの酒が、１升でも２升でも\n入ると言う。\nまた鹿児島県屋久島の山には、山姫なる者\nが住んでいると語り継がれている。 山姫は\n美しい女性で、髪も艶がある洗い髪。 それ\nを後ろに長く垂らし、十二単の緋の袴を\n身につけ、時には三味線を弾きながら歌を\n歌ったり、あるいは赤ん坊を抱いて現れる。\n山姥のイメージとはだいぶかけ離れた存在だ。\nしかし山中で山姫と出会い、彼女に先に\n笑顔を浮かべられてしまうと、出会った者が\n首から血を吸われて死んでしまうという、\n恐ろしい側面をも併せ持つ存在である。\n\nまた酒呑童子を征伐したことでも知られる\n源頼光の家臣、頼光四天王の１人である\n坂田金時は幼名を金太郎と言い、山姥が雷神\nの子を孕み、生まれてきたのが金太郎で\nあったという伝説も残されている。\n\nさらに人魚の肉を食べ、不老不死を得た八\n百比丘尼も、若狭の国の洞窟に住み、\n長寿者山姥となって、春の言触れをしに里へ\n降りていたという伝説も残されている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据说居住在深山中的鬼女，即拥有怪力的女性妖怪。\n日本各地的民间故事里都能见到她的身影。被称作山姥的存在，多呈老妇形貌，常被描绘得十分可怕。在《三张护符》中，她为了吃掉小和尚，一路紧追不舍。这大概就是多数人对山姥的印象。\n然而，在某些地方的传说里，山姥过着与当地居民相似的生活，有时还会到酒店买酒。她拿着只能装约2合的酒壶，却说『给我装1升』；奇怪的是，无论1升还是2升，那小酒壶都能装下。这里的合、升均为日本传统容量单位。\n鹿儿岛县屋久岛的山中，则流传着山姬的故事。山姬是一位美丽女子，洗净的长发光泽柔亮，披散在背后；她穿着十二单的绯色袴，有时弹三味线唱歌，有时抱着婴儿出现，与一般山姥的形象相差甚远。不过，若在山中遇见她，被她抢先露出笑容，便会被吸走颈部的血而死。这位美丽的存在，也有可怕的一面。\n以征讨酒吞童子闻名的源赖光，其家臣『赖光四天王』之一坂田金时，幼名金太郎。也有传说称，山姥怀上雷神的孩子，生下了金太郎。\n此外，吃下人鱼肉、获得长生不死的八百比丘尼，据说住在若狭国的洞穴里，成为长寿的山姥，每逢春来便下山向村民报春。"
+        },
+        "notes": "山姥辞典保留2合、1升、2升传统容量及说明；原作四天王の１人译为四天王之一，数字转中文，人物数量含义不变。"
+      },
+      {
+        "key": "terms.107",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "葬儀の慣わし",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "丧葬习俗"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.107",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "葬儀の慣わしは、故人がどの地方に住んで\nいたか、またどのような宗教に属するかに\n大きく影響され違ってくる。 例えば日本国内に\nおいても仏教と神教の葬儀の方法は大きく違うし、\nしきたりや慣わしも異なる。\nまた、個人を尊重する時代背景より、宗教に\nとらわれない葬儀のスタイルも見られる。\n例えば生前の故人の興味や趣味、職業を\n反映した葬儀などで、これも千差万別だ。\nとはいえ、まだまだ葬儀の方法も、故人の属した\n宗教によるものが世界各国で一般的である。\n\n１．プロテスタント教文化圏では、一般参列者は\n平服で式に参列し、香典を包む習慣はなく、\n生花を送る程度のことしかしない。\n葬儀や埋葬後の精進落しも至って簡単だ。\n\n２．カトリック教文化圏では、終油の秘蹟や\n最後の晩餐式などが行われ、納棺の後に、\n成人には黒、子供には白の掛布をかける。\n葬儀は教会で執り行われ、女性の会葬者は\n黒いベールで顔を覆って入堂する。\n\n３．東方教会文化圏では、死後、遺体を\n湯灌して死衣を着せ、死者の傍らには、\nイコンを置く。 故人が未婚の場合は結婚\n衣装を着せることもある。 葬儀は、所属する\n教会で盛大に行われ、女性の近親者は黒の\nベールや喪服で身をかためる。\n\n４．イスラム教文化圏では、遺体（ジナーザ）は\n同性の近親者か、遺体処理人によって\n洗われたのち、ハッカやナフタリン、バラの香油\nなどをかけ、白い布で包んで棺に納めるか、\n担架にのせてモスクに運ぶ。\n女性は葬儀や葬列、埋葬には加わらない。\n\n５．ヒンズー教文化圏では、男性の遺体は白、\n女性はオレンジ色の布に包まれる。\n竹やヤシの葉で編まれた棺台に乗せられ、\n近親者の男性によって早急に最寄りの野辺\n火葬場に運ばれ、聖職者が読経し、\n次いで近親者がその周囲を五周したあと、\n火がつけられ火葬される。\n遺灰は全て近くの川に流され、\n墓所をもたない。\n\n６．儒教文化圏では、遺体を湯灌した後、\n黒や赤の漆塗りの頑丈な棺に納める。\n仏教僧侶か、道教の道士を招いて、故人に\nまつわる悪霊を払う読経を依頼する。\nその後葬儀に及ぶ。 式への参列者は黒い\n喪服にはちまき、黒い喪章をつけて参列する。\n墓地へ向かう葬列は徒歩の場合は、弔旗や\n楽隊が続くが、都市部では霊柩車を先頭に、\n親類縁者がそれぞれの自家用車に生花を飾り、\n花自動車のようになる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "丧葬习俗深受逝者生活地区和所属宗教影响。即使在日本，佛教与神道的葬礼形式、规矩和惯例也有很大差别。随着个人意愿受到重视，也出现了不拘泥于宗教、体现逝者生前兴趣、爱好或职业的葬礼，形式千差万别。不过，在世界各地，依照逝者信仰举行葬礼仍很常见。\n以下是原作对若干文化圈传统习俗的概括；具体实践会因地区、教派与家庭而异。\n1．新教文化圈：普通吊唁者可穿日常衣服参加，不习惯赠送奠仪，一般以鲜花致意。葬礼或安葬后的聚餐也较为简朴。\n2．天主教文化圈：举行临终傅油、临终领圣体等仪式。入殓后，成人棺上覆黑布，儿童覆白布。葬礼在教堂举行，女性吊唁者以黑纱遮面入堂。\n3．东方教会文化圈：死后清洗遗体，穿上殓服，在旁放置圣像。逝者若未婚，也有穿上婚礼服装的情况。葬礼在所属教堂隆重举行，女性近亲穿黑色丧服、戴黑纱。\n4．伊斯兰教文化圈：遗体由同性近亲或专职人员清洗，再使用薄荷、萘或玫瑰香油等，裹上白布，置于棺中或担架上，送往清真寺。原作所述习俗中，女性不参加葬礼、送葬及安葬；这一点并非所有地区与传统都相同。\n5．印度教文化圈：男性遗体裹白布，女性裹橙色布，放在竹或棕榈叶编成的灵床上，由男性近亲尽快送往附近的露天火葬场。祭司诵经，近亲绕行五周后点火火化。骨灰撒入附近河流，不设墓地。\n6．儒家文化圈：清洗遗体后，置于涂黑漆或红漆的坚固棺木中，请佛教僧侣或道士诵经驱邪，再举行葬礼。原作描述的吊唁者穿黑色丧服，系头带、佩黑色丧章。步行送葬时，队伍中有丧幡和乐队；城市里则由灵车带头，亲属各自驾车，以鲜花装饰，组成花车般的送葬队列。"
+        },
+        "notes": "原作广泛概括各宗教丧葬，保留六项信息并说明地区差异；「最後の晩餐式」按临终语境处理为临终领圣体，不误作重演最后的晚餐。"
+      },
+      {
+        "key": "terms.195",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "携帯電話の怪",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "手机怪谈"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.195",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ある女子大学生が、彼氏と携帯電話で話を\nしていたときのことだ。 途中で雑音が入り、\n彼氏の声が聞き取りづらくなる。 その後、通信\n状態は回復したものの、彼氏の様子がおかしい。\n口調も変わっているし、人間の身体に関する\nことや、へその緒がどうこういうことばかり話して\nくるのだ。 気味悪くなった彼女は適当に話を\n切り上げ、電話を切った。 しばらくして彼氏から\n電話がかかってくる。 「さっきは途中で切って\nごめんね」と言ってきた彼氏に彼女は首をかし\nげる。 先ほど自分から別れの挨拶をして電話\nを切ったはずなのに。 彼氏に聞いてみると、\n電話の最中に近くで雷が落ち、その際電話が\n切れてしまったという。 では、彼女が雑音のあと\n話していたのは一体誰だったのだろうか……。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一名女大学生正用手机和男友通话。途中忽然夹杂起噪声，男友的声音也变得难以辨认。后来信号恢复了，可男友却有些不对劲：说话的口气变了，话题也尽是人体、脐带之类的东西。\n她越听越不舒服，随便找个理由结束谈话，挂断了电话。过了一会儿，男友又打来，说：『抱歉，刚才电话突然断了。』\n她很疑惑。刚才明明是自己说过再见，主动挂断的呀。追问之下，男友说，通话时附近落下一道雷，电话就在那时断掉了。\n那么，噪声之后一直和她交谈的，究竟是谁……？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.111",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "宇宙に打ち上げられた犬",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "被送入太空的狗"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.111",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "有人飛行に先駆けて当時米ソともに、\n動物による打ち上げ実験を繰り返した。\n１９５７年１１月３日に人工衛星スプートニク\n２号が打ち上げられた際に乗っていたのが\nライカ犬である。 名前をクドリャフカと言ったが\nライカという犬種名のほうが世界的に有名。\n再突入技術が完成しておらず、回収の為の\n装置もなかった為、軌道上で一週間\n過ごしたのちに永眠させられた。\n―――というのが当時の公式発表だったが、\n「実は数日しか生存しなかった」などの噂も\n立っていた。 しかし最終的に２００２年\nアメリカはヒューストンで開かれた会議で、\nスプートニック２号の関係者が、\n発射の数時間後には、ライカの生体反応が\n確認できなくなったと、真実を語った。\nロケットとミサイルはその本質において同等\nである。 かつて米ソがロケット技術の開発に\n腐心したのは、冷戦において決定的な戦略的\n優位を保つ為のものだった。\n従来は敵国を攻撃するのにはパイロットが\n操縦する飛行機によって直接核爆弾を\n投下せねばならなかった。 その成功を収める\n為には熟練のパイロットが必要であり、\nそれには多くのコストがかかったという。\nこれをミサイルに置き換えれば人的リスクを\n負わずに核攻撃が出来るのだ。\nロケット搭乗員に多くの軍人がいたのは\nその為である。 ロケット開発の歴史は\nそのような負の側面があるのだ。\nただ、ミサイルに搭載する核爆弾と\nロケットに搭乗する生物の違いは、\n帰還の必要の有無である。\n大気圏に再突入する技術がないまま動物を\n打ち上げた理由は、安全に搭載物を\n目的地に運搬するというミサイル技術を\n確立させることが急務だったからなのだ。\nそのような技術の結晶として、\n弾頭にカメラを搭載し、超低空飛行で\nレーダー網と障害物を避けながら目標を\n破壊するトマホークミサイルや、ミサイルを\n以ってミサイルをピンポイント破壊する\nパトリオットミサイル、地下に潜む敵を破壊する\nバンカーバスター、また、大気圏外まで\n射出された遠距離ミサイル群を破壊するＳＤＩ、\nスターウォーズ計画などがよく知られている。\nまた、それにまつわる都市伝説の種として、\n純国産技術だけで気象衛星を打ち上げ\nようとしている政府の真の目的と、周辺の\n国際政治情勢を考察すると……またひとつ\n興味深い真理が浮かび上がるかもしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "在载人航天之前，美苏两国都反复进行过以动物为载荷的发射试验。1957年11月3日，『斯普特尼克2号』卫星升空时，搭载的便是那只名叫库德莉亚芙卡的狗。它以『莱卡』之名闻名世界；原作将莱卡解释为犬种名。\n当时尚未掌握再入技术，也没有回收装置，因此它在轨道上生活一周后被安乐死——这是当年的官方说法。与此同时，也曾流传『其实只活了几天』等传闻。最终，在2002年美国休斯敦的一场会议上，斯普特尼克2号的相关人员披露：发射数小时后，便已无法确认莱卡的生命反应。\n火箭与导弹在基础技术上相通。美苏曾倾力发展火箭技术，也是为了在冷战中取得决定性的战略优势。过去，要攻击敌国，往往需要飞行员驾驶飞机直接投下核弹。要完成任务，就必须培养熟练飞行员，成本高昂。若改用导弹，就能在不冒飞行员生命风险的情况下发动核打击。原作将早期航天员中军人比例较高，也与这种军事背景联系起来。火箭开发史同样有这样的阴暗面。\n不过，搭载在导弹上的核弹，与乘坐火箭的生物，有一个重要区别：是否需要返回。原作认为，在尚无安全再入技术的情况下发射动物，与当时急于确立将载荷安全送达目标的导弹技术有关。\n相关军事技术的发展成果中，广为人知的有：据称弹头配备摄像设备、以超低空飞行避开雷达和障碍并摧毁目标的战斧导弹；用导弹精确拦截导弹的爱国者系统；攻击地下目标的钻地弹；以及设想在大气层外拦截远程导弹的SDI，即『星球大战计划』。这些是原作在当时背景下列举的例子。\n作为都市传说的素材，倘若再去思考某国政府坚持以纯国产技术发射气象卫星的真正目的，以及周边的国际政治局势……也许又会浮现出一个耐人寻味的猜想。"
+        },
+        "notes": "保留原作日期、早期官方说法与2002年更正的对照；莱卡犬种说及武器技术概括注明原作归属，末段仍为都市传说式猜想，不改写成已证实事实。"
+      },
+      {
+        "key": "terms.120",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "人形",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人偶"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.120",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "人の形、あるいは動物や架空の生物などを\n模して作られた物。\n現在は幼児向けの玩具、美術品、\nコレクターズアイテムとして扱われているが、\nその存在は有史以前からあると言われており、\n古墳などの遺跡からも数々の土偶や埴輪などが\n発見されている。 時間経過の関係で、古くは\n土で出来たものしか残されていないが、当時は\n紙や草で作った人形も存在していたとされる。\n\n\nまた人の身代わりを作り、それで身を清める\nことは平安時代の書物にも登場する。\n人形で体を撫で、穢れや災いをそれに移して\n川へ流す風習は、現在も「流し雛」という\n行事として、いくつかの地方に伝わっている。\nまたこの風習は、体を撫でるので撫物とも\n呼ばれた。 「源氏物語」の作中に、\n光源氏が浜辺に幕を巡らし、陰陽師を\n呼んでこのような祓いをさせる話も登場する。\n\nこのような人形呪術の風習は世界各国で\n行われておりヨーロッパの地方によって春分の日\nの復活祭で、ユダと名づけられた藁人形を\n燃やしたりもするが、これはキリスト教が広まる\n以前に春分の日に豊饒を祈願して人身供儀が\n行われていたことを示すとされている。\n\n\nまた人に似せて作られた姿故色々な想像が\n膨らみやすいのか、それとも人と同じく念が\n宿るのだろうか。 人形にまつわる怪談や\n都市伝説も少なくない。\nある女性が、道に落ちている着せかえ人形を\n拾い上げてみると、それには何故か３本もの\n足が生えている。 驚いてそれを投げ捨てると、\n喋るはずのない人形が喋り出すのだ。\n「私、＊＊ちゃん。 呪われているの、\n呪われているの、呪われているの」と。\n恐ろしくなった女性はその人形を投げ捨てて\n逃げ出すが、恐ろしい声は耳を離れることが\nなく、ついその女性は自分の鼓膜を\n破ってしまったという———。\nまた「髪の伸びる日本人形」も有名な話だ。\n山梨県のとある寺院には、一体の日本人形\nが安置されている。 一見ごく普通に見える\nのだが、その人形の髪は少しずつではある\nが伸び続けているのだという。 人形の髪は\nどこにでもある黒い絹糸で出来ており、\n伸びる理由が分からない。\nそれでも髪は伸び続けているのだそうだ。\nまた北海道の寺にも同じような伝説を持つ\n人形が安置されている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "以人、动物或虚构生物的形象制作的物品。如今常被当作儿童玩具、艺术品或收藏品，但据说它们早在有文字记载之前便已存在，古坟等遗址中也出土了许多土偶与埴轮。由于年代久远，留下来的古物多为陶土制品，不过据称当时也有用纸、草等制作的人偶。\n制作人的替身，并借此净身除秽的做法，也见于平安时代的文献。用人偶轻抚身体，将污秽与灾厄转移到上面，再放入河中漂走的习俗，至今仍以『流雏』的形式保留在部分地区。因为要用它抚过身体，这种替身也被称作『抚物』。《源氏物语》中，也有光源氏在海边围起帷幕，请阴阳师举行类似祓除仪式的情节。\n世界各地都存在借人偶施行仪式的风俗。欧洲某些地区会在复活节焚烧名为『犹大』的稻草人。原作将这种春季仪式与基督教传播前、春分时为祈求丰收而举行的人身献祭联系起来。\n是因为人偶与人相像，容易引发各种想象，还是它们真的也能寄宿意念？关于人偶的怪谈与都市传说，为数不少。\n有个女人捡起路边的换装娃娃，发现它竟长着3条腿。她吃了一惊，将它扔掉。原本不会说话的娃娃却开口了：『我叫＊＊。我被诅咒了，被诅咒了，被诅咒了……』女人吓得丢下娃娃逃跑，可那可怕的声音始终萦绕耳边，最后竟逼得她弄破了自己的耳膜——\n『头发会长长的日本人偶』也是著名怪谈。山梨县某寺院供着一个日本人偶，乍看平平无奇，头发却据说一直在缓慢生长。头发明明是普通的黑色丝线，谁也说不清为何会变长，可它依旧长个不停。北海道的寺院里，也供奉着有类似传说的人偶。"
+        },
+        "notes": "原作将复活节直接写作春分日，译文区分两者，保留其关于春季仪式和人身献祭的民俗解释归属；源３本译为3条。"
+      },
+      {
+        "key": "terms.121",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "障子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "隔墙有耳"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.121",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "医学部学生の間で根強く伝えられる都市伝説。\n\n死体解剖実習の日、初めてのそれに緊張する\n生徒達を前にある生徒がみんなの気持ちを\nほぐそうとメスで死体の耳を切り取り\n壁に貼り付けた。\n\n「壁に耳あり」\n\n盛り上がるどころか、気まずい空気が流れ、\nその後、その男子生徒の姿を見た者は\n誰もいない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这是一则在医学生之间流传已久的都市传说。\n第一次进行遗体解剖实习那天，学生们都很紧张。一个男生想缓和气氛，便用手术刀割下遗体的耳朵，贴在墙上。\n『隔墙有耳。』\n气氛不但没有活跃起来，反而陷入令人难堪的沉默。此后，再也没有人见过那个男生。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.84",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "座敷わらし",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "座敷童子"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "keywords.5052",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5033",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5020",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5021",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5039",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5001",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5009",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5011",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5029",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5015",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5035",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5044",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5053",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5036",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5040",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5043",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.106",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "definitions.106",
+        "message": "Numbers differ; inspect time, date, amount or a documented source typo",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

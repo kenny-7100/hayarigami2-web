@@ -1,0 +1,715 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 70001,
+    "title": "由香篇 · 作られた都市伝説",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 349,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.70201:4235540.f1ff4c52",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"———雪に閉ざされた校舎で起こった一夜の事件。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"〔狗山女校〕\",\"size\":0,\"keyword\":5214},{\"text\":\"で起きた\",\"color\":0,\"size\":0},{\"text\":\"〔失踪事件〕\",\"size\":0,\"keyword\":5200},{\"text\":\"……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "410c72a7d2cc00ecf3985a6d5591fc0a7e7b1e4bbd8e4e545043a22e26af765e",
+        "location": {
+          "script": 70201,
+          "page": "70201:4235540",
+          "route": "chapter-6-end-75090.json",
+          "step": 16
+        },
+        "requiredRefs": [
+          {
+            "ref": 2,
+            "text": "〔狗山女校〕",
+            "size": 0,
+            "keyword": 5214
+          },
+          {
+            "ref": 4,
+            "text": "〔失踪事件〕",
+            "size": 0,
+            "keyword": 5200
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.70201:4235172.83806356",
+            "step": 14,
+            "script": 70201,
+            "text": "ただいま花の女子大生生活を満喫中……\nとは言えないのが辛いところだ。",
+            "translation": "眼下正尽情享受着灿烂的女大学生生活……可惜，说不出这种话才是最痛苦的。"
+          },
+          {
+            "key": "page.70201:4235272.3e46a018",
+            "step": 15,
+            "script": 70201,
+            "text": "空は澱んだ色をしているが、\n雪が降りそうな気配はない。\n故郷の雲とは違う……そう思った時、私は高校時代\nの冬休みの吹雪の事件を思い出した。",
+            "translation": "天空阴沉沉的，却没有要下雪的迹象。和故乡的云不一样……想到这里，高中寒假时那场暴风雪中的事件，又浮现在脑海里。"
+          },
+          {
+            "key": "page.70201:4235540.f1ff4c52",
+            "step": 16,
+            "script": 70201,
+            "text": "——雪に閉ざされた校舎で起こった一夜の事件。\n〔狗山女校〕で起きた〔失踪事件〕……。",
+            "translation": "——被大雪封住的校舍，那一夜发生的事。〔犬山女子高中〕的〔失踪事件〕……"
+          },
+          {
+            "key": "page.70201:4235652.2e7f21a",
+            "step": 17,
+            "script": 70201,
+            "text": "あれをきっかけに、\n私の未来は少し変わってしまった。\nかつての友人達が瞼に浮かぶ。",
+            "translation": "那件事，让我的未来稍稍偏离了原来的方向。往日朋友们的面容，浮现在眼前。"
+          },
+          {
+            "key": "page.70201:4235792.2c306b6d",
+            "step": 18,
+            "script": 70201,
+            "text": "〔美纪〕、〔佐仓前辈〕……そして〔薰〕。\n \n……皆はどこで何をしているんだろう。\n \nもしも願いが叶うなら、また会いたい。",
+            "translation": "〔美纪〕、〔佐仓学姐〕……还有〔薰〕。\n……大家现在都在哪里，做着什么呢？\n如果愿望能够实现，我还想再见到她们。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"———雪に閉ざされた校舎で起こった一夜の事件。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"〔狗山女校〕\",\"size\":0,\"keyword\":5214},{\"text\":\"で起きた\",\"color\":0,\"size\":0},{\"text\":\"〔失踪事件〕\",\"size\":0,\"keyword\":5200},{\"text\":\"……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "——被大雪封住的校舍，那一夜发生的事。"
+            },
+            {
+              "ref": 2,
+              "text": "〔犬山女子高中〕"
+            },
+            {
+              "text": "的"
+            },
+            {
+              "ref": 4
+            },
+            {
+              "text": "……"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "——被大雪封住的校舍，那一夜发生的事。"
+            },
+            {
+              "ref": 2,
+              "text": "〔狗山女子高中〕"
+            },
+            {
+              "text": "的"
+            },
+            {
+              "ref": 4,
+              "text": "〔神隐事件〕"
+            },
+            {
+              "text": "……"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔犬山女子高中〕→狗山女子高中；〔失踪事件〕→神隐事件。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      },
+      {
+        "key": "page.70201:4239024.41527832",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「このままだと、\",\"color\":0,\"size\":0},{\"text\":\"〔确定留级〕\",\"size\":0,\"keyword\":5205},{\"text\":\"だ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「ええ！？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "14360d300bd1ba6850b20bf636b19e6f1eb23e0c1a1e044363081b3ae1cec518",
+        "location": {
+          "script": 70201,
+          "page": "70201:4239024",
+          "route": "chapter-6-end-75090.json",
+          "step": 45
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "〔确定留级〕",
+            "size": 0,
+            "keyword": 5205
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.70201:4238904.674655d4",
+            "step": 43,
+            "script": 70201,
+            "text": "「単位が足りていない」",
+            "translation": "「你的学分不够。」"
+          },
+          {
+            "key": "page.70201:4238952.f2c3dcc6",
+            "step": 44,
+            "script": 70201,
+            "text": "ああ、やっぱり……。\n私は、下を向いた。",
+            "translation": "啊，果然……我低下头。"
+          },
+          {
+            "key": "page.70201:4239024.41527832",
+            "step": 45,
+            "script": 70201,
+            "text": "「このままだと、〔确定留级〕だ」\n「ええ！？」",
+            "translation": "「照这样下去，〔留级是板上钉钉的事〕。」\n「什么！？」"
+          },
+          {
+            "key": "page.70201:4239104.9d3ecff4",
+            "step": 46,
+            "script": 70201,
+            "text": "私は、上を向いた。",
+            "translation": "我又抬起头。"
+          },
+          {
+            "key": "page.70201:4239148.514170a0",
+            "step": 47,
+            "script": 70201,
+            "text": "留年確定！？\n単位が足りていないのは、\nうすうす分かってはいたけれど——",
+            "translation": "肯定要留级！？学分不够，我多少也知道，可是——"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"「このままだと、\",\"color\":0,\"size\":0},{\"text\":\"〔确定留级〕\",\"size\":0,\"keyword\":5205},{\"text\":\"だ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「ええ！？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "「照这样下去，"
+            },
+            {
+              "ref": 1,
+              "text": "〔留级是板上钉钉的事〕"
+            },
+            {
+              "text": "。」\n「什么！？」"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "「照这样下去，"
+            },
+            {
+              "ref": 1,
+              "text": "〔确定留级〕"
+            },
+            {
+              "text": "。」\n「什么！？」"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔留级是板上钉钉的事〕→确定留级。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      },
+      {
+        "key": "page.70401:4250680.83701528",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それから私は彼女と\",\"color\":0,\"size\":0},{\"text\":\"『\",\"color\":0,\"size\":0},{\"text\":\"〔网友〕\",\"size\":0,\"keyword\":5211},{\"text\":\"』\",\"color\":0,\"size\":0},{\"text\":\"になったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"しかし、私達の奇妙な縁は\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"これだけで終わらなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "6a5e8289e21fafb04eac77997d2edb30ec786407d8ecdd959555db935b439ed6",
+        "location": {
+          "script": 70401,
+          "page": "70401:4250680",
+          "route": "chapter-6-end-75090.json",
+          "step": 136
+        },
+        "requiredRefs": [
+          {
+            "ref": 2,
+            "text": "〔网友〕",
+            "size": 0,
+            "keyword": 5211
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.70401:4250564.92c8022b",
+            "step": 134,
+            "script": 70401,
+            "text": "『あの……名前、教えてくれる？』",
+            "translation": "『那个……能告诉我你的名字吗？』"
+          },
+          {
+            "key": "page.70401:4250620.4f32f08a",
+            "step": 135,
+            "script": 70401,
+            "text": "朝希、と相手は教えてくれた。",
+            "translation": "对方告诉我，她叫朝希。"
+          },
+          {
+            "key": "page.70401:4250680.83701528",
+            "step": 136,
+            "script": 70401,
+            "text": "それから私は彼女と『〔网友〕』になったのだ。\nしかし、私達の奇妙な縁は\nこれだけで終わらなかった。",
+            "translation": "从那以后，我和她成了〔网友〕。可是，我们奇妙的缘分，还不止于此。"
+          },
+          {
+            "key": "page.70501:4251444.1cbbb830",
+            "step": 137,
+            "script": 70501,
+            "text": "「ねぇ」\n私は隣の女の子に話しかけた。",
+            "translation": "「喂。」\n我叫了叫旁边的女生。"
+          },
+          {
+            "key": "page.70501:4251512.7299023a",
+            "step": 138,
+            "script": 70501,
+            "text": "「あの一番前に座っている子、\nこの講義にいたっけ？」\n「ああ、藤原朝希？」",
+            "translation": "「坐在最前面的那个，以前上过这门课吗？」\n「啊，藤原朝希？」"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"それから私は彼女と\",\"color\":0,\"size\":0},{\"text\":\"『\",\"color\":0,\"size\":0},{\"text\":\"〔网友〕\",\"size\":0,\"keyword\":5211},{\"text\":\"』\",\"color\":0,\"size\":0},{\"text\":\"になったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"しかし、私達の奇妙な縁は\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"これだけで終わらなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "从那以后，我和她成了"
+            },
+            {
+              "ref": 2
+            },
+            {
+              "text": "。可是，我们奇妙的缘分，还不止于此。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "从那以后，我和她成了"
+            },
+            {
+              "ref": 2,
+              "text": "〔邮件朋友〕"
+            },
+            {
+              "text": "。可是，我们奇妙的缘分，还不止于此。"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔网友〕→邮件朋友。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      },
+      {
+        "key": "page.70501:4254612.852fd7be",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"昔、地方から東京に引っ越してきて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"〔乡音〕\",\"size\":0,\"keyword\":5212},{\"text\":\"が直らなくて、いじめにあったこと。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "77d1e6396cb42428c8ac897d1b8be446e66ab04c3a2b01001448ae9aef8b5073",
+        "location": {
+          "script": 70501,
+          "page": "70501:4254612",
+          "route": "chapter-6-end-75090.json",
+          "step": 166
+        },
+        "requiredRefs": [
+          {
+            "ref": 2,
+            "text": "〔乡音〕",
+            "size": 0,
+            "keyword": 5212
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.70501:4254284.2b2990d5",
+            "step": 164,
+            "script": 70501,
+            "text": "『どうしたの？ なんか、ワケあり？』\nまどろっこしいのが嫌いな私は、\n直球で勝負に出てみた。",
+            "translation": "『怎么了？是不是有什么原因？』\n我不喜欢绕弯子，索性直截了当地问。"
+          },
+          {
+            "key": "page.70501:4254444.48d475b7",
+            "step": 165,
+            "script": 70501,
+            "text": "『うん、あのね、\n誤解しないで欲しいんだけど……』\nと、前置きして、朝希はメールで語り出した。",
+            "translation": "『嗯，那个，希望你不要误会……』\n做了这样的铺垫，朝希开始在邮件里讲述。"
+          },
+          {
+            "key": "page.70501:4254612.852fd7be",
+            "step": 166,
+            "script": 70501,
+            "text": "昔、地方から東京に引っ越してきて、\n〔乡音〕が直らなくて、いじめにあったこと。",
+            "translation": "以前从外地搬来东京，因为改不掉〔乡音〕，受到过欺凌。"
+          },
+          {
+            "key": "page.70501:4254724.adaf84fe",
+            "step": 167,
+            "script": 70501,
+            "text": "それ以来、必死に訛りを直してきたけれど、\nいじめが〔精神创伤〕になってしまい、\n極度の〔怕生〕になってしまったこと。",
+            "translation": "从那以后，她拼命纠正口音，可被欺凌的经历留下了〔精神创伤〕，让她变得极度〔怕生〕。"
+          },
+          {
+            "key": "page.70501:4254876.8fe8de2c",
+            "step": 168,
+            "script": 70501,
+            "text": "『……だから、ごめん。\nしばらくは、メールと電話だけで、いいかな？』\nなるほど、そういうことか。\n本人にとっては、心の傷になっているのだろう。",
+            "translation": "『……所以，对不起。暂时只发邮件和打电话，可以吗？』\n原来如此。那对她而言，一定是心里的伤。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"昔、地方から東京に引っ越してきて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"〔乡音〕\",\"size\":0,\"keyword\":5212},{\"text\":\"が直らなくて、いじめにあったこと。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "以前从外地搬来东京，因为改不掉"
+            },
+            {
+              "ref": 2
+            },
+            {
+              "text": "，受到过欺凌。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "以前从外地搬来东京，因为改不掉"
+            },
+            {
+              "ref": 2,
+              "text": "〔口音〕"
+            },
+            {
+              "text": "，受到过欺凌。"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔乡音〕→口音。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      },
+      {
+        "key": "page.70501:4254724.adaf84fe",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それ以来、必死に訛りを直してきたけれど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いじめが\",\"color\":0,\"size\":0},{\"text\":\"〔精神创伤〕\",\"size\":0,\"keyword\":5213},{\"text\":\"になってしまい、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"極度の\",\"color\":0,\"size\":0},{\"text\":\"〔怕生〕\",\"size\":0,\"keyword\":5255},{\"text\":\"になってしまったこと。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "f0189c7b829a079764250867a02ff839cada26e9eb770203daa38a643255fbb9",
+        "location": {
+          "script": 70501,
+          "page": "70501:4254724",
+          "route": "chapter-6-end-75090.json",
+          "step": 167
+        },
+        "requiredRefs": [
+          {
+            "ref": 3,
+            "text": "〔精神创伤〕",
+            "size": 0,
+            "keyword": 5213
+          },
+          {
+            "ref": 7,
+            "text": "〔怕生〕",
+            "size": 0,
+            "keyword": 5255
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.70501:4254444.48d475b7",
+            "step": 165,
+            "script": 70501,
+            "text": "『うん、あのね、\n誤解しないで欲しいんだけど……』\nと、前置きして、朝希はメールで語り出した。",
+            "translation": "『嗯，那个，希望你不要误会……』\n做了这样的铺垫，朝希开始在邮件里讲述。"
+          },
+          {
+            "key": "page.70501:4254612.852fd7be",
+            "step": 166,
+            "script": 70501,
+            "text": "昔、地方から東京に引っ越してきて、\n〔乡音〕が直らなくて、いじめにあったこと。",
+            "translation": "以前从外地搬来东京，因为改不掉〔乡音〕，受到过欺凌。"
+          },
+          {
+            "key": "page.70501:4254724.adaf84fe",
+            "step": 167,
+            "script": 70501,
+            "text": "それ以来、必死に訛りを直してきたけれど、\nいじめが〔精神创伤〕になってしまい、\n極度の〔怕生〕になってしまったこと。",
+            "translation": "从那以后，她拼命纠正口音，可被欺凌的经历留下了〔精神创伤〕，让她变得极度〔怕生〕。"
+          },
+          {
+            "key": "page.70501:4254876.8fe8de2c",
+            "step": 168,
+            "script": 70501,
+            "text": "『……だから、ごめん。\nしばらくは、メールと電話だけで、いいかな？』\nなるほど、そういうことか。\n本人にとっては、心の傷になっているのだろう。",
+            "translation": "『……所以，对不起。暂时只发邮件和打电话，可以吗？』\n原来如此。那对她而言，一定是心里的伤。"
+          },
+          {
+            "key": "page.70501:4255092.4eccbf02",
+            "step": 169,
+            "script": 70501,
+            "text": "『分かった。じゃあ、\nこれからもメール＆電話でよろしくね』\n『ありがと。こちらこそ、よろしくね』",
+            "translation": "『明白啦。那以后也继续邮件＆电话联系，拜托啦。』\n『谢谢。也请你多关照。』"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"それ以来、必死に訛りを直してきたけれど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いじめが\",\"color\":0,\"size\":0},{\"text\":\"〔精神创伤〕\",\"size\":0,\"keyword\":5213},{\"text\":\"になってしまい、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"極度の\",\"color\":0,\"size\":0},{\"text\":\"〔怕生〕\",\"size\":0,\"keyword\":5255},{\"text\":\"になってしまったこと。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "从那以后，她拼命纠正口音，可被欺凌的经历留下了"
+            },
+            {
+              "ref": 3
+            },
+            {
+              "text": "，让她变得极度"
+            },
+            {
+              "ref": 7
+            },
+            {
+              "text": "。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "从那以后，她拼命纠正口音，可被欺凌的经历留下了"
+            },
+            {
+              "ref": 3,
+              "text": "〔心理创伤〕"
+            },
+            {
+              "text": "，让她变得极度"
+            },
+            {
+              "ref": 7
+            },
+            {
+              "text": "。"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔精神创伤〕→心理创伤。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      },
+      {
+        "key": "page.71001:4269376.bfa01a48",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"事件、\",\"color\":0,\"size\":0},{\"text\":\"事故、\",\"color\":0,\"size\":0},{\"text\":\"双方から\",\"color\":0,\"size\":0},{\"text\":\"〔侦查〕\",\"size\":0,\"keyword\":5252},{\"text\":\"されていると\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"書き込みでは噂されているが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どこまでが本当かは分からない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "1b88c8e57960b9e46ab089aeed8d0e72640bbb4130ee6a33501f00017662dd25",
+        "location": {
+          "script": 71001,
+          "page": "71001:4269376",
+          "route": "chapter-6-end-75090.json",
+          "step": 233
+        },
+        "requiredRefs": [
+          {
+            "ref": 3,
+            "text": "〔侦查〕",
+            "size": 0,
+            "keyword": 5252
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.71001:4269132.88369053",
+            "step": 231,
+            "script": 71001,
+            "text": "『かなり〔奇异的〕なヤラれ方\nって聞いてたけど、なお酷い』",
+            "translation": "『听说死法相当〔猎奇〕，没想到比想象中还惨。』"
+          },
+          {
+            "key": "page.71001:4269264.895f4689",
+            "step": 232,
+            "script": 71001,
+            "text": "書き込みの内容から被害者は女性で、\n推定年齢１８～２０歳らしいことが分かった。",
+            "translation": "从帖子里能看出，死者似乎是一名女性，推测年龄在18至20岁之间。"
+          },
+          {
+            "key": "page.71001:4269376.bfa01a48",
+            "step": 233,
+            "script": 71001,
+            "text": "事件、事故、双方から〔侦查〕されていると\n書き込みでは噂されているが、\nどこまでが本当かは分からない。",
+            "translation": "有人发帖说，警方正从刑事案件和意外事故两方面展开〔侦查〕。不过，究竟有几分可信，还不得而知。"
+          },
+          {
+            "key": "page.71001:4269536.b31ed658",
+            "step": 234,
+            "script": 71001,
+            "text": "じっくりと検証する間もなく、\n次々にネットに書き込みがされていく。\n朝希も今、これを見ているはずだ。",
+            "translation": "还没来得及仔细核实，新的帖子就不断冒出来。朝希应该也正在看。"
+          },
+          {
+            "key": "page.71001:4269672.163db4c3",
+            "step": 235,
+            "script": 71001,
+            "text": "『被害者の女、〔妊娠〕してた説浮上。\nうちのヨメが産婦人科で見たとかなんとか』\n『お腹の赤ちゃん、どうなっちゃったのかな？』\n『生きたまま〔焚烧炉〕に突っ込まれたってマジ？』",
+            "translation": "『有说法称死者〔怀孕〕了。我老婆好像在妇产科见过她。』\n『肚子里的孩子怎么样了？』\n『听说是活着被扔进〔焚烧炉〕的，真的假的？』"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"事件、\",\"color\":0,\"size\":0},{\"text\":\"事故、\",\"color\":0,\"size\":0},{\"text\":\"双方から\",\"color\":0,\"size\":0},{\"text\":\"〔侦查〕\",\"size\":0,\"keyword\":5252},{\"text\":\"されていると\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"書き込みでは噂されているが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どこまでが本当かは分からない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "有人发帖说，警方正从刑事案件和意外事故两方面展开"
+            },
+            {
+              "ref": 3
+            },
+            {
+              "text": "。不过，究竟有几分可信，还不得而知。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "有人发帖说，警方正从刑事案件和意外事故两方面展开"
+            },
+            {
+              "ref": 3,
+              "text": "〔调查〕"
+            },
+            {
+              "text": "。不过，究竟有几分可信，还不得而知。"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔侦查〕→调查。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      },
+      {
+        "key": "page.71001:4269672.163db4c3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"『被害者の女、\",\"color\":0,\"size\":0},{\"text\":\"〔妊娠〕\",\"size\":0,\"keyword\":5220},{\"text\":\"してた説浮上。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"うちのヨメが産婦人科で見たとかなんとか』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"『お腹の赤ちゃん、どうなっちゃったのかな？』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"『生きたまま\",\"color\":0,\"size\":0},{\"text\":\"〔焚烧炉〕\",\"size\":0,\"keyword\":5221},{\"text\":\"に突っ込まれたってマジ？』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "7c3fc07e0772e20de49bfdee9d564b99cc43003607c7985c924f66f6027a16c7",
+        "location": {
+          "script": 71001,
+          "page": "71001:4269672",
+          "route": "chapter-6-end-75090.json",
+          "step": 235
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "〔妊娠〕",
+            "size": 0,
+            "keyword": 5220
+          },
+          {
+            "ref": 9,
+            "text": "〔焚烧炉〕",
+            "size": 0,
+            "keyword": 5221
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.71001:4269376.bfa01a48",
+            "step": 233,
+            "script": 71001,
+            "text": "事件、事故、双方から〔侦查〕されていると\n書き込みでは噂されているが、\nどこまでが本当かは分からない。",
+            "translation": "有人发帖说，警方正从刑事案件和意外事故两方面展开〔侦查〕。不过，究竟有几分可信，还不得而知。"
+          },
+          {
+            "key": "page.71001:4269536.b31ed658",
+            "step": 234,
+            "script": 71001,
+            "text": "じっくりと検証する間もなく、\n次々にネットに書き込みがされていく。\n朝希も今、これを見ているはずだ。",
+            "translation": "还没来得及仔细核实，新的帖子就不断冒出来。朝希应该也正在看。"
+          },
+          {
+            "key": "page.71001:4269672.163db4c3",
+            "step": 235,
+            "script": 71001,
+            "text": "『被害者の女、〔妊娠〕してた説浮上。\nうちのヨメが産婦人科で見たとかなんとか』\n『お腹の赤ちゃん、どうなっちゃったのかな？』\n『生きたまま〔焚烧炉〕に突っ込まれたってマジ？』",
+            "translation": "『有说法称死者〔怀孕〕了。我老婆好像在妇产科见过她。』\n『肚子里的孩子怎么样了？』\n『听说是活着被扔进〔焚烧炉〕的，真的假的？』"
+          },
+          {
+            "key": "page.71001:4269984.8208bdd3",
+            "step": 236,
+            "script": 71001,
+            "text": "『マジマジ超マジ。俺、近所に住んでるけど、\nすげー悲鳴が聞こえたし。正直ちょっと興奮したかも』",
+            "translation": "『真的真的，绝对真。我就住附近，听见惨叫了。说实话，还有点兴奋。』"
+          },
+          {
+            "key": "page.71001:4270156.8f800956",
+            "step": 237,
+            "script": 71001,
+            "text": "サイトにアクセスしている人間は、\n好き勝手なことを言いたい放題に書き込んでいる。\n一体、どこからどこまでが、本当なのだろうか？",
+            "translation": "网站上的人肆无忌惮，想说什么就说什么。到底哪些是真的，哪些是假的？"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"『被害者の女、\",\"color\":0,\"size\":0},{\"text\":\"〔妊娠〕\",\"size\":0,\"keyword\":5220},{\"text\":\"してた説浮上。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"うちのヨメが産婦人科で見たとかなんとか』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"『お腹の赤ちゃん、どうなっちゃったのかな？』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"『生きたまま\",\"color\":0,\"size\":0},{\"text\":\"〔焚烧炉〕\",\"size\":0,\"keyword\":5221},{\"text\":\"に突っ込まれたってマジ？』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "『有说法称死者"
+            },
+            {
+              "ref": 1,
+              "text": "〔怀孕〕"
+            },
+            {
+              "text": "了。我老婆好像在妇产科见过她。』\n『肚子里的孩子怎么样了？』\n『听说是活着被扔进"
+            },
+            {
+              "ref": 9
+            },
+            {
+              "text": "的，真的假的？』"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "『有说法称死者"
+            },
+            {
+              "ref": 1,
+              "text": "〔怀孕〕"
+            },
+            {
+              "text": "了。我老婆好像在妇产科见过她。』\n『肚子里的孩子怎么样了？』\n『听说是活着被扔进"
+            },
+            {
+              "ref": 9,
+              "text": "〔焚化炉〕"
+            },
+            {
+              "text": "的，真的假的？』"
+            }
+          ]
+        },
+        "notes": "跨批次术语复核：〔焚烧炉〕→焚化炉。对应原场景概念与手帖同一关键词；保留引用、语气和剧情分支。狗山校名依源文狗山女学校，不误写犬山。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

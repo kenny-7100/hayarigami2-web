@@ -1,0 +1,110 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 60001,
+    "title": "贺茂泉篇 · 座敷わらし",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 50,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.64411:4213288.d757117b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"事実はどうあれ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"少なくとも私の心はその結論で\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"穏やかになる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 64411,
+          "page": "64411:4213288",
+          "route": "remaining-60001-branches",
+          "trial": 46,
+          "step": 1625
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.64411:4213000.c1652cc7",
+            "step": 1623,
+            "script": 64411,
+            "text": "そういえば当時の千鶴ちゃんは、\n私の考えを分かっているかのように\n振舞っていた。",
+            "translation": "说起来，当年的千鹤仿佛总是明白我心里在想什么。"
+          },
+          {
+            "key": "page.64411:4213128.7dfd46a5",
+            "step": 1624,
+            "script": 64411,
+            "text": "双子は意思疎通することが\nあるというし、私達があそこまで\n分かり合えたのはそのせい\nだったのかもしれない。",
+            "translation": "据说双胞胎之间有时会心意相通。我们能够如此理解彼此，也许就是因为这个。"
+          },
+          {
+            "key": "page.64411:4213288.d757117b",
+            "step": 1625,
+            "script": 64411,
+            "text": "事実はどうあれ、\n少なくとも私の心はその結論で\n穏やかになる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "无论事实如何，至少，这个结论能让我的心平静下来。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.64411:4214596.b27e2d9e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"8/25　現在テキストが存在しません。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 64411,
+          "page": "64411:4214596",
+          "route": "remaining-60001-branches",
+          "trial": "isolated-64411-394",
+          "step": 394
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.64411:4214596.b27e2d9e",
+            "step": 394,
+            "script": 64411,
+            "text": "8/25　現在テキストが存在しません。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "8/25　目前没有文本。"
+            }
+          ]
+        },
+        "notes": "原作64411 pc395、源偏移4214608为原作者未填文本提示；忠实保留日期与占位内容，不补写不存在的剧情。此为隔离源块采集，不声称正常路线必定可达。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

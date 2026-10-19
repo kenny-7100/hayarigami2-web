@@ -1,0 +1,339 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 70001,
+    "title": "由香篇 · 作られた都市伝説",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 284,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.71001:4270656.d6ee66f2",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"『ここまでのまとめ。\",\"color\":0,\"size\":0},{\"text\":\"大学生の妊婦が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"焼却炉に転落して、\",\"color\":0,\"size\":0},{\"text\":\"〔胎儿〕\",\"size\":0,\"keyword\":5223},{\"text\":\"ごと死亡。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"状況的にはこれ、事故じゃなくて事件だよな。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"焼却炉に落ちる事故なんてないし』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "abd0ff3166543ed6542b8d8ced5b636f21909e8efdec657852a4e8ef7f17e824",
+        "location": {
+          "script": 71001,
+          "page": "71001:4270656",
+          "route": "chapter-6-end-75090.json",
+          "step": 240
+        },
+        "requiredRefs": [
+          {
+            "ref": 4,
+            "text": "〔胎儿〕",
+            "size": 0,
+            "keyword": 5223
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.71001:4270328.154d8cb",
+            "step": 238,
+            "script": 71001,
+            "text": "『悲鳴で興奮したとか言ってるヤツ、\nオカンと一緒に死んだ赤ん坊に呪われちまえ』\n『被害者ってまだ学生でしょ？　\nそれで妊娠って、どうよ？』",
+            "translation": "『说听惨叫还兴奋的那个，等着被和妈妈一起死掉的婴儿诅咒吧。』\n『死者还是学生吧？这就怀孕了，合适吗？』"
+          },
+          {
+            "key": "page.71001:4270588.6b8c64b3",
+            "step": 239,
+            "script": 71001,
+            "text": "書き込みは、速度を増してさらに増幅していく。",
+            "translation": "帖子越来越密，消息也越传越大。"
+          },
+          {
+            "key": "page.71001:4270656.d6ee66f2",
+            "step": 240,
+            "script": 71001,
+            "text": "『ここまでのまとめ。大学生の妊婦が\n焼却炉に転落して、〔胎儿〕ごと死亡。\n状況的にはこれ、事故じゃなくて事件だよな。\n焼却炉に落ちる事故なんてないし』",
+            "translation": "『目前整理：怀孕的女大学生掉进焚烧炉，连同〔胎儿〕一起死亡。看这情况，是案件，不是意外吧。哪有意外掉进焚烧炉的。』"
+          },
+          {
+            "key": "page.71001:4270920.6d9ff609",
+            "step": 241,
+            "script": 71001,
+            "text": "その書き込みは、なるほど的を射ていると思った。",
+            "translation": "我觉得这条分析，说得还挺有道理。"
+          },
+          {
+            "key": "page.71001:4270992.193a8734",
+            "step": 242,
+            "script": 71001,
+            "text": "事故じゃなくて事件だから、真意のほどは別にして、\nおもしろおかしく騒いでいるのだろう。",
+            "translation": "正因为大家认定是案件而非意外，才不管真相如何，拿来大肆取乐吧。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"『ここまでのまとめ。\",\"color\":0,\"size\":0},{\"text\":\"大学生の妊婦が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"焼却炉に転落して、\",\"color\":0,\"size\":0},{\"text\":\"〔胎儿〕\",\"size\":0,\"keyword\":5223},{\"text\":\"ごと死亡。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"状況的にはこれ、事故じゃなくて事件だよな。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"焼却炉に落ちる事故なんてないし』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "『目前整理：怀孕的女大学生掉进焚烧炉，连同"
+            },
+            {
+              "ref": 4
+            },
+            {
+              "text": "一起死亡。看这情况，是案件，不是意外吧。哪有意外掉进焚烧炉的。』"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "『目前整理：怀孕的女大学生掉进焚化炉，连同"
+            },
+            {
+              "ref": 4
+            },
+            {
+              "text": "一起死亡。看这情况，是案件，不是意外吧。哪有意外掉进焚化炉的。』"
+            }
+          ]
+        },
+        "notes": "普通正文与关键词跨批次统一：焚化炉指同一焚烧设备，保留网络帖子的叙述口吻。"
+      },
+      {
+        "key": "page.71701:4306228.f66a4196",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"『最近起きた、妊婦が焼却炉に突っ込まれて\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"死んだというＢ事件を知っていますか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"まだ、犯人は捕まっていません。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私は、友達の友達から、こんな話を聞きました。』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "a02d788b5e486896f1cd76c1124ddeba9b68870af72fc5930f98626d08b30544",
+        "location": {
+          "script": 71701,
+          "page": "71701:4306228",
+          "route": "chapter-6-end-75090.json",
+          "step": 453
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.71701:4305904.5722f6d5",
+            "step": 451,
+            "script": 71701,
+            "text": "夜、電子レンジでミルクを温め、\nＣＤを聴きながら、私はパソコンを開いた。",
+            "translation": "晚上，我用微波炉热着牛奶，听着CD，打开了电脑。"
+          },
+          {
+            "key": "page.71701:4306060.c674d2f4",
+            "step": 452,
+            "script": 71701,
+            "text": "オカルトマニア向けサイトを、あらかたチェックする。\nすると、どのサイトにも\n新たな要素が加わっていたのだ。",
+            "translation": "把神秘现象爱好者的网站大致看了一遍，发现每个网站，都添进了新的内容。"
+          },
+          {
+            "key": "page.71701:4306228.f66a4196",
+            "step": 453,
+            "script": 71701,
+            "text": "『最近起きた、妊婦が焼却炉に突っ込まれて\n死んだというＢ事件を知っていますか？\nまだ、犯人は捕まっていません。\n私は、友達の友達から、こんな話を聞きました。』",
+            "translation": "『你知道最近那起孕妇被塞进焚烧炉烧死的B事件吗？凶手还没抓到。我从朋友的朋友那里，听到了这样一个故事。』"
+          },
+          {
+            "key": "page.71701:4306432.153c9fb7",
+            "step": 454,
+            "script": 71701,
+            "text": "『その子は眠る前に、ネットの掲示板で\nＢ事件についての書き込みを見ていたそうです。\nその子は現場の近くに住んでいたそうなので、\n好奇心も人一倍だったのかもしれません。』",
+            "translation": "『那个人睡前，在网上论坛看了有关B事件的帖子。据说就住在案发现场附近，所以好奇心也许比别人更强。』"
+          },
+          {
+            "key": "page.71701:4306644.f1ec3788",
+            "step": 455,
+            "script": 71701,
+            "text": "『とにかくその子は、\nネットを見たあと、ベッドに入りました。\nそして、ある夢を見たのだそうです……』",
+            "translation": "『总之，看完网页后，那个人上床睡了。然后，做了一个梦……』"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"『最近起きた、妊婦が焼却炉に突っ込まれて\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"死んだというＢ事件を知っていますか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"まだ、犯人は捕まっていません。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私は、友達の友達から、こんな話を聞きました。』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "『你知道最近那起孕妇被塞进焚烧炉烧死的B事件吗？凶手还没抓到。我从朋友的朋友那里，听到了这样一个故事。』"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "『你知道最近那起孕妇被塞进焚化炉烧死的B事件吗？凶手还没抓到。我从朋友的朋友那里，听到了这样一个故事。』"
+            }
+          ]
+        },
+        "notes": "普通正文与关键词跨批次统一：焚化炉指同一焚烧设备，保留网络帖子的叙述口吻。"
+      },
+      {
+        "key": "page.71701:4308356.a892fc2b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"『……真っ黒に焼け焦げた妊婦さんがいました。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「私の赤ちゃんは、まだ見つからないの？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"と、\",\"color\":0,\"size\":0},{\"text\":\"呟\",\"color\":0,\"size\":0},{\"text\":\"きながら、妊婦さんは、列に並んだ人達を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"焼却炉に突っ込んでいったそうです。』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "1065cb86c599f4ecb44900fe715263a42f18d48eb7a47939255f17b0bfb38432",
+        "location": {
+          "script": 71701,
+          "page": "71701:4308356",
+          "route": "chapter-6-end-75090.json",
+          "step": 465
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.71701:4308096.435b6d35",
+            "step": 463,
+            "script": 71701,
+            "text": "「……びっくりした」",
+            "translation": "「……吓死我了。」"
+          },
+          {
+            "key": "page.71701:4308220.b259ac99",
+            "step": 464,
+            "script": 71701,
+            "text": "ブレーカーを上げ、温まったミルクを取り出し、\nパソコンの電源を入れなおした。",
+            "translation": "我推上电闸，取出热好的牛奶，重新启动电脑。"
+          },
+          {
+            "key": "page.71701:4308356.a892fc2b",
+            "step": 465,
+            "script": 71701,
+            "text": "『……真っ黒に焼け焦げた妊婦さんがいました。\n「私の赤ちゃんは、まだ見つからないの？」\nと、呟きながら、妊婦さんは、列に並んだ人達を\n焼却炉に突っ込んでいったそうです。』",
+            "translation": "『……那里站着一个被烧得焦黑的孕妇。她一边念着：「我的宝宝，还没找到吗？」一边把排队的人一个接一个塞进焚烧炉。』"
+          },
+          {
+            "key": "page.71701:4308588.602aa0b0",
+            "step": 466,
+            "script": 71701,
+            "text": "『その子の番が近づいてきます。\nどうなるのだろうとドキドキしていると、\n前に並んでいた人が振り向いて言いました。』",
+            "translation": "『就快轮到了。那个人紧张地想着会发生什么，这时，排在前面的人回过头说：』"
+          },
+          {
+            "key": "page.71701:4308756.7b5b9d0b",
+            "step": 467,
+            "script": 71701,
+            "text": "『「今日はここまでだって」\nそこで目が覚めたのです。\nその子は翌日も、同じ夢を見ました。』",
+            "translation": "『「听说今天就到这里了。」\n梦在这里醒了。第二天，那个人又做了同样的梦。』"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"『……真っ黒に焼け焦げた妊婦さんがいました。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「私の赤ちゃんは、まだ見つからないの？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"と、\",\"color\":0,\"size\":0},{\"text\":\"呟\",\"color\":0,\"size\":0},{\"text\":\"きながら、妊婦さんは、列に並んだ人達を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"焼却炉に突っ込んでいったそうです。』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "『……那里站着一个被烧得焦黑的孕妇。她一边念着：「我的宝宝，还没找到吗？」一边把排队的人一个接一个塞进焚烧炉。』"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "『……那里站着一个被烧得焦黑的孕妇。她一边念着：「我的宝宝，还没找到吗？」一边把排队的人一个接一个塞进焚化炉。』"
+            }
+          ]
+        },
+        "notes": "普通正文与关键词跨批次统一：焚化炉指同一焚烧设备，保留网络帖子的叙述口吻。"
+      },
+      {
+        "key": "page.79016:4329212.7b4df543",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ネットの書き込みによると、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"大学生の妊婦が焼却炉に転落して、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"胎児ごと死亡。とされている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "eb815704a909a1bb260adb6044644baf22e434bcc2d2502b931271fce85e3850",
+        "location": {
+          "script": 79016,
+          "page": "79016:4329212",
+          "route": "chapter-6-end-75090.json",
+          "step": 665
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79016:4328960.7c37024c",
+            "step": 663,
+            "script": 79016,
+            "text": "湯川果歩は、清桜女子大学の学生で、\n穂坂先生の前の大学の教え子だ。",
+            "translation": "汤川果步就读于清樱女子大学，是老师以前学校的学生。"
+          },
+          {
+            "key": "page.79016:4329060.9e444e11",
+            "step": 664,
+            "script": 79016,
+            "text": "そして二人を繋ぐ接点は、他ならぬ穂坂先生……\n湯川果歩のことも気になるが、\n最初に事故に遭ったのは菱田桃代の方だ。",
+            "translation": "连接两人的，正是穗坂老师……虽然也在意汤川果步，但最先出事的，是菱田桃代。"
+          },
+          {
+            "key": "page.79016:4329212.7b4df543",
+            "step": 665,
+            "script": 79016,
+            "text": "ネットの書き込みによると、\n大学生の妊婦が焼却炉に転落して、\n胎児ごと死亡。とされている。",
+            "translation": "按照网络帖子，一名怀孕的女大学生掉进焚烧炉，连同胎儿一起死去。"
+          },
+          {
+            "key": "page.79016:4329340.9159103f",
+            "step": 666,
+            "script": 79016,
+            "text": "朝希の話によると、それが他ならぬ菱田桃代……\nネットでは事故に遭ったと書いてあったけど、\n本当のところはどうなのだろう？",
+            "translation": "据朝希说，那人正是菱田桃代……网上写的是意外，可真相究竟如何？"
+          },
+          {
+            "key": "page.79016:4329500.be89c9e3",
+            "step": 667,
+            "script": 79016,
+            "text": "考えられそうなのは——",
+            "translation": "可能的情况是——"
+          },
+          {
+            "key": "choice.79016.129.0.b6cfb896",
+            "step": 667,
+            "script": 79016,
+            "text": "菱田桃代は殺された",
+            "translation": "菱田桃代被杀了"
+          },
+          {
+            "key": "choice.79016.129.1.680e4ae4",
+            "step": 667,
+            "script": 79016,
+            "text": "菱田桃代は自殺した",
+            "translation": "菱田桃代自杀了"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"ネットの書き込みによると、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"大学生の妊婦が焼却炉に転落して、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"胎児ごと死亡。とされている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "按照网络帖子，一名怀孕的女大学生掉进焚烧炉，连同胎儿一起死去。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "按照网络帖子，一名怀孕的女大学生掉进焚化炉，连同胎儿一起死去。"
+            }
+          ]
+        },
+        "notes": "普通正文与关键词跨批次统一：焚化炉指同一焚烧设备，保留网络帖子的叙述口吻。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

@@ -110,7 +110,7 @@ dialog::backdrop { background: #050907bd; }
 .dialog-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; border-bottom: 1px solid #c4b38a33; padding-bottom: 12px; flex: 0 0 auto; }
 .dialog-head h2 { font: 500 23px/1.5 "Songti SC", serif; }
 .dialog-head button { font-size: 24px; width: 44px; padding: 0; flex: 0 0 auto; }
-.dialog-body { overflow-y: auto; overscroll-behavior: contain; min-height: 0; padding-top: 20px; scrollbar-gutter: stable; }
+.dialog-body { overflow-y: auto; overscroll-behavior: contain; min-height: 0; min-width: 0; overflow-wrap: anywhere; padding-top: 20px; scrollbar-gutter: stable; }
 .chapter-menu { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
 .chapter-menu h3 { font-size: 13px; font-weight: 500; color: #c4b38a; padding: 0 12px 12px; }
 .chapter-menu button { display: flex; width: 100%; justify-content: space-between; align-items: center; gap: 12px; border-top: 1px solid #ffffff12; padding: 16px 12px; text-align: left; font-family: "Songti SC", serif; }
@@ -131,7 +131,7 @@ dialog::backdrop { background: #050907bd; }
 .save-slot button { border-color: #c4b38a44; font-size: 14px; }
 .settings label { display: block; margin-bottom: 26px; font-size: 15px; }
 .settings label span { float: right; color: #c4b38a; }
-.settings input { display: block; width: 100%; min-height: 32px; margin-top: 12px; accent-color: #c4b38a; }
+.settings input { display: block; width: 100%; min-height: 32px; min-width: 0; margin: 12px 0 0; accent-color: #c4b38a; }
 .settings hr { border: 0; border-top: 1px solid #ffffff20; margin: 24px 0; }
 .terms > div { padding: 18px 0; border-top: 1px solid #ffffff16; }
 .terms h3 { font: 500 21px/1.6 "Songti SC", serif; margin-bottom: 10px; }

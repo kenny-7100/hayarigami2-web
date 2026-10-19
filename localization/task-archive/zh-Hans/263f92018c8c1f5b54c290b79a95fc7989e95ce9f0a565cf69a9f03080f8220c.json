@@ -1,0 +1,4705 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 50001,
+    "title": "小暮篇 · エレベーター幽霊",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 2643,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.56701:3674244.d3e698ed",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「残念だわ、小暮巡査」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「———え？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3674244",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 422
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.56701:3674028.7b0c64e2",
+            "step": 420,
+            "script": 56701,
+            "text": "「し、心配は無用であります。\n誰かが来ても、自分が上手く説明しておきますから。\nとにかく電気をつけさせて下さい」",
+            "translation": "「不、不用担心。就算有人来，我也会好好解释。总之，请让我开灯吧。」"
+          },
+          {
+            "key": "page.56701:3674176.5e1fbb1b",
+            "step": 421,
+            "script": 56701,
+            "text": "「………………」\n「管理官？」",
+            "translation": "「………………」\n「管理官？」"
+          },
+          {
+            "key": "page.56701:3674244.d3e698ed",
+            "step": 422,
+            "script": 56701,
+            "text": "「残念だわ、小暮巡査」\n「——え？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674384.19a6bad3",
+            "step": 423,
+            "script": 56701,
+            "text": "自分の指は蛍光灯のスイッチを押していた。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674660.55d4f53b",
+            "step": 424,
+            "script": 56701,
+            "text": "「あの、大丈夫ですか？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「真遗憾，小暮巡查。」\n「——咦？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3674384.19a6bad3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"自分の指は蛍光灯のスイッチを押していた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3674384",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 423
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3674176.5e1fbb1b",
+            "step": 421,
+            "script": 56701,
+            "text": "「………………」\n「管理官？」",
+            "translation": "「………………」\n「管理官？」"
+          },
+          {
+            "key": "page.56701:3674244.d3e698ed",
+            "step": 422,
+            "script": 56701,
+            "text": "「残念だわ、小暮巡査」\n「——え？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674384.19a6bad3",
+            "step": 423,
+            "script": 56701,
+            "text": "自分の指は蛍光灯のスイッチを押していた。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674660.55d4f53b",
+            "step": 424,
+            "script": 56701,
+            "text": "「あの、大丈夫ですか？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674708.cbca2652",
+            "step": 425,
+            "script": 56701,
+            "text": "遠くから聞こえてくる声に、\n自分の意識はゆっくり引き戻された。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我的手指，已经按下了日光灯的开关。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3674660.55d4f53b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「あの、大丈夫ですか？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3674660",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 424
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3674244.d3e698ed",
+            "step": 422,
+            "script": 56701,
+            "text": "「残念だわ、小暮巡査」\n「——え？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674384.19a6bad3",
+            "step": 423,
+            "script": 56701,
+            "text": "自分の指は蛍光灯のスイッチを押していた。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674660.55d4f53b",
+            "step": 424,
+            "script": 56701,
+            "text": "「あの、大丈夫ですか？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674708.cbca2652",
+            "step": 425,
+            "script": 56701,
+            "text": "遠くから聞こえてくる声に、\n自分の意識はゆっくり引き戻された。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674812.3564dce1",
+            "step": 426,
+            "script": 56701,
+            "text": "額にあたる机の感触、\n誰かの声と行き交う足音、真っ白な蛍光灯の光。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「那个，您没事吧？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3674708.cbca2652",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"遠くから聞こえてくる声に、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自分の意識はゆっくり引き戻された。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3674708",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 425
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3674384.19a6bad3",
+            "step": 423,
+            "script": 56701,
+            "text": "自分の指は蛍光灯のスイッチを押していた。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674660.55d4f53b",
+            "step": 424,
+            "script": 56701,
+            "text": "「あの、大丈夫ですか？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674708.cbca2652",
+            "step": 425,
+            "script": 56701,
+            "text": "遠くから聞こえてくる声に、\n自分の意識はゆっくり引き戻された。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674812.3564dce1",
+            "step": 426,
+            "script": 56701,
+            "text": "額にあたる机の感触、\n誰かの声と行き交う足音、真っ白な蛍光灯の光。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674908.6b5380a5",
+            "step": 427,
+            "script": 56701,
+            "text": "そうだ、自分は管理官と証拠品保管倉庫の\n捜査をしている途中で……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "远处传来的声音，将我的意识慢慢拉了回来。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3674812.3564dce1",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"額にあたる机の感触、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"誰かの声と行き交う足音、真っ白な蛍光灯の光。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3674812",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 426
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3674660.55d4f53b",
+            "step": 424,
+            "script": 56701,
+            "text": "「あの、大丈夫ですか？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674708.cbca2652",
+            "step": 425,
+            "script": 56701,
+            "text": "遠くから聞こえてくる声に、\n自分の意識はゆっくり引き戻された。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674812.3564dce1",
+            "step": 426,
+            "script": 56701,
+            "text": "額にあたる机の感触、\n誰かの声と行き交う足音、真っ白な蛍光灯の光。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674908.6b5380a5",
+            "step": 427,
+            "script": 56701,
+            "text": "そうだ、自分は管理官と証拠品保管倉庫の\n捜査をしている途中で……",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675016.43211bf7",
+            "step": 428,
+            "script": 56701,
+            "text": "「はっ！？ すみません、\nいつの間にか寝てしまいました！ 御園管理官！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "额头抵着桌面的触感，有人说话的声音，来往的脚步声，还有日光灯惨白的光。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3674908.6b5380a5",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そうだ、自分は管理官と証拠品保管倉庫の\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"捜査をしている途中で……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3674908",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 427
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3674708.cbca2652",
+            "step": 425,
+            "script": 56701,
+            "text": "遠くから聞こえてくる声に、\n自分の意識はゆっくり引き戻された。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674812.3564dce1",
+            "step": 426,
+            "script": 56701,
+            "text": "額にあたる机の感触、\n誰かの声と行き交う足音、真っ白な蛍光灯の光。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674908.6b5380a5",
+            "step": 427,
+            "script": 56701,
+            "text": "そうだ、自分は管理官と証拠品保管倉庫の\n捜査をしている途中で……",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675016.43211bf7",
+            "step": 428,
+            "script": 56701,
+            "text": "「はっ！？ すみません、\nいつの間にか寝てしまいました！ 御園管理官！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675176.97de9120",
+            "step": 429,
+            "script": 56701,
+            "text": "自分は立ち上がるなり、直立不動で敬礼をした。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "对了，我正和管理官一起，在证物保管仓库里调查……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3675016.43211bf7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「はっ！？\",\"color\":0,\"size\":0},{\"text\":\" すみません、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いつの間にか寝てしまいました！ 御園管理官！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3675016",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 428
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3674812.3564dce1",
+            "step": 426,
+            "script": 56701,
+            "text": "額にあたる机の感触、\n誰かの声と行き交う足音、真っ白な蛍光灯の光。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3674908.6b5380a5",
+            "step": 427,
+            "script": 56701,
+            "text": "そうだ、自分は管理官と証拠品保管倉庫の\n捜査をしている途中で……",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675016.43211bf7",
+            "step": 428,
+            "script": 56701,
+            "text": "「はっ！？ すみません、\nいつの間にか寝てしまいました！ 御園管理官！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675176.97de9120",
+            "step": 429,
+            "script": 56701,
+            "text": "自分は立ち上がるなり、直立不動で敬礼をした。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675244.11a5f3a3",
+            "step": 430,
+            "script": 56701,
+            "text": "「……あの、人違いですよ？」\n「……へ？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「啊！？对不起！不知不觉睡着了，御园管理官！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3675176.97de9120",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"自分は立ち上がるなり、直立不動で敬礼をした。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3675176",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 429
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3674908.6b5380a5",
+            "step": 427,
+            "script": 56701,
+            "text": "そうだ、自分は管理官と証拠品保管倉庫の\n捜査をしている途中で……",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675016.43211bf7",
+            "step": 428,
+            "script": 56701,
+            "text": "「はっ！？ すみません、\nいつの間にか寝てしまいました！ 御園管理官！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675176.97de9120",
+            "step": 429,
+            "script": 56701,
+            "text": "自分は立ち上がるなり、直立不動で敬礼をした。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675244.11a5f3a3",
+            "step": 430,
+            "script": 56701,
+            "text": "「……あの、人違いですよ？」\n「……へ？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675352.a1d47446",
+            "step": 431,
+            "script": 56701,
+            "text": "目を開いて声の主を見る。\nそこにいたのは御園管理官とは似ても似つかない、\n〔年轻的刑警〕だった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我一站起来，就立正敬了个礼。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3675244.11a5f3a3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「……あの、人違いですよ？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「……へ？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3675244",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 430
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3675016.43211bf7",
+            "step": 428,
+            "script": 56701,
+            "text": "「はっ！？ すみません、\nいつの間にか寝てしまいました！ 御園管理官！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675176.97de9120",
+            "step": 429,
+            "script": 56701,
+            "text": "自分は立ち上がるなり、直立不動で敬礼をした。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675244.11a5f3a3",
+            "step": 430,
+            "script": 56701,
+            "text": "「……あの、人違いですよ？」\n「……へ？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675352.a1d47446",
+            "step": 431,
+            "script": 56701,
+            "text": "目を開いて声の主を見る。\nそこにいたのは御園管理官とは似ても似つかない、\n〔年轻的刑警〕だった。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675480.529e4e12",
+            "step": 432,
+            "script": 56701,
+            "text": "年の頃は自分より五つ、六つ下\nといったところだろうか。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「……那个，您认错人了吧？」\n「……咦？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3675352.a1d47446",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"目を開いて声の主を見る。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そこにいたのは御園管理官とは似ても似つかない、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"〔年轻的刑警〕\",\"size\":0,\"keyword\":5123},{\"text\":\"だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3675352",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 431
+        },
+        "requiredRefs": [
+          {
+            "ref": 4,
+            "text": "〔年轻的刑警〕",
+            "size": 0,
+            "keyword": 5123
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3675176.97de9120",
+            "step": 429,
+            "script": 56701,
+            "text": "自分は立ち上がるなり、直立不動で敬礼をした。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675244.11a5f3a3",
+            "step": 430,
+            "script": 56701,
+            "text": "「……あの、人違いですよ？」\n「……へ？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675352.a1d47446",
+            "step": 431,
+            "script": 56701,
+            "text": "目を開いて声の主を見る。\nそこにいたのは御園管理官とは似ても似つかない、\n〔年轻的刑警〕だった。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675480.529e4e12",
+            "step": 432,
+            "script": 56701,
+            "text": "年の頃は自分より五つ、六つ下\nといったところだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675564.4c650cf9",
+            "step": 433,
+            "script": 56701,
+            "text": "「あ、あの、御園管理官は……」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "睁眼看向说话的人，站在那里的，是一位与御园管理官毫不相像的"
+            },
+            {
+              "ref": 4
+            },
+            {
+              "text": "。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3675480.529e4e12",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"年の頃は自分より五つ、六つ下\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"といったところだろうか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3675480",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 432
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3675244.11a5f3a3",
+            "step": 430,
+            "script": 56701,
+            "text": "「……あの、人違いですよ？」\n「……へ？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675352.a1d47446",
+            "step": 431,
+            "script": 56701,
+            "text": "目を開いて声の主を見る。\nそこにいたのは御園管理官とは似ても似つかない、\n〔年轻的刑警〕だった。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675480.529e4e12",
+            "step": 432,
+            "script": 56701,
+            "text": "年の頃は自分より五つ、六つ下\nといったところだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675564.4c650cf9",
+            "step": 433,
+            "script": 56701,
+            "text": "「あ、あの、御園管理官は……」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675620.972e6100",
+            "step": 434,
+            "script": 56701,
+            "text": "「さぁ？ ぼくがここに来た時には、\nもう誰もいませんでしたけど」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "年纪大概比我小五六岁吧。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3675564.4c650cf9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「あ、あの、御園管理官は……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3675564",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 433
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3675352.a1d47446",
+            "step": 431,
+            "script": 56701,
+            "text": "目を開いて声の主を見る。\nそこにいたのは御園管理官とは似ても似つかない、\n〔年轻的刑警〕だった。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675480.529e4e12",
+            "step": 432,
+            "script": 56701,
+            "text": "年の頃は自分より五つ、六つ下\nといったところだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675564.4c650cf9",
+            "step": 433,
+            "script": 56701,
+            "text": "「あ、あの、御園管理官は……」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675620.972e6100",
+            "step": 434,
+            "script": 56701,
+            "text": "「さぁ？ ぼくがここに来た時には、\nもう誰もいませんでしたけど」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675724.610c5fb5",
+            "step": 435,
+            "script": 56701,
+            "text": "キャリア組の刑事だろうか？\nいかにも頭の回転がよさそうな青年は、\n振り返って室内に視線を巡らせると\n「うん、やっぱり誰もいません」と繰り返す。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「那、那个，御园管理官呢……」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3675620.972e6100",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「さぁ？\",\"color\":0,\"size\":0},{\"text\":\" ぼくがここに来た時には、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"もう誰もいませんでしたけど」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3675620",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 434
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3675480.529e4e12",
+            "step": 432,
+            "script": 56701,
+            "text": "年の頃は自分より五つ、六つ下\nといったところだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675564.4c650cf9",
+            "step": 433,
+            "script": 56701,
+            "text": "「あ、あの、御園管理官は……」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675620.972e6100",
+            "step": 434,
+            "script": 56701,
+            "text": "「さぁ？ ぼくがここに来た時には、\nもう誰もいませんでしたけど」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675724.610c5fb5",
+            "step": 435,
+            "script": 56701,
+            "text": "キャリア組の刑事だろうか？\nいかにも頭の回転がよさそうな青年は、\n振り返って室内に視線を巡らせると\n「うん、やっぱり誰もいません」と繰り返す。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675912.aa23dc17",
+            "step": 436,
+            "script": 56701,
+            "text": "「あれ？ ここは……？ 管理官はどこに……？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「不知道。我进来的时候，这里就已经没有别人了。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3675724.610c5fb5",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"キャリア組の刑事だろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いかにも頭の回転がよさそうな青年は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"振り返って室内に視線を巡らせると\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「うん、やっぱり誰もいません」と繰り返す。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3675724",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 435
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3675564.4c650cf9",
+            "step": 433,
+            "script": 56701,
+            "text": "「あ、あの、御園管理官は……」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675620.972e6100",
+            "step": 434,
+            "script": 56701,
+            "text": "「さぁ？ ぼくがここに来た時には、\nもう誰もいませんでしたけど」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675724.610c5fb5",
+            "step": 435,
+            "script": 56701,
+            "text": "キャリア組の刑事だろうか？\nいかにも頭の回転がよさそうな青年は、\n振り返って室内に視線を巡らせると\n「うん、やっぱり誰もいません」と繰り返す。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675912.aa23dc17",
+            "step": 436,
+            "script": 56701,
+            "text": "「あれ？ ここは……？ 管理官はどこに……？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676000.1667c6d0",
+            "step": 437,
+            "script": 56701,
+            "text": "見回した風景は、間違いなく証拠品保管倉庫だ。\nだが御園管理官の姿はなくて、\n自分は警察官の制服を着用している。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "是精英组的刑警吗？这位看起来头脑灵活的青年回头环视室内，又重复了一遍：「嗯，确实没有别人。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3675912.aa23dc17",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「あれ？\",\"color\":0,\"size\":0},{\"text\":\" ここは……？\",\"color\":0,\"size\":0},{\"text\":\" 管理官はどこに……？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3675912",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 436
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3675620.972e6100",
+            "step": 434,
+            "script": 56701,
+            "text": "「さぁ？ ぼくがここに来た時には、\nもう誰もいませんでしたけど」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675724.610c5fb5",
+            "step": 435,
+            "script": 56701,
+            "text": "キャリア組の刑事だろうか？\nいかにも頭の回転がよさそうな青年は、\n振り返って室内に視線を巡らせると\n「うん、やっぱり誰もいません」と繰り返す。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675912.aa23dc17",
+            "step": 436,
+            "script": 56701,
+            "text": "「あれ？ ここは……？ 管理官はどこに……？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676000.1667c6d0",
+            "step": 437,
+            "script": 56701,
+            "text": "見回した風景は、間違いなく証拠品保管倉庫だ。\nだが御園管理官の姿はなくて、\n自分は警察官の制服を着用している。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676148.6344526c",
+            "step": 438,
+            "script": 56701,
+            "text": "「ああ、またあの夢か……」\n「…………大丈夫ですか？　さっきから、\nなんだか様子がおかしいようですけど」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「咦？这里是……？管理官去哪儿了……？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3676000.1667c6d0",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"見回した風景は、間違いなく証拠品保管倉庫だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"だが御園管理官の姿はなくて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自分は警察官の制服を着用している。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3676000",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 437
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3675724.610c5fb5",
+            "step": 435,
+            "script": 56701,
+            "text": "キャリア組の刑事だろうか？\nいかにも頭の回転がよさそうな青年は、\n振り返って室内に視線を巡らせると\n「うん、やっぱり誰もいません」と繰り返す。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3675912.aa23dc17",
+            "step": 436,
+            "script": 56701,
+            "text": "「あれ？ ここは……？ 管理官はどこに……？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676000.1667c6d0",
+            "step": 437,
+            "script": 56701,
+            "text": "見回した風景は、間違いなく証拠品保管倉庫だ。\nだが御園管理官の姿はなくて、\n自分は警察官の制服を着用している。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676148.6344526c",
+            "step": 438,
+            "script": 56701,
+            "text": "「ああ、またあの夢か……」\n「…………大丈夫ですか？　さっきから、\nなんだか様子がおかしいようですけど」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676292.2aa98135",
+            "step": 439,
+            "script": 56701,
+            "text": "「押忍。ご心配おかけしたであります」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "环顾四周，毫无疑问是证物保管仓库。可御园管理官不在，而我身上穿着警察制服。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3676148.6344526c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ああ、またあの夢か……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「…………大丈夫ですか？　さっきから、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"なんだか様子がおかしいようですけど」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3676148",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 438
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3675912.aa23dc17",
+            "step": 436,
+            "script": 56701,
+            "text": "「あれ？ ここは……？ 管理官はどこに……？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676000.1667c6d0",
+            "step": 437,
+            "script": 56701,
+            "text": "見回した風景は、間違いなく証拠品保管倉庫だ。\nだが御園管理官の姿はなくて、\n自分は警察官の制服を着用している。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676148.6344526c",
+            "step": 438,
+            "script": 56701,
+            "text": "「ああ、またあの夢か……」\n「…………大丈夫ですか？　さっきから、\nなんだか様子がおかしいようですけど」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676292.2aa98135",
+            "step": 439,
+            "script": 56701,
+            "text": "「押忍。ご心配おかけしたであります」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676352.601fa07e",
+            "step": 440,
+            "script": 56701,
+            "text": "「そうですか？ それじゃあ、\n書類はここに書いておきましたから、\n証拠品、お借りしていきますね？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「啊，又是那个梦……」\n「…………您没事吧？从刚才起，样子就有点不对劲。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3676292.2aa98135",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「押忍。ご心配おかけしたであります」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3676292",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 439
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3676000.1667c6d0",
+            "step": 437,
+            "script": 56701,
+            "text": "見回した風景は、間違いなく証拠品保管倉庫だ。\nだが御園管理官の姿はなくて、\n自分は警察官の制服を着用している。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676148.6344526c",
+            "step": 438,
+            "script": 56701,
+            "text": "「ああ、またあの夢か……」\n「…………大丈夫ですか？　さっきから、\nなんだか様子がおかしいようですけど」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676292.2aa98135",
+            "step": 439,
+            "script": 56701,
+            "text": "「押忍。ご心配おかけしたであります」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676352.601fa07e",
+            "step": 440,
+            "script": 56701,
+            "text": "「そうですか？ それじゃあ、\n書類はここに書いておきましたから、\n証拠品、お借りしていきますね？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676488.143865cb",
+            "step": 441,
+            "script": 56701,
+            "text": "「あっ、えーと……はい。\n編纂室の风海警部補殿、と。\nでは、ここに借り出しのサインをお願いするであります」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「是。让您担心了。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3676352.601fa07e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「そうですか？ それじゃあ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"書類はここに書いておきましたから、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"証拠品、お借りしていきますね？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3676352",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 440
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3676148.6344526c",
+            "step": 438,
+            "script": 56701,
+            "text": "「ああ、またあの夢か……」\n「…………大丈夫ですか？　さっきから、\nなんだか様子がおかしいようですけど」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676292.2aa98135",
+            "step": 439,
+            "script": 56701,
+            "text": "「押忍。ご心配おかけしたであります」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676352.601fa07e",
+            "step": 440,
+            "script": 56701,
+            "text": "「そうですか？ それじゃあ、\n書類はここに書いておきましたから、\n証拠品、お借りしていきますね？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676488.143865cb",
+            "step": 441,
+            "script": 56701,
+            "text": "「あっ、えーと……はい。\n編纂室の风海警部補殿、と。\nでは、ここに借り出しのサインをお願いするであります」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676676.a602b537",
+            "step": 442,
+            "script": 56701,
+            "text": "何度も何度も繰り返すあの夢。\nあの日、あの夜。\nこの倉庫に間違いなくいたはずの管理官は、\n一瞬のうちに姿を消してしまったのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「是吗？那么，手续我已经填在这里了，证物就先借走了，可以吗？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3676488.143865cb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「あっ、えーと……はい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"編纂室の\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"警部補殿、と。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"では、ここに借り出しのサインをお願いするであります」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3676488",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 441
+        },
+        "requiredRefs": [
+          {
+            "ref": 3,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3676292.2aa98135",
+            "step": 439,
+            "script": 56701,
+            "text": "「押忍。ご心配おかけしたであります」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676352.601fa07e",
+            "step": 440,
+            "script": 56701,
+            "text": "「そうですか？ それじゃあ、\n書類はここに書いておきましたから、\n証拠品、お借りしていきますね？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676488.143865cb",
+            "step": 441,
+            "script": 56701,
+            "text": "「あっ、えーと……はい。\n編纂室の风海警部補殿、と。\nでは、ここに借り出しのサインをお願いするであります」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676676.a602b537",
+            "step": 442,
+            "script": 56701,
+            "text": "何度も何度も繰り返すあの夢。\nあの日、あの夜。\nこの倉庫に間違いなくいたはずの管理官は、\n一瞬のうちに姿を消してしまったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676844.2691f674",
+            "step": 443,
+            "script": 56701,
+            "text": "明かりのついた部屋に残されたのは自分ひとり。\nそれ以来、何度ここへ足を運んでも\n管理官と会うことは出来ず……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「啊，呃……好的。编纂室的"
+            },
+            {
+              "ref": 3
+            },
+            {
+              "text": "警部补，对吧。请在这里签名，登记借出。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3676676.a602b537",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"何度も何度も繰り返すあの夢。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あの日、あの夜。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この倉庫に間違いなくいたはずの管理官は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一瞬のうちに姿を消してしまったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3676676",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 442
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3676352.601fa07e",
+            "step": 440,
+            "script": 56701,
+            "text": "「そうですか？ それじゃあ、\n書類はここに書いておきましたから、\n証拠品、お借りしていきますね？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676488.143865cb",
+            "step": 441,
+            "script": 56701,
+            "text": "「あっ、えーと……はい。\n編纂室の风海警部補殿、と。\nでは、ここに借り出しのサインをお願いするであります」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676676.a602b537",
+            "step": 442,
+            "script": 56701,
+            "text": "何度も何度も繰り返すあの夢。\nあの日、あの夜。\nこの倉庫に間違いなくいたはずの管理官は、\n一瞬のうちに姿を消してしまったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676844.2691f674",
+            "step": 443,
+            "script": 56701,
+            "text": "明かりのついた部屋に残されたのは自分ひとり。\nそれ以来、何度ここへ足を運んでも\n管理官と会うことは出来ず……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676992.7697b94b",
+            "step": 444,
+            "script": 56701,
+            "text": "いつしか自分はごくごく普通の昇進をして\n警視庁に配属された。\nその配属先が、証拠品保管倉庫だったのは、\n運命のいたずらかもしれない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那个梦，一次又一次地重复。那一天，那一夜。管理官明明就在这间仓库里，却在一瞬间消失了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3676844.2691f674",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"明かりのついた部屋に残されたのは自分ひとり。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それ以来、何度ここへ足を運んでも\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"管理官と会うことは出来ず……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3676844",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 443
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3676488.143865cb",
+            "step": 441,
+            "script": 56701,
+            "text": "「あっ、えーと……はい。\n編纂室の风海警部補殿、と。\nでは、ここに借り出しのサインをお願いするであります」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676676.a602b537",
+            "step": 442,
+            "script": 56701,
+            "text": "何度も何度も繰り返すあの夢。\nあの日、あの夜。\nこの倉庫に間違いなくいたはずの管理官は、\n一瞬のうちに姿を消してしまったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676844.2691f674",
+            "step": 443,
+            "script": 56701,
+            "text": "明かりのついた部屋に残されたのは自分ひとり。\nそれ以来、何度ここへ足を運んでも\n管理官と会うことは出来ず……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676992.7697b94b",
+            "step": 444,
+            "script": 56701,
+            "text": "いつしか自分はごくごく普通の昇進をして\n警視庁に配属された。\nその配属先が、証拠品保管倉庫だったのは、\n運命のいたずらかもしれない。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677168.bf44e6c4",
+            "step": 445,
+            "script": 56701,
+            "text": "だから自分はこうして、来る日も来る日も\n捜査の為に出入りする刑事の顔を見つめ、\nその中に見知ったあの顔がないか、\n待ち構えているのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "亮起灯的房间，只剩下我一个人。从那以后，无论再来多少次，我也没能见到管理官……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3676992.7697b94b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"いつしか自分はごくごく普通の昇進をして\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"警視庁に配属された。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その配属先が、証拠品保管倉庫だったのは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"運命のいたずらかもしれない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3676992",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 444
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3676676.a602b537",
+            "step": 442,
+            "script": 56701,
+            "text": "何度も何度も繰り返すあの夢。\nあの日、あの夜。\nこの倉庫に間違いなくいたはずの管理官は、\n一瞬のうちに姿を消してしまったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676844.2691f674",
+            "step": 443,
+            "script": 56701,
+            "text": "明かりのついた部屋に残されたのは自分ひとり。\nそれ以来、何度ここへ足を運んでも\n管理官と会うことは出来ず……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676992.7697b94b",
+            "step": 444,
+            "script": 56701,
+            "text": "いつしか自分はごくごく普通の昇進をして\n警視庁に配属された。\nその配属先が、証拠品保管倉庫だったのは、\n運命のいたずらかもしれない。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677168.bf44e6c4",
+            "step": 445,
+            "script": 56701,
+            "text": "だから自分はこうして、来る日も来る日も\n捜査の為に出入りする刑事の顔を見つめ、\nその中に見知ったあの顔がないか、\n待ち構えているのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677348.fa322c08",
+            "step": 446,
+            "script": 56701,
+            "text": "あれから何年も経過した今も……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "后来，我按部就班地晋升，被调到警视厅。而分配到的岗位，偏偏就是证物保管仓库，也许是命运的捉弄吧。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3677168.bf44e6c4",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だから自分はこうして、来る日も来る日も\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"捜査の為に出入りする刑事の顔を見つめ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その中に見知ったあの顔がないか、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"待ち構えているのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3677168",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 445
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3676844.2691f674",
+            "step": 443,
+            "script": 56701,
+            "text": "明かりのついた部屋に残されたのは自分ひとり。\nそれ以来、何度ここへ足を運んでも\n管理官と会うことは出来ず……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3676992.7697b94b",
+            "step": 444,
+            "script": 56701,
+            "text": "いつしか自分はごくごく普通の昇進をして\n警視庁に配属された。\nその配属先が、証拠品保管倉庫だったのは、\n運命のいたずらかもしれない。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677168.bf44e6c4",
+            "step": 445,
+            "script": 56701,
+            "text": "だから自分はこうして、来る日も来る日も\n捜査の為に出入りする刑事の顔を見つめ、\nその中に見知ったあの顔がないか、\n待ち構えているのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677348.fa322c08",
+            "step": 446,
+            "script": 56701,
+            "text": "あれから何年も経過した今も……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677504.5966440e",
+            "step": 447,
+            "script": 56701,
+            "text": "「……はい。じゃあこれ、お借りしていきます」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "所以，我才会像这样，日复一日地看着为了调查进出的刑警，盼望能从中发现那张熟悉的脸。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3677348.fa322c08",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あれから何年も経過した今も……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3677348",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 446
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3676992.7697b94b",
+            "step": 444,
+            "script": 56701,
+            "text": "いつしか自分はごくごく普通の昇進をして\n警視庁に配属された。\nその配属先が、証拠品保管倉庫だったのは、\n運命のいたずらかもしれない。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677168.bf44e6c4",
+            "step": 445,
+            "script": 56701,
+            "text": "だから自分はこうして、来る日も来る日も\n捜査の為に出入りする刑事の顔を見つめ、\nその中に見知ったあの顔がないか、\n待ち構えているのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677348.fa322c08",
+            "step": 446,
+            "script": 56701,
+            "text": "あれから何年も経過した今も……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677504.5966440e",
+            "step": 447,
+            "script": 56701,
+            "text": "「……はい。じゃあこれ、お借りしていきます」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677572.6c377b93",
+            "step": 448,
+            "script": 56701,
+            "text": "风海と書き終えた刑事が、\nビニール袋に入った証拠品を掲げる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "直到多年后的今天，仍然如此……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3677504.5966440e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「……はい。じゃあこれ、お借りしていきます」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3677504",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 447
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3677168.bf44e6c4",
+            "step": 445,
+            "script": 56701,
+            "text": "だから自分はこうして、来る日も来る日も\n捜査の為に出入りする刑事の顔を見つめ、\nその中に見知ったあの顔がないか、\n待ち構えているのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677348.fa322c08",
+            "step": 446,
+            "script": 56701,
+            "text": "あれから何年も経過した今も……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677504.5966440e",
+            "step": 447,
+            "script": 56701,
+            "text": "「……はい。じゃあこれ、お借りしていきます」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677572.6c377b93",
+            "step": 448,
+            "script": 56701,
+            "text": "风海と書き終えた刑事が、\nビニール袋に入った証拠品を掲げる。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677700.33a5aab1",
+            "step": 449,
+            "script": 56701,
+            "text": "「それは——！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「……好了。那这件证物，我先借走了。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3677572.6c377b93",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"と書き終えた刑事が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ビニール袋に入った証拠品を掲げる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3677572",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 448
+        },
+        "requiredRefs": [
+          {
+            "ref": 0,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3677348.fa322c08",
+            "step": 446,
+            "script": 56701,
+            "text": "あれから何年も経過した今も……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677504.5966440e",
+            "step": 447,
+            "script": 56701,
+            "text": "「……はい。じゃあこれ、お借りしていきます」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677572.6c377b93",
+            "step": 448,
+            "script": 56701,
+            "text": "风海と書き終えた刑事が、\nビニール袋に入った証拠品を掲げる。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677700.33a5aab1",
+            "step": 449,
+            "script": 56701,
+            "text": "「それは——！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677764.da0236b9",
+            "step": 450,
+            "script": 56701,
+            "text": "どれもこれも同じようでいて、\n決して見間違えることのない手帳。\n御園管理官と出会ったきっかけの……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "刑警签下"
+            },
+            {
+              "ref": 0
+            },
+            {
+              "text": "的名字后，举起装在塑料袋里的证物。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3677700.33a5aab1",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「それは———！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3677700",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 449
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3677504.5966440e",
+            "step": 447,
+            "script": 56701,
+            "text": "「……はい。じゃあこれ、お借りしていきます」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677572.6c377b93",
+            "step": 448,
+            "script": 56701,
+            "text": "风海と書き終えた刑事が、\nビニール袋に入った証拠品を掲げる。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677700.33a5aab1",
+            "step": 449,
+            "script": 56701,
+            "text": "「それは——！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677764.da0236b9",
+            "step": 450,
+            "script": 56701,
+            "text": "どれもこれも同じようでいて、\n決して見間違えることのない手帳。\n御園管理官と出会ったきっかけの……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677900.d4a20778",
+            "step": 451,
+            "script": 56701,
+            "text": "「风海君！\n証拠品ひとつ借りるのに、\nどれだけ時間をかけるつもり！？」\n「もう終わりましたから！」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「那是——！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3677764.da0236b9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"どれもこれも同じようでいて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"決して見間違えることのない手帳。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"御園管理官と出会ったきっかけの……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3677764",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 450
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3677572.6c377b93",
+            "step": 448,
+            "script": 56701,
+            "text": "风海と書き終えた刑事が、\nビニール袋に入った証拠品を掲げる。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677700.33a5aab1",
+            "step": 449,
+            "script": 56701,
+            "text": "「それは——！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677764.da0236b9",
+            "step": 450,
+            "script": 56701,
+            "text": "どれもこれも同じようでいて、\n決して見間違えることのない手帳。\n御園管理官と出会ったきっかけの……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677900.d4a20778",
+            "step": 451,
+            "script": 56701,
+            "text": "「风海君！\n証拠品ひとつ借りるのに、\nどれだけ時間をかけるつもり！？」\n「もう終わりましたから！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678048.3467b56e",
+            "step": 452,
+            "script": 56701,
+            "text": "ドアの外から届く声にそう答えると、\n风海なる刑事は苦笑いをしながら\n保管倉庫を飛び出して行った。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "虽然同类手册看起来都差不多，但这一本，我绝不会认错。它正是让我与御园管理官相遇的契机……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3677900.d4a20778",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"君！\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"証拠品ひとつ借りるのに、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どれだけ時間をかけるつもり！？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「もう終わりましたから！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3677900",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 451
+        },
+        "requiredRefs": [
+          {
+            "ref": 1,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3677700.33a5aab1",
+            "step": 449,
+            "script": 56701,
+            "text": "「それは——！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677764.da0236b9",
+            "step": 450,
+            "script": 56701,
+            "text": "どれもこれも同じようでいて、\n決して見間違えることのない手帳。\n御園管理官と出会ったきっかけの……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677900.d4a20778",
+            "step": 451,
+            "script": 56701,
+            "text": "「风海君！\n証拠品ひとつ借りるのに、\nどれだけ時間をかけるつもり！？」\n「もう終わりましたから！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678048.3467b56e",
+            "step": 452,
+            "script": 56701,
+            "text": "ドアの外から届く声にそう答えると、\n风海なる刑事は苦笑いをしながら\n保管倉庫を飛び出して行った。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678188.b04f4d86",
+            "step": 453,
+            "script": 56701,
+            "text": "「あ…………」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「"
+            },
+            {
+              "ref": 1
+            },
+            {
+              "text": "！借一件证物，你到底要花多久！？」\n「已经好了！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3678048.3467b56e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ドアの外から届く声にそう答えると、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"なる刑事は苦笑いをしながら\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"保管倉庫を飛び出して行った。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3678048",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 452
+        },
+        "requiredRefs": [
+          {
+            "ref": 2,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3677764.da0236b9",
+            "step": 450,
+            "script": 56701,
+            "text": "どれもこれも同じようでいて、\n決して見間違えることのない手帳。\n御園管理官と出会ったきっかけの……。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3677900.d4a20778",
+            "step": 451,
+            "script": 56701,
+            "text": "「风海君！\n証拠品ひとつ借りるのに、\nどれだけ時間をかけるつもり！？」\n「もう終わりましたから！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678048.3467b56e",
+            "step": 452,
+            "script": 56701,
+            "text": "ドアの外から届く声にそう答えると、\n风海なる刑事は苦笑いをしながら\n保管倉庫を飛び出して行った。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678188.b04f4d86",
+            "step": 453,
+            "script": 56701,
+            "text": "「あ…………」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678228.9ca5385c",
+            "step": 454,
+            "script": 56701,
+            "text": "聞きたいことは山ほどあった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "回应了门外的声音后，那位名叫"
+            },
+            {
+              "ref": 2
+            },
+            {
+              "text": "的刑警苦笑着，跑出了保管仓库。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3678188.b04f4d86",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「あ…………」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3678188",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 453
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3677900.d4a20778",
+            "step": 451,
+            "script": 56701,
+            "text": "「风海君！\n証拠品ひとつ借りるのに、\nどれだけ時間をかけるつもり！？」\n「もう終わりましたから！」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678048.3467b56e",
+            "step": 452,
+            "script": 56701,
+            "text": "ドアの外から届く声にそう答えると、\n风海なる刑事は苦笑いをしながら\n保管倉庫を飛び出して行った。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678188.b04f4d86",
+            "step": 453,
+            "script": 56701,
+            "text": "「あ…………」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678228.9ca5385c",
+            "step": 454,
+            "script": 56701,
+            "text": "聞きたいことは山ほどあった。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678280.fc9df7b4",
+            "step": 455,
+            "script": 56701,
+            "text": "御園管理官はどこへ消えてしまったのか。\n管理官が追っていた事件とは何か。\nそれは解決したのか。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「啊…………」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3678228.9ca5385c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"聞きたいことは山ほどあった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3678228",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 454
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3678048.3467b56e",
+            "step": 452,
+            "script": 56701,
+            "text": "ドアの外から届く声にそう答えると、\n风海なる刑事は苦笑いをしながら\n保管倉庫を飛び出して行った。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678188.b04f4d86",
+            "step": 453,
+            "script": 56701,
+            "text": "「あ…………」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678228.9ca5385c",
+            "step": 454,
+            "script": 56701,
+            "text": "聞きたいことは山ほどあった。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678280.fc9df7b4",
+            "step": 455,
+            "script": 56701,
+            "text": "御園管理官はどこへ消えてしまったのか。\n管理官が追っていた事件とは何か。\nそれは解決したのか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678412.1e9faaee",
+            "step": 456,
+            "script": 56701,
+            "text": "けれど、何一つ言葉にはならなかった。\n聞いたところで、\n自分にはもう何も出来ないと分かっていたからだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我有无数的事想问。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3678280.fc9df7b4",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"御園管理官はどこへ消えてしまったのか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"管理官が追っていた事件とは何か。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それは解決したのか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3678280",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 455
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3678188.b04f4d86",
+            "step": 453,
+            "script": 56701,
+            "text": "「あ…………」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678228.9ca5385c",
+            "step": 454,
+            "script": 56701,
+            "text": "聞きたいことは山ほどあった。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678280.fc9df7b4",
+            "step": 455,
+            "script": 56701,
+            "text": "御園管理官はどこへ消えてしまったのか。\n管理官が追っていた事件とは何か。\nそれは解決したのか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678412.1e9faaee",
+            "step": 456,
+            "script": 56701,
+            "text": "けれど、何一つ言葉にはならなかった。\n聞いたところで、\n自分にはもう何も出来ないと分かっていたからだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678552.500198ae",
+            "step": 457,
+            "script": 56701,
+            "text": "ドアの外から、さっきの刑事達の声が聞こえる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "御园管理官究竟消失到哪里去了？她追查的到底是什么案件？后来解决了吗？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3678412.1e9faaee",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"けれど、何一つ言葉にはならなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"聞いたところで、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自分にはもう何も出来ないと分かっていたからだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3678412",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 456
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3678228.9ca5385c",
+            "step": 454,
+            "script": 56701,
+            "text": "聞きたいことは山ほどあった。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678280.fc9df7b4",
+            "step": 455,
+            "script": 56701,
+            "text": "御園管理官はどこへ消えてしまったのか。\n管理官が追っていた事件とは何か。\nそれは解決したのか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678412.1e9faaee",
+            "step": 456,
+            "script": 56701,
+            "text": "けれど、何一つ言葉にはならなかった。\n聞いたところで、\n自分にはもう何も出来ないと分かっていたからだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678552.500198ae",
+            "step": 457,
+            "script": 56701,
+            "text": "ドアの外から、さっきの刑事達の声が聞こえる。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678620.d7a8fae6",
+            "step": 458,
+            "script": 56701,
+            "text": "「これが御園雛子の警察手帳です」\n「中の写真は……御園雛子のままね。\n——ねぇ、风海君。\nどこかから原朋子の写真、手に入らないかしら？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，我一个字也没说出口。因为我知道，即使问了，自己也已经什么都做不了了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3678552.500198ae",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ドアの外から、さっきの刑事達の声が聞こえる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3678552",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 457
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3678280.fc9df7b4",
+            "step": 455,
+            "script": 56701,
+            "text": "御園管理官はどこへ消えてしまったのか。\n管理官が追っていた事件とは何か。\nそれは解決したのか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678412.1e9faaee",
+            "step": 456,
+            "script": 56701,
+            "text": "けれど、何一つ言葉にはならなかった。\n聞いたところで、\n自分にはもう何も出来ないと分かっていたからだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678552.500198ae",
+            "step": 457,
+            "script": 56701,
+            "text": "ドアの外から、さっきの刑事達の声が聞こえる。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678620.d7a8fae6",
+            "step": 458,
+            "script": 56701,
+            "text": "「これが御園雛子の警察手帳です」\n「中の写真は……御園雛子のままね。\n——ねぇ、风海君。\nどこかから原朋子の写真、手に入らないかしら？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678808.61c27a5e",
+            "step": 459,
+            "script": 56701,
+            "text": "「そうですね……」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "门外传来刚才那两位刑警的声音。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3678620.d7a8fae6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「これが御園雛子の警察手帳です」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「中の写真は……御園雛子のままね。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"———ねぇ、\",\"color\":0,\"size\":0},{\"text\":\"{name:0}\",\"color\":0,\"size\":0,\"name\":0},{\"text\":\"君。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どこかから原朋子の写真、手に入らないかしら？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3678620",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 458
+        },
+        "requiredRefs": [
+          {
+            "ref": 5,
+            "text": "{name:0}",
+            "color": 0,
+            "size": 0,
+            "name": 0
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3678412.1e9faaee",
+            "step": 456,
+            "script": 56701,
+            "text": "けれど、何一つ言葉にはならなかった。\n聞いたところで、\n自分にはもう何も出来ないと分かっていたからだ。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678552.500198ae",
+            "step": 457,
+            "script": 56701,
+            "text": "ドアの外から、さっきの刑事達の声が聞こえる。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678620.d7a8fae6",
+            "step": 458,
+            "script": 56701,
+            "text": "「これが御園雛子の警察手帳です」\n「中の写真は……御園雛子のままね。\n——ねぇ、风海君。\nどこかから原朋子の写真、手に入らないかしら？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678808.61c27a5e",
+            "step": 459,
+            "script": 56701,
+            "text": "「そうですね……」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678860.cac1fdd7",
+            "step": 460,
+            "script": 56701,
+            "text": "受け取った書類を、規定の場所にしまい込む。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「这就是御园雏子的警察手册。」\n「里面的照片……还是御园雏子呢。——对了，"
+            },
+            {
+              "ref": 5
+            },
+            {
+              "text": "，有没有办法弄到原朋子的照片？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3678808.61c27a5e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「そうですね……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3678808",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 459
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3678552.500198ae",
+            "step": 457,
+            "script": 56701,
+            "text": "ドアの外から、さっきの刑事達の声が聞こえる。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678620.d7a8fae6",
+            "step": 458,
+            "script": 56701,
+            "text": "「これが御園雛子の警察手帳です」\n「中の写真は……御園雛子のままね。\n——ねぇ、风海君。\nどこかから原朋子の写真、手に入らないかしら？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678808.61c27a5e",
+            "step": 459,
+            "script": 56701,
+            "text": "「そうですね……」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678860.cac1fdd7",
+            "step": 460,
+            "script": 56701,
+            "text": "受け取った書類を、規定の場所にしまい込む。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678928.699bf39",
+            "step": 461,
+            "script": 56701,
+            "text": "もしも自分が、\n無理やり明かりをつけようとしなければ……\nそうしていれば管理官と最後まで\n事件の捜査を進めることが出来たのだろうか。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「这个嘛……」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3678860.cac1fdd7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"受け取った書類を、規定の場所にしまい込む。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3678860",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 460
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3678620.d7a8fae6",
+            "step": 458,
+            "script": 56701,
+            "text": "「これが御園雛子の警察手帳です」\n「中の写真は……御園雛子のままね。\n——ねぇ、风海君。\nどこかから原朋子の写真、手に入らないかしら？」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678808.61c27a5e",
+            "step": 459,
+            "script": 56701,
+            "text": "「そうですね……」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678860.cac1fdd7",
+            "step": 460,
+            "script": 56701,
+            "text": "受け取った書類を、規定の場所にしまい込む。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678928.699bf39",
+            "step": 461,
+            "script": 56701,
+            "text": "もしも自分が、\n無理やり明かりをつけようとしなければ……\nそうしていれば管理官と最後まで\n事件の捜査を進めることが出来たのだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679108.37154485",
+            "step": 462,
+            "script": 56701,
+            "text": "もしそうなっていたら今頃は、\nこうしてルーティンワークをこなすのではなく、\nさっきの刑事のように様々な事件の\n捜査をしていたのかもしれない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我把收下的文件，放进规定的位置。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3678928.699bf39",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"もしも自分が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"無理やり明かりをつけようとしなければ……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そうしていれば管理官と最後まで\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"事件の捜査を進めることが出来たのだろうか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3678928",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 461
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3678808.61c27a5e",
+            "step": 459,
+            "script": 56701,
+            "text": "「そうですね……」",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678860.cac1fdd7",
+            "step": 460,
+            "script": 56701,
+            "text": "受け取った書類を、規定の場所にしまい込む。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678928.699bf39",
+            "step": 461,
+            "script": 56701,
+            "text": "もしも自分が、\n無理やり明かりをつけようとしなければ……\nそうしていれば管理官と最後まで\n事件の捜査を進めることが出来たのだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679108.37154485",
+            "step": 462,
+            "script": 56701,
+            "text": "もしそうなっていたら今頃は、\nこうしてルーティンワークをこなすのではなく、\nさっきの刑事のように様々な事件の\n捜査をしていたのかもしれない。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679292.2b20b3fd",
+            "step": 463,
+            "script": 56701,
+            "text": "……取り留めない思考ごとしまい込むようにして、\n引き出しを閉める。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "如果当时，我没有执意开灯……是不是就能和管理官一起，把那起案件查到最后？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3679108.37154485",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"もしそうなっていたら今頃は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"こうしてルーティンワークをこなすのではなく、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"さっきの刑事のように様々な事件の\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"捜査をしていたのかもしれない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3679108",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 462
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3678860.cac1fdd7",
+            "step": 460,
+            "script": 56701,
+            "text": "受け取った書類を、規定の場所にしまい込む。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3678928.699bf39",
+            "step": 461,
+            "script": 56701,
+            "text": "もしも自分が、\n無理やり明かりをつけようとしなければ……\nそうしていれば管理官と最後まで\n事件の捜査を進めることが出来たのだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679108.37154485",
+            "step": 462,
+            "script": 56701,
+            "text": "もしそうなっていたら今頃は、\nこうしてルーティンワークをこなすのではなく、\nさっきの刑事のように様々な事件の\n捜査をしていたのかもしれない。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679292.2b20b3fd",
+            "step": 463,
+            "script": 56701,
+            "text": "……取り留めない思考ごとしまい込むようにして、\n引き出しを閉める。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679392.d614cb61",
+            "step": 464,
+            "script": 56701,
+            "text": "今日も退屈な一日が終わる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "如果那样，如今的我，也许就不会只是重复这些例行工作，而是像刚才那位刑警一样，调查各种各样的案件了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3679292.2b20b3fd",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"……取り留めない思考ごとしまい込むようにして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"引き出しを閉める。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3679292",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 463
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3678928.699bf39",
+            "step": 461,
+            "script": 56701,
+            "text": "もしも自分が、\n無理やり明かりをつけようとしなければ……\nそうしていれば管理官と最後まで\n事件の捜査を進めることが出来たのだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679108.37154485",
+            "step": 462,
+            "script": 56701,
+            "text": "もしそうなっていたら今頃は、\nこうしてルーティンワークをこなすのではなく、\nさっきの刑事のように様々な事件の\n捜査をしていたのかもしれない。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679292.2b20b3fd",
+            "step": 463,
+            "script": 56701,
+            "text": "……取り留めない思考ごとしまい込むようにして、\n引き出しを閉める。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679392.d614cb61",
+            "step": 464,
+            "script": 56701,
+            "text": "今日も退屈な一日が終わる。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679444.818a1d21",
+            "step": 465,
+            "script": 56701,
+            "text": "もっと違った人生を歩んでいたらと、\n不毛な問いを繰り返す一日が……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……我关上抽屉，仿佛连同那些无边无际的思绪，也一并收了进去。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3679392.d614cb61",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"今日も退屈な一日が終わる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3679392",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 464
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3679108.37154485",
+            "step": 462,
+            "script": 56701,
+            "text": "もしそうなっていたら今頃は、\nこうしてルーティンワークをこなすのではなく、\nさっきの刑事のように様々な事件の\n捜査をしていたのかもしれない。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679292.2b20b3fd",
+            "step": 463,
+            "script": 56701,
+            "text": "……取り留めない思考ごとしまい込むようにして、\n引き出しを閉める。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679392.d614cb61",
+            "step": 464,
+            "script": 56701,
+            "text": "今日も退屈な一日が終わる。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679444.818a1d21",
+            "step": 465,
+            "script": 56701,
+            "text": "もっと違った人生を歩んでいたらと、\n不毛な問いを繰り返す一日が……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "今天，无聊的一天又要结束了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.56701:3679444.818a1d21",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"もっと違った人生を歩んでいたらと、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"不毛な問いを繰り返す一日が……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 56701,
+          "page": "56701:3679444",
+          "route": "remaining-50001-branches",
+          "trial": 5,
+          "step": 465
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.56701:3679292.2b20b3fd",
+            "step": 463,
+            "script": 56701,
+            "text": "……取り留めない思考ごとしまい込むようにして、\n引き出しを閉める。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679392.d614cb61",
+            "step": 464,
+            "script": 56701,
+            "text": "今日も退屈な一日が終わる。",
+            "translation": null
+          },
+          {
+            "key": "page.56701:3679444.818a1d21",
+            "step": 465,
+            "script": 56701,
+            "text": "もっと違った人生を歩んでいたらと、\n不毛な問いを繰り返す一日が……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "又是不断徒劳地问着『如果走上另一条人生道路呢』的一天……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58199:3836012.144b0635",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"空白のスロットがあります。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"全てのスロットを埋めて下さい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58199,
+          "page": "58199:3836012",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 909
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58199:3836012.144b0635",
+            "step": 909,
+            "script": 58199,
+            "text": "空白のスロットがあります。\n全てのスロットを埋めて下さい。",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832172.4483a15c",
+            "step": 911,
+            "script": 58006,
+            "text": "彼女達こそ、刑事課の先輩達が\n仰っていた警視庁のエレベーターに\n出没するという幽霊に違いない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "还有空白栏位。请填完所有栏位。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58006:3832172.4483a15c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"彼女達こそ、刑事課の先輩達が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"仰っていた警視庁のエレベーターに\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"出没するという幽霊に違いない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58006,
+          "page": "58006:3832172",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 911
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58199:3836012.144b0635",
+            "step": 909,
+            "script": 58199,
+            "text": "空白のスロットがあります。\n全てのスロットを埋めて下さい。",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832172.4483a15c",
+            "step": 911,
+            "script": 58006,
+            "text": "彼女達こそ、刑事課の先輩達が\n仰っていた警視庁のエレベーターに\n出没するという幽霊に違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832312.f1621961",
+            "step": 912,
+            "script": 58006,
+            "text": "そういえば、前にタクシーの中で聞いた話……\nあれに出てきた奇妙な客とは、\nこの女性の幽霊のことではないだろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832472.751bfadc",
+            "step": 913,
+            "script": 58006,
+            "text": "誰にも見つけてもらえない被害者の遺体。\nその無念が積もり積もって、エレベーター\nどころかタクシーの中にまで現れたのでは？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她们一定就是刑事课前辈们所说的，会出没于警视厅电梯里的幽灵。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58006:3832312.f1621961",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そういえば、前にタクシーの中で聞いた話……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あれに出てきた奇妙な客とは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この女性の幽霊のことではないだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58006,
+          "page": "58006:3832312",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 912
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58006:3832172.4483a15c",
+            "step": 911,
+            "script": 58006,
+            "text": "彼女達こそ、刑事課の先輩達が\n仰っていた警視庁のエレベーターに\n出没するという幽霊に違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832312.f1621961",
+            "step": 912,
+            "script": 58006,
+            "text": "そういえば、前にタクシーの中で聞いた話……\nあれに出てきた奇妙な客とは、\nこの女性の幽霊のことではないだろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832472.751bfadc",
+            "step": 913,
+            "script": 58006,
+            "text": "誰にも見つけてもらえない被害者の遺体。\nその無念が積もり積もって、エレベーター\nどころかタクシーの中にまで現れたのでは？",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832640.1eb70dc3",
+            "step": 914,
+            "script": 58006,
+            "text": "ああ、いかん……！\n恐ろしい想像がどんどん広がっていく！",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "说起来，之前在出租车里听到的那个故事……里面那个奇怪的客人，会不会也是这位女性的幽灵？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58006:3832472.751bfadc",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"誰にも見つけてもらえない被害者の遺体。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その無念が積もり積もって、エレベーター\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どころかタクシーの中にまで現れたのでは？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58006,
+          "page": "58006:3832472",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 913
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58006:3832172.4483a15c",
+            "step": 911,
+            "script": 58006,
+            "text": "彼女達こそ、刑事課の先輩達が\n仰っていた警視庁のエレベーターに\n出没するという幽霊に違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832312.f1621961",
+            "step": 912,
+            "script": 58006,
+            "text": "そういえば、前にタクシーの中で聞いた話……\nあれに出てきた奇妙な客とは、\nこの女性の幽霊のことではないだろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832472.751bfadc",
+            "step": 913,
+            "script": 58006,
+            "text": "誰にも見つけてもらえない被害者の遺体。\nその無念が積もり積もって、エレベーター\nどころかタクシーの中にまで現れたのでは？",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832640.1eb70dc3",
+            "step": 914,
+            "script": 58006,
+            "text": "ああ、いかん……！\n恐ろしい想像がどんどん広がっていく！",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830424.b1964c2c",
+            "step": 915,
+            "script": 58002,
+            "text": "美人……だったとは思うが、\nそれ以上に暗い影のある女性だった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "受害者的遗体始终无人发现。那份不甘越积越深，难道不只在电梯里，连出租车里也出现了？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58006:3832640.1eb70dc3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ああ、いかん……！\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"恐ろしい想像がどんどん広がっていく！\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58006,
+          "page": "58006:3832640",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 914
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58006:3832312.f1621961",
+            "step": 912,
+            "script": 58006,
+            "text": "そういえば、前にタクシーの中で聞いた話……\nあれに出てきた奇妙な客とは、\nこの女性の幽霊のことではないだろうか？",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832472.751bfadc",
+            "step": 913,
+            "script": 58006,
+            "text": "誰にも見つけてもらえない被害者の遺体。\nその無念が積もり積もって、エレベーター\nどころかタクシーの中にまで現れたのでは？",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832640.1eb70dc3",
+            "step": 914,
+            "script": 58006,
+            "text": "ああ、いかん……！\n恐ろしい想像がどんどん広がっていく！",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830424.b1964c2c",
+            "step": 915,
+            "script": 58002,
+            "text": "美人……だったとは思うが、\nそれ以上に暗い影のある女性だった。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830528.969e90a4",
+            "step": 916,
+            "script": 58002,
+            "text": "今になって思えば、その影こそが\n今回の事件のヒントになっていた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "啊，不行……！可怕的想象越来越多了！"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58002:3830424.b1964c2c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"美人……だったとは思うが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それ以上に暗い影のある女性だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58002,
+          "page": "58002:3830424",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 915
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58006:3832472.751bfadc",
+            "step": 913,
+            "script": 58006,
+            "text": "誰にも見つけてもらえない被害者の遺体。\nその無念が積もり積もって、エレベーター\nどころかタクシーの中にまで現れたのでは？",
+            "translation": null
+          },
+          {
+            "key": "page.58006:3832640.1eb70dc3",
+            "step": 914,
+            "script": 58006,
+            "text": "ああ、いかん……！\n恐ろしい想像がどんどん広がっていく！",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830424.b1964c2c",
+            "step": 915,
+            "script": 58002,
+            "text": "美人……だったとは思うが、\nそれ以上に暗い影のある女性だった。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830528.969e90a4",
+            "step": 916,
+            "script": 58002,
+            "text": "今になって思えば、その影こそが\n今回の事件のヒントになっていた。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830632.9d4b8965",
+            "step": 917,
+            "script": 58002,
+            "text": "どちらにせよ、自分の好みではない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我想，她应该算是美人……可比起美貌，更让人感觉她笼罩着阴影。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58002:3830528.969e90a4",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"今になって思えば、その影こそが\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今回の事件のヒントになっていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58002,
+          "page": "58002:3830528",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 916
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58006:3832640.1eb70dc3",
+            "step": 914,
+            "script": 58006,
+            "text": "ああ、いかん……！\n恐ろしい想像がどんどん広がっていく！",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830424.b1964c2c",
+            "step": 915,
+            "script": 58002,
+            "text": "美人……だったとは思うが、\nそれ以上に暗い影のある女性だった。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830528.969e90a4",
+            "step": 916,
+            "script": 58002,
+            "text": "今になって思えば、その影こそが\n今回の事件のヒントになっていた。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830632.9d4b8965",
+            "step": 917,
+            "script": 58002,
+            "text": "どちらにせよ、自分の好みではない。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830720.7648b216",
+            "step": 918,
+            "script": 58002,
+            "text": "面目次第もないが、こればかりは……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "现在想来，那片阴影本身，就是这起事件的线索。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58002:3830632.9d4b8965",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"どちらにせよ、自分の好みではない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58002,
+          "page": "58002:3830632",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 917
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58002:3830424.b1964c2c",
+            "step": 915,
+            "script": 58002,
+            "text": "美人……だったとは思うが、\nそれ以上に暗い影のある女性だった。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830528.969e90a4",
+            "step": 916,
+            "script": 58002,
+            "text": "今になって思えば、その影こそが\n今回の事件のヒントになっていた。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830632.9d4b8965",
+            "step": 917,
+            "script": 58002,
+            "text": "どちらにせよ、自分の好みではない。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830720.7648b216",
+            "step": 918,
+            "script": 58002,
+            "text": "面目次第もないが、こればかりは……。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827412.a27ee3dc",
+            "step": 919,
+            "script": 58001,
+            "text": "御園雛子が管理官であることは事実だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不管怎样，她都不是我喜欢的类型。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58002:3830720.7648b216",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"面目次第もないが、こればかりは……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58002,
+          "page": "58002:3830720",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 918
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58002:3830528.969e90a4",
+            "step": 916,
+            "script": 58002,
+            "text": "今になって思えば、その影こそが\n今回の事件のヒントになっていた。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830632.9d4b8965",
+            "step": 917,
+            "script": 58002,
+            "text": "どちらにせよ、自分の好みではない。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830720.7648b216",
+            "step": 918,
+            "script": 58002,
+            "text": "面目次第もないが、こればかりは……。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827412.a27ee3dc",
+            "step": 919,
+            "script": 58001,
+            "text": "御園雛子が管理官であることは事実だ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827480.2c186055",
+            "step": 920,
+            "script": 58001,
+            "text": "しかし、自分が出会った可憐なあの女性は\n御園雛子でも管理官でもなかったようだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "实在不好意思，可唯独这件事……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3827412.a27ee3dc",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"御園雛子が管理官であることは事実だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3827412",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 919
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58002:3830632.9d4b8965",
+            "step": 917,
+            "script": 58002,
+            "text": "どちらにせよ、自分の好みではない。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830720.7648b216",
+            "step": 918,
+            "script": 58002,
+            "text": "面目次第もないが、こればかりは……。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827412.a27ee3dc",
+            "step": 919,
+            "script": 58001,
+            "text": "御園雛子が管理官であることは事実だ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827480.2c186055",
+            "step": 920,
+            "script": 58001,
+            "text": "しかし、自分が出会った可憐なあの女性は\n御園雛子でも管理官でもなかったようだ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827600.754a5029",
+            "step": 921,
+            "script": 58001,
+            "text": "だとしたら、彼女は一体……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "御园雏子是管理官，这是事实。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3827480.2c186055",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし、自分が出会った可憐なあの女性は\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"御園雛子でも管理官でもなかったようだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3827480",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 920
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58002:3830720.7648b216",
+            "step": 918,
+            "script": 58002,
+            "text": "面目次第もないが、こればかりは……。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827412.a27ee3dc",
+            "step": 919,
+            "script": 58001,
+            "text": "御園雛子が管理官であることは事実だ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827480.2c186055",
+            "step": 920,
+            "script": 58001,
+            "text": "しかし、自分が出会った可憐なあの女性は\n御園雛子でも管理官でもなかったようだ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827600.754a5029",
+            "step": 921,
+            "script": 58001,
+            "text": "だとしたら、彼女は一体……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，我遇到的那位楚楚动人的女性，似乎既不是御园雏子，也不是管理官。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3827600.754a5029",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だとしたら、彼女は一体……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3827600",
+          "route": "remaining-50001-branches",
+          "trial": 21,
+          "step": 921
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3827412.a27ee3dc",
+            "step": 919,
+            "script": 58001,
+            "text": "御園雛子が管理官であることは事実だ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827480.2c186055",
+            "step": 920,
+            "script": 58001,
+            "text": "しかし、自分が出会った可憐なあの女性は\n御園雛子でも管理官でもなかったようだ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827600.754a5029",
+            "step": 921,
+            "script": 58001,
+            "text": "だとしたら、彼女は一体……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "既然如此，她究竟是……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3827196.64730f4a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そう！ 彼女は美しい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3827196",
+          "route": "remaining-50001-branches",
+          "trial": 39,
+          "step": 929
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3827196.64730f4a",
+            "step": 929,
+            "script": 58001,
+            "text": "そう！ 彼女は美しい。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827252.5b4808d0",
+            "step": 930,
+            "script": 58001,
+            "text": "しかし、真実に近づいた今、\n彼女の美しさは、\n儚さであったような気がする……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "没错！她很美。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3827252.5b4808d0",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし、真実に近づいた今、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"彼女の美しさは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"儚さであったような気がする……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3827252",
+          "route": "remaining-50001-branches",
+          "trial": 39,
+          "step": 930
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3827196.64730f4a",
+            "step": 929,
+            "script": 58001,
+            "text": "そう！ 彼女は美しい。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827252.5b4808d0",
+            "step": 930,
+            "script": 58001,
+            "text": "しかし、真実に近づいた今、\n彼女の美しさは、\n儚さであったような気がする……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可如今逐渐接近真相，我觉得，她的美，也许正来自那份虚幻易逝……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58002:3829444.310f02bc",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"最初に会った時から思っていたが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"彼女は幽霊……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58002,
+          "page": "58002:3829444",
+          "route": "remaining-50001-branches",
+          "trial": 41,
+          "step": 915
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58002:3829444.310f02bc",
+            "step": 915,
+            "script": 58002,
+            "text": "最初に会った時から思っていたが、\n彼女は幽霊……",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3829564.e5c9a2fd",
+            "step": 916,
+            "script": 58002,
+            "text": "断じて認めたくないし、認めるつもりもないが、\nエレベーターから発見された遺体と\n同一人物であったということは、つまり……。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3829744.9361894e",
+            "step": 917,
+            "script": 58002,
+            "text": "これ以上の考察は……ああ、もう限界だ。\n勘弁して欲しい。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "从第一次相遇时，我就曾想过，她是幽灵……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58002:3829564.e5c9a2fd",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"断じて認めたくないし、認めるつもりもないが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"エレベーターから発見された遺体と\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"同一人物であったということは、つまり……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58002,
+          "page": "58002:3829564",
+          "route": "remaining-50001-branches",
+          "trial": 41,
+          "step": 916
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58002:3829444.310f02bc",
+            "step": 915,
+            "script": 58002,
+            "text": "最初に会った時から思っていたが、\n彼女は幽霊……",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3829564.e5c9a2fd",
+            "step": 916,
+            "script": 58002,
+            "text": "断じて認めたくないし、認めるつもりもないが、\nエレベーターから発見された遺体と\n同一人物であったということは、つまり……。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3829744.9361894e",
+            "step": 917,
+            "script": 58002,
+            "text": "これ以上の考察は……ああ、もう限界だ。\n勘弁して欲しい。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825452.9b49fe3d",
+            "step": 918,
+            "script": 58001,
+            "text": "彼女が幽霊だった……。\nそんな想像はしたくない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我绝不愿承认，也绝不会承认，可既然她与电梯里发现的遗体是同一个人，也就是说……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58002:3829744.9361894e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"これ以上の考察は……ああ、もう限界だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"勘弁して欲しい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58002,
+          "page": "58002:3829744",
+          "route": "remaining-50001-branches",
+          "trial": 41,
+          "step": 917
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58002:3829444.310f02bc",
+            "step": 915,
+            "script": 58002,
+            "text": "最初に会った時から思っていたが、\n彼女は幽霊……",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3829564.e5c9a2fd",
+            "step": 916,
+            "script": 58002,
+            "text": "断じて認めたくないし、認めるつもりもないが、\nエレベーターから発見された遺体と\n同一人物であったということは、つまり……。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3829744.9361894e",
+            "step": 917,
+            "script": 58002,
+            "text": "これ以上の考察は……ああ、もう限界だ。\n勘弁して欲しい。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825452.9b49fe3d",
+            "step": 918,
+            "script": 58001,
+            "text": "彼女が幽霊だった……。\nそんな想像はしたくない。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825540.fc5250c7",
+            "step": 919,
+            "script": 58001,
+            "text": "だが、資料が真実を語っているとすれば、\n彼女は１０年前に行方不明となっている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "再往下想……啊，已经到极限了。饶了我吧。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3825452.9b49fe3d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"彼女が幽霊だった……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そんな想像はしたくない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3825452",
+          "route": "remaining-50001-branches",
+          "trial": 41,
+          "step": 918
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58002:3829564.e5c9a2fd",
+            "step": 916,
+            "script": 58002,
+            "text": "断じて認めたくないし、認めるつもりもないが、\nエレベーターから発見された遺体と\n同一人物であったということは、つまり……。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3829744.9361894e",
+            "step": 917,
+            "script": 58002,
+            "text": "これ以上の考察は……ああ、もう限界だ。\n勘弁して欲しい。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825452.9b49fe3d",
+            "step": 918,
+            "script": 58001,
+            "text": "彼女が幽霊だった……。\nそんな想像はしたくない。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825540.fc5250c7",
+            "step": 919,
+            "script": 58001,
+            "text": "だが、資料が真実を語っているとすれば、\n彼女は１０年前に行方不明となっている。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825660.aebfda25",
+            "step": 920,
+            "script": 58001,
+            "text": "もし生きていたとしても当時の写真と\nまったく同じ外見というのは不自然だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她竟然是幽灵……我不愿作这样的想象。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3825540.fc5250c7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、資料が真実を語っているとすれば、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"彼女は１０年前に行方不明となっている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3825540",
+          "route": "remaining-50001-branches",
+          "trial": 41,
+          "step": 919
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58002:3829744.9361894e",
+            "step": 917,
+            "script": 58002,
+            "text": "これ以上の考察は……ああ、もう限界だ。\n勘弁して欲しい。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825452.9b49fe3d",
+            "step": 918,
+            "script": 58001,
+            "text": "彼女が幽霊だった……。\nそんな想像はしたくない。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825540.fc5250c7",
+            "step": 919,
+            "script": 58001,
+            "text": "だが、資料が真実を語っているとすれば、\n彼女は１０年前に行方不明となっている。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825660.aebfda25",
+            "step": 920,
+            "script": 58001,
+            "text": "もし生きていたとしても当時の写真と\nまったく同じ外見というのは不自然だ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825784.675b2e72",
+            "step": 921,
+            "script": 58001,
+            "text": "となると、やはり彼女は……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可如果资料所记载的都是真的，她在10年前就已经失踪。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3825660.aebfda25",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"もし生きていたとしても当時の写真と\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"まったく同じ外見というのは不自然だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3825660",
+          "route": "remaining-50001-branches",
+          "trial": 41,
+          "step": 920
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3825452.9b49fe3d",
+            "step": 918,
+            "script": 58001,
+            "text": "彼女が幽霊だった……。\nそんな想像はしたくない。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825540.fc5250c7",
+            "step": 919,
+            "script": 58001,
+            "text": "だが、資料が真実を語っているとすれば、\n彼女は１０年前に行方不明となっている。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825660.aebfda25",
+            "step": 920,
+            "script": 58001,
+            "text": "もし生きていたとしても当時の写真と\nまったく同じ外見というのは不自然だ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825784.675b2e72",
+            "step": 921,
+            "script": 58001,
+            "text": "となると、やはり彼女は……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "就算还活着，外表也不该与当年的照片完全一样。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3825784.675b2e72",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"となると、やはり彼女は……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3825784",
+          "route": "remaining-50001-branches",
+          "trial": 41,
+          "step": 921
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3825540.fc5250c7",
+            "step": 919,
+            "script": 58001,
+            "text": "だが、資料が真実を語っているとすれば、\n彼女は１０年前に行方不明となっている。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825660.aebfda25",
+            "step": 920,
+            "script": 58001,
+            "text": "もし生きていたとしても当時の写真と\nまったく同じ外見というのは不自然だ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825784.675b2e72",
+            "step": 921,
+            "script": 58001,
+            "text": "となると、やはり彼女は……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这么说，她果然是……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58002:3830272.85c49f09",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"【検証２】\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"無理。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58002,
+          "page": "58002:3830272",
+          "route": "remaining-50001-branches",
+          "trial": 44,
+          "step": 942
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58002:3830272.85c49f09",
+            "step": 942,
+            "script": 58002,
+            "text": "【検証２】\n無理。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830332.6b9f012f",
+            "step": 943,
+            "script": 58002,
+            "text": "しかも、検証じゃない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "【验证2】\n不行。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58002:3830332.6b9f012f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかも、検証じゃない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58002,
+          "page": "58002:3830332",
+          "route": "remaining-50001-branches",
+          "trial": 44,
+          "step": 943
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58002:3830272.85c49f09",
+            "step": 942,
+            "script": 58002,
+            "text": "【検証２】\n無理。",
+            "translation": null
+          },
+          {
+            "key": "page.58002:3830332.6b9f012f",
+            "step": 943,
+            "script": 58002,
+            "text": "しかも、検証じゃない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而且，这根本不算验证。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3825880.a4ad346e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そう。\",\"color\":0,\"size\":0},{\"text\":\"彼女はサイコメトラーだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"本名を原朋子という。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3825880",
+          "route": "remaining-50001-branches",
+          "trial": 70,
+          "step": 922
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3825880.a4ad346e",
+            "step": 922,
+            "script": 58001,
+            "text": "そう。彼女はサイコメトラーだ。\n本名を原朋子という。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825980.ec48d411",
+            "step": 923,
+            "script": 58001,
+            "text": "超能力が実在するとは信じがたいが、\n資料と、自分自身で見てきたものを\n照らし合わせると、否定出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826128.2b4ebeed",
+            "step": 924,
+            "script": 58001,
+            "text": "本物の御園管理官は、\n彼女のサイコメトリー能力を用いて、\n犯罪に立ち向かおうとしていたようだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "没错，她是触物感知能力者，真名叫原朋子。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3825980.ec48d411",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"超能力が実在するとは信じがたいが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"資料と、自分自身で見てきたものを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"照らし合わせると、否定出来ない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3825980",
+          "route": "remaining-50001-branches",
+          "trial": 70,
+          "step": 923
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3825880.a4ad346e",
+            "step": 922,
+            "script": 58001,
+            "text": "そう。彼女はサイコメトラーだ。\n本名を原朋子という。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825980.ec48d411",
+            "step": 923,
+            "script": 58001,
+            "text": "超能力が実在するとは信じがたいが、\n資料と、自分自身で見てきたものを\n照らし合わせると、否定出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826128.2b4ebeed",
+            "step": 924,
+            "script": 58001,
+            "text": "本物の御園管理官は、\n彼女のサイコメトリー能力を用いて、\n犯罪に立ち向かおうとしていたようだ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826288.e08cef73",
+            "step": 925,
+            "script": 58001,
+            "text": "しかし、彼女達は行方不明になり、\n以後、実現することはなかった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "虽然难以相信超能力真实存在，可把资料与自己的亲眼所见相互对照，就无法否定。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3826128.2b4ebeed",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"本物の御園管理官は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"彼女のサイコメトリー能力を用いて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"犯罪に立ち向かおうとしていたようだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3826128",
+          "route": "remaining-50001-branches",
+          "trial": 70,
+          "step": 924
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3825880.a4ad346e",
+            "step": 922,
+            "script": 58001,
+            "text": "そう。彼女はサイコメトラーだ。\n本名を原朋子という。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3825980.ec48d411",
+            "step": 923,
+            "script": 58001,
+            "text": "超能力が実在するとは信じがたいが、\n資料と、自分自身で見てきたものを\n照らし合わせると、否定出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826128.2b4ebeed",
+            "step": 924,
+            "script": 58001,
+            "text": "本物の御園管理官は、\n彼女のサイコメトリー能力を用いて、\n犯罪に立ち向かおうとしていたようだ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826288.e08cef73",
+            "step": 925,
+            "script": 58001,
+            "text": "しかし、彼女達は行方不明になり、\n以後、実現することはなかった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "真正的御园管理官，似乎曾想借助她的触物感知能力，对抗犯罪。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3826288.e08cef73",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし、彼女達は行方不明になり、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"以後、実現することはなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3826288",
+          "route": "remaining-50001-branches",
+          "trial": 70,
+          "step": 925
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3825980.ec48d411",
+            "step": 923,
+            "script": 58001,
+            "text": "超能力が実在するとは信じがたいが、\n資料と、自分自身で見てきたものを\n照らし合わせると、否定出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826128.2b4ebeed",
+            "step": 924,
+            "script": 58001,
+            "text": "本物の御園管理官は、\n彼女のサイコメトリー能力を用いて、\n犯罪に立ち向かおうとしていたようだ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826288.e08cef73",
+            "step": 925,
+            "script": 58001,
+            "text": "しかし、彼女達は行方不明になり、\n以後、実現することはなかった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，她们后来失踪了，这个设想也就再未实现。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3826436.a2610065",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そういえば以前に彼女自身が言っていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自分は施設で育ったと……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3826436",
+          "route": "remaining-50001-branches",
+          "trial": 80,
+          "step": 922
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3826436.a2610065",
+            "step": 922,
+            "script": 58001,
+            "text": "そういえば以前に彼女自身が言っていた。\n自分は施設で育ったと……",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826540.31e8bea6",
+            "step": 923,
+            "script": 58001,
+            "text": "彼女はそこで本物の御園管理官に\n見出されたのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826632.8c1488f",
+            "step": 924,
+            "script": 58001,
+            "text": "幼くして両親を失ったそうだが、\n何故失ったのか、今回の事件を思えば、\n一つの可能性が浮かぶ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "说起来，她之前亲口说过，自己是在福利机构长大的……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3826540.31e8bea6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"彼女はそこで本物の御園管理官に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"見出されたのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3826540",
+          "route": "remaining-50001-branches",
+          "trial": 80,
+          "step": 923
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3826436.a2610065",
+            "step": 922,
+            "script": 58001,
+            "text": "そういえば以前に彼女自身が言っていた。\n自分は施設で育ったと……",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826540.31e8bea6",
+            "step": 923,
+            "script": 58001,
+            "text": "彼女はそこで本物の御園管理官に\n見出されたのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826632.8c1488f",
+            "step": 924,
+            "script": 58001,
+            "text": "幼くして両親を失ったそうだが、\n何故失ったのか、今回の事件を思えば、\n一つの可能性が浮かぶ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826792.d4781a6a",
+            "step": 925,
+            "script": 58001,
+            "text": "しかし、それはあまりにも悲し過ぎるので\nこれ以上の検証はやめておくことにする。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她大概就是在那里，被真正的御园管理官发现的吧。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3826632.8c1488f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"幼くして両親を失ったそうだが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何故失ったのか、今回の事件を思えば、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一つの可能性が浮かぶ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3826632",
+          "route": "remaining-50001-branches",
+          "trial": 80,
+          "step": 924
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3826436.a2610065",
+            "step": 922,
+            "script": 58001,
+            "text": "そういえば以前に彼女自身が言っていた。\n自分は施設で育ったと……",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826540.31e8bea6",
+            "step": 923,
+            "script": 58001,
+            "text": "彼女はそこで本物の御園管理官に\n見出されたのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826632.8c1488f",
+            "step": 924,
+            "script": 58001,
+            "text": "幼くして両親を失ったそうだが、\n何故失ったのか、今回の事件を思えば、\n一つの可能性が浮かぶ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826792.d4781a6a",
+            "step": 925,
+            "script": 58001,
+            "text": "しかし、それはあまりにも悲し過ぎるので\nこれ以上の検証はやめておくことにする。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "据说她很小就失去了双亲。至于为什么会失去，一想到这次的事件，就浮现出一种可能。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3826792.d4781a6a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし、それはあまりにも悲し過ぎるので\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"これ以上の検証はやめておくことにする。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3826792",
+          "route": "remaining-50001-branches",
+          "trial": 80,
+          "step": 925
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3826540.31e8bea6",
+            "step": 923,
+            "script": 58001,
+            "text": "彼女はそこで本物の御園管理官に\n見出されたのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826632.8c1488f",
+            "step": 924,
+            "script": 58001,
+            "text": "幼くして両親を失ったそうだが、\n何故失ったのか、今回の事件を思えば、\n一つの可能性が浮かぶ。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826792.d4781a6a",
+            "step": 925,
+            "script": 58001,
+            "text": "しかし、それはあまりにも悲し過ぎるので\nこれ以上の検証はやめておくことにする。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，那实在太悲伤了，我决定不再继续验证。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3826928.4c45ac24",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"かっ、管理官が自分の嫁さんに……！\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3826928",
+          "route": "remaining-50001-branches",
+          "trial": 97,
+          "step": 922
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3826928.4c45ac24",
+            "step": 922,
+            "script": 58001,
+            "text": "かっ、管理官が自分の嫁さんに……！",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826996.c24d4db8",
+            "step": 923,
+            "script": 58001,
+            "text": "だったら、どれだけ素敵な現実だったろう。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827068.ea2be02d",
+            "step": 924,
+            "script": 58001,
+            "text": "しかし、現実は甘くはない。\nそれが現実というものだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "管、管理官成为我的妻子……！"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3826996.c24d4db8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だったら、どれだけ素敵な現実だったろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3826996",
+          "route": "remaining-50001-branches",
+          "trial": 97,
+          "step": 923
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3826928.4c45ac24",
+            "step": 922,
+            "script": 58001,
+            "text": "かっ、管理官が自分の嫁さんに……！",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826996.c24d4db8",
+            "step": 923,
+            "script": 58001,
+            "text": "だったら、どれだけ素敵な現実だったろう。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827068.ea2be02d",
+            "step": 924,
+            "script": 58001,
+            "text": "しかし、現実は甘くはない。\nそれが現実というものだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "如果真能如此，现实该有多美好啊。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.58001:3827068.ea2be02d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし、現実は甘くはない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それが現実というものだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 58001,
+          "page": "58001:3827068",
+          "route": "remaining-50001-branches",
+          "trial": 97,
+          "step": 924
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.58001:3826928.4c45ac24",
+            "step": 922,
+            "script": 58001,
+            "text": "かっ、管理官が自分の嫁さんに……！",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3826996.c24d4db8",
+            "step": 923,
+            "script": 58001,
+            "text": "だったら、どれだけ素敵な現実だったろう。",
+            "translation": null
+          },
+          {
+            "key": "page.58001:3827068.ea2be02d",
+            "step": 924,
+            "script": 58001,
+            "text": "しかし、現実は甘くはない。\nそれが現実というものだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，现实并不温柔。这才是现实。"
+            }
+          ]
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

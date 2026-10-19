@@ -1,0 +1,5550 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 70001,
+    "title": "由香篇 · 作られた都市伝説",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 3537,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.74599:4573164.613c041a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"手も足も舌さえも失った私だったが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"微笑みで彼女に気持ちを伝えることが出来た。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 74599,
+          "page": "74599:4573164",
+          "route": "coverage-6-5",
+          "step": 1365
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.74599:4572980.602a613a",
+            "step": 1363,
+            "script": 74599,
+            "text": "……１年後。\n多くのものを失った私の前に\nようやく薫が現れた。",
+            "translation": "……1年后。在失去许多东西的我面前，薰终于出现了。"
+          },
+          {
+            "key": "page.74599:4573080.5bd393ab",
+            "step": 1364,
+            "script": 74599,
+            "text": "彼女も嬉しいのだろう。\nその目には涙が流れていた。",
+            "translation": "她一定也很高兴吧。她的眼中流下了泪水。"
+          },
+          {
+            "key": "page.74599:4573164.613c041a",
+            "step": 1365,
+            "script": 74599,
+            "text": "手も足も舌さえも失った私だったが、\n微笑みで彼女に気持ちを伝えることが出来た。",
+            "translation": null
+          },
+          {
+            "key": "page.74599:4573284.3818123e",
+            "step": 1366,
+            "script": 74599,
+            "text": "やっと会えたね、薫。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "虽然我失去了双手、双脚，甚至舌头，但仍能用微笑向她传达心情。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.74599:4573284.3818123e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"やっと会えたね、薫。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 74599,
+          "page": "74599:4573284",
+          "route": "coverage-6-5",
+          "step": 1366
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.74599:4573080.5bd393ab",
+            "step": 1364,
+            "script": 74599,
+            "text": "彼女も嬉しいのだろう。\nその目には涙が流れていた。",
+            "translation": "她一定也很高兴吧。她的眼中流下了泪水。"
+          },
+          {
+            "key": "page.74599:4573164.613c041a",
+            "step": 1365,
+            "script": 74599,
+            "text": "手も足も舌さえも失った私だったが、\n微笑みで彼女に気持ちを伝えることが出来た。",
+            "translation": null
+          },
+          {
+            "key": "page.74599:4573284.3818123e",
+            "step": 1366,
+            "script": 74599,
+            "text": "やっと会えたね、薫。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "终于见到你了，薰。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79112:4407196.f4c36eea",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"夢を見ただけで死んでしまうなど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"荒唐無稽\",\"color\":0,\"size\":0},{\"text\":\"にもほどがある。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79112,
+          "page": "79112:4407196",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1007
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79112:4407196.f4c36eea",
+            "step": 1007,
+            "script": 79112,
+            "text": "夢を見ただけで死んでしまうなど、\n荒唐無稽にもほどがある。",
+            "translation": null
+          },
+          {
+            "key": "page.79112:4407308.3c6614d",
+            "step": 1008,
+            "script": 79112,
+            "text": "私はオカルト肯定派だが、\nだからといって何でもありというわけではない。\nオカルトにはオカルトの\nルールや仕組みがあると信じている。",
+            "translation": null
+          },
+          {
+            "key": "page.79112:4407484.e5393c4f",
+            "step": 1009,
+            "script": 79112,
+            "text": "誰かが殺された時には、\n殺意を持った人間が存在するはずなのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "只是做个梦就会死，未免荒唐得过了头。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79112:4407308.3c6614d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"私はオカルト肯定派だが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"だからといって何でもありというわけではない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"オカルトにはオカルトの\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ルールや仕組みがあると信じている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79112,
+          "page": "79112:4407308",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1008
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79112:4407196.f4c36eea",
+            "step": 1007,
+            "script": 79112,
+            "text": "夢を見ただけで死んでしまうなど、\n荒唐無稽にもほどがある。",
+            "translation": null
+          },
+          {
+            "key": "page.79112:4407308.3c6614d",
+            "step": 1008,
+            "script": 79112,
+            "text": "私はオカルト肯定派だが、\nだからといって何でもありというわけではない。\nオカルトにはオカルトの\nルールや仕組みがあると信じている。",
+            "translation": null
+          },
+          {
+            "key": "page.79112:4407484.e5393c4f",
+            "step": 1009,
+            "script": 79112,
+            "text": "誰かが殺された時には、\n殺意を持った人間が存在するはずなのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我虽然相信神秘现象，却不意味着什么都能接受。我相信，即使是神秘现象，也有它自己的规则和机制。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79112:4407484.e5393c4f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"誰かが殺された時には、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"殺意を持った人間が存在するはずなのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79112,
+          "page": "79112:4407484",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1009
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79112:4407196.f4c36eea",
+            "step": 1007,
+            "script": 79112,
+            "text": "夢を見ただけで死んでしまうなど、\n荒唐無稽にもほどがある。",
+            "translation": null
+          },
+          {
+            "key": "page.79112:4407308.3c6614d",
+            "step": 1008,
+            "script": 79112,
+            "text": "私はオカルト肯定派だが、\nだからといって何でもありというわけではない。\nオカルトにはオカルトの\nルールや仕組みがあると信じている。",
+            "translation": null
+          },
+          {
+            "key": "page.79112:4407484.e5393c4f",
+            "step": 1009,
+            "script": 79112,
+            "text": "誰かが殺された時には、\n殺意を持った人間が存在するはずなのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "有人被杀时，应该就有怀着杀意的人存在。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75099:4517712.144b0635",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"空白のスロットがあります。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"全てのスロットを埋めて下さい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75099,
+          "page": "75099:4517712",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1214
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75099:4517712.144b0635",
+            "step": 1214,
+            "script": 75099,
+            "text": "空白のスロットがあります。\n全てのスロットを埋めて下さい。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449412.73afa7cc",
+            "step": 1216,
+            "script": 75036,
+            "text": "あれだけメールで親密に話しているのに、\n電話で話したのは、ほんの数回程度。\n直接会ったことは、一度もない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "还有空白的关系栏。请填完所有关系栏。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4449412.73afa7cc",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あれだけメールで親密に話しているのに、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"電話で話したのは、ほんの数回程度。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"直接会ったことは、一度もない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4449412",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1216
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75099:4517712.144b0635",
+            "step": 1214,
+            "script": 75099,
+            "text": "空白のスロットがあります。\n全てのスロットを埋めて下さい。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449412.73afa7cc",
+            "step": 1216,
+            "script": 75036,
+            "text": "あれだけメールで親密に話しているのに、\n電話で話したのは、ほんの数回程度。\n直接会ったことは、一度もない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449560.d55f2013",
+            "step": 1217,
+            "script": 75036,
+            "text": "この事実を見ると、彼女は相当な偏屈者の\nようにも思える。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449648.ddedd277",
+            "step": 1218,
+            "script": 75036,
+            "text": "だが、朝希には会えない理由があったのだ。\nこんなのって……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "明明在邮件里聊得那么亲密，真正通电话，却只有寥寥几次。更是一次也没有当面见过。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4449560.d55f2013",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"この事実を見ると、彼女は相当な偏屈者の\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ようにも思える。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4449560",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1217
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449412.73afa7cc",
+            "step": 1216,
+            "script": 75036,
+            "text": "あれだけメールで親密に話しているのに、\n電話で話したのは、ほんの数回程度。\n直接会ったことは、一度もない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449560.d55f2013",
+            "step": 1217,
+            "script": 75036,
+            "text": "この事実を見ると、彼女は相当な偏屈者の\nようにも思える。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449648.ddedd277",
+            "step": 1218,
+            "script": 75036,
+            "text": "だが、朝希には会えない理由があったのだ。\nこんなのって……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449740.f11fb4fe",
+            "step": 1219,
+            "script": 75036,
+            "text": "これまで朝希と交わしてきたメール——\n私の支えになっていたものが\n急に薄っぺらいものに感じられてくる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "单看这一点，似乎会觉得她是个相当古怪的人。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4449648.ddedd277",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、朝希には会えない理由があったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"こんなのって……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4449648",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1218
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449412.73afa7cc",
+            "step": 1216,
+            "script": 75036,
+            "text": "あれだけメールで親密に話しているのに、\n電話で話したのは、ほんの数回程度。\n直接会ったことは、一度もない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449560.d55f2013",
+            "step": 1217,
+            "script": 75036,
+            "text": "この事実を見ると、彼女は相当な偏屈者の\nようにも思える。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449648.ddedd277",
+            "step": 1218,
+            "script": 75036,
+            "text": "だが、朝希には会えない理由があったのだ。\nこんなのって……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449740.f11fb4fe",
+            "step": 1219,
+            "script": 75036,
+            "text": "これまで朝希と交わしてきたメール——\n私の支えになっていたものが\n急に薄っぺらいものに感じられてくる。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433420.2fac2b36",
+            "step": 1220,
+            "script": 75031,
+            "text": "朝希はＢ事件の魅力に取り付かれていた……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可原来，朝希另有不能见我的理由。怎么会这样……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4449740.f11fb4fe",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"これまで朝希と交わしてきたメール———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私の支えになっていたものが\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"急に薄っぺらいものに感じられてくる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4449740",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1219
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449560.d55f2013",
+            "step": 1217,
+            "script": 75036,
+            "text": "この事実を見ると、彼女は相当な偏屈者の\nようにも思える。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449648.ddedd277",
+            "step": 1218,
+            "script": 75036,
+            "text": "だが、朝希には会えない理由があったのだ。\nこんなのって……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449740.f11fb4fe",
+            "step": 1219,
+            "script": 75036,
+            "text": "これまで朝希と交わしてきたメール——\n私の支えになっていたものが\n急に薄っぺらいものに感じられてくる。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433420.2fac2b36",
+            "step": 1220,
+            "script": 75031,
+            "text": "朝希はＢ事件の魅力に取り付かれていた……？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433488.f019e884",
+            "step": 1221,
+            "script": 75031,
+            "text": "私のレポートの題材にＢ事件を使ってはどうかと\n持ちかけてきたのは朝希だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那些至今与朝希往来的邮件——曾经支撑着我的东西，突然显得无比单薄。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4433420.2fac2b36",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希はＢ事件の魅力に取り付かれていた……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4433420",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1220
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449648.ddedd277",
+            "step": 1218,
+            "script": 75036,
+            "text": "だが、朝希には会えない理由があったのだ。\nこんなのって……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449740.f11fb4fe",
+            "step": 1219,
+            "script": 75036,
+            "text": "これまで朝希と交わしてきたメール——\n私の支えになっていたものが\n急に薄っぺらいものに感じられてくる。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433420.2fac2b36",
+            "step": 1220,
+            "script": 75031,
+            "text": "朝希はＢ事件の魅力に取り付かれていた……？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433488.f019e884",
+            "step": 1221,
+            "script": 75031,
+            "text": "私のレポートの題材にＢ事件を使ってはどうかと\n持ちかけてきたのは朝希だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433592.7f5ca346",
+            "step": 1222,
+            "script": 75031,
+            "text": "本人の証言では、私の為にＢ事件を起こしたと\n言っているが、そうするうちに犯罪の魅力に\n取り付かれてしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希沉迷于B事件的魅力……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4433488.f019e884",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"私のレポートの題材にＢ事件を使ってはどうかと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"持ちかけてきたのは朝希だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4433488",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1221
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449740.f11fb4fe",
+            "step": 1219,
+            "script": 75036,
+            "text": "これまで朝希と交わしてきたメール——\n私の支えになっていたものが\n急に薄っぺらいものに感じられてくる。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433420.2fac2b36",
+            "step": 1220,
+            "script": 75031,
+            "text": "朝希はＢ事件の魅力に取り付かれていた……？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433488.f019e884",
+            "step": 1221,
+            "script": 75031,
+            "text": "私のレポートの題材にＢ事件を使ってはどうかと\n持ちかけてきたのは朝希だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433592.7f5ca346",
+            "step": 1222,
+            "script": 75031,
+            "text": "本人の証言では、私の為にＢ事件を起こしたと\n言っているが、そうするうちに犯罪の魅力に\n取り付かれてしまったのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437540.f02329bb",
+            "step": 1223,
+            "script": 75033,
+            "text": "朝希が私に婚約を迫っている……！？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "提议让我把B事件用作报告题材的人，就是他。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4433592.7f5ca346",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"本人の証言では、私の為にＢ事件を起こしたと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"言っているが、そうするうちに犯罪の魅力に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"取り付かれてしまったのだろうか……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4433592",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1222
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4433420.2fac2b36",
+            "step": 1220,
+            "script": 75031,
+            "text": "朝希はＢ事件の魅力に取り付かれていた……？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433488.f019e884",
+            "step": 1221,
+            "script": 75031,
+            "text": "私のレポートの題材にＢ事件を使ってはどうかと\n持ちかけてきたのは朝希だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433592.7f5ca346",
+            "step": 1222,
+            "script": 75031,
+            "text": "本人の証言では、私の為にＢ事件を起こしたと\n言っているが、そうするうちに犯罪の魅力に\n取り付かれてしまったのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437540.f02329bb",
+            "step": 1223,
+            "script": 75033,
+            "text": "朝希が私に婚約を迫っている……！？",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437600.3c4a8820",
+            "step": 1224,
+            "script": 75033,
+            "text": "そんなバカな！！",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "他自己说是为了我才制造B事件，可在这个过程中，难道又沉迷于犯罪的魅力了吗……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4437540.f02329bb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希が私に婚約を迫っている……！？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4437540",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1223
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4433488.f019e884",
+            "step": 1221,
+            "script": 75031,
+            "text": "私のレポートの題材にＢ事件を使ってはどうかと\n持ちかけてきたのは朝希だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433592.7f5ca346",
+            "step": 1222,
+            "script": 75031,
+            "text": "本人の証言では、私の為にＢ事件を起こしたと\n言っているが、そうするうちに犯罪の魅力に\n取り付かれてしまったのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437540.f02329bb",
+            "step": 1223,
+            "script": 75033,
+            "text": "朝希が私に婚約を迫っている……！？",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437600.3c4a8820",
+            "step": 1224,
+            "script": 75033,
+            "text": "そんなバカな！！",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437652.a0f40d5e",
+            "step": 1225,
+            "script": 75033,
+            "text": "と否定したい気持ちでいっぱいだが、\n先ほどの狂った告白を聞いた後では、\n強く否定出来ないのも事実だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希在逼我和他订婚……！？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4437600.3c4a8820",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そんなバカな！！\",\"color\":0,\"size\":1},{\"text\":\"\\n\",\"color\":0,\"size\":1}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4437600",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1224
+        },
+        "requiredRefs": [
+          {
+            "ref": 0,
+            "text": "そんなバカな！！",
+            "color": 0,
+            "size": 1
+          },
+          {
+            "ref": 1,
+            "text": "\n",
+            "color": 0,
+            "size": 1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4433592.7f5ca346",
+            "step": 1222,
+            "script": 75031,
+            "text": "本人の証言では、私の為にＢ事件を起こしたと\n言っているが、そうするうちに犯罪の魅力に\n取り付かれてしまったのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437540.f02329bb",
+            "step": 1223,
+            "script": 75033,
+            "text": "朝希が私に婚約を迫っている……！？",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437600.3c4a8820",
+            "step": 1224,
+            "script": 75033,
+            "text": "そんなバカな！！",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437652.a0f40d5e",
+            "step": 1225,
+            "script": 75033,
+            "text": "と否定したい気持ちでいっぱいだが、\n先ほどの狂った告白を聞いた後では、\n強く否定出来ないのも事実だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437804.539aae24",
+            "step": 1226,
+            "script": 75033,
+            "text": "私の為に猟奇的な殺人を犯して\n婚約を迫るなんて……",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "ref": 0,
+              "text": "怎么可能！！"
+            },
+            {
+              "ref": 1
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4437652.a0f40d5e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"と否定したい気持ちでいっぱいだが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"先ほどの狂った告白を聞いた後では、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"強く否定出来ないのも事実だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4437652",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1225
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4437540.f02329bb",
+            "step": 1223,
+            "script": 75033,
+            "text": "朝希が私に婚約を迫っている……！？",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437600.3c4a8820",
+            "step": 1224,
+            "script": 75033,
+            "text": "そんなバカな！！",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437652.a0f40d5e",
+            "step": 1225,
+            "script": 75033,
+            "text": "と否定したい気持ちでいっぱいだが、\n先ほどの狂った告白を聞いた後では、\n強く否定出来ないのも事実だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437804.539aae24",
+            "step": 1226,
+            "script": 75033,
+            "text": "私の為に猟奇的な殺人を犯して\n婚約を迫るなんて……",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437884.1a67523e",
+            "step": 1227,
+            "script": 75033,
+            "text": "そんなアプローチなんて、\nまっぴらゴメンだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我满心都想这样否认，可听过刚才那番疯狂的告白后，却又无法坚决地否定。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4437804.539aae24",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"私の為に猟奇的な殺人を犯して\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"婚約を迫るなんて……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4437804",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1226
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4437600.3c4a8820",
+            "step": 1224,
+            "script": 75033,
+            "text": "そんなバカな！！",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437652.a0f40d5e",
+            "step": 1225,
+            "script": 75033,
+            "text": "と否定したい気持ちでいっぱいだが、\n先ほどの狂った告白を聞いた後では、\n強く否定出来ないのも事実だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437804.539aae24",
+            "step": 1226,
+            "script": 75033,
+            "text": "私の為に猟奇的な殺人を犯して\n婚約を迫るなんて……",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437884.1a67523e",
+            "step": 1227,
+            "script": 75033,
+            "text": "そんなアプローチなんて、\nまっぴらゴメンだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "为了我犯下猎奇杀人案，再逼我订婚……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4437884.1a67523e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そんなアプローチなんて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"まっぴらゴメンだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4437884",
+          "route": "remaining-70001-branches",
+          "trial": 0,
+          "step": 1227
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4437652.a0f40d5e",
+            "step": 1225,
+            "script": 75033,
+            "text": "と否定したい気持ちでいっぱいだが、\n先ほどの狂った告白を聞いた後では、\n強く否定出来ないのも事実だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437804.539aae24",
+            "step": 1226,
+            "script": 75033,
+            "text": "私の為に猟奇的な殺人を犯して\n婚約を迫るなんて……",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4437884.1a67523e",
+            "step": 1227,
+            "script": 75033,
+            "text": "そんなアプローチなんて、\nまっぴらゴメンだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这种追求方式，我敬谢不敏。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79216:4532716.1a0711a3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そうだ……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今は誰か頼れる人が必要だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79216,
+          "page": "79216:4532716",
+          "route": "remaining-70001-branches",
+          "trial": 3,
+          "step": 1168
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79216:4532716.1a0711a3",
+            "step": 1168,
+            "script": 79216,
+            "text": "そうだ……。\n今は誰か頼れる人が必要だ。",
+            "translation": null
+          },
+          {
+            "key": "page.79216:4532788.91216a52",
+            "step": 1169,
+            "script": 79216,
+            "text": "そう結論付けた瞬間、\n私は手にしていた携帯を取り出して\n纯也君に電話をかけていた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "对了……现在，我需要一个能依靠的人。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79216:4532788.91216a52",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そう結論付けた瞬間、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私は手にしていた携帯を取り出して\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"君に電話をかけていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79216,
+          "page": "79216:4532788",
+          "route": "remaining-70001-branches",
+          "trial": 3,
+          "step": 1169
+        },
+        "requiredRefs": [
+          {
+            "ref": 4,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79216:4532716.1a0711a3",
+            "step": 1168,
+            "script": 79216,
+            "text": "そうだ……。\n今は誰か頼れる人が必要だ。",
+            "translation": null
+          },
+          {
+            "key": "page.79216:4532788.91216a52",
+            "step": 1169,
+            "script": 79216,
+            "text": "そう結論付けた瞬間、\n私は手にしていた携帯を取り出して\n纯也君に電話をかけていた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "得出这个结论的瞬间，我便拿起手机，拨通了"
+            },
+            {
+              "ref": 4
+            },
+            {
+              "text": "的电话。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4451112.4ba8e32a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"始まりは、足りない単位を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"埋める為のレポートだった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4451112",
+          "route": "remaining-70001-branches",
+          "trial": 5,
+          "step": 1200
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4451112.4ba8e32a",
+            "step": 1200,
+            "script": 75036,
+            "text": "始まりは、足りない単位を\n埋める為のレポートだった。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4451196.6c128c0c",
+            "step": 1201,
+            "script": 75036,
+            "text": "その題材として、Ｂ事件を都市伝説にして、\n変遷をたどることを勧めてくれたのは朝希だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4451312.55bcfac8",
+            "step": 1202,
+            "script": 75036,
+            "text": "しかし、そこには朝希の狂気に満ちた感情が\n働いていたのだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "一切的开端，是为了补足学分而写的报告。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4451196.6c128c0c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"その題材として、Ｂ事件を都市伝説にして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"変遷をたどることを勧めてくれたのは朝希だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4451196",
+          "route": "remaining-70001-branches",
+          "trial": 5,
+          "step": 1201
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4451112.4ba8e32a",
+            "step": 1200,
+            "script": 75036,
+            "text": "始まりは、足りない単位を\n埋める為のレポートだった。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4451196.6c128c0c",
+            "step": 1201,
+            "script": 75036,
+            "text": "その題材として、Ｂ事件を都市伝説にして、\n変遷をたどることを勧めてくれたのは朝希だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4451312.55bcfac8",
+            "step": 1202,
+            "script": 75036,
+            "text": "しかし、そこには朝希の狂気に満ちた感情が\n働いていたのだ……。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435192.9af32c56",
+            "step": 1203,
+            "script": 75031,
+            "text": "Ｂ事件の騒動は、私が朝希にレポートのことを\n相談したのが始まりだった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "建议我以B事件为素材，编成都市传说，再追踪其演变的人，是朝希。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4451312.55bcfac8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし、そこには朝希の狂気に満ちた感情が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"働いていたのだ……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4451312",
+          "route": "remaining-70001-branches",
+          "trial": 5,
+          "step": 1202
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4451112.4ba8e32a",
+            "step": 1200,
+            "script": 75036,
+            "text": "始まりは、足りない単位を\n埋める為のレポートだった。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4451196.6c128c0c",
+            "step": 1201,
+            "script": 75036,
+            "text": "その題材として、Ｂ事件を都市伝説にして、\n変遷をたどることを勧めてくれたのは朝希だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4451312.55bcfac8",
+            "step": 1202,
+            "script": 75036,
+            "text": "しかし、そこには朝希の狂気に満ちた感情が\n働いていたのだ……。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435192.9af32c56",
+            "step": 1203,
+            "script": 75031,
+            "text": "Ｂ事件の騒動は、私が朝希にレポートのことを\n相談したのが始まりだった。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435296.7610db96",
+            "step": 1204,
+            "script": 75031,
+            "text": "朝希は親切心からＢ事件を題材に\nレポートを書くことを勧めてくれた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可这背后，推动着一切的，是他那疯狂的感情……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4435192.9af32c56",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"Ｂ事件の騒動は、私が朝希にレポートのことを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"相談したのが始まりだった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4435192",
+          "route": "remaining-70001-branches",
+          "trial": 5,
+          "step": 1203
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4451196.6c128c0c",
+            "step": 1201,
+            "script": 75036,
+            "text": "その題材として、Ｂ事件を都市伝説にして、\n変遷をたどることを勧めてくれたのは朝希だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4451312.55bcfac8",
+            "step": 1202,
+            "script": 75036,
+            "text": "しかし、そこには朝希の狂気に満ちた感情が\n働いていたのだ……。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435192.9af32c56",
+            "step": 1203,
+            "script": 75031,
+            "text": "Ｂ事件の騒動は、私が朝希にレポートのことを\n相談したのが始まりだった。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435296.7610db96",
+            "step": 1204,
+            "script": 75031,
+            "text": "朝希は親切心からＢ事件を題材に\nレポートを書くことを勧めてくれた。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435396.a5da8651",
+            "step": 1205,
+            "script": 75031,
+            "text": "それはＢ事件を都市伝説のように\n曖昧なものにしてしまいたい彼にとって\n格好の材料だったに違いない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "B事件的风波，始于我向朝希商量报告的事。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4435296.7610db96",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希は親切心からＢ事件を題材に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"レポートを書くことを勧めてくれた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4435296",
+          "route": "remaining-70001-branches",
+          "trial": 5,
+          "step": 1204
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4451312.55bcfac8",
+            "step": 1202,
+            "script": 75036,
+            "text": "しかし、そこには朝希の狂気に満ちた感情が\n働いていたのだ……。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435192.9af32c56",
+            "step": 1203,
+            "script": 75031,
+            "text": "Ｂ事件の騒動は、私が朝希にレポートのことを\n相談したのが始まりだった。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435296.7610db96",
+            "step": 1204,
+            "script": 75031,
+            "text": "朝希は親切心からＢ事件を題材に\nレポートを書くことを勧めてくれた。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435396.a5da8651",
+            "step": 1205,
+            "script": 75031,
+            "text": "それはＢ事件を都市伝説のように\n曖昧なものにしてしまいたい彼にとって\n格好の材料だったに違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435552.94196213",
+            "step": 1206,
+            "script": 75031,
+            "text": "朝希は私のレポートに便乗して、\n自分が犯した犯罪を、想像の世界の物語にしようと\n画策したのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希出于好意，建议我以B事件为题材写报告。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4435396.a5da8651",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それはＢ事件を都市伝説のように\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"曖昧\",\"color\":0,\"size\":0},{\"text\":\"なものにしてしまいたい彼にとって\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"格好の材料だったに違いない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4435396",
+          "route": "remaining-70001-branches",
+          "trial": 5,
+          "step": 1205
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4435192.9af32c56",
+            "step": 1203,
+            "script": 75031,
+            "text": "Ｂ事件の騒動は、私が朝希にレポートのことを\n相談したのが始まりだった。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435296.7610db96",
+            "step": 1204,
+            "script": 75031,
+            "text": "朝希は親切心からＢ事件を題材に\nレポートを書くことを勧めてくれた。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435396.a5da8651",
+            "step": 1205,
+            "script": 75031,
+            "text": "それはＢ事件を都市伝説のように\n曖昧なものにしてしまいたい彼にとって\n格好の材料だったに違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435552.94196213",
+            "step": 1206,
+            "script": 75031,
+            "text": "朝希は私のレポートに便乗して、\n自分が犯した犯罪を、想像の世界の物語にしようと\n画策したのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435688.9760b5f0",
+            "step": 1207,
+            "script": 75031,
+            "text": "つまり、私は良い様に利用されわけだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "对想把B事件变成都市传说般模糊之物的他而言，这无疑是个绝好的机会。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4435552.94196213",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希は私のレポートに便乗して、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自分が犯した犯罪を、想像の世界の物語にしようと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"画策したのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4435552",
+          "route": "remaining-70001-branches",
+          "trial": 5,
+          "step": 1206
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4435296.7610db96",
+            "step": 1204,
+            "script": 75031,
+            "text": "朝希は親切心からＢ事件を題材に\nレポートを書くことを勧めてくれた。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435396.a5da8651",
+            "step": 1205,
+            "script": 75031,
+            "text": "それはＢ事件を都市伝説のように\n曖昧なものにしてしまいたい彼にとって\n格好の材料だったに違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435552.94196213",
+            "step": 1206,
+            "script": 75031,
+            "text": "朝希は私のレポートに便乗して、\n自分が犯した犯罪を、想像の世界の物語にしようと\n画策したのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435688.9760b5f0",
+            "step": 1207,
+            "script": 75031,
+            "text": "つまり、私は良い様に利用されわけだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "他借着我的报告，盘算着把自己犯下的罪行，化为想象世界中的故事。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4435688.9760b5f0",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"つまり、私は良い様に利用されわけだ……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4435688",
+          "route": "remaining-70001-branches",
+          "trial": 5,
+          "step": 1207
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4435396.a5da8651",
+            "step": 1205,
+            "script": 75031,
+            "text": "それはＢ事件を都市伝説のように\n曖昧なものにしてしまいたい彼にとって\n格好の材料だったに違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435552.94196213",
+            "step": 1206,
+            "script": 75031,
+            "text": "朝希は私のレポートに便乗して、\n自分が犯した犯罪を、想像の世界の物語にしようと\n画策したのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4435688.9760b5f0",
+            "step": 1207,
+            "script": 75031,
+            "text": "つまり、私は良い様に利用されわけだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也就是说，我被他彻底利用了……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4450192.74c0049e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"私にとって、朝希は魅力溢れる人物だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いや、だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4450192",
+          "route": "remaining-70001-branches",
+          "trial": 7,
+          "step": 1198
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4450192.74c0049e",
+            "step": 1198,
+            "script": 75036,
+            "text": "私にとって、朝希は魅力溢れる人物だ。\nいや、だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450276.c5522c79",
+            "step": 1199,
+            "script": 75036,
+            "text": "私の心がどうしようもなく沈んでいたとき、\n彼女の言葉に救われた。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450372.3f47d0a2",
+            "step": 1200,
+            "script": 75036,
+            "text": "私は朝希を親友だと思っていた。\nそれなのに……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "对我来说，朝希是个充满魅力的人。不，曾经是。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4450276.c5522c79",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"私の心がどうしようもなく沈んでいたとき、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"彼女の言葉に救われた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4450276",
+          "route": "remaining-70001-branches",
+          "trial": 7,
+          "step": 1199
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4450192.74c0049e",
+            "step": 1198,
+            "script": 75036,
+            "text": "私にとって、朝希は魅力溢れる人物だ。\nいや、だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450276.c5522c79",
+            "step": 1199,
+            "script": 75036,
+            "text": "私の心がどうしようもなく沈んでいたとき、\n彼女の言葉に救われた。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450372.3f47d0a2",
+            "step": 1200,
+            "script": 75036,
+            "text": "私は朝希を親友だと思っていた。\nそれなのに……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "在我心情低落到无可救药的时候，是她的话救了我。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4450372.3f47d0a2",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"私は朝希を親友だと思っていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それなのに……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4450372",
+          "route": "remaining-70001-branches",
+          "trial": 7,
+          "step": 1200
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4450192.74c0049e",
+            "step": 1198,
+            "script": 75036,
+            "text": "私にとって、朝希は魅力溢れる人物だ。\nいや、だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450276.c5522c79",
+            "step": 1199,
+            "script": 75036,
+            "text": "私の心がどうしようもなく沈んでいたとき、\n彼女の言葉に救われた。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450372.3f47d0a2",
+            "step": 1200,
+            "script": 75036,
+            "text": "私は朝希を親友だと思っていた。\nそれなのに……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我一直把朝希当作挚友。可是……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4436344.531a1f6a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希は私と親友になりたかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その一心でＢ事件を起こしたというのか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4436344",
+          "route": "remaining-70001-branches",
+          "trial": 7,
+          "step": 1204
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4436344.531a1f6a",
+            "step": 1204,
+            "script": 75033,
+            "text": "朝希は私と親友になりたかった。\nその一心でＢ事件を起こしたというのか？",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436448.ae56960f",
+            "step": 1205,
+            "script": 75033,
+            "text": "それはあまりにも異常な心理だ。\n到底納得することなど出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436544.73b7b334",
+            "step": 1206,
+            "script": 75033,
+            "text": "だが、彼は私に対する想いを告白している。\nその想いが朝希を歪んだ行動に向かわせたのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希想和我成为挚友。难道就凭这一念头，制造了B事件？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4436448.ae56960f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それはあまりにも異常な心理だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"到底納得することなど出来ない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4436448",
+          "route": "remaining-70001-branches",
+          "trial": 7,
+          "step": 1205
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4436344.531a1f6a",
+            "step": 1204,
+            "script": 75033,
+            "text": "朝希は私と親友になりたかった。\nその一心でＢ事件を起こしたというのか？",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436448.ae56960f",
+            "step": 1205,
+            "script": 75033,
+            "text": "それはあまりにも異常な心理だ。\n到底納得することなど出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436544.73b7b334",
+            "step": 1206,
+            "script": 75033,
+            "text": "だが、彼は私に対する想いを告白している。\nその想いが朝希を歪んだ行動に向かわせたのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436660.6eeb4e6",
+            "step": 1207,
+            "script": 75033,
+            "text": "この事件……いや、朝希の心の中には、\n私が想像している以上の闇が潜んでいた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那是何等异常的心理。我根本无法接受。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4436544.73b7b334",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、彼は私に対する想いを告白している。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その想いが朝希を歪んだ行動に向かわせたのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4436544",
+          "route": "remaining-70001-branches",
+          "trial": 7,
+          "step": 1206
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4436344.531a1f6a",
+            "step": 1204,
+            "script": 75033,
+            "text": "朝希は私と親友になりたかった。\nその一心でＢ事件を起こしたというのか？",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436448.ae56960f",
+            "step": 1205,
+            "script": 75033,
+            "text": "それはあまりにも異常な心理だ。\n到底納得することなど出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436544.73b7b334",
+            "step": 1206,
+            "script": 75033,
+            "text": "だが、彼は私に対する想いを告白している。\nその想いが朝希を歪んだ行動に向かわせたのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436660.6eeb4e6",
+            "step": 1207,
+            "script": 75033,
+            "text": "この事件……いや、朝希の心の中には、\n私が想像している以上の闇が潜んでいた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可他已经向我告白。正是那份感情，让他走向了扭曲的行动。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4436660.6eeb4e6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"この事件……いや、朝希の心の中には、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私が想像している以上の闇が潜んでいた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4436660",
+          "route": "remaining-70001-branches",
+          "trial": 7,
+          "step": 1207
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4436448.ae56960f",
+            "step": 1205,
+            "script": 75033,
+            "text": "それはあまりにも異常な心理だ。\n到底納得することなど出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436544.73b7b334",
+            "step": 1206,
+            "script": 75033,
+            "text": "だが、彼は私に対する想いを告白している。\nその想いが朝希を歪んだ行動に向かわせたのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436660.6eeb4e6",
+            "step": 1207,
+            "script": 75033,
+            "text": "この事件……いや、朝希の心の中には、\n私が想像している以上の闇が潜んでいた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这起事件……不，朝希的心中，潜藏着比我想象中更深的黑暗。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4433768.1c3094ff",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希はＢ事件を憎悪していた……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4433768",
+          "route": "remaining-70001-branches",
+          "trial": 13,
+          "step": 1201
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4433768.1c3094ff",
+            "step": 1201,
+            "script": 75031,
+            "text": "朝希はＢ事件を憎悪していた……？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433824.8cb72c34",
+            "step": 1202,
+            "script": 75031,
+            "text": "朝希がＢ事件で近しい人物を亡くしていて、\n犯人を捕まえる為に、私に都市伝説を\n流布させた？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433952.ef67aa7d",
+            "step": 1203,
+            "script": 75031,
+            "text": "それとも憎むべきＢ事件を都市伝説化させ、\n永遠に語り継がれるよう仕組んだのか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希憎恨B事件……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4433824.8cb72c34",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希がＢ事件で近しい人物を亡くしていて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"犯人を捕まえる為に、私に都市伝説を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"流布させた？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4433824",
+          "route": "remaining-70001-branches",
+          "trial": 13,
+          "step": 1202
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4433768.1c3094ff",
+            "step": 1201,
+            "script": 75031,
+            "text": "朝希はＢ事件を憎悪していた……？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433824.8cb72c34",
+            "step": 1202,
+            "script": 75031,
+            "text": "朝希がＢ事件で近しい人物を亡くしていて、\n犯人を捕まえる為に、私に都市伝説を\n流布させた？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433952.ef67aa7d",
+            "step": 1203,
+            "script": 75031,
+            "text": "それとも憎むべきＢ事件を都市伝説化させ、\n永遠に語り継がれるよう仕組んだのか？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434060.2c40984d",
+            "step": 1204,
+            "script": 75031,
+            "text": "そういう可能性も考えられる。\nただし、それは朝希がＢ事件の\n犯人でないならの話だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "难道他在B事件中失去了亲近的人，为了抓住凶手，才让我散播都市传说？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4433952.ef67aa7d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それとも憎むべきＢ事件を都市伝説化させ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"永遠に語り継がれるよう仕組んだのか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4433952",
+          "route": "remaining-70001-branches",
+          "trial": 13,
+          "step": 1203
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4433768.1c3094ff",
+            "step": 1201,
+            "script": 75031,
+            "text": "朝希はＢ事件を憎悪していた……？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433824.8cb72c34",
+            "step": 1202,
+            "script": 75031,
+            "text": "朝希がＢ事件で近しい人物を亡くしていて、\n犯人を捕まえる為に、私に都市伝説を\n流布させた？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433952.ef67aa7d",
+            "step": 1203,
+            "script": 75031,
+            "text": "それとも憎むべきＢ事件を都市伝説化させ、\n永遠に語り継がれるよう仕組んだのか？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434060.2c40984d",
+            "step": 1204,
+            "script": 75031,
+            "text": "そういう可能性も考えられる。\nただし、それは朝希がＢ事件の\n犯人でないならの話だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438024.1b7bbe46",
+            "step": 1205,
+            "script": 75033,
+            "text": "朝希は最終的に私の存在を\n抹消したがっている……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "还是说，他想把可憎的B事件变成都市传说，让它永远被人传颂？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4434060.2c40984d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そういう可能性も考えられる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ただし、それは朝希がＢ事件の\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"犯人でないならの話だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4434060",
+          "route": "remaining-70001-branches",
+          "trial": 13,
+          "step": 1204
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4433824.8cb72c34",
+            "step": 1202,
+            "script": 75031,
+            "text": "朝希がＢ事件で近しい人物を亡くしていて、\n犯人を捕まえる為に、私に都市伝説を\n流布させた？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433952.ef67aa7d",
+            "step": 1203,
+            "script": 75031,
+            "text": "それとも憎むべきＢ事件を都市伝説化させ、\n永遠に語り継がれるよう仕組んだのか？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434060.2c40984d",
+            "step": 1204,
+            "script": 75031,
+            "text": "そういう可能性も考えられる。\nただし、それは朝希がＢ事件の\n犯人でないならの話だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438024.1b7bbe46",
+            "step": 1205,
+            "script": 75033,
+            "text": "朝希は最終的に私の存在を\n抹消したがっている……。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438104.d045736f",
+            "step": 1206,
+            "script": 75033,
+            "text": "私に歪んだ愛情を抱いているのは分かったが、\n歳をとる前に殺すだなんて、あまりにも\n身勝手でバカげた理屈だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也可以考虑这样的可能性。不过，前提是朝希不是B事件的凶手。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4438024.1b7bbe46",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希は最終的に私の存在を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"抹消したがっている……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4438024",
+          "route": "remaining-70001-branches",
+          "trial": 13,
+          "step": 1205
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4433952.ef67aa7d",
+            "step": 1203,
+            "script": 75031,
+            "text": "それとも憎むべきＢ事件を都市伝説化させ、\n永遠に語り継がれるよう仕組んだのか？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434060.2c40984d",
+            "step": 1204,
+            "script": 75031,
+            "text": "そういう可能性も考えられる。\nただし、それは朝希がＢ事件の\n犯人でないならの話だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438024.1b7bbe46",
+            "step": 1205,
+            "script": 75033,
+            "text": "朝希は最終的に私の存在を\n抹消したがっている……。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438104.d045736f",
+            "step": 1206,
+            "script": 75033,
+            "text": "私に歪んだ愛情を抱いているのは分かったが、\n歳をとる前に殺すだなんて、あまりにも\n身勝手でバカげた理屈だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438248.2ce197f",
+            "step": 1207,
+            "script": 75033,
+            "text": "あの優しかった朝希が裏ではそんなことを\n考えていたなんて思いたくもないし、\n今だって信じられない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希最终想要抹去我的存在……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4438104.d045736f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"私に歪んだ愛情を抱いているのは分かったが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"歳をとる前に殺すだなんて、あまりにも\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"身勝手でバカげた理屈だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4438104",
+          "route": "remaining-70001-branches",
+          "trial": 13,
+          "step": 1206
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4434060.2c40984d",
+            "step": 1204,
+            "script": 75031,
+            "text": "そういう可能性も考えられる。\nただし、それは朝希がＢ事件の\n犯人でないならの話だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438024.1b7bbe46",
+            "step": 1205,
+            "script": 75033,
+            "text": "朝希は最終的に私の存在を\n抹消したがっている……。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438104.d045736f",
+            "step": 1206,
+            "script": 75033,
+            "text": "私に歪んだ愛情を抱いているのは分かったが、\n歳をとる前に殺すだなんて、あまりにも\n身勝手でバカげた理屈だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438248.2ce197f",
+            "step": 1207,
+            "script": 75033,
+            "text": "あの優しかった朝希が裏ではそんなことを\n考えていたなんて思いたくもないし、\n今だって信じられない。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438388.787161af",
+            "step": 1208,
+            "script": 75033,
+            "text": "しかし、知りたくなかった結論だけが\n私の手元に残ってしまった……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我明白，他对我抱有扭曲的爱。可什么在衰老前杀掉我，那种道理，实在太自私、太荒谬了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4438248.2ce197f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あの優しかった朝希が裏ではそんなことを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"考えていたなんて思いたくもないし、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今だって信じられない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4438248",
+          "route": "remaining-70001-branches",
+          "trial": 13,
+          "step": 1207
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4438024.1b7bbe46",
+            "step": 1205,
+            "script": 75033,
+            "text": "朝希は最終的に私の存在を\n抹消したがっている……。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438104.d045736f",
+            "step": 1206,
+            "script": 75033,
+            "text": "私に歪んだ愛情を抱いているのは分かったが、\n歳をとる前に殺すだなんて、あまりにも\n身勝手でバカげた理屈だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438248.2ce197f",
+            "step": 1207,
+            "script": 75033,
+            "text": "あの優しかった朝希が裏ではそんなことを\n考えていたなんて思いたくもないし、\n今だって信じられない。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438388.787161af",
+            "step": 1208,
+            "script": 75033,
+            "text": "しかし、知りたくなかった結論だけが\n私の手元に残ってしまった……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那个温柔的朝希，背地里竟在想这些事。我不愿去想，直到现在也无法相信。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4438388.787161af",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし、知りたくなかった結論だけが\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私の手元に残ってしまった……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4438388",
+          "route": "remaining-70001-branches",
+          "trial": 13,
+          "step": 1208
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4438104.d045736f",
+            "step": 1206,
+            "script": 75033,
+            "text": "私に歪んだ愛情を抱いているのは分かったが、\n歳をとる前に殺すだなんて、あまりにも\n身勝手でバカげた理屈だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438248.2ce197f",
+            "step": 1207,
+            "script": 75033,
+            "text": "あの優しかった朝希が裏ではそんなことを\n考えていたなんて思いたくもないし、\n今だって信じられない。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4438388.787161af",
+            "step": 1208,
+            "script": 75033,
+            "text": "しかし、知りたくなかった結論だけが\n私の手元に残ってしまった……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可留在我手中的，偏偏只有这个我最不想知道的结论……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4449900.2c7e6be6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希は猟奇的な性格をしている……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4449900",
+          "route": "remaining-70001-branches",
+          "trial": 18,
+          "step": 1220
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449900.2c7e6be6",
+            "step": 1220,
+            "script": 75036,
+            "text": "朝希は猟奇的な性格をしている……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449960.b2c77590",
+            "step": 1221,
+            "script": 75036,
+            "text": "そうだ。\nもはや疑う余地はない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450024.21418de9",
+            "step": 1222,
+            "script": 75036,
+            "text": "彼女……いや、彼は正真正銘の\nサイコパスだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希有着猎奇而残忍的性格……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4449960.b2c77590",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そうだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"もはや疑う余地はない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4449960",
+          "route": "remaining-70001-branches",
+          "trial": 18,
+          "step": 1221
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449900.2c7e6be6",
+            "step": 1220,
+            "script": 75036,
+            "text": "朝希は猟奇的な性格をしている……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449960.b2c77590",
+            "step": 1221,
+            "script": 75036,
+            "text": "そうだ。\nもはや疑う余地はない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450024.21418de9",
+            "step": 1222,
+            "script": 75036,
+            "text": "彼女……いや、彼は正真正銘の\nサイコパスだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450100.12b88732",
+            "step": 1223,
+            "script": 75036,
+            "text": "全てが私の理解のキャパシティを\n超えている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "没错。已经没有怀疑的余地。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4450024.21418de9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"彼女……いや、彼は正真正銘の\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"サイコパスだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4450024",
+          "route": "remaining-70001-branches",
+          "trial": 18,
+          "step": 1222
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449900.2c7e6be6",
+            "step": 1220,
+            "script": 75036,
+            "text": "朝希は猟奇的な性格をしている……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449960.b2c77590",
+            "step": 1221,
+            "script": 75036,
+            "text": "そうだ。\nもはや疑う余地はない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450024.21418de9",
+            "step": 1222,
+            "script": 75036,
+            "text": "彼女……いや、彼は正真正銘の\nサイコパスだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450100.12b88732",
+            "step": 1223,
+            "script": 75036,
+            "text": "全てが私の理解のキャパシティを\n超えている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她……不，他，是个彻头彻尾的精神病态者。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4450100.12b88732",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"全てが私の理解のキャパシティを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"超えている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4450100",
+          "route": "remaining-70001-branches",
+          "trial": 18,
+          "step": 1223
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449960.b2c77590",
+            "step": 1221,
+            "script": 75036,
+            "text": "そうだ。\nもはや疑う余地はない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450024.21418de9",
+            "step": 1222,
+            "script": 75036,
+            "text": "彼女……いや、彼は正真正銘の\nサイコパスだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450100.12b88732",
+            "step": 1223,
+            "script": 75036,
+            "text": "全てが私の理解のキャパシティを\n超えている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这一切，都超出了我的理解能力。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4432860.f128147d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希は、あらかじめＢ事件のことを知っていて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それをもみ消す為に私を利用した……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4432860",
+          "route": "remaining-70001-branches",
+          "trial": 21,
+          "step": 1210
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4432860.f128147d",
+            "step": 1210,
+            "script": 75031,
+            "text": "朝希は、あらかじめＢ事件のことを知っていて、\nそれをもみ消す為に私を利用した……？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4432972.e109d125",
+            "step": 1211,
+            "script": 75031,
+            "text": "本人の証言では私の為だとのことだが、\n所詮倒錯した殺人犯の言っていることだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433080.8d39525e",
+            "step": 1212,
+            "script": 75031,
+            "text": "私を利用してＢ事件をもみ消そうとした\n可能性は十分あるだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希事先知道B事件，为了掩盖它，利用了我……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4432972.e109d125",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"本人の証言では私の為だとのことだが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"所詮倒錯した殺人犯の言っていることだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4432972",
+          "route": "remaining-70001-branches",
+          "trial": 21,
+          "step": 1211
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4432860.f128147d",
+            "step": 1210,
+            "script": 75031,
+            "text": "朝希は、あらかじめＢ事件のことを知っていて、\nそれをもみ消す為に私を利用した……？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4432972.e109d125",
+            "step": 1211,
+            "script": 75031,
+            "text": "本人の証言では私の為だとのことだが、\n所詮倒錯した殺人犯の言っていることだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433080.8d39525e",
+            "step": 1212,
+            "script": 75031,
+            "text": "私を利用してＢ事件をもみ消そうとした\n可能性は十分あるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433172.746c1dcb",
+            "step": 1213,
+            "script": 75031,
+            "text": "だが、もみ消したいだけなら、\nわざわざ都市伝説などを利用しなくても\n良かったと思うのだが……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "他自己说是为了我，但那终究只是一个心理扭曲的杀人犯的说辞。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4433080.8d39525e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"私を利用してＢ事件をもみ消そうとした\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"可能性は十分あるだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4433080",
+          "route": "remaining-70001-branches",
+          "trial": 21,
+          "step": 1212
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4432860.f128147d",
+            "step": 1210,
+            "script": 75031,
+            "text": "朝希は、あらかじめＢ事件のことを知っていて、\nそれをもみ消す為に私を利用した……？",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4432972.e109d125",
+            "step": 1211,
+            "script": 75031,
+            "text": "本人の証言では私の為だとのことだが、\n所詮倒錯した殺人犯の言っていることだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433080.8d39525e",
+            "step": 1212,
+            "script": 75031,
+            "text": "私を利用してＢ事件をもみ消そうとした\n可能性は十分あるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433172.746c1dcb",
+            "step": 1213,
+            "script": 75031,
+            "text": "だが、もみ消したいだけなら、\nわざわざ都市伝説などを利用しなくても\n良かったと思うのだが……。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433304.8bd98094",
+            "step": 1214,
+            "script": 75031,
+            "text": "そのあたりは殺人犯の考えることだ。\n私の理解が及ぶところではない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "他想利用我掩盖B事件，这种可能性完全存在。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4433172.746c1dcb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、もみ消したいだけなら、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"わざわざ都市伝説などを利用しなくても\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"良かったと思うのだが……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4433172",
+          "route": "remaining-70001-branches",
+          "trial": 21,
+          "step": 1213
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4432972.e109d125",
+            "step": 1211,
+            "script": 75031,
+            "text": "本人の証言では私の為だとのことだが、\n所詮倒錯した殺人犯の言っていることだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433080.8d39525e",
+            "step": 1212,
+            "script": 75031,
+            "text": "私を利用してＢ事件をもみ消そうとした\n可能性は十分あるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433172.746c1dcb",
+            "step": 1213,
+            "script": 75031,
+            "text": "だが、もみ消したいだけなら、\nわざわざ都市伝説などを利用しなくても\n良かったと思うのだが……。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433304.8bd98094",
+            "step": 1214,
+            "script": 75031,
+            "text": "そのあたりは殺人犯の考えることだ。\n私の理解が及ぶところではない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不过，只是想掩盖事件的话，似乎也没必要特地利用都市传说……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4433304.8bd98094",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そのあたりは殺人犯の考えることだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私の理解が及ぶところではない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4433304",
+          "route": "remaining-70001-branches",
+          "trial": 21,
+          "step": 1214
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4433080.8d39525e",
+            "step": 1212,
+            "script": 75031,
+            "text": "私を利用してＢ事件をもみ消そうとした\n可能性は十分あるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433172.746c1dcb",
+            "step": 1213,
+            "script": 75031,
+            "text": "だが、もみ消したいだけなら、\nわざわざ都市伝説などを利用しなくても\n良かったと思うのだが……。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4433304.8bd98094",
+            "step": 1214,
+            "script": 75031,
+            "text": "そのあたりは殺人犯の考えることだ。\n私の理解が及ぶところではない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那终究是杀人犯的想法，不是我能理解的。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4434196.71aba796",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"これまで点のようにバラバラだった\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"Ｂ事件と一連の被害者達。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4434196",
+          "route": "remaining-70001-branches",
+          "trial": 24,
+          "step": 1215
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4434196.71aba796",
+            "step": 1215,
+            "script": 75031,
+            "text": "これまで点のようにバラバラだった\nＢ事件と一連の被害者達。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434284.e290deea",
+            "step": 1216,
+            "script": 75031,
+            "text": "朝希と被害者達を繋ぐ証拠は、\n今のところ本人の自白のみだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434372.883bbd72",
+            "step": 1217,
+            "script": 75031,
+            "text": "だが、それは真実だろう。\n信じたくはないが、あの朝希が\nこの狂った事件の犯人だったのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "此前，B事件与接连出现的被害人，就像一个个零散的点。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4434284.e290deea",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希と被害者達を繋ぐ証拠は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今のところ本人の自白のみだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4434284",
+          "route": "remaining-70001-branches",
+          "trial": 24,
+          "step": 1216
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4434196.71aba796",
+            "step": 1215,
+            "script": 75031,
+            "text": "これまで点のようにバラバラだった\nＢ事件と一連の被害者達。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434284.e290deea",
+            "step": 1216,
+            "script": 75031,
+            "text": "朝希と被害者達を繋ぐ証拠は、\n今のところ本人の自白のみだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434372.883bbd72",
+            "step": 1217,
+            "script": 75031,
+            "text": "だが、それは真実だろう。\n信じたくはないが、あの朝希が\nこの狂った事件の犯人だったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434496.25314a4f",
+            "step": 1218,
+            "script": 75031,
+            "text": "あの朝希に、こんな狂気と残虐性が\n秘められていたなんて、\nいまだに信じがたい……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "目前，把朝希与被害人联系起来的证据，只有他本人的供述。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4434372.883bbd72",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、それは真実だろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"信じたくはないが、あの朝希が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この狂った事件の犯人だったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4434372",
+          "route": "remaining-70001-branches",
+          "trial": 24,
+          "step": 1217
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4434196.71aba796",
+            "step": 1215,
+            "script": 75031,
+            "text": "これまで点のようにバラバラだった\nＢ事件と一連の被害者達。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434284.e290deea",
+            "step": 1216,
+            "script": 75031,
+            "text": "朝希と被害者達を繋ぐ証拠は、\n今のところ本人の自白のみだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434372.883bbd72",
+            "step": 1217,
+            "script": 75031,
+            "text": "だが、それは真実だろう。\n信じたくはないが、あの朝希が\nこの狂った事件の犯人だったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434496.25314a4f",
+            "step": 1218,
+            "script": 75031,
+            "text": "あの朝希に、こんな狂気と残虐性が\n秘められていたなんて、\nいまだに信じがたい……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "但那应该是真的。虽然不愿相信，那个朝希，正是这起疯狂事件的凶手。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75031:4434496.25314a4f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あの朝希に、こんな狂気と残虐性が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"秘められていたなんて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いまだに信じがたい……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75031,
+          "page": "75031:4434496",
+          "route": "remaining-70001-branches",
+          "trial": 24,
+          "step": 1218
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75031:4434284.e290deea",
+            "step": 1216,
+            "script": 75031,
+            "text": "朝希と被害者達を繋ぐ証拠は、\n今のところ本人の自白のみだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434372.883bbd72",
+            "step": 1217,
+            "script": 75031,
+            "text": "だが、それは真実だろう。\n信じたくはないが、あの朝希が\nこの狂った事件の犯人だったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75031:4434496.25314a4f",
+            "step": 1218,
+            "script": 75031,
+            "text": "あの朝希に、こんな狂気と残虐性が\n秘められていたなんて、\nいまだに信じがたい……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那个朝希，竟然藏着如此疯狂而残忍的一面……我仍然难以相信。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4450468.6c47d4ad",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希は憎悪の塊だ……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4450468",
+          "route": "remaining-70001-branches",
+          "trial": 26,
+          "step": 1205
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4450468.6c47d4ad",
+            "step": 1205,
+            "script": 75036,
+            "text": "朝希は憎悪の塊だ……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450516.41c8e546",
+            "step": 1206,
+            "script": 75036,
+            "text": "これまでの彼女との会話では、\nそういった節は見受けられない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450608.f77a6afb",
+            "step": 1207,
+            "script": 75036,
+            "text": "だが、人間の心の奥底に潜む闇は\n暗く、そして深い。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希是一团憎恨……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4450516.41c8e546",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"これまでの彼女との会話では、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そういった節は見受けられない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4450516",
+          "route": "remaining-70001-branches",
+          "trial": 26,
+          "step": 1206
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4450468.6c47d4ad",
+            "step": 1205,
+            "script": 75036,
+            "text": "朝希は憎悪の塊だ……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450516.41c8e546",
+            "step": 1206,
+            "script": 75036,
+            "text": "これまでの彼女との会話では、\nそういった節は見受けられない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450608.f77a6afb",
+            "step": 1207,
+            "script": 75036,
+            "text": "だが、人間の心の奥底に潜む闇は\n暗く、そして深い。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450692.ef55bd3d",
+            "step": 1208,
+            "script": 75036,
+            "text": "普段、明るく笑顔を振りまいている人物が、\nその実、恐ろしい事件を引き起こすなんてことは、\n今の時代、驚くほどのことではない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "从过去的交谈中，并看不出这样的迹象。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4450608.f77a6afb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、人間の心の奥底に潜む闇は\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"暗く、そして深い。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4450608",
+          "route": "remaining-70001-branches",
+          "trial": 26,
+          "step": 1207
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4450468.6c47d4ad",
+            "step": 1205,
+            "script": 75036,
+            "text": "朝希は憎悪の塊だ……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450516.41c8e546",
+            "step": 1206,
+            "script": 75036,
+            "text": "これまでの彼女との会話では、\nそういった節は見受けられない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450608.f77a6afb",
+            "step": 1207,
+            "script": 75036,
+            "text": "だが、人間の心の奥底に潜む闇は\n暗く、そして深い。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450692.ef55bd3d",
+            "step": 1208,
+            "script": 75036,
+            "text": "普段、明るく笑顔を振りまいている人物が、\nその実、恐ろしい事件を引き起こすなんてことは、\n今の時代、驚くほどのことではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450856.823f7f41",
+            "step": 1209,
+            "script": 75036,
+            "text": "知らず知らずのうちに憎悪をつのらせ、\nついには爆発させる現実世界の怪物達。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，潜藏在人心深处的黑暗，既幽暗，又深邃。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4450692.ef55bd3d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"普段、明るく笑顔を振りまいている人物が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その実、恐ろしい事件を引き起こすなんてことは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今の時代、驚くほどのことではない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4450692",
+          "route": "remaining-70001-branches",
+          "trial": 26,
+          "step": 1208
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4450516.41c8e546",
+            "step": 1206,
+            "script": 75036,
+            "text": "これまでの彼女との会話では、\nそういった節は見受けられない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450608.f77a6afb",
+            "step": 1207,
+            "script": 75036,
+            "text": "だが、人間の心の奥底に潜む闇は\n暗く、そして深い。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450692.ef55bd3d",
+            "step": 1208,
+            "script": 75036,
+            "text": "普段、明るく笑顔を振りまいている人物が、\nその実、恐ろしい事件を引き起こすなんてことは、\n今の時代、驚くほどのことではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450856.823f7f41",
+            "step": 1209,
+            "script": 75036,
+            "text": "知らず知らずのうちに憎悪をつのらせ、\nついには爆発させる現実世界の怪物達。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450960.17fdfdf9",
+            "step": 1210,
+            "script": 75036,
+            "text": "朝希も仮面を被った怪物の一人だったわけだが、\nその狂気じみた純粋さは、彼の異常性を\n際立たせている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "平时开朗爱笑的人，实际上却制造了可怕的事件——在如今这个时代，已不是什么令人惊讶的事。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4450856.823f7f41",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"知らず知らずのうちに憎悪をつのらせ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ついには爆発させる現実世界の怪物達。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4450856",
+          "route": "remaining-70001-branches",
+          "trial": 26,
+          "step": 1209
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4450608.f77a6afb",
+            "step": 1207,
+            "script": 75036,
+            "text": "だが、人間の心の奥底に潜む闇は\n暗く、そして深い。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450692.ef55bd3d",
+            "step": 1208,
+            "script": 75036,
+            "text": "普段、明るく笑顔を振りまいている人物が、\nその実、恐ろしい事件を引き起こすなんてことは、\n今の時代、驚くほどのことではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450856.823f7f41",
+            "step": 1209,
+            "script": 75036,
+            "text": "知らず知らずのうちに憎悪をつのらせ、\nついには爆発させる現実世界の怪物達。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450960.17fdfdf9",
+            "step": 1210,
+            "script": 75036,
+            "text": "朝希も仮面を被った怪物の一人だったわけだが、\nその狂気じみた純粋さは、彼の異常性を\n際立たせている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不知不觉中积攒憎恨，最终爆发。这些现实世界里的怪物。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4450960.17fdfdf9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希も仮面を被った怪物の一人だったわけだが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その狂気じみた純粋さは、彼の異常性を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"際立たせている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4450960",
+          "route": "remaining-70001-branches",
+          "trial": 26,
+          "step": 1210
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4450692.ef55bd3d",
+            "step": 1208,
+            "script": 75036,
+            "text": "普段、明るく笑顔を振りまいている人物が、\nその実、恐ろしい事件を引き起こすなんてことは、\n今の時代、驚くほどのことではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450856.823f7f41",
+            "step": 1209,
+            "script": 75036,
+            "text": "知らず知らずのうちに憎悪をつのらせ、\nついには爆発させる現実世界の怪物達。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4450960.17fdfdf9",
+            "step": 1210,
+            "script": 75036,
+            "text": "朝希も仮面を被った怪物の一人だったわけだが、\nその狂気じみた純粋さは、彼の異常性を\n際立たせている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希也是其中一个戴着面具的怪物。而他那近乎疯狂的纯粹，更凸显了他的异常。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4436016.43844326",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希がレポートの題材を勧めた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それは事実だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4436016",
+          "route": "remaining-70001-branches",
+          "trial": 34,
+          "step": 1218
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4436016.43844326",
+            "step": 1218,
+            "script": 75033,
+            "text": "朝希がレポートの題材を勧めた。\nそれは事実だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436096.bc287158",
+            "step": 1219,
+            "script": 75033,
+            "text": "問題は、そこではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436144.5c94f5f3",
+            "step": 1220,
+            "script": 75033,
+            "text": "何故、彼女は私にＢ事件を題材にするよう\n勧めたのか、だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希向我推荐了报告题材。这是事实。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4436096.bc287158",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"問題は、そこではない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4436096",
+          "route": "remaining-70001-branches",
+          "trial": 34,
+          "step": 1219
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4436016.43844326",
+            "step": 1218,
+            "script": 75033,
+            "text": "朝希がレポートの題材を勧めた。\nそれは事実だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436096.bc287158",
+            "step": 1219,
+            "script": 75033,
+            "text": "問題は、そこではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436144.5c94f5f3",
+            "step": 1220,
+            "script": 75033,
+            "text": "何故、彼女は私にＢ事件を題材にするよう\n勧めたのか、だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436232.69afcc80",
+            "step": 1221,
+            "script": 75033,
+            "text": "そこには、おぞましいほど明快な\n朝希の歪んだ想いがあったはずだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "问题并不在这里。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4436144.5c94f5f3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"何故、彼女は私にＢ事件を題材にするよう\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"勧めたのか、だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4436144",
+          "route": "remaining-70001-branches",
+          "trial": 34,
+          "step": 1220
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4436016.43844326",
+            "step": 1218,
+            "script": 75033,
+            "text": "朝希がレポートの題材を勧めた。\nそれは事実だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436096.bc287158",
+            "step": 1219,
+            "script": 75033,
+            "text": "問題は、そこではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436144.5c94f5f3",
+            "step": 1220,
+            "script": 75033,
+            "text": "何故、彼女は私にＢ事件を題材にするよう\n勧めたのか、だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436232.69afcc80",
+            "step": 1221,
+            "script": 75033,
+            "text": "そこには、おぞましいほど明快な\n朝希の歪んだ想いがあったはずだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而在于，为什么朝希要建议我以B事件为题材。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75033:4436232.69afcc80",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そこには、おぞましいほど明快な\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"朝希の歪んだ想いがあったはずだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75033,
+          "page": "75033:4436232",
+          "route": "remaining-70001-branches",
+          "trial": 34,
+          "step": 1221
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75033:4436096.bc287158",
+            "step": 1219,
+            "script": 75033,
+            "text": "問題は、そこではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436144.5c94f5f3",
+            "step": 1220,
+            "script": 75033,
+            "text": "何故、彼女は私にＢ事件を題材にするよう\n勧めたのか、だ。",
+            "translation": null
+          },
+          {
+            "key": "page.75033:4436232.69afcc80",
+            "step": 1221,
+            "script": 75033,
+            "text": "そこには、おぞましいほど明快な\n朝希の歪んだ想いがあったはずだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那背后，应该藏着他那扭曲而又清晰得令人作呕的心意。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4552784.1580d20f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"かつて佐倉先輩と、狗山女学校時代に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ホルマリン漬けの少女の噂話を確かめに\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"行ったときのことだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4552784",
+          "route": "remaining-70001-branches",
+          "trial": 46,
+          "step": 1324
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4552784.1580d20f",
+            "step": 1324,
+            "script": 75045,
+            "text": "かつて佐倉先輩と、狗山女学校時代に\nホルマリン漬けの少女の噂話を確かめに\n行ったときのことだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552936.c781b2bb",
+            "step": 1325,
+            "script": 75045,
+            "text": "あの神隠し事件の真相の一つとして\n佐倉先輩が小杉先生の子供を妊娠していた\nという話が取り沙汰されたこともある。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4553084.81641735",
+            "step": 1326,
+            "script": 75045,
+            "text": "結果的に、佐倉先輩はあの神隠し事件で\n心の均衡を失い、いずこかへと消えた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那是在狗山女子高中时，我和佐仓学姐一起去查证『福尔马林中的少女』传闻的事。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4552936.c781b2bb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あの神隠し事件の真相の一つとして\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"佐倉先輩が小杉先生の子供を妊娠していた\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"という話が取り沙汰されたこともある。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4552936",
+          "route": "remaining-70001-branches",
+          "trial": 46,
+          "step": 1325
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4552784.1580d20f",
+            "step": 1324,
+            "script": 75045,
+            "text": "かつて佐倉先輩と、狗山女学校時代に\nホルマリン漬けの少女の噂話を確かめに\n行ったときのことだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552936.c781b2bb",
+            "step": 1325,
+            "script": 75045,
+            "text": "あの神隠し事件の真相の一つとして\n佐倉先輩が小杉先生の子供を妊娠していた\nという話が取り沙汰されたこともある。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4553084.81641735",
+            "step": 1326,
+            "script": 75045,
+            "text": "結果的に、佐倉先輩はあの神隠し事件で\n心の均衡を失い、いずこかへと消えた。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4553200.593ef3db",
+            "step": 1327,
+            "script": 75045,
+            "text": "そして、再び現れた佐倉先輩。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "关于那起神隐事件的真相，曾有一种说法，称佐仓学姐怀上了小杉老师的孩子。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4553084.81641735",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"結果的に、佐倉先輩はあの神隠し事件で\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"心の均衡を失い、いずこかへと消えた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4553084",
+          "route": "remaining-70001-branches",
+          "trial": 46,
+          "step": 1326
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4552784.1580d20f",
+            "step": 1324,
+            "script": 75045,
+            "text": "かつて佐倉先輩と、狗山女学校時代に\nホルマリン漬けの少女の噂話を確かめに\n行ったときのことだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552936.c781b2bb",
+            "step": 1325,
+            "script": 75045,
+            "text": "あの神隠し事件の真相の一つとして\n佐倉先輩が小杉先生の子供を妊娠していた\nという話が取り沙汰されたこともある。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4553084.81641735",
+            "step": 1326,
+            "script": 75045,
+            "text": "結果的に、佐倉先輩はあの神隠し事件で\n心の均衡を失い、いずこかへと消えた。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4553200.593ef3db",
+            "step": 1327,
+            "script": 75045,
+            "text": "そして、再び現れた佐倉先輩。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4553252.6f1250ab",
+            "step": 1328,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "最终，她在那起神隐事件中失去了精神上的平衡，不知所踪。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4553200.593ef3db",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そして、再び現れた佐倉先輩。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4553200",
+          "route": "remaining-70001-branches",
+          "trial": 46,
+          "step": 1327
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4552936.c781b2bb",
+            "step": 1325,
+            "script": 75045,
+            "text": "あの神隠し事件の真相の一つとして\n佐倉先輩が小杉先生の子供を妊娠していた\nという話が取り沙汰されたこともある。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4553084.81641735",
+            "step": 1326,
+            "script": 75045,
+            "text": "結果的に、佐倉先輩はあの神隠し事件で\n心の均衡を失い、いずこかへと消えた。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4553200.593ef3db",
+            "step": 1327,
+            "script": 75045,
+            "text": "そして、再び現れた佐倉先輩。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4553252.6f1250ab",
+            "step": 1328,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "然后，她又出现了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4553252.6f1250ab",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"一体、彼女はどうして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あのような姿になってしまったのだろうか……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4553252",
+          "route": "remaining-70001-branches",
+          "trial": 46,
+          "step": 1328
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4553084.81641735",
+            "step": 1326,
+            "script": 75045,
+            "text": "結果的に、佐倉先輩はあの神隠し事件で\n心の均衡を失い、いずこかへと消えた。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4553200.593ef3db",
+            "step": 1327,
+            "script": 75045,
+            "text": "そして、再び現れた佐倉先輩。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4553252.6f1250ab",
+            "step": 1328,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她究竟为什么，会变成那副模样……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4552368.bdf8e02b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"かつての佐倉先輩は、親友というよりも、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"面倒見がよく、頼りになる先輩という\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"感じだった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4552368",
+          "route": "remaining-70001-branches",
+          "trial": 47,
+          "step": 1327
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4552368.bdf8e02b",
+            "step": 1327,
+            "script": 75045,
+            "text": "かつての佐倉先輩は、親友というよりも、\n面倒見がよく、頼りになる先輩という\n感じだった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552496.3d5637c6",
+            "step": 1328,
+            "script": 75045,
+            "text": "しかし、今の先輩は……\nあれは、既にこの世のものではなかった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552592.6f1250ab",
+            "step": 1329,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "过去的佐仓学姐，与其说是挚友，更像一位体贴周到、值得依赖的前辈。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4552496.3d5637c6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし、今の先輩は……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あれは、既にこの世のものではなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4552496",
+          "route": "remaining-70001-branches",
+          "trial": 47,
+          "step": 1328
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4552368.bdf8e02b",
+            "step": 1327,
+            "script": 75045,
+            "text": "かつての佐倉先輩は、親友というよりも、\n面倒見がよく、頼りになる先輩という\n感じだった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552496.3d5637c6",
+            "step": 1328,
+            "script": 75045,
+            "text": "しかし、今の先輩は……\nあれは、既にこの世のものではなかった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552592.6f1250ab",
+            "step": 1329,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557460.b40d74f8",
+            "step": 1330,
+            "script": 75043,
+            "text": "言霊——\nこの話が本当ならば、Ｂ事件や佐倉先輩は\n私の言葉が現実に変化したということだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，如今的学姐……那已经不是这个世界上的存在了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4552592.6f1250ab",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"一体、彼女はどうして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あのような姿になってしまったのだろうか……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4552592",
+          "route": "remaining-70001-branches",
+          "trial": 47,
+          "step": 1329
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4552368.bdf8e02b",
+            "step": 1327,
+            "script": 75045,
+            "text": "かつての佐倉先輩は、親友というよりも、\n面倒見がよく、頼りになる先輩という\n感じだった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552496.3d5637c6",
+            "step": 1328,
+            "script": 75045,
+            "text": "しかし、今の先輩は……\nあれは、既にこの世のものではなかった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552592.6f1250ab",
+            "step": 1329,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557460.b40d74f8",
+            "step": 1330,
+            "script": 75043,
+            "text": "言霊——\nこの話が本当ならば、Ｂ事件や佐倉先輩は\n私の言葉が現実に変化したということだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557592.3ca98dae",
+            "step": 1331,
+            "script": 75043,
+            "text": "そして、それを鎮めてくれたのが、\nかつての親友・羽黒薫だった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她究竟为什么，会变成那副模样……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4557460.b40d74f8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"言霊———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この話が本当ならば、Ｂ事件や佐倉先輩は\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私の言葉が現実に変化したということだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4557460",
+          "route": "remaining-70001-branches",
+          "trial": 47,
+          "step": 1330
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4552496.3d5637c6",
+            "step": 1328,
+            "script": 75045,
+            "text": "しかし、今の先輩は……\nあれは、既にこの世のものではなかった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552592.6f1250ab",
+            "step": 1329,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557460.b40d74f8",
+            "step": 1330,
+            "script": 75043,
+            "text": "言霊——\nこの話が本当ならば、Ｂ事件や佐倉先輩は\n私の言葉が現実に変化したということだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557592.3ca98dae",
+            "step": 1331,
+            "script": 75043,
+            "text": "そして、それを鎮めてくれたのが、\nかつての親友・羽黒薫だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557684.d7bd959a",
+            "step": 1332,
+            "script": 75043,
+            "text": "どうして薫がこのことを知っていたのか？\nどうやってそれを鎮めてくれたのか？\nその裏に隠された真実を知る術は、\n今の私にはない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "言灵——如果这个说法是真的，那么B事件和佐仓学姐，就是我的话语化为了现实。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4557592.3ca98dae",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そして、それを鎮めてくれたのが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"かつての親友・羽黒薫だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4557592",
+          "route": "remaining-70001-branches",
+          "trial": 47,
+          "step": 1331
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4552592.6f1250ab",
+            "step": 1329,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557460.b40d74f8",
+            "step": 1330,
+            "script": 75043,
+            "text": "言霊——\nこの話が本当ならば、Ｂ事件や佐倉先輩は\n私の言葉が現実に変化したということだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557592.3ca98dae",
+            "step": 1331,
+            "script": 75043,
+            "text": "そして、それを鎮めてくれたのが、\nかつての親友・羽黒薫だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557684.d7bd959a",
+            "step": 1332,
+            "script": 75043,
+            "text": "どうして薫がこのことを知っていたのか？\nどうやってそれを鎮めてくれたのか？\nその裏に隠された真実を知る術は、\n今の私にはない。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557856.4a582abf",
+            "step": 1333,
+            "script": 75043,
+            "text": "だけど、例えそれが分からないままだったとしても、\nそれはそれでいいと思う。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而平息了这一切的人，是我曾经的挚友——羽黑薰。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4557684.d7bd959a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"どうして薫がこのことを知っていたのか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どうやってそれを鎮めてくれたのか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その裏に隠された真実を知る術は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今の私にはない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4557684",
+          "route": "remaining-70001-branches",
+          "trial": 47,
+          "step": 1332
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4557460.b40d74f8",
+            "step": 1330,
+            "script": 75043,
+            "text": "言霊——\nこの話が本当ならば、Ｂ事件や佐倉先輩は\n私の言葉が現実に変化したということだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557592.3ca98dae",
+            "step": 1331,
+            "script": 75043,
+            "text": "そして、それを鎮めてくれたのが、\nかつての親友・羽黒薫だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557684.d7bd959a",
+            "step": 1332,
+            "script": 75043,
+            "text": "どうして薫がこのことを知っていたのか？\nどうやってそれを鎮めてくれたのか？\nその裏に隠された真実を知る術は、\n今の私にはない。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557856.4a582abf",
+            "step": 1333,
+            "script": 75043,
+            "text": "だけど、例えそれが分からないままだったとしても、\nそれはそれでいいと思う。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557960.9284434f",
+            "step": 1334,
+            "script": 75043,
+            "text": "だって今の私の手には、失ったはずの親友との\n絆が確かにあるのだから——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "薰为什么会知道这些事？又是怎样平息这一切的？如今的我，无从得知背后的真相。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4557856.4a582abf",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だけど、例えそれが分からないままだったとしても、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それはそれでいいと思う。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4557856",
+          "route": "remaining-70001-branches",
+          "trial": 47,
+          "step": 1333
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4557592.3ca98dae",
+            "step": 1331,
+            "script": 75043,
+            "text": "そして、それを鎮めてくれたのが、\nかつての親友・羽黒薫だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557684.d7bd959a",
+            "step": 1332,
+            "script": 75043,
+            "text": "どうして薫がこのことを知っていたのか？\nどうやってそれを鎮めてくれたのか？\nその裏に隠された真実を知る術は、\n今の私にはない。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557856.4a582abf",
+            "step": 1333,
+            "script": 75043,
+            "text": "だけど、例えそれが分からないままだったとしても、\nそれはそれでいいと思う。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557960.9284434f",
+            "step": 1334,
+            "script": 75043,
+            "text": "だって今の私の手には、失ったはずの親友との\n絆が確かにあるのだから——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不过，即使一直不知道，我觉得也没关系。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4557960.9284434f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だって今の私の手には、失ったはずの親友との\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"絆が確かにあるのだから———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4557960",
+          "route": "remaining-70001-branches",
+          "trial": 47,
+          "step": 1334
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4557684.d7bd959a",
+            "step": 1332,
+            "script": 75043,
+            "text": "どうして薫がこのことを知っていたのか？\nどうやってそれを鎮めてくれたのか？\nその裏に隠された真実を知る術は、\n今の私にはない。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557856.4a582abf",
+            "step": 1333,
+            "script": 75043,
+            "text": "だけど、例えそれが分からないままだったとしても、\nそれはそれでいいと思う。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4557960.9284434f",
+            "step": 1334,
+            "script": 75043,
+            "text": "だって今の私の手には、失ったはずの親友との\n絆が確かにあるのだから——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "因为现在，我手中确实握着那条本以为已经失去的、与挚友之间的羁绊——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79211:4494068.bf1c9d9d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あのときの佐倉先輩からは強烈なまでの\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"憎悪が溢れていた。ただの憎悪の塊。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79211,
+          "page": "79211:4494068",
+          "route": "remaining-70001-branches",
+          "trial": 51,
+          "step": 1163
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79211:4494068.bf1c9d9d",
+            "step": 1163,
+            "script": 79211,
+            "text": "あのときの佐倉先輩からは強烈なまでの\n憎悪が溢れていた。ただの憎悪の塊。",
+            "translation": null
+          },
+          {
+            "key": "page.79211:4494172.95948e44",
+            "step": 1164,
+            "script": 79211,
+            "text": "憎しみの膿袋。そんな様相だった。\nあの変わり果てた姿に\nもはや高校時代の先輩の面影はなかった。\nいくら私がオカルトジャーナリスト志望とはいえ、",
+            "translation": null
+          },
+          {
+            "key": "page.79211:4494360.2b2dae9f",
+            "step": 1165,
+            "script": 79211,
+            "text": "あんなものが待ち構えている部屋に、\n一人でのこのこ戻れるわけがない。\nならば……誰か頼れる人が必要だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那时的佐仓学姐，浑身溢出强烈的憎恨。只是一团纯粹的恨意。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79211:4494172.95948e44",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"憎しみの膿袋。そんな様相だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あの変わり果てた姿に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"もはや高校時代の先輩の面影はなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いくら私がオカルトジャーナリスト志望とはいえ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79211,
+          "page": "79211:4494172",
+          "route": "remaining-70001-branches",
+          "trial": 51,
+          "step": 1164
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79211:4494068.bf1c9d9d",
+            "step": 1163,
+            "script": 79211,
+            "text": "あのときの佐倉先輩からは強烈なまでの\n憎悪が溢れていた。ただの憎悪の塊。",
+            "translation": null
+          },
+          {
+            "key": "page.79211:4494172.95948e44",
+            "step": 1164,
+            "script": 79211,
+            "text": "憎しみの膿袋。そんな様相だった。\nあの変わり果てた姿に\nもはや高校時代の先輩の面影はなかった。\nいくら私がオカルトジャーナリスト志望とはいえ、",
+            "translation": null
+          },
+          {
+            "key": "page.79211:4494360.2b2dae9f",
+            "step": 1165,
+            "script": 79211,
+            "text": "あんなものが待ち構えている部屋に、\n一人でのこのこ戻れるわけがない。\nならば……誰か頼れる人が必要だ。",
+            "translation": null
+          },
+          {
+            "key": "page.79211:4494500.91216a52",
+            "step": 1166,
+            "script": 79211,
+            "text": "そう結論付けた瞬間、\n私は手にしていた携帯を取り出して\n纯也君に電話をかけていた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "仿佛一个装满憎恨的脓囊。那副面目全非的模样，已经没有半点高中时的影子。就算我立志成为神秘现象记者，"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79211:4494360.2b2dae9f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あんなものが待ち構えている部屋に、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一人でのこのこ戻れるわけがない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ならば……誰か頼れる人が必要だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79211,
+          "page": "79211:4494360",
+          "route": "remaining-70001-branches",
+          "trial": 51,
+          "step": 1165
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79211:4494068.bf1c9d9d",
+            "step": 1163,
+            "script": 79211,
+            "text": "あのときの佐倉先輩からは強烈なまでの\n憎悪が溢れていた。ただの憎悪の塊。",
+            "translation": null
+          },
+          {
+            "key": "page.79211:4494172.95948e44",
+            "step": 1164,
+            "script": 79211,
+            "text": "憎しみの膿袋。そんな様相だった。\nあの変わり果てた姿に\nもはや高校時代の先輩の面影はなかった。\nいくら私がオカルトジャーナリスト志望とはいえ、",
+            "translation": null
+          },
+          {
+            "key": "page.79211:4494360.2b2dae9f",
+            "step": 1165,
+            "script": 79211,
+            "text": "あんなものが待ち構えている部屋に、\n一人でのこのこ戻れるわけがない。\nならば……誰か頼れる人が必要だ。",
+            "translation": null
+          },
+          {
+            "key": "page.79211:4494500.91216a52",
+            "step": 1166,
+            "script": 79211,
+            "text": "そう結論付けた瞬間、\n私は手にしていた携帯を取り出して\n纯也君に電話をかけていた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也不可能独自大摇大摆地回到那东西可能还在等着我的房间。那么……我需要一个能依靠的人。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79211:4494500.91216a52",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そう結論付けた瞬間、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私は手にしていた携帯を取り出して\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"{name:1}\",\"color\":0,\"size\":0,\"name\":1},{\"text\":\"君に電話をかけていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79211,
+          "page": "79211:4494500",
+          "route": "remaining-70001-branches",
+          "trial": 51,
+          "step": 1166
+        },
+        "requiredRefs": [
+          {
+            "ref": 4,
+            "text": "{name:1}",
+            "color": 0,
+            "size": 0,
+            "name": 1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79211:4494172.95948e44",
+            "step": 1164,
+            "script": 79211,
+            "text": "憎しみの膿袋。そんな様相だった。\nあの変わり果てた姿に\nもはや高校時代の先輩の面影はなかった。\nいくら私がオカルトジャーナリスト志望とはいえ、",
+            "translation": null
+          },
+          {
+            "key": "page.79211:4494360.2b2dae9f",
+            "step": 1165,
+            "script": 79211,
+            "text": "あんなものが待ち構えている部屋に、\n一人でのこのこ戻れるわけがない。\nならば……誰か頼れる人が必要だ。",
+            "translation": null
+          },
+          {
+            "key": "page.79211:4494500.91216a52",
+            "step": 1166,
+            "script": 79211,
+            "text": "そう結論付けた瞬間、\n私は手にしていた携帯を取り出して\n纯也君に電話をかけていた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "得出这个结论的瞬间，我便拿起手机，拨通了"
+            },
+            {
+              "ref": 4
+            },
+            {
+              "text": "的电话。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4449000.926a5b52",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"以前に朝希自身が教えてくれた、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"人と関わりを持たない理由。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4449000",
+          "route": "remaining-70001-branches",
+          "trial": 56,
+          "step": 1202
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449000.926a5b52",
+            "step": 1202,
+            "script": 75036,
+            "text": "以前に朝希自身が教えてくれた、\n人と関わりを持たない理由。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449092.b1a3104e",
+            "step": 1203,
+            "script": 75036,
+            "text": "その根幹は訛りが直らず、\nいじめにあった過去にあった。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449176.c3620f3a",
+            "step": 1204,
+            "script": 75036,
+            "text": "だが、それもこれも、\n全ては嘘だったのだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "以前，朝希曾亲口告诉我，不愿与人来往的理由。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4449092.b1a3104e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"その根幹は訛りが直らず、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いじめにあった過去にあった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4449092",
+          "route": "remaining-70001-branches",
+          "trial": 56,
+          "step": 1203
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449000.926a5b52",
+            "step": 1202,
+            "script": 75036,
+            "text": "以前に朝希自身が教えてくれた、\n人と関わりを持たない理由。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449092.b1a3104e",
+            "step": 1203,
+            "script": 75036,
+            "text": "その根幹は訛りが直らず、\nいじめにあった過去にあった。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449176.c3620f3a",
+            "step": 1204,
+            "script": 75036,
+            "text": "だが、それもこれも、\n全ては嘘だったのだ……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449252.f11fb4fe",
+            "step": 1205,
+            "script": 75036,
+            "text": "これまで朝希と交わしてきたメール——\n私の支えになっていたものが\n急に薄っぺらいものに感じられてくる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "根源在于无法改掉的口音，以及因此遭受欺凌的过去。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4449176.c3620f3a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、それもこれも、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"全ては嘘だったのだ……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4449176",
+          "route": "remaining-70001-branches",
+          "trial": 56,
+          "step": 1204
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449000.926a5b52",
+            "step": 1202,
+            "script": 75036,
+            "text": "以前に朝希自身が教えてくれた、\n人と関わりを持たない理由。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449092.b1a3104e",
+            "step": 1203,
+            "script": 75036,
+            "text": "その根幹は訛りが直らず、\nいじめにあった過去にあった。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449176.c3620f3a",
+            "step": 1204,
+            "script": 75036,
+            "text": "だが、それもこれも、\n全ては嘘だったのだ……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449252.f11fb4fe",
+            "step": 1205,
+            "script": 75036,
+            "text": "これまで朝希と交わしてきたメール——\n私の支えになっていたものが\n急に薄っぺらいものに感じられてくる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可原来，这一切都是谎言……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75036:4449252.f11fb4fe",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"これまで朝希と交わしてきたメール———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私の支えになっていたものが\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"急に薄っぺらいものに感じられてくる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75036,
+          "page": "75036:4449252",
+          "route": "remaining-70001-branches",
+          "trial": 56,
+          "step": 1205
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75036:4449092.b1a3104e",
+            "step": 1203,
+            "script": 75036,
+            "text": "その根幹は訛りが直らず、\nいじめにあった過去にあった。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449176.c3620f3a",
+            "step": 1204,
+            "script": 75036,
+            "text": "だが、それもこれも、\n全ては嘘だったのだ……。",
+            "translation": null
+          },
+          {
+            "key": "page.75036:4449252.f11fb4fe",
+            "step": 1205,
+            "script": 75036,
+            "text": "これまで朝希と交わしてきたメール——\n私の支えになっていたものが\n急に薄っぺらいものに感じられてくる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那些至今与朝希往来的邮件——曾经支撑着我的东西，突然显得无比单薄。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4551984.1eb8663e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"かつての佐倉先輩は、ちょっとボーイッシュで\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"面倒見のいい、頼りになる先輩だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4551984",
+          "route": "remaining-70001-branches",
+          "trial": 77,
+          "step": 1327
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4551984.1eb8663e",
+            "step": 1327,
+            "script": 75045,
+            "text": "かつての佐倉先輩は、ちょっとボーイッシュで\n面倒見のいい、頼りになる先輩だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552096.8b202f74",
+            "step": 1328,
+            "script": 75045,
+            "text": "しかし、今の先輩は……\n偏屈などという次元の問題ではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552188.c5e9b85c",
+            "step": 1329,
+            "script": 75045,
+            "text": "あれは、既にこの世のものではなかった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "以前的佐仓学姐有点男孩子气，体贴周到，是位值得依赖的前辈。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4552096.8b202f74",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし、今の先輩は……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"偏屈などという次元の問題ではない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4552096",
+          "route": "remaining-70001-branches",
+          "trial": 77,
+          "step": 1328
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4551984.1eb8663e",
+            "step": 1327,
+            "script": 75045,
+            "text": "かつての佐倉先輩は、ちょっとボーイッシュで\n面倒見のいい、頼りになる先輩だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552096.8b202f74",
+            "step": 1328,
+            "script": 75045,
+            "text": "しかし、今の先輩は……\n偏屈などという次元の問題ではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552188.c5e9b85c",
+            "step": 1329,
+            "script": 75045,
+            "text": "あれは、既にこの世のものではなかった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552252.6f1250ab",
+            "step": 1330,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可如今的学姐……已经不是古怪这种程度的问题了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4552188.c5e9b85c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あれは、既にこの世のものではなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4552188",
+          "route": "remaining-70001-branches",
+          "trial": 77,
+          "step": 1329
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4551984.1eb8663e",
+            "step": 1327,
+            "script": 75045,
+            "text": "かつての佐倉先輩は、ちょっとボーイッシュで\n面倒見のいい、頼りになる先輩だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552096.8b202f74",
+            "step": 1328,
+            "script": 75045,
+            "text": "しかし、今の先輩は……\n偏屈などという次元の問題ではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552188.c5e9b85c",
+            "step": 1329,
+            "script": 75045,
+            "text": "あれは、既にこの世のものではなかった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552252.6f1250ab",
+            "step": 1330,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那已经不是这个世界上的存在。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4552252.6f1250ab",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"一体、彼女はどうして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あのような姿になってしまったのだろうか……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4552252",
+          "route": "remaining-70001-branches",
+          "trial": 77,
+          "step": 1330
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4552096.8b202f74",
+            "step": 1328,
+            "script": 75045,
+            "text": "しかし、今の先輩は……\n偏屈などという次元の問題ではない。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552188.c5e9b85c",
+            "step": 1329,
+            "script": 75045,
+            "text": "あれは、既にこの世のものではなかった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4552252.6f1250ab",
+            "step": 1330,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她究竟为什么，会变成那副模样……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4551364.1b44b9c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"訛り———というより、あの佐倉先輩の声は\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"地獄の底から響く死者の雄叫びに近かった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4551364",
+          "route": "remaining-70001-branches",
+          "trial": 99,
+          "step": 1321
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4551364.1b44b9c",
+            "step": 1321,
+            "script": 75045,
+            "text": "訛り——というより、あの佐倉先輩の声は\n地獄の底から響く死者の雄叫びに近かった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551488.acadfa98",
+            "step": 1322,
+            "script": 75045,
+            "text": "かつて狗山女学校時代にホルマリン漬けの少女の\n噂話を確かめに行った際、佐倉先輩は自らの\n心を失い、いずこかへ消えてしまった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551648.c75be9b0",
+            "step": 1323,
+            "script": 75045,
+            "text": "そうして、あれから何年経過したのだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "与其说是口音，佐仓学姐的声音，更像是从地狱深处传来的死者嘶吼。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4551488.acadfa98",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"かつて狗山女学校時代にホルマリン漬けの少女の\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"噂話を確かめに行った際、佐倉先輩は自らの\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"心を失い、いずこかへ消えてしまった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4551488",
+          "route": "remaining-70001-branches",
+          "trial": 99,
+          "step": 1322
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4551364.1b44b9c",
+            "step": 1321,
+            "script": 75045,
+            "text": "訛り——というより、あの佐倉先輩の声は\n地獄の底から響く死者の雄叫びに近かった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551488.acadfa98",
+            "step": 1322,
+            "script": 75045,
+            "text": "かつて狗山女学校時代にホルマリン漬けの少女の\n噂話を確かめに行った際、佐倉先輩は自らの\n心を失い、いずこかへ消えてしまった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551648.c75be9b0",
+            "step": 1323,
+            "script": 75045,
+            "text": "そうして、あれから何年経過したのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551724.d69247b5",
+            "step": 1324,
+            "script": 75045,
+            "text": "今の佐倉先輩は学生時代の面影などなく、\nもはや彼女が佐倉先輩であるのかすらも\n判別出来ない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "在狗山女子高中时，我们曾去查证『福尔马林中的少女』的传闻。那时，学姐失去了理智，消失得无影无踪。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4551648.c75be9b0",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そうして、あれから何年経過したのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4551648",
+          "route": "remaining-70001-branches",
+          "trial": 99,
+          "step": 1323
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4551364.1b44b9c",
+            "step": 1321,
+            "script": 75045,
+            "text": "訛り——というより、あの佐倉先輩の声は\n地獄の底から響く死者の雄叫びに近かった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551488.acadfa98",
+            "step": 1322,
+            "script": 75045,
+            "text": "かつて狗山女学校時代にホルマリン漬けの少女の\n噂話を確かめに行った際、佐倉先輩は自らの\n心を失い、いずこかへ消えてしまった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551648.c75be9b0",
+            "step": 1323,
+            "script": 75045,
+            "text": "そうして、あれから何年経過したのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551724.d69247b5",
+            "step": 1324,
+            "script": 75045,
+            "text": "今の佐倉先輩は学生時代の面影などなく、\nもはや彼女が佐倉先輩であるのかすらも\n判別出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551856.6f1250ab",
+            "step": 1325,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "自那以后，已经过去多少年了呢。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4551724.d69247b5",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"今の佐倉先輩は学生時代の面影などなく、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"もはや彼女が佐倉先輩であるのかすらも\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"判別出来ない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4551724",
+          "route": "remaining-70001-branches",
+          "trial": 99,
+          "step": 1324
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4551488.acadfa98",
+            "step": 1322,
+            "script": 75045,
+            "text": "かつて狗山女学校時代にホルマリン漬けの少女の\n噂話を確かめに行った際、佐倉先輩は自らの\n心を失い、いずこかへ消えてしまった。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551648.c75be9b0",
+            "step": 1323,
+            "script": 75045,
+            "text": "そうして、あれから何年経過したのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551724.d69247b5",
+            "step": 1324,
+            "script": 75045,
+            "text": "今の佐倉先輩は学生時代の面影などなく、\nもはや彼女が佐倉先輩であるのかすらも\n判別出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551856.6f1250ab",
+            "step": 1325,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "如今的她已经毫无学生时代的模样，甚至无法分辨，那究竟还是不是佐仓学姐。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4551856.6f1250ab",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"一体、彼女はどうして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あのような姿になってしまったのだろうか……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4551856",
+          "route": "remaining-70001-branches",
+          "trial": 99,
+          "step": 1325
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4551648.c75be9b0",
+            "step": 1323,
+            "script": 75045,
+            "text": "そうして、あれから何年経過したのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551724.d69247b5",
+            "step": 1324,
+            "script": 75045,
+            "text": "今の佐倉先輩は学生時代の面影などなく、\nもはや彼女が佐倉先輩であるのかすらも\n判別出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.75045:4551856.6f1250ab",
+            "step": 1325,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她究竟为什么，会变成那副模样……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4559200.3e867f43",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"『人の想像や妄想は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"時に様々なものに命を与える……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"例え実体のないものでもね』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4559200",
+          "route": "remaining-70001-branches",
+          "trial": 120,
+          "step": 1321
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4559200.3e867f43",
+            "step": 1321,
+            "script": 75043,
+            "text": "『人の想像や妄想は、\n時に様々なものに命を与える……\n例え実体のないものでもね』",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559340.6dd91e96",
+            "step": 1322,
+            "script": 75043,
+            "text": "つまりこれは、私が流した噂話に『魂』が宿って\n人の心に根付き、実体のないものを\n現実のものとして存在させてしまうということだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559504.dd830798",
+            "step": 1323,
+            "script": 75043,
+            "text": "薫は事件を解決してくれるだけでなく、\n私がもう間違いを犯さないように、\nこのことを教えてくれた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "『人的想象与妄念，有时会赋予各种事物生命……哪怕是没有实体的东西。』"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4559340.6dd91e96",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"つまりこれは、私が流した噂話に『魂』が宿って\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"人の心に根付き、実体のないものを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"現実のものとして存在させてしまうということだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4559340",
+          "route": "remaining-70001-branches",
+          "trial": 120,
+          "step": 1322
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4559200.3e867f43",
+            "step": 1321,
+            "script": 75043,
+            "text": "『人の想像や妄想は、\n時に様々なものに命を与える……\n例え実体のないものでもね』",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559340.6dd91e96",
+            "step": 1322,
+            "script": 75043,
+            "text": "つまりこれは、私が流した噂話に『魂』が宿って\n人の心に根付き、実体のないものを\n現実のものとして存在させてしまうということだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559504.dd830798",
+            "step": 1323,
+            "script": 75043,
+            "text": "薫は事件を解決してくれるだけでなく、\n私がもう間違いを犯さないように、\nこのことを教えてくれた。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559656.c79ea533",
+            "step": 1324,
+            "script": 75043,
+            "text": "出来れば今すぐに再会して、\n精一杯感謝の気持ちを伝えたい。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也就是说，我散播的传闻寄宿了『灵魂』，在人心中扎根，让没有实体的东西，成为现实中的存在。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4559504.dd830798",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"薫は事件を解決してくれるだけでなく、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私がもう間違いを犯さないように、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"このことを教えてくれた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4559504",
+          "route": "remaining-70001-branches",
+          "trial": 120,
+          "step": 1323
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4559200.3e867f43",
+            "step": 1321,
+            "script": 75043,
+            "text": "『人の想像や妄想は、\n時に様々なものに命を与える……\n例え実体のないものでもね』",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559340.6dd91e96",
+            "step": 1322,
+            "script": 75043,
+            "text": "つまりこれは、私が流した噂話に『魂』が宿って\n人の心に根付き、実体のないものを\n現実のものとして存在させてしまうということだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559504.dd830798",
+            "step": 1323,
+            "script": 75043,
+            "text": "薫は事件を解決してくれるだけでなく、\n私がもう間違いを犯さないように、\nこのことを教えてくれた。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559656.c79ea533",
+            "step": 1324,
+            "script": 75043,
+            "text": "出来れば今すぐに再会して、\n精一杯感謝の気持ちを伝えたい。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559748.a09715fe",
+            "step": 1325,
+            "script": 75043,
+            "text": "けど、そんな無粋な真似は止めておこう。\nもう、私と薫の絆は途切れたりすることは\nないのだから——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "薰不仅替我解决了事件，还告诉我这个道理，免得我再次犯错。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4559656.c79ea533",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"出来れば今すぐに再会して、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"精一杯感謝の気持ちを伝えたい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4559656",
+          "route": "remaining-70001-branches",
+          "trial": 120,
+          "step": 1324
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4559340.6dd91e96",
+            "step": 1322,
+            "script": 75043,
+            "text": "つまりこれは、私が流した噂話に『魂』が宿って\n人の心に根付き、実体のないものを\n現実のものとして存在させてしまうということだ。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559504.dd830798",
+            "step": 1323,
+            "script": 75043,
+            "text": "薫は事件を解決してくれるだけでなく、\n私がもう間違いを犯さないように、\nこのことを教えてくれた。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559656.c79ea533",
+            "step": 1324,
+            "script": 75043,
+            "text": "出来れば今すぐに再会して、\n精一杯感謝の気持ちを伝えたい。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559748.a09715fe",
+            "step": 1325,
+            "script": 75043,
+            "text": "けど、そんな無粋な真似は止めておこう。\nもう、私と薫の絆は途切れたりすることは\nないのだから——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "如果可以，我真想现在就见到她，尽全力表达感谢。"
+            }
+          ]
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

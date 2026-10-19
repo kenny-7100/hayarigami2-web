@@ -1,0 +1,383 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 70001,
+    "title": "由香篇 · 作られた都市伝説",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 3242,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "definitions.104",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "江戸時代の天海僧正は江戸に風水的な仕掛け\nをはりめぐらし、都を守ったといわれている。\nそれと同じく、明治、大正の政治家も鉄道の路線\nを利用して、東京に大掛かりな陰陽道の呪術を\n仕掛けたという。 山の手線は、都内を走る環状線\nであり、中央線はそれを真っ二つに割る形で通過\nしている路線だ。 中央線は新宿を出発し東京に\n着く路線であるが真っ直ぐになっているわけでは\nなく、下へ上へと蛇行した形をとっている。\n\nしたがって、これらの路線図を上から見てみると、\n陰陽説における太極図の形そのものになる。\nそして陽の気の中の陰に当たる場所にあるのが\n皇居で、陰の中の陽にあたる部分が新宿の\n歌舞伎町になる。 また、陽の部分が山の手で、\n陰の部分が下町といわれる場所になる。\n\n中央線には高尾山からの気を東京の中心に運ぶ\nという役割があり、成田線と総武線は成田山の気\nを、つい先日に開通したつくばエクスプレスは新た\nに筑波山の気を東京に運ぶようになったという。\n\n東京の繁栄が陰陽道の呪術によってコントロール\nされているというのは、あながち考えすぎでもない\nのかもしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据说，江户时代的天海僧正曾在江户布置风水格局，守护都城。同样，也有说法称，明治、大正时期的政治家利用铁路路线，在东京布下了庞大的阴阳道术式。山手线是市内的环线，中央线则像是将它一分为二地穿过。中央线从新宿通往东京站，却并非笔直，而是上下蜿蜒。\n\n因此，从上方看线路图，便像阴阳学说中的太极图。传说中，阳中之阴的位置是皇居，阴中之阳的位置是新宿歌舞伎町；阳的部分对应山手，阴的部分则是所谓的下町。\n\n按这一说法，中央线负责将高尾山的『气』送往东京中心，成田线与总武线输送成田山的『气』；原作写作时刚开通不久的筑波快线，又开始把筑波山的『气』引入东京。\n\n东京的繁荣受到阴阳道咒术控制——这样的猜想，也许未必全是多虑。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.197",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "耳たぶを食いちぎる女",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "咬掉耳垂的女人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.197",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ある女の子が、東京は渋谷のスペイン坂付近を\n歩いていたときのことだ。 背後から突然「ねえ、\nピアスしてる？」と問いかけられた。 振り向くと\n自分と同年齢くらいの少女が立っていた。\n伏し目がちで、顔を上げようとしない彼女に、\n訝りながらも「ピアスはしてますよ」と答えた。\nすると伏し目がちだった少女が突然、女の子\nに飛びついてきて耳たぶにかぶりつき、ピアス\nごと引きちぎってしまったのだ。 少女はちぎった\n耳をくわえたままどこかへ行ってしまった。\nそう、この少女こそ、耳たぶの穴から出ている\n白い糸が視神経と知らず、引っ張り出し\n失明してしまったという、都市伝説の本人\nなのである。\n\n「ピアス（耳たぶ）の白い糸」と呼ばれる都市\n伝説の派生バージョンであるが、そのさらに\n派生バージョンとして、ピアスのしすぎで耳が\n腐ってしまったという話も存在するという。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一个女孩走在东京涩谷西班牙坂附近时，背后突然有人问：『喂，你戴耳环吗？』回头一看，是个年纪相仿的少女。对方低垂着眼睛，不肯抬头。女孩虽然疑惑，还是回答：『戴啊。』\n\n少女突然扑上来，咬住她的耳垂，连同耳环一起扯了下来。随后，少女含着那块耳垂，不知去了哪里。原来，她正是另一则都市传说中的人物：不知道耳洞里冒出的白线是视神经，将它拉出来，结果失明的那个少女。\n\n这是名为『耳洞里的白线』的都市传说的衍生版本。据说还有进一步的变体，讲的是因打了太多耳洞，耳朵最终腐烂的故事。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.112",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "線香",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "线香"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.112",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "かつては体臭や室内の臭気を消す為に\n香は盛んに用いられた。 現在は宗教的\n意味合いが強く、香のかおりが俗なる不浄な\n匂いを消し、香を手にする人の身体を清浄\nにし、心を厳かにし、邪念を払うからである\nといわれる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "过去，人们经常使用香来遮盖体味和室内异味。如今，它更多带有宗教意义。据说，香气能够驱除尘世不洁的气味，净化持香者的身体，使心境庄严，并排除杂念。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.181",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "夢にまつわる都市伝説",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "与梦有关的都市传说"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.181",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "夢の中で見知らぬ男性に追いかけられ、斧で\n殺されそうになった女性がいた。 数年後、\n現実の世界で同じような目に遭い、かつて\n見た夢を思い出した女性は、家族に電話し\n何とか逃げ切る。 そのとき男性が「夢と違う\nじゃねえか」と呟き、去っていったという。\n追いかける男性の服装が夢と異なり、女性が\n安堵したところを襲うバージョンもある。\n背中を刺された女性が「夢と違う……」と呟くと、\n男は「着替えてきたんだよ」と答えたという。\n\nまた、スーパーマンや映画に出てくるヒーロー達\nに憧れ、夢を抱く少年達にも都市伝説は\nひそんでいる。 彼らは空を飛ぶ夢を見て、\n本当に飛べるのではないかと、実際に窓から\n飛んで怪我をしてしまったり、亡くなって\nしまうという事故が報告されている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "曾有一个女人，梦见自己被陌生男人追赶，险些遭斧头杀害。几年后，她在现实中遇到了相似的情形。想起从前的梦，她给家人打电话，终于逃脱。男人据说低声说了句『和梦里不一样啊』，便离开了。\n\n还有一个版本：追赶者穿的衣服与梦里不同，女人刚松一口气，就遭到袭击。她背部被刺中，低语『和梦里不一样……』，男人则回答：『我换了衣服啊。』\n\n此外，那些憧憬超人或电影英雄、怀抱梦想的少年身边，也潜伏着都市传说。据说，有人在梦见飞翔后，觉得自己也许真的能飞，竟从窗户跃下，造成受伤乃至死亡的事故。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.117",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "水死体",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "溺水尸体"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.117",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "溺水吸引、呼吸困難、咳発作、窒息痙攣\nなどを経て呼吸停止の状態となる。\n水中では一般に頭、腕、膝つま先を下垂させて\n漂うことになる。 したがって長い間水中にいると、\n頭部に強い死斑及び浮腫が生ずる。\n水の流れに流されると頭部手背、足、\nつま先が海底や砂で擦れて損傷が起こり\n流れが強いと頭蓋骨が削り取られ、\n脳が流れでてしまう。\n\n水死体で有名な都市伝説は朝の生番組中に\n中継地の背後の池に水死体が浮かんでいた\nという事件であろう。 時間の経過とともに\n語り継がれる中で、嘘か真か、その事実性が\nぼやけてしまっている。 だがこれは紛れもない\n実際にあった話———とここで断言すること\nこそが、この都市伝説の拡散に貢献しているの\nかもしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "原作对溺水过程的描述是：吸入水、呼吸困难、剧烈咳嗽、窒息性痉挛，最终停止呼吸。尸体在水中通常以头部、手臂、膝部和脚尖下垂的姿势漂浮。因此，长时间浸泡时，头部可能出现明显尸斑与水肿。被水流冲走后，头部、手背、脚和脚尖可能与水底或沙砾摩擦而受损；强烈水流甚至可能磨损颅骨，造成脑组织流失。\n\n与溺水尸体有关的著名都市传说，是某个早间直播节目中，外景记者身后的池塘里竟漂着一具尸体。随着时间流逝，故事不断被转述，是真是假也逐渐模糊。不过，这毫无疑问是真实发生过的事——也许，正是在这里如此断言的行为，本身又为这则都市传说的扩散出了一份力。"
+        },
+        "notes": "保留法医描述及末段都市传说的自我反思，首段标明原作叙述，避免当成全面的现代溺水诊断标准。"
+      },
+      {
+        "key": "terms.145",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "地下下水道のペット",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "地下排水道里的宠物"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.145",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "都会の下水道には、元々ペットとして飼われて\nいたが、飼いきれずに捨てられたワニが住み\n着いているという。 しかも、日の光のあたらない\n下水溝の中でネズミなどを食べて成長し、\n数世代交配した結果、色がすっかり落ちて\n白くなったという都市伝説。\nかつ、下水道に住み着いたホームレスが\nワニの餌食になっているというらしい。\nこの伝説は元々ニューヨークが起源である\nらしく、ＮＹ出身者にはおなじみの話らしい。\nまことしやかに語られる話だが、どうやらただの\n都市伝説の域を出ないようだ。 それというのも\nニューヨークの厳しい気象環境にある。 冬の\n寒さはとても厳しく、変温動物であるワニが冬を\n越すことは出来ないだろう。\nだが、都市伝説を裏付けるわけではないが、\n実際に下水道でワニが発見された事実は\nあるのだ。\n日本にも似た事例がある。 １９９３年、東京都\n練馬区の石神井公園にてワニが出たとして、\n大報道がされた。 警察は一時公園を封鎖して\n捕獲しようと試みたが、結局そのワニが発見\nされることはなかった。 しかしその後、下流に\nおいてワニの死骸が見つかったのである。\n日米問わず、このような事態が発生するのは他\nならぬ、飼いきれないとして捨てた人のエゴが\n絡んでいる。 ペットとして珍獣を飼うのはいいが、\nその責任は最後まで持つべきなのは\n言うまでもない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据说，城市下水道里住着原本作为宠物饲养、后来因无力照顾而遭遗弃的鳄鱼。它们在不见阳光的地下捕食老鼠，繁衍几代后，颜色完全褪去，变成了白色。还有传闻称，住在下水道里的无家可归者，成了鳄鱼的猎物。\n\n这则都市传说似乎起源于纽约，对纽约人而言很熟悉。虽然讲得煞有介事，看来仍未超出都市传说的范畴。原因之一，是纽约严酷的气候：冬天非常寒冷，身为变温动物的鳄鱼，很难熬过去。\n\n不过，虽不足以证明整则传说，确实有过在下水道发现鳄鱼的事件。日本也有相似事例。1993年，东京都练马区石神井公园传出鳄鱼目击消息，媒体大幅报道。警方一度封锁公园，试图捕获，却始终没有找到。后来，却在下游发现了鳄鱼尸体。\n\n不论日本还是美国，这类事情的背后，都牵涉到因养不下去便擅自遗弃动物的自私。饲养珍稀动物作为宠物，当然也必须承担照顾到最后的责任。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.116",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "鏡",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "镜子"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.116",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "真夜中の十二時、鏡の前に立ち、もう一つ\n鏡を後ろに置いて、合わせ鏡にすると\n前の鏡に未来の結婚相手の顔が映る。\n同じく夜中の十二時に、三面鏡に顔を\n映して出た七番目の顔は死に顔。\nその顔だけは目を瞑っている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "午夜十二点，站在镜子前，再在身后放一面镜子，使两镜相对。据说，前面的镜子里，就会映出未来结婚对象的脸。\n\n同样是在午夜十二点，用三面镜映照自己的脸，出现的第七张脸，就是自己的死相。只有那张脸，闭着眼睛。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.171",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "サイコパス",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "精神病态者"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.171",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "精神病質。 背徳症や変質者概念などに由来。\nかつて精神医学者の間で\n広く用いられていた概念。\nただし、その意味内容は歴史的にも\n学派の立場によっても大きな相違がある。\n\n①精神病と正常の中間状態を示す\n\n②病気とは関係なく人格が正常から\n逸脱した状態。\n\nエド・ゲイン、エドモンド・エミル・ケイパー、\nデヴィッド・バーコウィッツなど殺害後の\n遺体と調理、加工する例が印象的だが、\n殺害の過程にもスポットが当てられ日本でも\n多くのサイコパスの疑いが見受けられる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "精神病态。源于道德失常、人格变异等旧有概念，曾被精神医学界广泛使用。不过，它的具体含义随历史时期及学派立场不同，有很大差异。原作列举的旧定义包括：\n\n①介于精神疾病与正常状态之间的状态。\n②与疾病无关、人格偏离所谓正常范围的状态。\n\n原作随后举出埃德·盖恩、埃德蒙·埃米尔·肯珀、大卫·伯科维茨等犯罪者，并谈到杀害后烹煮、加工遗体的骇人案例。它也指出，关注点还包括杀人过程，并认为日本同样存在许多疑似案例。此处呈现的是原作对这一历史概念的介绍。"
+        },
+        "notes": "对应正文サイコパス，译为精神病态者；原作将多名罪犯与遗体加工并置，未逐人核实，不补造具体行为。保留旧概念两项定义并明确历史来源，不视作当代诊断标准。"
+      },
+      {
+        "key": "terms.147",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "皮膚呼吸",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "皮肤呼吸"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.147",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "金粉を身体に塗ると窒息死するという都市伝\n説。 金粉を身体に塗ってしまうと、数分、数十分\nで皮膚呼吸が出来なくなってしまい窒息死する\nという。 これで亡くなってしまった若手芸人\nがいるが、ＴＶ局側は原因を明かさなかった。\n\n人間の皮膚呼吸が呼吸全体に占める割合は\n１％以下。 つまり、通常のように口や鼻から\n呼吸出来ていれば、窒息死することはない。\n映画００７でボンドガールが金粉姿で死亡する\nシーンが話題になったことより、この都市伝説\nが生まれたと思われる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "有则都市传说称，把金粉涂满全身，会让人在几分钟或几十分钟内无法进行皮肤呼吸，最终窒息而死。传闻还说，一名年轻艺人因此丧命，电视台却没有公开死因。\n\n然而，人类皮肤呼吸所占的比例不到整体的1%。只要仍能正常通过口鼻呼吸，就不会因为所谓『皮肤无法呼吸』而窒息。电影《007》中，邦女郎浑身涂着金粉死去的场景曾引发热议，这则都市传说很可能由此而来。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.185",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ミーム",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "模因"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.185",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "人間の文化情報の伝達単位をミームという。\n人の脳から脳へと文化情報が伝達すること\nを指す。 また、生物が遺伝情報を子孫に\n伝える単位は遺伝子と呼ばれる。\n\nミームという単語を作ったのは、オックスフォード\n大学の生物学者、リチャード・ドーキンスである。\n生命の進化が遺伝子であるなら、\nミームは文化の進化と言える。\nその起源は数万年前にあると考えられている。\n\n人が自分以外の人に何かを伝えるとき、\n例えばこの文章を読み、ミームについて\n何かしらの情報を得たとする。 その時点で\nあなたの中にまたひとつ、ミームという\n文化情報が増えたことになるのである。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人类文化信息的传递单位，称为模因。它涉及文化信息从一个人的头脑传播到另一个人的头脑。与此相对，生物向后代传递遗传信息的单位，称为基因。\n\n『模因』这个词由牛津大学生物学家理查德·道金斯创造。如果说基因与生命进化有关，那么模因便与文化进化有关。人们认为，它的起源可以追溯到数万年前。\n\n当一个人向他人传达某种东西时，模因便在传播。例如，你读到这篇文字，获得了有关模因的信息。那么，就在这一刻，你的头脑里又多了一份名为『模因』的文化信息。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.119",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "子供を宿したまま死んだ女",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "怀着孩子死去的女人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.119",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "身ごもったまま死んだ女をウブメという。\n鳥型の形をした怪異である。 死んだ妊婦を\nそのまま埋葬するとウブメになるという。\n漢字では『産女』とあてる。\n多くの地方において、妊婦が子供を\n宿したまま産褥で亡くなった場合は、\n腹を裂き胎児を取り出し、亡くなった母親に\n抱かせたり背負わせたりして埋葬する。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "传说中，怀着孩子死去的女人称为『产女』，是一种鸟形怪异。据说，如果将死去的孕妇就这样下葬，她便会化为产女。\n\n原作介绍，一些地方过去有这样的葬俗：孕妇腹中仍有胎儿，却在分娩期间去世时，人们会剖开腹部，取出胎儿，让死去的母亲抱着或背着，再一起安葬。"
+        },
+        "notes": "保留原作产女怪谈与葬俗信息，明确为传说及过去葬俗，不误写成现行医疗或丧葬建议。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

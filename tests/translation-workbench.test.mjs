@@ -85,3 +85,13 @@ test('actual route context reconstructs consecutive stops and validates the whol
  assert.ok(report.stops.some(s=>s.page?.key===key));
  assert.throws(()=>replayContext(i.game,i.catalog,{...route,end:123},key),/ending|Expected|123/);
 });
+test('bounded explicit revision keys reject unknown, duplicate and truncated selections',()=>{
+ const i=fixture();const keys=['terms.52','definitions.52'];
+ const t=prepareTask(i,{entry:20001,keys});assert.equal(t.entries.length,2);
+ assert.throws(()=>prepareTask(i,{entry:20001,keys:[keys[0],keys[0]]}),/unique/);
+ assert.throws(()=>prepareTask(i,{entry:20001,keys:['absent']}),/Key/);
+ assert.throws(()=>prepareTask(i,{entry:20001,keys,limit:1}),/unique/);
+ assert.throws(()=>prepareTask(i,{entry:20001,keys,key:keys[0]}),/unique/);
+ i.game.definitions[52]='長'.repeat(200);
+ assert.throws(()=>prepareTask(i,{entry:20001,keys,maxChars:100}),/budget/);
+});

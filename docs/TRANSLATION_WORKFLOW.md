@@ -96,3 +96,17 @@ npm run i18n:work -- prepare --locale zh-Hans --entry 20001 --key '完整key' --
 - 内联关键词一致性门禁之外，还要搜索普通对白里的旧译名：本章大床房在四处出现，只有一处带关键词 ref。
 - 媒体先看接近原尺寸的纹理再写释文。联系表只能定位图片，不能凭缩略图猜标语、药效时间、署名或手稿小字。
 - 长文本检查点按实际译文长度挑选；仅以日文源长度筛选，可能抽不到最长的中文段落。
+
+## 全简中补齐后的修订
+
+`npm run i18n:check:zh-Hans` 串联全库匹配检查与全部章节源覆盖门禁。剩余七个入口的基线在 `check_remaining_translation.mjs`：孤立块保留身份，不冒称真实路线；人见篇依赖的 7000 名单脚本 64 个空格槽逐位置核对。`i18n:extract` 会顺序重新采集所有章节，不可边提取边合并或运行依赖清单的门禁。
+
+跨批次修订可以把 **1–100 个已核定 key** 写成 JSON 数组，再调用：
+
+```sh
+npm run i18n:work -- prepare --locale zh-Hans --entry 70001 --keys output/localization/revision-keys.json --limit 100 --chars 50000 --file output/localization/tasks/revision-new.json
+```
+
+keys 与 key 互斥；重复、超出章节、超过条数或字符预算会报错，不会静默漏掉尾部修订。后续仍经过原有 check/apply、baseHash 冲突检查、原子归档；这不是批量替换目录的旁路。
+
+本轮教训：不要对整句执行 NFKC 或“全角 ASCII 一律转半角”。中文逗号、问号、叹号也位于全角区，会被误伤。仅在具体条目确认后规范英文字母、数字和连字符；正文标点保持中文。词条改名之后，不仅检查 ref 的覆盖文本，还需在普通对白、信件、网络帖、关系说明中检索旧称，结合上下文逐项修订。

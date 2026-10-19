@@ -1,0 +1,4129 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 70001,
+    "title": "由香篇 · 作られた都市伝説",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 3612,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.75043:4559748.a09715fe",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"けど、そんな無粋な真似は止めておこう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"もう、私と薫の絆は途切れたりすることは\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ないのだから———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4559748",
+          "route": "remaining-70001-branches",
+          "trial": 120,
+          "step": 1325
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4559504.dd830798",
+            "step": 1323,
+            "script": 75043,
+            "text": "薫は事件を解決してくれるだけでなく、\n私がもう間違いを犯さないように、\nこのことを教えてくれた。",
+            "translation": "薰不仅替我解决了事件，还告诉我这个道理，免得我再次犯错。"
+          },
+          {
+            "key": "page.75043:4559656.c79ea533",
+            "step": 1324,
+            "script": 75043,
+            "text": "出来れば今すぐに再会して、\n精一杯感謝の気持ちを伝えたい。",
+            "translation": "如果可以，我真想现在就见到她，尽全力表达感谢。"
+          },
+          {
+            "key": "page.75043:4559748.a09715fe",
+            "step": 1325,
+            "script": 75043,
+            "text": "けど、そんな無粋な真似は止めておこう。\nもう、私と薫の絆は途切れたりすることは\nないのだから——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不过，还是别做这种不解风情的事了。因为我和薰之间的羁绊，已经不会再断了——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4558148.2f7aed61",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"『思いつきで作った都市伝説には懲りた？』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4558148",
+          "route": "remaining-70001-branches",
+          "trial": 179,
+          "step": 1336
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4558148.2f7aed61",
+            "step": 1336,
+            "script": 75043,
+            "text": "『思いつきで作った都市伝説には懲りた？』",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558212.e530a06e",
+            "step": 1337,
+            "script": 75043,
+            "text": "このセリフを聞いた時には分からなかったが、\nこれは私を戒めようとする親友、\n羽黒薫の言葉だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558360.82d213fb",
+            "step": 1338,
+            "script": 75043,
+            "text": "私が作り出した都市伝説を、\n現実のものとしたのは薫の仕業だったの……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "『随心所欲地编造都市传说，这下吃到教训了？』"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4558212.e530a06e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"このセリフを聞いた時には分からなかったが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"これは私を戒めようとする親友、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"羽黒薫の言葉だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4558212",
+          "route": "remaining-70001-branches",
+          "trial": 179,
+          "step": 1337
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4558148.2f7aed61",
+            "step": 1336,
+            "script": 75043,
+            "text": "『思いつきで作った都市伝説には懲りた？』",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558212.e530a06e",
+            "step": 1337,
+            "script": 75043,
+            "text": "このセリフを聞いた時には分からなかったが、\nこれは私を戒めようとする親友、\n羽黒薫の言葉だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558360.82d213fb",
+            "step": 1338,
+            "script": 75043,
+            "text": "私が作り出した都市伝説を、\n現実のものとしたのは薫の仕業だったの……？",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558464.2839fbc7",
+            "step": 1339,
+            "script": 75043,
+            "text": "今回の不可思議な出来事は、\n全て私を戒めようとする親友・羽黒薫の\n手によるものだった。そう思えてならない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "听见这句话时，我还不知道。那是我的挚友羽黑薰，为了告诫我而说的话。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4558360.82d213fb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"私が作り出した都市伝説を、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"現実のものとしたのは薫の仕業だったの……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4558360",
+          "route": "remaining-70001-branches",
+          "trial": 179,
+          "step": 1338
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4558148.2f7aed61",
+            "step": 1336,
+            "script": 75043,
+            "text": "『思いつきで作った都市伝説には懲りた？』",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558212.e530a06e",
+            "step": 1337,
+            "script": 75043,
+            "text": "このセリフを聞いた時には分からなかったが、\nこれは私を戒めようとする親友、\n羽黒薫の言葉だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558360.82d213fb",
+            "step": 1338,
+            "script": 75043,
+            "text": "私が作り出した都市伝説を、\n現実のものとしたのは薫の仕業だったの……？",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558464.2839fbc7",
+            "step": 1339,
+            "script": 75043,
+            "text": "今回の不可思議な出来事は、\n全て私を戒めようとする親友・羽黒薫の\n手によるものだった。そう思えてならない。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558648.48d2180b",
+            "step": 1340,
+            "script": 75043,
+            "text": "あの雪の日から、彼女はどうしていたのか？\n出来れば今すぐに会って、それを確かめたい。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "是薰把我编造的都市传说变成了现实……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4558464.2839fbc7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"今回の不可思議な出来事は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"全て私を戒めようとする親友・羽黒薫の\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"手によるものだった。\",\"color\":0,\"size\":0},{\"text\":\"そう思えてならない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4558464",
+          "route": "remaining-70001-branches",
+          "trial": 179,
+          "step": 1339
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4558212.e530a06e",
+            "step": 1337,
+            "script": 75043,
+            "text": "このセリフを聞いた時には分からなかったが、\nこれは私を戒めようとする親友、\n羽黒薫の言葉だった。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558360.82d213fb",
+            "step": 1338,
+            "script": 75043,
+            "text": "私が作り出した都市伝説を、\n現実のものとしたのは薫の仕業だったの……？",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558464.2839fbc7",
+            "step": 1339,
+            "script": 75043,
+            "text": "今回の不可思議な出来事は、\n全て私を戒めようとする親友・羽黒薫の\n手によるものだった。そう思えてならない。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558648.48d2180b",
+            "step": 1340,
+            "script": 75043,
+            "text": "あの雪の日から、彼女はどうしていたのか？\n出来れば今すぐに会って、それを確かめたい。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558764.badda16d",
+            "step": 1341,
+            "script": 75043,
+            "text": "いや、それすらも、どうでもいい。\n何よりも、ただただ薫に会いたい。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这次不可思议的经历，全都是挚友羽黑薰为了告诫我而安排的。我不由得这样想。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4558648.48d2180b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あの雪の日から、彼女はどうしていたのか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"出来れば今すぐに会って、それを確かめたい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4558648",
+          "route": "remaining-70001-branches",
+          "trial": 179,
+          "step": 1340
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4558360.82d213fb",
+            "step": 1338,
+            "script": 75043,
+            "text": "私が作り出した都市伝説を、\n現実のものとしたのは薫の仕業だったの……？",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558464.2839fbc7",
+            "step": 1339,
+            "script": 75043,
+            "text": "今回の不可思議な出来事は、\n全て私を戒めようとする親友・羽黒薫の\n手によるものだった。そう思えてならない。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558648.48d2180b",
+            "step": 1340,
+            "script": 75043,
+            "text": "あの雪の日から、彼女はどうしていたのか？\n出来れば今すぐに会って、それを確かめたい。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558764.badda16d",
+            "step": 1341,
+            "script": 75043,
+            "text": "いや、それすらも、どうでもいい。\n何よりも、ただただ薫に会いたい。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558860.af3e9c98",
+            "step": 1342,
+            "script": 75043,
+            "text": "けれど、彼女はまた私の前から霧のように\n消えてしまった……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那个雪天之后，她究竟去了哪里，经历了什么？可以的话，真想立刻见到她，问个清楚。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4558764.badda16d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"いや、それすらも、どうでもいい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何よりも、ただただ薫に会いたい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4558764",
+          "route": "remaining-70001-branches",
+          "trial": 179,
+          "step": 1341
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4558464.2839fbc7",
+            "step": 1339,
+            "script": 75043,
+            "text": "今回の不可思議な出来事は、\n全て私を戒めようとする親友・羽黒薫の\n手によるものだった。そう思えてならない。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558648.48d2180b",
+            "step": 1340,
+            "script": 75043,
+            "text": "あの雪の日から、彼女はどうしていたのか？\n出来れば今すぐに会って、それを確かめたい。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558764.badda16d",
+            "step": 1341,
+            "script": 75043,
+            "text": "いや、それすらも、どうでもいい。\n何よりも、ただただ薫に会いたい。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558860.af3e9c98",
+            "step": 1342,
+            "script": 75043,
+            "text": "けれど、彼女はまた私の前から霧のように\n消えてしまった……。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558952.42383282",
+            "step": 1343,
+            "script": 75043,
+            "text": "あのときは深い悲しみに傷ついた。\nでも、今は大丈夫。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不，就连这些也不重要。最重要的，只是想见薰。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4558860.af3e9c98",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"けれど、彼女はまた私の前から霧のように\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"消えてしまった……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4558860",
+          "route": "remaining-70001-branches",
+          "trial": 179,
+          "step": 1342
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4558648.48d2180b",
+            "step": 1340,
+            "script": 75043,
+            "text": "あの雪の日から、彼女はどうしていたのか？\n出来れば今すぐに会って、それを確かめたい。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558764.badda16d",
+            "step": 1341,
+            "script": 75043,
+            "text": "いや、それすらも、どうでもいい。\n何よりも、ただただ薫に会いたい。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558860.af3e9c98",
+            "step": 1342,
+            "script": 75043,
+            "text": "けれど、彼女はまた私の前から霧のように\n消えてしまった……。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558952.42383282",
+            "step": 1343,
+            "script": 75043,
+            "text": "あのときは深い悲しみに傷ついた。\nでも、今は大丈夫。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559036.6770d7a8",
+            "step": 1344,
+            "script": 75043,
+            "text": "何故ならそれは、薫との絆は生きているんだと\n確信出来たから……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，她又像雾一样，从我眼前消失了……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4558952.42383282",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あのときは深い悲しみに傷ついた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"でも、今は大丈夫。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4558952",
+          "route": "remaining-70001-branches",
+          "trial": 179,
+          "step": 1343
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4558764.badda16d",
+            "step": 1341,
+            "script": 75043,
+            "text": "いや、それすらも、どうでもいい。\n何よりも、ただただ薫に会いたい。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558860.af3e9c98",
+            "step": 1342,
+            "script": 75043,
+            "text": "けれど、彼女はまた私の前から霧のように\n消えてしまった……。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558952.42383282",
+            "step": 1343,
+            "script": 75043,
+            "text": "あのときは深い悲しみに傷ついた。\nでも、今は大丈夫。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559036.6770d7a8",
+            "step": 1344,
+            "script": 75043,
+            "text": "何故ならそれは、薫との絆は生きているんだと\n確信出来たから……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那一次，我被深深的悲伤刺伤。可如今，已经没事了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75043:4559036.6770d7a8",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"何故ならそれは、薫との絆は生きているんだと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"確信出来たから……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75043,
+          "page": "75043:4559036",
+          "route": "remaining-70001-branches",
+          "trial": 179,
+          "step": 1344
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75043:4558860.af3e9c98",
+            "step": 1342,
+            "script": 75043,
+            "text": "けれど、彼女はまた私の前から霧のように\n消えてしまった……。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4558952.42383282",
+            "step": 1343,
+            "script": 75043,
+            "text": "あのときは深い悲しみに傷ついた。\nでも、今は大丈夫。",
+            "translation": null
+          },
+          {
+            "key": "page.75043:4559036.6770d7a8",
+            "step": 1344,
+            "script": 75043,
+            "text": "何故ならそれは、薫との絆は生きているんだと\n確信出来たから……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "因为，我已经确信，与薰之间的羁绊依然还在……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75026:4430612.8ad4ba0b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"穂坂先生は殺害される直前に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"子供が出来たと言いがかりをつけられたと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"言っていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75026,
+          "page": "75026:4430612",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75026-9",
+          "step": 9
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75026:4430612.8ad4ba0b",
+            "step": 9,
+            "script": 75026,
+            "text": "穂坂先生は殺害される直前に\n子供が出来たと言いがかりをつけられたと\n言っていた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "穗坂老师遇害前，曾说有人拿怀孕的事纠缠他。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75026:4430732.4cbdc89b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"この言葉を素直に捉えるなら、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"穂坂先生と菱田さんはそういう関係に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あったのは間違いないだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75026,
+          "page": "75026:4430732",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75026-17",
+          "step": 17
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75026:4430732.4cbdc89b",
+            "step": 17,
+            "script": 75026,
+            "text": "この言葉を素直に捉えるなら、\n穂坂先生と菱田さんはそういう関係に\nあったのは間違いないだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "照字面理解，两人有过那种关系，应该不会错吧。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75026:4430864.377cf5c4",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"けれど、穂坂先生の言葉に嘘はないと思うし、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"菱田さんが妊娠していたというのも間違いはない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"だとしたら、父親は別にいたということになる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75026,
+          "page": "75026:4430864",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75026-25",
+          "step": 25
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75026:4430864.377cf5c4",
+            "step": 25,
+            "script": 75026,
+            "text": "けれど、穂坂先生の言葉に嘘はないと思うし、\n菱田さんが妊娠していたというのも間違いはない。\nだとしたら、父親は別にいたということになる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，我觉得穗坂老师并没有说谎，菱田小姐怀孕的事也确实是真的。那么，就意味着父亲另有其人。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75026:4431040.c98819fa",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そしてもう一つ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"菱田桃代がＢ事件の被害者だと教えてくれたのは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"他ならぬ朝希だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75026,
+          "page": "75026:4431040",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75026-33",
+          "step": 33
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75026:4431040.c98819fa",
+            "step": 33,
+            "script": 75026,
+            "text": "そしてもう一つ、\n菱田桃代がＢ事件の被害者だと教えてくれたのは、\n他ならぬ朝希だった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "还有一点。告诉我菱田桃代就是B事件被害人的，不是别人，正是朝希。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75026:4431164.dc5ccb41",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ちょうど私が変化しない都市伝説に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"悩んでいる最中での事件。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そして、噂が蔓延し始めたのはその直後だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75026,
+          "page": "75026:4431164",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75026-41",
+          "step": 41
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75026:4431164.dc5ccb41",
+            "step": 41,
+            "script": 75026,
+            "text": "ちょうど私が変化しない都市伝説に\n悩んでいる最中での事件。\nそして、噂が蔓延し始めたのはその直後だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那时，我正为都市传说迟迟没有变化而苦恼。传闻开始蔓延，也正是在那之后。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75026:4431504.c6fdb636",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"これは偏に彼の人間性を表しているのだろうが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そう考えると菱田さんの子供も絶対に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"穂坂先生の子供ではないという\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"保証がない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75026,
+          "page": "75026:4431504",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75026-61",
+          "step": 61
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75026:4431504.c6fdb636",
+            "step": 61,
+            "script": 75026,
+            "text": "これは偏に彼の人間性を表しているのだろうが、\nそう考えると菱田さんの子供も絶対に\n穂坂先生の子供ではないという\n保証がない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这大概只说明了他的人品。可这样一想，也无法保证菱田小姐的孩子绝对不是他的。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75026:4431672.96d88d5c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"女たらしは大体嘘つきだし、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"やはりあれは嘘の証言だったのだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ひょっとして穂坂先生を刺したのも、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"別に騙されていた女性とか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75026,
+          "page": "75026:4431672",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75026-71",
+          "step": 71
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75026:4431672.96d88d5c",
+            "step": 71,
+            "script": 75026,
+            "text": "女たらしは大体嘘つきだし、\nやはりあれは嘘の証言だったのだろうか？\nひょっとして穂坂先生を刺したのも、\n別に騙されていた女性とか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "花心的男人通常也爱撒谎，难道那番证词果然是假的？刺杀他的，会不会是另一个被骗的女人？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75026:4431868.ee147f0",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ひょっとして穂坂先生を殺害したのは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"菱田さんのお腹にいた子供では\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ないだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75026,
+          "page": "75026:4431868",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75026-83",
+          "step": 83
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75026:4431868.ee147f0",
+            "step": 83,
+            "script": 75026,
+            "text": "ひょっとして穂坂先生を殺害したのは、\n菱田さんのお腹にいた子供では\nないだろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "杀死穗坂老师的，会不会就是菱田小姐腹中的孩子？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75026:4431988.711e18ec",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"Ｂ事件も大体の内容が母親を殺された胎児が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"父親に復讐するというものだったし、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"こう考えれば穂坂先生の突然死も\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"納得出来るかもしれない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75026,
+          "page": "75026:4431988",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75026-91",
+          "step": 91
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75026:4431988.711e18ec",
+            "step": 91,
+            "script": 75026,
+            "text": "Ｂ事件も大体の内容が母親を殺された胎児が\n父親に復讐するというものだったし、\nこう考えれば穂坂先生の突然死も\n納得出来るかもしれない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "B事件的内容，大致也是母亲被杀的胎儿向父亲复仇。这样想，也许就能解释老师的突然死亡。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75026:4432168.d05bf93f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ということは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"Ｂ事件は本当に起こっている出来事だというの？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75026,
+          "page": "75026:4432168",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75026-101",
+          "step": 101
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75026:4432168.d05bf93f",
+            "step": 101,
+            "script": 75026,
+            "text": "ということは、\nＢ事件は本当に起こっている出来事だというの？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这么说来，B事件真的发生了？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75027:4429316.1ffec896",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"清桜女子大学———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75027,
+          "page": "75027:4429316",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75027-9",
+          "step": 9
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75027:4429316.1ffec896",
+            "step": 9,
+            "script": 75027,
+            "text": "清桜女子大学——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "清樱女子大学——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75027:4429360.ab66ca5f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"この大学で知り合った穂坂先生と湯川果歩は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"やはり何かしらの関係があったと思う。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75027,
+          "page": "75027:4429360",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75027-13",
+          "step": 13
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75027:4429360.ab66ca5f",
+            "step": 13,
+            "script": 75027,
+            "text": "この大学で知り合った穂坂先生と湯川果歩は、\nやはり何かしらの関係があったと思う。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "在这所大学认识的穗坂老师和汤川果步，果然有过某种关系吧。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75027:4429472.265921e3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ただ、穂坂先生が殺害された今となっては、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その事実関係を確かめることは出来ない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75027,
+          "page": "75027:4429472",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75027-19",
+          "step": 19
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75027:4429472.265921e3",
+            "step": 19,
+            "script": 75027,
+            "text": "ただ、穂坂先生が殺害された今となっては、\nその事実関係を確かめることは出来ない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可如今老师也被杀了，已经无法确认事实究竟如何。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75027:4429584.4486e62",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"つまりこれは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"湯川果歩は穂坂先生に殺されたわけじゃない\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ということを表している。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75027,
+          "page": "75027:4429584",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75027-25",
+          "step": 25
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75027:4429584.4486e62",
+            "step": 25,
+            "script": 75027,
+            "text": "つまりこれは、\n湯川果歩は穂坂先生に殺されたわけじゃない\nということを表している。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也就是说，这表明杀死汤川果步的，并不是穗坂老师。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75027:4429704.f8e0a92f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ならば、一体誰が二人を殺害したのだろう？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75027,
+          "page": "75027:4429704",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75027-33",
+          "step": 33
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75027:4429704.f8e0a92f",
+            "step": 33,
+            "script": 75027,
+            "text": "ならば、一体誰が二人を殺害したのだろう？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那么，究竟是谁杀了他们两个人？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75027:4429784.3fd585df",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"須未乃大学———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75027,
+          "page": "75027:4429784",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75027-39",
+          "step": 39
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75027:4429784.3fd585df",
+            "step": 39,
+            "script": 75027,
+            "text": "須未乃大学——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "须未乃大学——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75027:4429824.f8dc46ec",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"穂坂先生は今、この大学にいるのは\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"以前の学校で何らかの問題\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"を起こしたからではないだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75027,
+          "page": "75027:4429824",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75027-43",
+          "step": 43
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75027:4429824.f8dc46ec",
+            "step": 43,
+            "script": 75027,
+            "text": "穂坂先生は今、この大学にいるのは\n以前の学校で何らかの問題\nを起こしたからではないだろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "老师如今会在这所大学任教，是不是因为在以前的学校惹过什么麻烦？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75027:4429952.24ea5d9d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そうすることで湯川果歩から逃げてきたとも\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"考えられるけど、二人が死んでしまった今、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それは今のこの状況とあんまり関係\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ないように思える。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75027,
+          "page": "75027:4429952",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75027-51",
+          "step": 51
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75027:4429952.24ea5d9d",
+            "step": 51,
+            "script": 75027,
+            "text": "そうすることで湯川果歩から逃げてきたとも\n考えられるけど、二人が死んでしまった今、\nそれは今のこの状況とあんまり関係\nないように思える。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也可能是为了逃离汤川果步。可两人如今都死了，这件事似乎与眼下的状况没什么关系。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75027:4430148.463945ea",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"穂坂先生は相当な女たらしなはずだし、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"案外湯川果歩と婚約の\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"約束でもしていたのかもしれない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75027,
+          "page": "75027:4430148",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75027-63",
+          "step": 63
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75027:4430148.463945ea",
+            "step": 63,
+            "script": 75027,
+            "text": "穂坂先生は相当な女たらしなはずだし、\n案外湯川果歩と婚約の\n約束でもしていたのかもしれない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "老师应该相当花心，说不定还曾向汤川果步许下婚约。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75027:4430276.b47ae9bd",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"けれど、それが重荷になって以前の学校を辞職して、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"須未乃大学へと移ってきた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75027,
+          "page": "75027:4430276",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75027-71",
+          "step": 71
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75027:4430276.b47ae9bd",
+            "step": 71,
+            "script": 75027,
+            "text": "けれど、それが重荷になって以前の学校を辞職して、\n須未乃大学へと移ってきた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可后来，这份约定成了负担，他便辞去原来的教职，转到须未乃大学。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75027:4430384.c6d13579",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あり得ない話ではないと思うけど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そのことと今の状況はあんまり\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"結びつかないように思える。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75027,
+          "page": "75027:4430384",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75027-77",
+          "step": 77
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75027:4430384.c6d13579",
+            "step": 77,
+            "script": 75027,
+            "text": "あり得ない話ではないと思うけど、\nそのことと今の状況はあんまり\n結びつかないように思える。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "虽然并非不可能，可这与眼下的状况，似乎也联系不起来。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75034:4427996.e7c44009",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"切っ掛けは、朝希の何気ない一言から始まった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75034,
+          "page": "75034:4427996",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75034-9",
+          "step": 9
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75034:4427996.e7c44009",
+            "step": 9,
+            "script": 75034,
+            "text": "切っ掛けは、朝希の何気ない一言から始まった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "一切始于朝希随口说的一句话。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75034:4428064.1547ca11",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"Ｂaby　Ｂake　Ｂizarre———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ネットの世界で蔓延していた通称Ｂ事件を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"元に都市伝説を作って、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その伝播と変化をレポートに纏めていく。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75034,
+          "page": "75034:4428064",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75034-13",
+          "step": 13
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75034:4428064.1547ca11",
+            "step": 13,
+            "script": 75034,
+            "text": "Ｂaby　Ｂake　Ｂizarre——\nネットの世界で蔓延していた通称Ｂ事件を\n元に都市伝説を作って、\nその伝播と変化をレポートに纏めていく。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "Baby Bake Bizarre——婴儿、烘烤、离奇。以网上流传的、俗称B事件的故事为基础，编造都市传说，再把它的传播与变化整理成报告。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75034:4428244.efdd361e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"最初はたった、それだけのことだった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"けれど、変化は突然として起こる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75034,
+          "page": "75034:4428244",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75034-23",
+          "step": 23
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75034:4428244.efdd361e",
+            "step": 23,
+            "script": 75034,
+            "text": "最初はたった、それだけのことだった。\nけれど、変化は突然として起こる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "最初，不过是这么简单的一件事。可是，变化突然发生了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75034:4428344.fb7bd8a5",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"日が経つ毎に不気味に変貌していき、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"蔓延する噂になっていく\",\"color\":0,\"size\":0},{\"text\":\"事件。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75034,
+          "page": "75034:4428344",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75034-29",
+          "step": 29
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75034:4428344.fb7bd8a5",
+            "step": 29,
+            "script": 75034,
+            "text": "日が経つ毎に不気味に変貌していき、\n蔓延する噂になっていく事件。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "事件日复一日地变得诡异，化为四处蔓延的传闻。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75034:4428452.a93b6b8f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"朝希からその被害者だと教えられた菱田桃代。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その菱田さんと付き合っていたらしい穂坂先生。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そして、その穂坂先生と繋がりの深かった湯川果歩。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75034,
+          "page": "75034:4428452",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75034-37",
+          "step": 37
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75034:4428452.a93b6b8f",
+            "step": 37,
+            "script": 75034,
+            "text": "朝希からその被害者だと教えられた菱田桃代。\nその菱田さんと付き合っていたらしい穂坂先生。\nそして、その穂坂先生と繋がりの深かった湯川果歩。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "朝希告诉我，菱田桃代就是被害人。似乎曾与菱田小姐交往的穗坂老师。还有，与老师关系密切的汤川果步。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75034:4428628.e592294d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"この二人の接点について、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"一つ明確なものがあったはずだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75034,
+          "page": "75034:4428628",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75034-45",
+          "step": 45
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75034:4428628.e592294d",
+            "step": 45,
+            "script": 75034,
+            "text": "この二人の接点について、\n一つ明確なものがあったはずだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "关于这两个人的交集，应该有一条明确的信息。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75034:4428732.a1bc949b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「このままだと、留年確定だ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75034,
+          "page": "75034:4428732",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75034-53",
+          "step": 53
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75034:4428732.a1bc949b",
+            "step": 53,
+            "script": 75034,
+            "text": "「このままだと、留年確定だ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「再这样下去，你就确定要留级了。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75034:4428784.1e417f72",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"思えば全ては、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"霧先先生の容赦ない一言から始まった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75034,
+          "page": "75034:4428784",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75034-57",
+          "step": 57
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75034:4428784.1e417f72",
+            "step": 57,
+            "script": 75034,
+            "text": "思えば全ては、\n霧先先生の容赦ない一言から始まった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "回想起来，一切都是从雾崎老师这句毫不留情的话开始的。"
+            }
+          ]
+        },
+        "notes": "源文霧先先生是霧崎先生的人名笔误，按本章已确认姓名译作雾崎老师。"
+      },
+      {
+        "key": "page.75034:4428868.c23d92bb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そう。あの時、素直に単位をくれさえすれば、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私はこんな目に遭わずに済んだはずだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75034,
+          "page": "75034:4428868",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75034-63",
+          "step": 63
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75034:4428868.c23d92bb",
+            "step": 63,
+            "script": 75034,
+            "text": "そう。あの時、素直に単位をくれさえすれば、\n私はこんな目に遭わずに済んだはずだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "对。如果那时他肯干脆给我学分，我本来就不用遭这些罪。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75034:4428980.7d6bdc67",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"お陰で私は朝希に薦められるまま\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"Ｂ事件をレポートにしようとして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今はこんな酷い目に遭っている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75034,
+          "page": "75034:4428980",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75034-69",
+          "step": 69
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75034:4428980.7d6bdc67",
+            "step": 69,
+            "script": 75034,
+            "text": "お陰で私は朝希に薦められるまま\nＢ事件をレポートにしようとして、\n今はこんな酷い目に遭っている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "结果，我照着朝希的建议，想拿B事件写报告，如今却落得这么惨。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75034:4429116.1788e50f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それもこれも、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"切っ掛けは菱田桃代、穂坂先生、湯川果歩の３人だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75034,
+          "page": "75034:4429116",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75034-77",
+          "step": 77
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75034:4429116.1788e50f",
+            "step": 77,
+            "script": 75034,
+            "text": "それもこれも、\n切っ掛けは菱田桃代、穂坂先生、湯川果歩の３人だった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而这一切的起因，都是菱田桃代、穗坂老师和汤川果步这3个人。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4547908.9b709b64",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ネットの世界で蔓延していた都市伝説。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"通称Ｂ事件———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4547908",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-9",
+          "step": 9
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4547908.9b709b64",
+            "step": 9,
+            "script": 75041,
+            "text": "ネットの世界で蔓延していた都市伝説。\n通称Ｂ事件——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "在网络世界蔓延的都市传说。俗称B事件——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4547992.504088b9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"霧崎先生を唸らせるレポートの題材として、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私はそれを元に架空の都市伝説を作り、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その伝播と変化をレポートに纏めて\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いくはずだった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4547992",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-15",
+          "step": 15
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.75041:4547992.504088b9",
+            "step": 15,
+            "script": 75041,
+            "text": "霧崎先生を唸らせるレポートの題材として、\n私はそれを元に架空の都市伝説を作り、\nその伝播と変化をレポートに纏めて\nいくはずだった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "为了写出让雾崎老师刮目相看的报告，我以它为基础编造都市传说，本打算记录它的传播与变化。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4548164.10fdd93c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし、変化はある日突然として起こる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4548164",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-25",
+          "step": 25
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4548164.10fdd93c",
+            "step": 25,
+            "script": 75041,
+            "text": "しかし、変化はある日突然として起こる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可变化却在某一天骤然发生。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4548228.1000b33d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"段々と私の手を離れ、ウイルスのように増殖していく噂。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"日がたつ毎に奇怪な変貌を遂げていくＢ事件の全容。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そして、そこに書いてあったとおりの全身を焼かれる夢。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4548228",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-29",
+          "step": 29
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4548228.1000b33d",
+            "step": 29,
+            "script": 75041,
+            "text": "段々と私の手を離れ、ウイルスのように増殖していく噂。\n日がたつ毎に奇怪な変貌を遂げていくＢ事件の全容。\nそして、そこに書いてあったとおりの全身を焼かれる夢。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "传闻渐渐脱离我的掌控，像病毒般增殖。B事件的全貌一天比一天离奇。然后，我做了与传闻一模一样、全身被烧毁的梦。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4548420.4396609a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"架空だったはずの都市伝説が夢の中で段々と\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"現実味を帯びていくたびに、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"言いようのない恐怖感に駆られていった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4548420",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-37",
+          "step": 37
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4548420.4396609a",
+            "step": 37,
+            "script": 75041,
+            "text": "架空だったはずの都市伝説が夢の中で段々と\n現実味を帯びていくたびに、\n言いようのない恐怖感に駆られていった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "本该是虚构的都市传说，在梦中一点点变得真实。每逼真一分，难以言喻的恐惧便更强烈一分。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4548568.193d58e3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そして、目を覚ました私を待っていた現実。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それはぐちゃぐちゃに荒らされた部屋と、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"高校時代に消えてしまったはずの、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"佐倉先輩だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4548568",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-45",
+          "step": 45
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4548568.193d58e3",
+            "step": 45,
+            "script": 75041,
+            "text": "そして、目を覚ました私を待っていた現実。\nそれはぐちゃぐちゃに荒らされた部屋と、\n高校時代に消えてしまったはずの、\n佐倉先輩だった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而醒来后，等待我的现实，是被翻得一片狼藉的房间，以及高中时本该已经消失的佐仓学姐。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4548760.7c286231",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"偏屈だけど、一番身近でわりとかっこいい先生。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4548760",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-57",
+          "step": 57
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4548760.7c286231",
+            "step": 57,
+            "script": 75041,
+            "text": "偏屈だけど、一番身近でわりとかっこいい先生。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "有些古怪，却是离我最近、又挺帅气的一位老师。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4548828.7b9e8ed0",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そんな霧崎先生に留年をまぬがれる為の課題を出されたのが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今回の事件の切っ掛けだった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4548828",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-61",
+          "step": 61
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.75041:4548828.7b9e8ed0",
+            "step": 61,
+            "script": 75041,
+            "text": "そんな霧崎先生に留年をまぬがれる為の課題を出されたのが、\n今回の事件の切っ掛けだった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这次事件的开端，就是这样的雾崎老师，为了让我免于留级而布置的课题。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4548944.a461184f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あの霧崎先生を唸らせるには、題材を都市伝説にして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それの伝播と変化を纏めたレポートを作るしかない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4548944",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-67",
+          "step": 67
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.75041:4548944.a461184f",
+            "step": 67,
+            "script": 75041,
+            "text": "あの霧崎先生を唸らせるには、題材を都市伝説にして、\nそれの伝播と変化を纏めたレポートを作るしかない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "要让他佩服，就只能以都市传说为题材，写一篇记录其传播与变化的报告。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4549076.ab4db7bf",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"最初はそんな軽い気持ちで架空の都市伝説———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"通称Ｂ事件をでっちあげたけど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"程なくして事態は思わぬ方向に転がってしまった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4549076",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-73",
+          "step": 73
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4549076.ab4db7bf",
+            "step": 73,
+            "script": 75041,
+            "text": "最初はそんな軽い気持ちで架空の都市伝説——\n通称Ｂ事件をでっちあげたけど、\n程なくして事態は思わぬ方向に転がってしまった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "最初，我只是抱着这种轻率的心情，编造了虚构的都市传说——俗称B事件。不久，事情却朝意想不到的方向发展。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4549240.393eab43",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"掲示板というアンダーグラウンドな世界で段々と\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"真実味を帯びていく、奇怪な噂。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4549240",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-81",
+          "step": 81
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4549240.393eab43",
+            "step": 81,
+            "script": 75041,
+            "text": "掲示板というアンダーグラウンドな世界で段々と\n真実味を帯びていく、奇怪な噂。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "在论坛这个隐秘的世界里，诡异的传闻逐渐有了真实感。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4549348.c6d44b1b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そして、それが現実へと影響を及ぼした時、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"事件は起こった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4549348",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-87",
+          "step": 87
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4549348.c6d44b1b",
+            "step": 87,
+            "script": 75041,
+            "text": "そして、それが現実へと影響を及ぼした時、\n事件は起こった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而当它开始影响现实时，事件发生了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4549436.501d2ee0",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"それは同じ大学のクラスメイト、菱田桃代の死であり、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その直後に私は都市伝説の悪夢に苛まれるようになる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4549436",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-93",
+          "step": 93
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4549436.501d2ee0",
+            "step": 93,
+            "script": 75041,
+            "text": "それは同じ大学のクラスメイト、菱田桃代の死であり、\nその直後に私は都市伝説の悪夢に苛まれるようになる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那就是同校同学菱田桃代的死。紧接着，我开始被都市传说的噩梦折磨。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4549572.7f0ec229",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"列を成して次々と焼却炉に放り込まれていく人達。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"お腹の赤ちゃんを捜す妊婦。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4549572",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-99",
+          "step": 99
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4549572.7f0ec229",
+            "step": 99,
+            "script": 75041,
+            "text": "列を成して次々と焼却炉に放り込まれていく人達。\nお腹の赤ちゃんを捜す妊婦。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "排成一列，被接连扔进焚化炉的人们。寻找腹中孩子的孕妇。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4549680.4a0775ed",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そうしていよいよ私に元に順番が回ってきた時、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"かつて消えてしまった、あの人が現れた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4549680",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-105",
+          "step": 105
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4549680.4a0775ed",
+            "step": 105,
+            "script": 75041,
+            "text": "そうしていよいよ私に元に順番が回ってきた時、\nかつて消えてしまった、あの人が現れた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "终于快轮到我时，那个曾经消失的人出现了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4549796.d34f6646",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"佐倉先輩———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いなくなったはずの彼女が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どうしてここに現れたのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4549796",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-111",
+          "step": 111
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4549796.d34f6646",
+            "step": 111,
+            "script": 75041,
+            "text": "佐倉先輩——\nいなくなったはずの彼女が、\nどうしてここに現れたのだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "佐仓学姐——本该消失的她，为什么会来到这里？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4549928.a1bc949b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「このままだと、留年確定だ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4549928",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-121",
+          "step": 121
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4549928.a1bc949b",
+            "step": 121,
+            "script": 75041,
+            "text": "「このままだと、留年確定だ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「再这样下去，你就确定要留级了。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4549980.40e4f670",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"思えば全ては、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"霧崎先生の容赦ない一言から始まった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4549980",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-125",
+          "step": 125
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.75041:4549980.40e4f670",
+            "step": 125,
+            "script": 75041,
+            "text": "思えば全ては、\n霧崎先生の容赦ない一言から始まった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "回想起来，一切都是从雾崎老师这句毫不留情的话开始的。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4550064.c23d92bb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そう。あの時、素直に単位をくれさえすれば、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私はこんな目に遭わずに済んだはずだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4550064",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-131",
+          "step": 131
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4550064.c23d92bb",
+            "step": 131,
+            "script": 75041,
+            "text": "そう。あの時、素直に単位をくれさえすれば、\n私はこんな目に遭わずに済んだはずだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "对。如果那时他肯干脆给我学分，我本来就不用遭这些罪。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4550176.376455ef",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"お陰で私は朝希に薦められるままＢ事件を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"レポートにしようとして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その結果今回の不思議な事件に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"巻き込まれてしまった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4550176",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-137",
+          "step": 137
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4550176.376455ef",
+            "step": 137,
+            "script": 75041,
+            "text": "お陰で私は朝希に薦められるままＢ事件を\nレポートにしようとして、\nその結果今回の不思議な事件に\n巻き込まれてしまった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "结果，我照着朝希的建议，想拿B事件写报告，却因此被卷进了这起不可思议的事件。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4550340.abbbf815",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"佐倉智子———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"かつて学園の七不思議を解明しようとして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そのまま忽然と消えてしまった彼女が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何故今になって現れたのだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4550340",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-147",
+          "step": 147
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4550340.abbbf815",
+            "step": 147,
+            "script": 75041,
+            "text": "佐倉智子——\nかつて学園の七不思議を解明しようとして、\nそのまま忽然と消えてしまった彼女が、\n何故今になって現れたのだろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "佐仓智子——曾经为了查明校园七大不可思议，就此突然消失的她，为什么偏偏现在出现了？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4550528.a010a7f6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"Ｂaby\",\"color\":0,\"size\":0},{\"text\":\" Ｂake\",\"color\":0,\"size\":0},{\"text\":\" Ｂizarre———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"このちょっとばかり悪趣味な朝希の言葉が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今回の事件の全てを表している。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4550528",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-159",
+          "step": 159
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4550528.a010a7f6",
+            "step": 159,
+            "script": 75041,
+            "text": "Ｂaby Ｂake Ｂizarre——\nこのちょっとばかり悪趣味な朝希の言葉が、\n今回の事件の全てを表している。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "Baby Bake Bizarre——婴儿、烘烤、离奇。朝希这句有些恶趣味的话，概括了整起事件。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4550688.72e3f2b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"思えば私が朝希の提案を鵜呑みにしなければ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今回のような事件に巻き込まれることは\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"なかったのではないだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4550688",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-171",
+          "step": 171
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4550688.72e3f2b",
+            "step": 171,
+            "script": 75041,
+            "text": "思えば私が朝希の提案を鵜呑みにしなければ、\n今回のような事件に巻き込まれることは\nなかったのではないだろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "回想起来，如果我没把朝希的建议照单全收，是不是就不会卷进这种事件？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4550836.90fd4566",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、それも悪いことばかりではない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"確かにとんでもない目に遭いはしたが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そのお陰で自分の過去と遭遇出来たのも事実だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4550836",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-179",
+          "step": 179
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4550836.90fd4566",
+            "step": 179,
+            "script": 75041,
+            "text": "だが、それも悪いことばかりではない。\n確かにとんでもない目に遭いはしたが、\nそのお陰で自分の過去と遭遇出来たのも事実だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不过，也并非全是坏事。我确实遭了大罪，可也因此再次面对了自己的过去。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75041:4550992.6e9b44c1",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"佐倉智子———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"まさか今になって、あの先輩が現れるなんて\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"思いもしなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75041,
+          "page": "75041:4550992",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75041-187",
+          "step": 187
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75041:4550992.6e9b44c1",
+            "step": 187,
+            "script": 75041,
+            "text": "佐倉智子——\nまさか今になって、あの先輩が現れるなんて\n思いもしなかった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "佐仓智子——我怎么也没想到，那位学姐竟会在如今现身。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4553412.c92b0c4a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"かつての佐倉先輩は、面倒見がよく、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"頼りになる先輩で、魅力的な人だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4553412",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75045-157",
+          "step": 157
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4553412.c92b0c4a",
+            "step": 157,
+            "script": 75045,
+            "text": "かつての佐倉先輩は、面倒見がよく、\n頼りになる先輩で、魅力的な人だった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "过去的她体贴周到、值得依赖，是位很有魅力的学姐。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4553516.3d5637c6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし、今の先輩は……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あれは、既にこの世のものではなかった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4553516",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75045-163",
+          "step": 163
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4553516.3d5637c6",
+            "step": 163,
+            "script": 75045,
+            "text": "しかし、今の先輩は……\nあれは、既にこの世のものではなかった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，如今的学姐……那已经不是这个世界上的存在了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75045:4553612.6f1250ab",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"一体、彼女はどうして、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あのような姿になってしまったのだろうか……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75045,
+          "page": "75045:4553612",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75045-169",
+          "step": 169
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75045:4553612.6f1250ab",
+            "step": 169,
+            "script": 75045,
+            "text": "一体、彼女はどうして、\nあのような姿になってしまったのだろうか……？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她究竟为什么，会变成那副模样……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75055:4555492.85ee980d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"佐倉先輩はずっと私を恨んでいたからこそ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今また私の前に現れて、朝希を殺したのだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75055,
+          "page": "75055:4555492",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75055-9",
+          "step": 9
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75055:4555492.85ee980d",
+            "step": 9,
+            "script": 75055,
+            "text": "佐倉先輩はずっと私を恨んでいたからこそ、\n今また私の前に現れて、朝希を殺したのだろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "难道正因为一直恨着我，她才再次出现在我面前，杀了朝希？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75055:4555612.1e0ee13d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"小杉先生が殺された———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そう思いこんでいるからこそ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私やミキに復讐する為に。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75055,
+          "page": "75055:4555612",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75055-15",
+          "step": 15
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75055:4555612.1e0ee13d",
+            "step": 15,
+            "script": 75055,
+            "text": "小杉先生が殺された——\nそう思いこんでいるからこそ、\n私やミキに復讐する為に。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "小杉老师被杀了——正因为认定如此，才要向我和美纪复仇。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75055:4555728.7c52c9e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あの降りしきる雪の日から、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"佐倉先輩は何を思い、今日まで\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"過ごしてきたかは分からない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75055,
+          "page": "75055:4555728",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75055-23",
+          "step": 23
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75055:4555728.7c52c9e",
+            "step": 23,
+            "script": 75055,
+            "text": "あの降りしきる雪の日から、\n佐倉先輩は何を思い、今日まで\n過ごしてきたかは分からない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "从那个大雪纷飞的日子起，直到今天，她究竟怀着怎样的念头生活，我无从得知。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75055:4555852.5ee03c95",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"けれど、いくら恋人を失ったとはいえ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"普通の人間があんな風になるものだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75055,
+          "page": "75055:4555852",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75055-31",
+          "step": 31
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75055:4555852.5ee03c95",
+            "step": 31,
+            "script": 75055,
+            "text": "けれど、いくら恋人を失ったとはいえ、\n普通の人間があんな風になるものだろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可是，就算失去了恋人，普通人真的会变成那副模样吗？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.75055:4555960.d5365180",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"どうして先輩がああなったかは分からないが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あれではまるで小杉先生どころか彼女の心まで\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"天狗に浚われてしまったみたいだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 75055,
+          "page": "75055:4555960",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-75055-37",
+          "step": 37
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.75055:4555960.d5365180",
+            "step": 37,
+            "script": 75055,
+            "text": "どうして先輩がああなったかは分からないが、\nあれではまるで小杉先生どころか彼女の心まで\n天狗に浚われてしまったみたいだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我不知道她为什么会变成那样。可看上去，简直不只是小杉老师，连她的心也一起被天狗掳走了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79001:4349160.608ffa89",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"まずは人間関係を整理してから考え始めないと。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79001,
+          "page": "79001:4349160",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79001-44",
+          "step": 44
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79001:4349160.608ffa89",
+            "step": 44,
+            "script": 79001,
+            "text": "まずは人間関係を整理してから考え始めないと。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "得先整理人物关系，再开始思考。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79001:4349228.d5b6110e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"最初の被害者の名前は……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79001,
+          "page": "79001:4349228",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79001-48",
+          "step": 48
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79001:4349228.d5b6110e",
+            "step": 48,
+            "script": 79001,
+            "text": "最初の被害者の名前は……",
+            "translation": null
+          },
+          {
+            "key": "choice.79001.59.0.25bc3cf7",
+            "step": 48,
+            "script": 79001,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79001.59.1.e52314bd",
+            "step": 48,
+            "script": 79001,
+            "text": "湯川 果歩",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "第一名被害人的名字是……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79001.59.0.25bc3cf7",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"菱田 桃代\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79001,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79001-48",
+          "step": 48
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79001:4349228.d5b6110e",
+            "step": 48,
+            "script": 79001,
+            "text": "最初の被害者の名前は……",
+            "translation": null
+          },
+          {
+            "key": "choice.79001.59.0.25bc3cf7",
+            "step": 48,
+            "script": 79001,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79001.59.1.e52314bd",
+            "step": 48,
+            "script": 79001,
+            "text": "湯川 果歩",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "菱田桃代"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79001.59.1.e52314bd",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"湯川 果歩\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79001,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79001-48",
+          "step": 48
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79001:4349228.d5b6110e",
+            "step": 48,
+            "script": 79001,
+            "text": "最初の被害者の名前は……",
+            "translation": null
+          },
+          {
+            "key": "choice.79001.59.0.25bc3cf7",
+            "step": 48,
+            "script": 79001,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79001.59.1.e52314bd",
+            "step": 48,
+            "script": 79001,
+            "text": "湯川 果歩",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "汤川果步"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79002:4344488.bfe7e214",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そう。私と同じ須未乃大学に通う菱田桃代だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そして、次の犠牲者は湯川 果歩。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79002,
+          "page": "79002:4344488",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79002-31",
+          "step": 31
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79002:4344488.bfe7e214",
+            "step": 31,
+            "script": 79002,
+            "text": "そう。私と同じ須未乃大学に通う菱田桃代だ。\nそして、次の犠牲者は湯川 果歩。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "对，是和我一样就读于须未乃大学的菱田桃代。然后，下一个牺牲者是汤川果步。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79002:4344596.21dbd83b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"では、彼女達を繋ぐ人物とは……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79002,
+          "page": "79002:4344596",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79002-37",
+          "step": 37
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79002:4344596.21dbd83b",
+            "step": 37,
+            "script": 79002,
+            "text": "では、彼女達を繋ぐ人物とは……？",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.0.8d99a357",
+            "step": 37,
+            "script": 79002,
+            "text": "穂坂先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.1.b6a6da3e",
+            "step": 37,
+            "script": 79002,
+            "text": "霧崎先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.2.e9a95fdc",
+            "step": 37,
+            "script": 79002,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那么，将她们联系在一起的人是……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79002.52.0.8d99a357",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"穂坂先生\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79002,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79002-37",
+          "step": 37
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79002:4344596.21dbd83b",
+            "step": 37,
+            "script": 79002,
+            "text": "では、彼女達を繋ぐ人物とは……？",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.0.8d99a357",
+            "step": 37,
+            "script": 79002,
+            "text": "穂坂先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.1.b6a6da3e",
+            "step": 37,
+            "script": 79002,
+            "text": "霧崎先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.2.e9a95fdc",
+            "step": 37,
+            "script": 79002,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "穗坂老师"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79002.52.1.b6a6da3e",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"霧崎先生\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79002,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79002-37",
+          "step": 37
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.79002:4344596.21dbd83b",
+            "step": 37,
+            "script": 79002,
+            "text": "では、彼女達を繋ぐ人物とは……？",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.0.8d99a357",
+            "step": 37,
+            "script": 79002,
+            "text": "穂坂先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.1.b6a6da3e",
+            "step": 37,
+            "script": 79002,
+            "text": "霧崎先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.2.e9a95fdc",
+            "step": 37,
+            "script": 79002,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "雾崎老师"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79002.52.2.e9a95fdc",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"藤原 朝希\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79002,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79002-37",
+          "step": 37
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79002:4344596.21dbd83b",
+            "step": 37,
+            "script": 79002,
+            "text": "では、彼女達を繋ぐ人物とは……？",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.0.8d99a357",
+            "step": 37,
+            "script": 79002,
+            "text": "穂坂先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.1.b6a6da3e",
+            "step": 37,
+            "script": 79002,
+            "text": "霧崎先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79002.52.2.e9a95fdc",
+            "step": 37,
+            "script": 79002,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "藤原朝希"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79003:4349724.a1166c2e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"……確か、湯川果歩だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そして、二人目の犠牲者は菱田桃代。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79003,
+          "page": "79003:4349724",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79003-32",
+          "step": 32
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79003:4349724.a1166c2e",
+            "step": 32,
+            "script": 79003,
+            "text": "……確か、湯川果歩だ。\nそして、二人目の犠牲者は菱田桃代。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……记得是汤川果步。然后，第二名牺牲者是菱田桃代。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79003:4349824.21dbd83b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"では、彼女達を繋ぐ人物とは……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79003,
+          "page": "79003:4349824",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79003-39",
+          "step": 39
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79003:4349824.21dbd83b",
+            "step": 39,
+            "script": 79003,
+            "text": "では、彼女達を繋ぐ人物とは……？",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.0.8d99a357",
+            "step": 39,
+            "script": 79003,
+            "text": "穂坂先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.1.b6a6da3e",
+            "step": 39,
+            "script": 79003,
+            "text": "霧崎先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.2.e9a95fdc",
+            "step": 39,
+            "script": 79003,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那么，将她们联系在一起的人是……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79003.54.0.8d99a357",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"穂坂先生\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79003,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79003-39",
+          "step": 39
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79003:4349824.21dbd83b",
+            "step": 39,
+            "script": 79003,
+            "text": "では、彼女達を繋ぐ人物とは……？",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.0.8d99a357",
+            "step": 39,
+            "script": 79003,
+            "text": "穂坂先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.1.b6a6da3e",
+            "step": 39,
+            "script": 79003,
+            "text": "霧崎先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.2.e9a95fdc",
+            "step": 39,
+            "script": 79003,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "穗坂老师"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79003.54.1.b6a6da3e",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"霧崎先生\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79003,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79003-39",
+          "step": 39
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.79003:4349824.21dbd83b",
+            "step": 39,
+            "script": 79003,
+            "text": "では、彼女達を繋ぐ人物とは……？",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.0.8d99a357",
+            "step": 39,
+            "script": 79003,
+            "text": "穂坂先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.1.b6a6da3e",
+            "step": 39,
+            "script": 79003,
+            "text": "霧崎先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.2.e9a95fdc",
+            "step": 39,
+            "script": 79003,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "雾崎老师"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79003.54.2.e9a95fdc",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"藤原 朝希\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79003,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79003-39",
+          "step": 39
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79003:4349824.21dbd83b",
+            "step": 39,
+            "script": 79003,
+            "text": "では、彼女達を繋ぐ人物とは……？",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.0.8d99a357",
+            "step": 39,
+            "script": 79003,
+            "text": "穂坂先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.1.b6a6da3e",
+            "step": 39,
+            "script": 79003,
+            "text": "霧崎先生",
+            "translation": null
+          },
+          {
+            "key": "choice.79003.54.2.e9a95fdc",
+            "step": 39,
+            "script": 79003,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "藤原朝希"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79008:4345144.277e4d1f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"菱田 桃代は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"穂坂先生が現在教鞭を取っている\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"大学の教え子。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79008,
+          "page": "79008:4345144",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79008-31",
+          "step": 31
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79008:4345144.277e4d1f",
+            "step": 31,
+            "script": 79008,
+            "text": "菱田 桃代は、\n穂坂先生が現在教鞭を取っている\n大学の教え子。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "菱田桃代，是穗坂老师现在任教的大学里的学生。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79008:4345256.ce6ae0a7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そして湯川 果歩は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"私と同じ須未乃大学の学生で、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"同じく穂坂先生の教え子だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79008,
+          "page": "79008:4345256",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79008-40",
+          "step": 40
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79008:4345256.ce6ae0a7",
+            "step": 40,
+            "script": 79008,
+            "text": "そして湯川 果歩は、\n私と同じ須未乃大学の学生で、\n同じく穂坂先生の教え子だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而汤川果步，是和我一样的须未乃大学学生，也是他的学生。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79008:4345388.5c8a27b7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"やはり穂坂先生が、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この事件の鍵を握っているんだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"確か穂坂先生には、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"付き合っていた相手がいたはずだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79008,
+          "page": "79008:4345388",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79008-50",
+          "step": 50
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79008:4345388.5c8a27b7",
+            "step": 50,
+            "script": 79008,
+            "text": "やはり穂坂先生が、\nこの事件の鍵を握っているんだろうか？\n確か穂坂先生には、\n付き合っていた相手がいたはずだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "果然，掌握这起事件关键的是老师吗？记得他应该有过交往对象。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79008:4345568.df5c8728",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そのお相手は……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79008,
+          "page": "79008:4345568",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79008-63",
+          "step": 63
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79008:4345568.df5c8728",
+            "step": 63,
+            "script": 79008,
+            "text": "そのお相手は……",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.0.e52314bd",
+            "step": 63,
+            "script": 79008,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.1.25bc3cf7",
+            "step": 63,
+            "script": 79008,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.2.e9a95fdc",
+            "step": 63,
+            "script": 79008,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那个人是……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79008.78.0.e52314bd",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"湯川 果歩\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79008,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79008-63",
+          "step": 63
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79008:4345568.df5c8728",
+            "step": 63,
+            "script": 79008,
+            "text": "そのお相手は……",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.0.e52314bd",
+            "step": 63,
+            "script": 79008,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.1.25bc3cf7",
+            "step": 63,
+            "script": 79008,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.2.e9a95fdc",
+            "step": 63,
+            "script": 79008,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "汤川果步"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79008.78.1.25bc3cf7",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"菱田 桃代\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79008,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79008-63",
+          "step": 63
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79008:4345568.df5c8728",
+            "step": 63,
+            "script": 79008,
+            "text": "そのお相手は……",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.0.e52314bd",
+            "step": 63,
+            "script": 79008,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.1.25bc3cf7",
+            "step": 63,
+            "script": 79008,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.2.e9a95fdc",
+            "step": 63,
+            "script": 79008,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "菱田桃代"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.79008.78.2.e9a95fdc",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"藤原 朝希\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79008,
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79008-63",
+          "step": 63
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79008:4345568.df5c8728",
+            "step": 63,
+            "script": 79008,
+            "text": "そのお相手は……",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.0.e52314bd",
+            "step": 63,
+            "script": 79008,
+            "text": "湯川 果歩",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.1.25bc3cf7",
+            "step": 63,
+            "script": 79008,
+            "text": "菱田 桃代",
+            "translation": null
+          },
+          {
+            "key": "choice.79008.78.2.e9a95fdc",
+            "step": 63,
+            "script": 79008,
+            "text": "藤原 朝希",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "藤原朝希"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79009:4350372.34709e66",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"私は、霧崎先生には日頃からお世話になっている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"でも、菱田 桃代と湯川 果歩を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"繋ぐ人物たりえるだろうか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79009,
+          "page": "79009:4350372",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79009-31",
+          "step": 31
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.79009:4350372.34709e66",
+            "step": 31,
+            "script": 79009,
+            "text": "私は、霧崎先生には日頃からお世話になっている。\nでも、菱田 桃代と湯川 果歩を\n繋ぐ人物たりえるだろうか。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我平时受了雾崎老师不少照顾。可他会是联系菱田桃代与汤川果步的人吗？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79009:4350528.78d01296",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"否。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何故なら霧崎先生は女性にモテない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79009,
+          "page": "79009:4350528",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79009-40",
+          "step": 40
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.79009:4350528.78d01296",
+            "step": 40,
+            "script": 79009,
+            "text": "否。\n何故なら霧崎先生は女性にモテない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不可能。因为老师不受女人欢迎。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79009:4350600.619200aa",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"というか、こと恋愛沙汰に関して、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"まったくやる気が感じられない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ま、それはともかく。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79009,
+          "page": "79009:4350600",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79009-46",
+          "step": 46
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79009:4350600.619200aa",
+            "step": 46,
+            "script": 79009,
+            "text": "というか、こと恋愛沙汰に関して、\nまったくやる気が感じられない。\nま、それはともかく。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "或者说，一涉及恋爱，就完全看不出他有什么积极性。嗯，先不管这个。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.79009:4350732.8dcf48f6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"菱田 桃代と湯川果歩を繋いでいるのは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"穂坂先生のはず。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 79009,
+          "page": "79009:4350732",
+          "route": "remaining-70001-branches",
+          "trial": "isolated-79009-55",
+          "step": 55
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.79009:4350732.8dcf48f6",
+            "step": 55,
+            "script": 79009,
+            "text": "菱田 桃代と湯川果歩を繋いでいるのは、\n穂坂先生のはず。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "将菱田桃代与汤川果步联系起来的，应该是穗坂老师。"
+            }
+          ]
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

@@ -1,0 +1,1251 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 50001,
+    "title": "小暮篇 · エレベーター幽霊",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 13362,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "keywords.5125",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "设施",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "福利机构"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5126",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "研究所",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "研究所"
+        },
+        "notes": "原镜像已有简中地点类别，本篇指研究原朋子能力的机构，保持名称。"
+      },
+      {
+        "key": "keywords.5127",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "超能力",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "超能力"
+        },
+        "notes": "核心概念在中文中同形同义，保留规范词形。"
+      },
+      {
+        "key": "keywords.5131",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "腐烂尸体",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "腐尸"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5130",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "木乃伊",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "木乃伊"
+        },
+        "notes": "遗体干燥保存状态的现成简中名称，保留。"
+      },
+      {
+        "key": "keywords.5132",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "绑架事件",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "绑架事件"
+        },
+        "notes": "旧案档案的关键词已为简体中文，保持案件类别。"
+      },
+      {
+        "key": "keywords.5133",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "失踪",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "失踪"
+        },
+        "notes": "人物下落不明状态已为自然中文，不改变案件判断。"
+      },
+      {
+        "key": "keywords.5134",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "连环奇异凶杀事件",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "连环猎奇杀人案"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5135",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "爆炸事故",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "爆炸事故"
+        },
+        "notes": "十年前仓库事件的已有简中标签，保留原叙述的事故称呼。"
+      },
+      {
+        "key": "keywords.5145",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "尸体",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "尸体"
+        },
+        "notes": "源遗体关键词已为简中，无需替换。"
+      },
+      {
+        "key": "keywords.5128",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "心测术",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "触物感知"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5124",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "原朋子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "原朋子"
+        },
+        "notes": "人物专名日中同形；保留原名，不提前改为管理官称呼。"
+      },
+      {
+        "key": "keywords.5129",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "请求合作",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "请求合作"
+        },
+        "notes": "原镜像中文动词标签语义准确，保留。"
+      },
+      {
+        "key": "keywords.5136",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "同一个人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "同一个人"
+        },
+        "notes": "照片辨认的关键词，已有自然简体中文。"
+      },
+      {
+        "key": "keywords.5123",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "年轻的刑警",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "年轻的刑警"
+        },
+        "notes": "分支尾声中的人物描述已为中文，保持角色尚未具名时的信息边界。"
+      },
+      {
+        "key": "keywords.5106",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "粘血",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "假血"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.5141",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "ＪＯＦ事件",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "JOF事件"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.167",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "超能力",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "超能力"
+        },
+        "notes": "辞典标题中日同形，使用与全游戏一致的超能力。"
+      },
+      {
+        "key": "definitions.167",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "既知の科学的常識を越えて様々な超常現象を\nもたらす力。 そのメカニズムは科学的には\n解明されておらず、超能力そのものが\n疑似科学であるとして公的機関での研究は\n殆ど行われていない。 例外として、\n国内の電子機器メーカーがＥＳＰ研究所を\n擁していたが、現在は解散し、存在していない。\n\n超能力は大きく分けてＥＳＰとＰＫの２種類に\n大別される。\nＥＳＰとは日本語で超感覚のこと。\n通常では認識出来ない現象を認識し、\n時には干渉する能力を指す。\n言語に頼らず意志のやりとりを行う\nテレパシーや、身体に接触した相手の\n思念を読み取るサイコメトリー、\n未来を予知するプレコグニションなどの\n超能力が含まれる。\n対してＰＫは念動力と訳され、手を触れずに\n念だけで物体を動かすサイコキネシスや、\n遠隔地にある物体を自分の元へと引き寄せ\nるアポーツなどが含まれる。\n尚、一瞬のうちに空間を移動する\n瞬間移動（テレポート）は、このどちらにも\n分類されない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "超越已知科学常识、据称能引发各种超常现象的力量。其机制尚未获得科学解释，超能力本身也常被视为伪科学，因此几乎没有公共机构开展研究。例外之一，是日本一家电子设备制造商曾设有ESP研究所，不过该机构后来已经解散，不复存在。\n\n超能力大体分为ESP和PK两类。ESP指超感官知觉，即感知通常无法察觉的现象，有时甚至加以干涉的能力。它包括不依靠语言传递意念的心灵感应、通过身体接触读取对方思念的触物感知，以及预见未来的预知能力等。\n\nPK则译作念动力，包括不直接接触、仅凭意念移动物体的意念致动，以及将远处物体引到自己身边的物体移来等。据这种分类，能在瞬间跨越空间的瞬间移动，并不属于以上任何一类。"
+        },
+        "notes": "保留原作超心理学分类与成书时机构状态；以据称及分类归属表达，不把能力描述写成已证科学。 原文２種類译为两类，数值不变。"
+      },
+      {
+        "key": "terms.85",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "パトカー",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警车"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.85",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "白と黒のツートンカラーで塗り分けられ、\n屋根に赤い回転灯をつけた姿でお馴染みの\nパトロールカー。 しかしその中でも、\n交通取締用無線自動車と警ら用無線自動車の\n２種類があることを知っている人は、そう\n多くはないだろう。 前者はその名前が示す\nとおり、交通の取り締まり用のパトカーであり、\n後者は街中を流しているパトロール用の\nパトカーなのである。\nまた意外にも、パトカーのデザインには厳密な\n規定はなく、「車体を白黒色に塗り上部及び\n前面に赤色警光灯と拡声器を備え、\n横部に都道府県名を表記する」という警察庁の\n指定を守ってさえいれば、細部は各都道府県警\nに任されているのである。 その為、\n車体に書かれた県警名も、「○○県警」\nとしているところと、「○○県警察」としている\nところがあったり、その県警名のフォントも、\n製造年によって異なることがある。\n\nパトカーに用いられる車種は、ほとんどが国産の\nものであるが、エンジン性能など内部構造は\n市販車とは全く異なっている為、\n各自動車メーカーには「パトカー」\n「パトロールカー」というグレードが存在している。\nまたこれらの車種を掲載したカタログが\n存在していると言われているが、その請求、\n閲覧は警察関係者以外には不可能である\nらしい。\nまたパトカーはそのほとんどが国産車だと\n前述しているが、ごく一部の例外として、\n覆面パトカーの一部には、輸入車も存在\nしている。 しかし高級車として知られる\n車種の為、追尾していても目立ってしまい、\n全国でも１０台に満たない数しか存在して\nいないようだ。\n\n尚、パトカーの上部に載せられている\n赤い回転灯をパトライトと呼ぶが、これは\nそのパトライトを作っている、大阪にある\n電気機器メーカーの登録商標である。\nまたこのパトライトを日本の警察に導入させた\nのは、とある映画評論家だと言われている。\nパトカーの屋根に書かれた対空表示用の\nナンバリングも、同じ人物による提言だと\n言われているが、真偽のほどは明らかではない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人们熟悉的巡逻警车，通常采用黑白双色车身，车顶装有红色旋转警灯。但它们还分为交通执法无线电车辆和巡逻无线电车辆两类，知道这一点的人，或许并不多。前者顾名思义，用于交通执法；后者则在街道上巡逻。\n\n令人意外的是，警车外观并没有细致到每一处的统一规定。只要遵守警察厅所定的要求——车身涂成黑白色，上部及前面配备红色警灯和扩音器，侧面标注都道府县名称——细节便由各地警方自行决定。因此，车身上的名称有的写作『○○县警』，有的写作『○○县警察』，字体也可能随制造年份而不同。\n\n警车采用的车型大多为日本国产车。不过，原作资料称，其发动机性能等内部配置与市售车不同，因此各汽车厂商都有名为『警车』或『巡逻车』的专用规格。据说也有列出这些车型的目录，但非警务人员似乎无法索取或查阅。前面说警车大多采用国产车，少数例外则包括部分进口便衣警车。不过，由于这些车型以豪华车闻名，跟踪时反而容易引人注意，据说当时全日本还不到10辆。\n\n另外，警车顶上的红色旋转警灯常被叫作『PATLITE』，但这其实是生产该产品的一家大阪电气设备厂商的注册商标。据说，最初建议日本警方采用这种警灯的是某位电影评论家。也有说法称，车顶供空中识别的编号同样出自此人的建议，不过真伪尚不明确。"
+        },
+        "notes": "保留原作时期的车辆数量、配置概括与传闻；涉及制造规格以原作资料归属，不冒充现行采购规范。 原文最上階の上部、最下階の下部的说明完整保留；原文１０译作10，未变数值。"
+      },
+      {
+        "key": "terms.86",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "宇宙人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "外星人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.86",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "未確認飛行物体、いわゆるＵＦＯに乗ってやって\nくるという、地球とは異なる星に住む生物のこと。\n\n一般的に、人間と同等か、遥かに凌駕する\n知的生命体で、地球の科学技術ではない、\n未知のテクノロジーを持つとされている。\nその存在が広く知れ渡るようになったのは、\nＳＦ小説の父、Ｈ・Ｇ・ウェルズが１８９８年に\n発表した『宇宙戦争』であるとされている。\n目撃例は世界各国に多種多様にあり、\n宇宙人に誘拐され人体実験をされたという\nような話まである。 例えば１９７９年に\nターナーという人物がヴァージニア州内で\nトラックごと誘拐され、左胸に何かを埋め\n込まれたという。 また他にも、メイン州で\nＵＦＯのアクロバットショーを目撃した人物、\nＵＦＯの力で瞬間移動を果たした人物と\n様々にいる。 いずれの例で目撃される\n宇宙人も様態は様々で一様ではない。\n公式には宇宙人が存在するという報告も発表も\n一切されていない。 だが、現に地球に\n知的生命体である人類が存在する以上、\n他の惑星にも存在すると考えるのは理解出来る。\nしかし、その立証をするには、有機生命体に\nとって無限とも思える時間の中で、地球に到達\n可能な知的文明が我々と遭遇出来る可能性は\nとても低いと考えるのが妥当かもしれない。\nだがしかし、宇宙人がいる可能性は零では\nないはずだ。 その指標として、アメリカの\n天文学者、フランク・ドレイクが１９６１年に\n提唱したドレイクの方程式が存在する。\nこの方程式の詳細は割愛させて頂くが、\nこちらによると宇宙空間に存在する知的文明の\n数はもっとも楽観的で数百万、反対に悲観的な\n数で１———すなわち、地球文明ただひとつ\nである。\n人類が宇宙空間に飛び出してから、長い年月が\n経つが、いまだに隣の惑星に有人飛行が\n出来ない現状から考えると、地球に飛来する\n宇宙人は、我々の想像を遥かに越えた\nテクノロジーを持っているに違いない、\nと推測出来る。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "指生活在地球以外的星球上，据说乘坐不明飞行物——也就是UFO——来到地球的生物。\n\n通常被设想为智力与人类相当、甚至远超人类的智慧生命，并掌握地球科学之外的未知技术。有说法认为，让外星人的概念广为人知的，是被誉为科幻小说之父的H·G·威尔斯于1898年发表的《世界大战》。\n\n世界各地有各种各样的目击传闻，甚至有人声称遭到外星人绑架，被用来进行人体实验。例如，1979年，一位名叫特纳的人据称在弗吉尼亚州连人带卡车一起被掳走，左胸被植入了某种东西。此外，也有人声称在缅因州看见UFO表演特技飞行，或借助UFO的力量完成瞬间移动。各类目击报告中的外星人形态各异，并不统一。\n\n官方并未公布或报告过确认外星人存在的消息。不过，既然地球上确实存在人类这样的智慧生命，认为其他行星也可能存在，并不难理解。可是，要证实这一点，或许应先承认：在对于有机生命而言近乎无限的时间尺度中，一个能够到达地球的智慧文明恰好与我们相遇，概率可能极低。\n\n即便如此，外星人存在的可能性应当也不是零。美国天文学家弗兰克·德雷克于1961年提出的德雷克方程，就是一种探讨尺度。这里不展开方程细节；依不同假设，宇宙中的智慧文明数量，最乐观时可估算到数百万，最悲观时则只有1个——也就是地球文明。\n\n人类进入太空已经多年，却仍无法实现前往邻近行星的载人飞行。从这一现状推想，若真有外星人来到地球，他们掌握的技术，一定远远超出我们的想象。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.91",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "逮捕術",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "擒拿术"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.91",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "相手に与える打撃を必要最低限にとどめ、安\n全かつ効果的に制圧、逮捕する技のこと。\n主に警察官が職務執行する場合に使う。\n剣道や空手、合気道などの格闘技や護身術\nを参考に出来あがった。\n犯人制圧の為の武道である為、極めて\n実戦的な技で構成されている。 警察庁の\nホームページによると、相手の急所を攻撃\nする「前突き」「胴突き」「前蹴り」。 攻撃をかわ\nして手の自由を奪う「小手返し」「受け止め」。\n制圧して手錠をかける「前固め」「後固め」\nなどの技がある。 総合格闘技と一線を画す\nのは相手を制圧する為急所攻撃を容認\nしていることだろう。 警察官の職務遂行の為\n必須とされる実技で、警察学校を卒業する\n為に逮捕術検定で初級に合格することが\n目標とされている。 また、かような実戦術の\n更なる技能向上の為、大会も催されている。\n同時に審判方法も研究されており、過去二回\n———昭和５８年と平成３年に審判規則が\n改正されている。 規範制定は昭和２３年。\nちなみに同年は警察法施行、自治体警察発足、\n警察官等職務執行法公布、警察官拳銃\n使用及取扱規定、警察礼式、警察操典、\n警察点検規定など、戦後治安体制の礎に\nなった多くの規定が定められた。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "尽量将对对方造成的伤害控制在必要限度内，安全、有效地制服并逮捕对方的技术，主要用于警察执行职务。它参考剑道、空手道、合气道等武术和防身术形成。\n\n由于目的在于制服犯人，其招式具有很强的实战性。原作引用警察厅网站介绍，包括攻击要害的『前突』『胴突』『前踢』，避开攻击并限制对方手部活动的『小手返』『接挡』，以及制服对方、便于上铐的『前固定』『后固定』等。它与综合格斗的区别之一，在于为制服对方而容许攻击要害。\n\n这是警察履职所需的实技，警察学校以通过初级擒拿术检定作为毕业目标之一。为进一步提高实战技能，也会举行比赛，并同时研究裁判方法。原作记载，裁判规则曾于昭和58年和平成3年两度修订，规范则制定于昭和23年。\n\n同一年，警察法施行、自治体警察成立，《警察官等职务执行法》公布，警察手枪使用及操作规定、警察礼式、警察操典、警察检查规定等，也相继建立，构成战后治安体制的重要基础。"
+        },
+        "notes": "保留原作警务术语、年号和历史法规列表；不将当时说明扩写为现代执法授权。"
+      },
+      {
+        "key": "terms.149",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "よく分かったな",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "你还真看出来了"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.149",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "この話にはバリエーションがいくつか存在し、\n交差点編、渋谷編、市ヶ谷編などがある。\n話はこうだ。\n\nとある霊感体質の少女が交差点で信号待ち\nをしていたところ、向こう側の人の群れの中に、\n一種異様な女性が立っていた。 彼女は\nまるでこの世のものとは思えない雰囲気を\n漂わせている。 その女性の視線を感じると急に\n寒気を覚えたので少女は目を合わせない\nようにして信号を渡ろうとした。 しかし、\nすれ違いざまその女性はこう言った。\n「見えてるクセに……」と。\n\nこれは交差点編の話である。 渋谷編、市ヶ谷編\nも同様の話にまとめられており、いずれも\n「見えてるクセに」というこの世ならざる者の\nセリフで締めくくられている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这个故事有好几个版本，包括路口篇、涩谷篇、市谷篇等。故事是这样的。\n\n一位具有灵感体质的少女，正在路口等红灯。她看见马路对面的人群中，站着一个异样的女人，周身散发着仿佛不属于这个世界的气息。感觉到对方的视线，少女忽然一阵发冷，于是尽量不与她对视，准备穿过马路。可两人擦肩而过时，那女人却说：\n『明明看得见我……』\n\n这就是路口篇。涩谷篇和市谷篇的情节也大致相同，最后都以那个不属于此世的存在所说的『明明看得见我』收尾。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.87",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "タクシーの中の怪談",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "出租车里的怪谈"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.87",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "あるタクシー運転手の話だ。 深夜の１２時\nを過ぎた頃、京都市内でひとりの女性を乗せた。\n３０歳前後の色白で髪の長い細身の女性だ。\n「高槻方面へ」という彼女の希望どおり、\n運転手は高槻市へ向かった。 市内へ入るまで、\n女性はひと言も話さず俯いたままだった。\nようやく口を開いた女性は行き先を細かく\n指示し、車はいつしか山道へと入っていた。\n明かりも、月もない夜。\n重い闇がタクシーを包む。 運転手は本当に\nこの道でよいのかと疑問を持ちながらも先へ\n進む。 ２０分ほど走ったところで、女性が\n「ここで」と言い、車を止めて運転手が\n振り返ったとき、既にそこに女性の姿はなかった。\nだが、外から女性の運転手を呼ぶ声が聞こえ、\n目をこらしてみると足の浮いた女性が……。\nそしてその首が、ろくろっ首のごとく、\nぐにょんと伸び、運転手のそばへ顔だけ近づけて\n「ありがとうございました」と囁いた。\n",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这是一个出租车司机的故事。某天深夜12点过后，他在京都市内载了一位女性。她大约30岁，皮肤白皙，长发，身材纤细。按照她『去高槻方向』的要求，司机向高槻市开去。\n\n进入市区前，她一直低着头，一句话也没说。终于开口后，她开始详细指路，车子不知不觉驶上了山路。那晚没有灯光，也没有月亮，沉重的黑暗笼罩着出租车。司机一边怀疑这条路是否真的正确，一边继续前行。开了大约20分钟，女人说『就在这里』。司机停车回头，却发现她已经不在车里了。\n\n可车外传来她呼唤司机的声音。定睛一看，那女人双脚竟悬在空中……紧接着，她的脖子像轱辘首一样扭动着伸长，只有脸凑到司机身旁，轻声说道：\n『谢谢您。』"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.88",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "テレビ番組",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "电视节目"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.88",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ある一時期ＴＶではオカルトブームが巻き起こり、\n心霊現象の検証番組や、心霊スポットを\n紹介する番組などが数多く放映されていた。\nそのような番組内で怪奇現象が報告される\n例もあるが、まったくオカルトとは関係のない\nＴＶ番組やＣＭであり得ないモノが映り込んだり、\n出演者に呪いがかかっているという噂が\n広まることもある。 例えば、１９９１年２月２７日\n放送の某ニュース報道番組でメインキャスター\nの背後左側に人の顔らしきものが映っていた\nという。 丁度その９日前に同番組の解説員が\n亡くなっており、故人の姿ではないかと噂されて\nいる。 また、『某桃味の清涼飲料水』と\n『某ボックスティッシュ』のＣＭに出た出演者、\n及びスタッフが次々と不幸に見舞われ、\nけが人や病人、さらには死人までもが続出した\nことから呪われていると噂されている。\n\nまた１９７０年代にはとあるワイドショーで、\n生首を描いたという掛け軸を紹介したところ、\n収録中、閉じている生首の目が開くという事件\nもあった。 打ち首になった者の首を描いたこの\n掛け軸は、滴る血を本物の血で描いたという噂\nもあり、オカルトファンのみならず、一般視聴者\nまでも大いに震え上がらせた。\n掛け軸の目が本当に開いたのかどうか、はっきり\nしたことは分かっていないが、光の角度でそう\n錯覚したという説や、目の部分に蠅が止まって\nいたとする説、あるいは本当に掛け軸の目が\n開いたのだという説まで様々であるが、この\n掛け軸は現在も青森県内の寺で保管されている\nという———。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "有一段时期，电视上掀起神秘学热潮，验证灵异现象、介绍灵异地点的节目层出不穷。这样的节目中，偶尔也有人报告怪异现象。不过，就连与神秘学完全无关的电视节目和广告，也会传出拍到不该出现的东西，或演出者遭到诅咒的传闻。\n\n例如，据说在1991年2月27日播出的某新闻节目里，主播左后方出现了像人脸的东西。而该节目的一位评论员恰好在9天前去世，因此有人猜测，那是逝者的身影。另有传闻称，参与『某桃味饮料』及『某盒装面巾纸』广告的演员和工作人员，接连遭遇不幸，不仅有人受伤、生病，甚至有人死亡，于是被认为中了诅咒。\n\n1970年代，某电视综合节目介绍了一幅画着断头的挂轴。录制过程中，画中原本闭着的眼睛竟然睁开了。据传，这幅描绘斩首者头颅的画，连滴落的血都是真血绘成，不仅神秘学爱好者，连普通观众也大受惊吓。\n\n画中的眼睛究竟有没有睁开，至今并不清楚。有人认为是光线角度造成的错觉，有人认为是苍蝇停在眼睛附近，也有人坚信眼睛真的睁开了。据说，这幅挂轴如今仍保存在青森县的一座寺院里——"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.89",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "足のない幽霊",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "没有脚的幽灵"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.89",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "幽霊には足がない、という考えは、日本人の\n多くが持っているものだ。 東京谷中の\n臨済宗寺院全生庵には、円山応挙をはじめ\nとして、安藤広重、菊池容斎らの幽霊画を\n所蔵しているが、そこに描かれる幽霊には\n全て足がない。 その理由として、歌舞伎で\n幽霊を登場させるのに漏斗と呼ばれる先の\n細くなった衣装で足を隠すところから\n一般化したという説が有力である。\n円山応挙の描いた幽霊の絵が元になった\nという説もある。\nだが、足のない幽霊を描くもっとも古い資料と\nされているのが、寛文１３年（１６７３年）刊行の\n古浄瑠璃「花山院きさきあらそひ」の挿絵\nなのである。\nよって、これらから導き出される結論として、\n幽霊には足がない、という観念が流布したのちに、\nそれを舞台や絵画に表現したものと\n考えられる。\nただ、その観念は近年において崩れているようだ。\n国際的なＪホラームーブメントにおいて\n「足のない」幽霊はむしろ少ない。\nそして伝統的な表現様式に反するものを\n違和感なく受け入れているようだ。\nこれの一つの要因として、「幽霊の実録もの」の\n台頭が考えられる。 つまり、ホームユーザーが\n撮影した「幽霊」が一定の説得力を持つこと\nにより、既存のドラマツルギーの中に存在して\nいた幽霊の固定観念が崩されたということ。\nまた同時に、幽霊の恐怖の源泉が「足のない事」\nではなく、「不合理なシチュエーションの中に\n存在する怪異」に力点が置かれているから\nであろう。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "许多日本人都认为，幽灵没有脚。东京谷中的临济宗寺院全生庵，收藏着圆山应举、安藤广重、菊池容斋等人的幽灵画，画里的幽灵都没有脚。关于这一形象的来源，一种有力说法是：歌舞伎演出幽灵时，用被称为『漏斗』、下摆渐细的服装藏住双脚，后来这种形象逐渐普及。也有人认为，其源头是圆山应举的幽灵画。\n\n不过，目前被视为最早描绘无脚幽灵的资料，是宽文13年（1673年）刊行的古净琉璃《花山院后妃之争》的插图。因此，也可以认为，是『幽灵没有脚』的观念先流传开来，之后才被搬上舞台和画作。\n\n然而，近年这种观念似乎正在瓦解。在席卷国际的日式恐怖热潮中，『没有脚』的幽灵反倒很少，而观众也毫无违和地接受了这些与传统表现不同的形象。\n\n其中一个原因，可能是『幽灵实录影像』的兴起。普通人拍下的『幽灵』影像获得一定说服力，打破了既有戏剧表现中的固定印象。同时，幽灵恐怖的重点，也已不再是『没有脚』，而转向了『出现在不合理情境中的怪异』。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.199",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "エレベーター幽霊",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "电梯幽灵"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.199",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "狭い密室に、見知らぬ他人同士が乗り合わせる\n———というシチュエーションのせいだろうか。\nエレベーターにまつわる怪談は、洋の東西を\n問わず数多い。\n\n高層ビルの上層階で、エレベーターを待って\nいたビジネスマンは、ようやくやってきた\nエレベーターの乗客の中に懐かしい顔を見た。\n何と数十年も会っていない旧友がいたのだ。\n思わぬ再会に喜んで手を差し出すと、何故か\n旧友は「あっちへ行け」というように左右に手を\n振る。 ビジネスマンが思わず後退りすると、\nその鼻先でエレベーターのドアは閉じてしまった。\nエレベーターは降下を始め……そして間もなく\n大音響とともにエレベーターは墜落。\n乗客は全員死亡という大惨事であった。\n突然の出来事に驚くビジネスマンは、\nその時になってようやく思い出す。\nエレベーターに乗っていた旧友は、\n随分前に死んでいたことを———。\n\n勿論我々が日常使っているエレベーターには、\n一定速度を越えると作動する調速機が備え\nつけられ、急停止がかかるようにされている。\nさらにエレベーターの最上階の上部、最下階の\n下部には緩衝機に類するものが設置されて\nおり、急停止で止まらなかった際にも衝撃を\n緩和するよう設計されている。 それでも\nこうした怪談が囁かれるのは、近年相次いだ\nエレベーター事故も一要因であるといえよう。\nただ、さらにその背景を探ると、『失われた１０年』\nと言われる経済不況と、それを打破する為に\n行った政府の規制緩和政策も関係している\nのかもしれない。 かつて日本経済は自由主義で\nありながら、様々な保護政策———\n護送船団方式によって安定的な成長を行って\nきた。 しかしそれではバブル以降の大不況を\n克服出来ないと判断した与党は様々な\n法規制の緩和、もしくは撤廃を打ち出した。\nそれの副作用として品質の低下、産業の\n空洞化、外資参入による既存の観念を\n無視する産業行動が目立ち始める。\nそのひとつがエレベーター事故であり、先の\n怪談が蔓延する社会的要因を形成したのだ。\n怪談をただ怖がるのではなく、その影に潜む\nものを正確に掴むことが出来るならば、それ\nはひとつの示唆を見出せるのかもしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "互不相识的人，一起进入狭小的密闭空间——或许正因为这种情境，无论东西方，关于电梯的怪谈都非常多。\n\n一名上班族在高楼上层等电梯。好不容易等到电梯，他却在乘客中发现了一张怀念已久的脸：竟是一位几十年未见的老友。他因意外重逢而高兴地伸出手，对方却不知为何，左右摆手，仿佛在说『到别处去』。他下意识往后一退，电梯门就在鼻尖前合上了。电梯开始下降……不久后，伴随巨响，电梯坠落，所有乘客全部身亡。\n\n面对这突如其来的惨剧，他终于想起来：刚才站在电梯里的那位老友，早就已经死了——\n\n当然，我们平日使用的电梯设有限速器，超过一定速度便会启动紧急制动。此外，原作还提到，在最高层上部、最低层下部设置有类似缓冲器的装置，用来在紧急制动未能停止时减轻冲击。即便如此，怪谈仍然流传，近年接连发生的电梯事故，也可说是原因之一。\n\n进一步追溯其背景，或许还与被称为『失去的10年』的经济低迷，以及政府为打破困境推行的放松管制政策有关。过去，日本经济虽属自由主义体系，却借助各种保护政策——『护送船团方式』——实现稳定增长。但执政党判断，这样无法克服泡沫破裂后的严重萧条，于是提出放宽或撤销多项法规。\n\n原作认为，其副作用包括质量下降、产业空心化，以及外资进入后无视既有惯例的产业行为增多。电梯事故是其中一例，也形成了上述怪谈扩散的社会背景。若不只是一味害怕怪谈，而能准确看清其阴影中潜藏的东西，也许便能从中得到某种启示。"
+        },
+        "notes": "保留原作安全装置概述与经济评论，以原作归属标明时代观点，不自行补正成现代电梯技术规范。"
+      },
+      {
+        "key": "terms.150",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "嫁",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "媳妇"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.150",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "童話や昔話の中には、人と人ならぬものとの\n婚姻譚が多く見られる。\n\n例えば、雪女はいわゆる雪の精だが、巳之吉という\n男と結婚し、十人の子供を儲けた。\n子供の母となっても雪女は若く、美しいまま。\n結婚当初の容姿をいつまでも保って\nいたという———。 これは小泉八雲の\n「怪談」に収められた物語のひとつだ。\n\nこれらの物語の傾向として、夫が異類の際\nには何かと引き換えに女性が異類と結婚する\nパターンが多く、その為か最終的に婚姻\nそのものは破局に終わることが多い。\n一方嫁が異類の場合は、異類が望んで\n嫁に来る、恩返しに嫁入りしてくるなどの\nパターンが多く、ハッピーエンドで終わるもの\nも多い。 しかし婿やその親族に対して、\n特定のものを見てはいけないという禁忌を\n課し、それを破ったがために嫁は夫の元を\n去ってしまうこともある。\n\nまた、現代でも語り継がれている浦島太郎\nには、乙姫という美しい女性が出てくる。\n万葉集に残されているこの話の原型によれ\nば、浦島太郎は乙姫と結婚しており、その\n乙姫は海神の娘であり、亀として描かれている。\nこれもまた異類婚姻譚のひとつなのだ。\n平安時代に活躍した稀代の陰陽師・安倍晴明\nの母も、信太の森に住まう白狐であった\nと伝えられている。\nこうした異類婚姻譚は日本に限らず、\n世界各地の民話に見ることが出来る。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "童话和民间故事中，经常出现人类与非人之物结为夫妻的故事。\n\n例如，雪女可说是雪的精灵，却与一个名叫巳之吉的男人结婚，生下十个孩子。即便成为母亲，雪女依旧年轻美丽，始终保持着新婚时的模样——这是小泉八云《怪谈》收录的故事之一。\n\n这类故事中，如果丈夫是异类，往往是女性出于某种交换条件而嫁给他，因此婚姻常以破裂收场。相反，如果妻子是异类，常见的则是她自愿嫁来，或为了报恩成为妻子，结局幸福的也不少。不过，也有异类妻子对丈夫及其亲属设下『不许看某样东西』的禁忌，结果因禁忌被打破，妻子离开丈夫。\n\n至今仍广为流传的浦岛太郎故事中，也出现了名叫乙姬的美丽女性。按照《万叶集》中保留下来的原型，浦岛太郎与乙姬结了婚，而乙姬是海神之女，并被描写为龟。这同样属于异类婚姻故事。平安时代著名阴阳师安倍晴明的母亲，也被传为住在信太森林中的白狐。\n\n这样的异类婚姻故事，不仅见于日本，在世界各地的民间传说中也能找到。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.90",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "隠密捜査",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "秘密侦查"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.90",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "隠密捜査とは秘密裏に事件を捜査し、\n解決に導く方法を言う。 基本的には、\n公安部がその捜査を担っているようだ。\n\nこの公安部と刑事部は特に仲が悪く、\nかつて、公安部と刑事部が手を組んで\n事件解決の捜査を進める予定だったところ、\n公安部が隠密捜査を進め、刑事部に\n黙ったまま捜査を展開し、電光石火で\n犯人を逮捕してしまったことがあるらしい。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "指在秘密中调查案件，并推动案件解决的方式。据说，这类调查基本由公安部门承担。\n\n据传，公安部与刑事部尤其不和。过去曾计划由双方合作推进某起案件，公安部却暗中展开秘密调查，瞒着刑事部，迅雷不及掩耳地逮捕了犯人。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.92",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "内部告発",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "内部告发"
+        },
+        "notes": "辞典标题中日同形，沿用正文与关键词的内部告发。"
+      },
+      {
+        "key": "definitions.92",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "２００４年（平成１６年）６月にいわゆる、人々の\n利益（公益）の為に企業の不正行為を\n内部告発しても、解雇など不利益を\n受けないように通報者を保護する、\n公益通報者保護法が成立した。\n\nしかしながら、この法律にはまだまだ問題点も\n多く、通報対象が刑法や食品衛生法など\n７法令の犯罪行為に限定されている点、保護\nされる対象も退職者を含む労働者（公務員）、\n派遣労働者、取引事業者の労働者と狭い点、\n通報内容には切迫性、確実性の要素が\n強調されていて、かえって内部告発を抑制する\n恐れがある点、があげられている。\n\n付帯決議では、見直しの際にこれらを再検討\nすることが求められている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "2004年（平成16年）6月，为保护出于公共利益揭发企业违法行为的内部举报者，使其不因举报而遭受解雇等不利待遇，日本通过了《公益通报者保护法》。\n\n原作在当时指出，这部法律仍有不少问题：举报对象限于刑法、食品卫生法等7项法令规定的犯罪行为；受保护者的范围也较窄，包括含离职者在内的劳动者（公务员）、派遣劳动者和交易伙伴企业的劳动者；对举报内容又强调紧迫性与确实性，反而可能抑制内部告发。\n\n附带决议要求，在修订法律时重新审议这些问题。"
+        },
+        "notes": "保留原作2004年法律叙述及7项法令数字，明确为原作当时的评论；不当作现行法律指南。"
+      },
+      {
+        "key": "terms.96",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "精気",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "精气"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.96",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "精神と気力のこと。\n人間が生きていく上で必要なものである。\n\n顔色が悪かったり死人のような表情をしてい\nる人間を精気がない、などと言ったりする。\n妖怪や魔物とされるものの中には人間の\n精気を主食とするものも多く、鬼車などの妖怪や\nサキュバスなど夢魔とされるものが代表的\nである。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "指精神与气力，是人活下去所需要的东西。\n\n人们常用『没有精气』形容脸色不好、神情如同死者的人。传说中的妖怪或魔物里，也有许多以人类精气为食，代表包括鬼车一类妖怪，以及魅魔等梦魔。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.97",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ダイエット",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "减肥"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.97",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ダイエットの意味を語源から考えると一日に\n必要な定量のことをいう。 また、現代に\n至っては、肥満を克服する為に、運動を\nしたり食事制限をしたりすることそのものを\n指すようになった。\n\n現在では様々なダイエット法が確立されており、\n社会現象にまで発展するものまである。 また、\n痩せたいあまりに、摂食障害に陥ることも。\n\n２００７年におけるダイエットに関する流行は、\nアメリカからやってきたエクササイズビデオが\n一番顕著だろう。 それまで流行していた、\n電気刺激による筋肉運動とは違い、「まっとうに\n身体を動かす」「キツイけど励みになる」などと\n口コミで話題となり、大ブームとなった。 流行\nの発信源のアメリカでは既にそのブームは\n過ぎ去ったが、一時期、フィットネススタジオでも\nこのビデオを取り入れたプログラムを採用して\nいたという。 ただし、日本のこのブームを本国\nでは冷やかに見ているようだ。 値段は２～３倍\nもして、かつもう流行っていないのに日本人は\n相変わらず人の尻だけを熱心に追いかけるん\nだな、と冷笑しているとかいないとか。\nまた、もうひとつのダイエット方法の流行の兆し\nが現在でも芽生えている。 それは食事を記録\nすること。 それ自体に運動効果はまったくない\nが、「記録する面倒さ」から食事を控える効果\nを発揮して減量に繋がるという。\n何にせよ、体重管理は自己コントロールの\n基本でもある。 ダイエットすること自体は悪で\nはないはずだ。\n\nダイエットに関する都市伝説は、少し前に流行\nした、振動器具の話だろう。 該当部位だけ鍛え\nられることによって周囲の筋肉と硬度に差が発\n生し、耐えきれなくなった境界線からぶちぶち\nと筋肉繊維が切れ、皮下出血してしまうという\nものだ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "从词源看，diet指每日所需的定量饮食。到了现代，它也用来指为克服肥胖而进行的运动或饮食限制。\n\n如今，减肥方法五花八门，有的甚至发展成社会现象。也有人因过度追求瘦身，而陷入进食障碍。\n\n说到2007年的减肥热潮，最显眼的恐怕就是来自美国的健身录像。与此前流行的电刺激肌肉运动不同，它因『实实在在活动身体』『虽然辛苦，却让人振奋』等口碑，迅速成为风潮。在发源地美国，这股热潮早已过去，不过，据说一度也有健身工作室将录像内容编入课程。\n\n据说，美国人却对日本的热潮冷眼相看：价格贵了2～3倍，早已不流行了，日本人却还在拼命跟风——有没有人这样讥笑，姑且不论。与此同时，另一种减肥方法也开始流行，那就是记录饮食。记录本身并无运动效果，却据说能让人因为『嫌记录麻烦』而少吃，最终减重。无论怎样，体重管理也是自我管理的一部分，减肥本身不该被看作坏事。\n\n与减肥有关的都市传说，则包括不久前流行的振动器材。据说，只锻炼某个部位，会使该处肌肉与周围肌肉的硬度产生差异，交界处无法承受，肌纤维便接连断裂，导致皮下出血。"
+        },
+        "notes": "保留2007年健身热潮的时代背景、原文议论与都市传说归属，不将振动器材传闻写成医学事实。"
+      },
+      {
+        "key": "terms.99",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "腐乱死体",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "腐尸"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.99",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "人が死ぬと、遺体には色々な死後変化がおきる。\nこのような死体現象には大きく時期で分けて、\n早期死体現象と晩期死体現象の二つが\n存在する。 死斑や死後硬直、体温の低下の\n三つを早期死体現象と称する。 晩期死体現象\nというのは、腐敗が始まる死後二日目以降の\n遺体変化のことを言う。 腐乱死体とは、\nつまり晩期死体現象にいたった死体のことを\nいうのだ。\n\n腐敗の発現には温度・湿度・空気の流通などの\n外的条件の他に、死体の年齢・体質・死因などの\n諸条件も大きく影響する。 一般的に空気の\n流通が良い場合は腐敗が促進され、\n悪い場合は遅延する。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人死亡后，遗体会发生各种变化。按出现时期，这些死后现象大致分为早期和晚期两类。尸斑、尸僵及体温下降，属于早期死后现象。原作将晚期死后现象概述为死后第二天起、腐败开始后的遗体变化。所谓腐尸，就是已经进入晚期死后变化的尸体。\n\n腐败出现的时间和程度，除了受温度、湿度、空气流通等外部条件影响，也与死者年龄、体质、死因等密切相关。一般而言，空气流通良好时腐败较快，流通不佳时则较慢。"
+        },
+        "notes": "原作对腐败时间作概括，译文显式归属于原作；不改写成固定适用于所有遗体的医学判断。"
+      },
+      {
+        "key": "terms.98",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ミイラ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "木乃伊"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.98",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ミイラとは古代エジプトにおいて採用されていた、\n遺体の特殊な埋葬方法である。 一定の自然\n条件にあると、特殊な処理を施すことなく、人間\nの遺体はミイラ化する。 しかしながらここでは、\n人為的なミイラの作り方を紹介しよう。\n\nまずは遺体を清めの場といわれる場所に移し、\nナトロンという自然の炭酸ナトリウムと\n重炭素ナトリウムの混合物の溶液に浸す。\nこれで人間の体内にある水分を抜く。\nしかしながらこれだけでは水分を抜くのに充分で\nない為に、今度は乾燥室に入れ、徹底的に身体\nから水分を取り除くと同時に、肉体を固める為\nヘンナなどの植物性のハーブを防腐剤として使う。\nこの時に、遺体に残っている心臓、肝臓、\n肺などの臓器はまず最初に取り出す。 取り出した\n臓器は、カノポス壺といわれるアラバスターなどで\n作られた四つの壺に分けて入れられる。 内臓を\n取り出すことにより、少しでも腐敗をふせぐのだ。\n脳も腐敗に関係するので取り出すが、従来から\n言われているようなかぎ状の棒で鼻から\n引っ掛けて取り出すのは誤りである。\n\n鼻の穴から取り出すのは間違いはないが掻き出す\nのではなく、鼻の奥にある薄い、し板（ばん）と\n呼ばれる膜を棒で突き破って、一気に取り出して\nいたようだ。\n\nこれらの処置が清めの場で行われた後、遺体は\nペル・ネフェル（美しい家）と言われる場所に移さ\nれる。 ここでは、ミイラになった遺体を綺麗な形\nに整形する作業が行われる。 臓器を抜いて\nしまった為にへこんだ部分に、亜麻布にナトロンを\n浸したものを詰めて形を整える。 女性は死出の\n旅の最中に強姦をされないようにということで膣の\n中にも同じような布を詰めたりもする。 このような\n作業は大体七十日程の期間をかけて行われ、\nミイラが出来上がると、ようやく葬儀が行われる\nという。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "木乃伊与古埃及采用的特殊遗体保存、埋葬方式密切相关。在一定自然条件下，人类遗体即使不经过特别处理，也会木乃伊化。这里则介绍原作所述的人工制作过程。\n\n首先，将遗体移到被称为净化场的地方，浸入泡碱溶液。泡碱是一种天然碳酸钠与碳酸氢钠的混合物，用以脱去体内水分。原作接着描述，由于仅靠这一步还不够，遗体会被放入干燥室，进一步脱水，同时用指甲花等植物性材料防腐，使肉体固定。\n\n在处理过程中，心脏、肝脏、肺等内脏会先被取出，分装进四个以雪花石等材料制作、名为卡诺卜罐的容器，以尽量抑制腐败。脑也会被取出。原作认为，通常所说『用钩状棒从鼻腔勾出脑』的说法并不准确；虽然确实经由鼻孔取出，却不是刮出，而是以棒穿破鼻腔深处称为筛板的薄层，再将脑取出。\n\n完成净化场的处理后，遗体会被移到称为佩尔·内费尔、意为『美丽之家』的地方，进一步整理木乃伊的外形。取出内脏后凹陷的部位，会填入浸过泡碱的亚麻布，以恢复形状。据原作叙述，为避免女性在通往彼岸的旅途中遭到强暴，也会在阴道内塞入类似的布。整个过程大约持续七十天，木乃伊完成后，才正式举行葬礼。"
+        },
+        "notes": "完整保留原作木乃伊制作叙述与宗教解释；其中器官处理顺序及心脏等表述存在历史概括，明确归于原作，不冒称现代考古定论。"
+      },
+      {
+        "key": "terms.100",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "サイコメトリー",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "触物感知"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.100",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "時計や写真などの特定の人物の所有物にふれ、\nそこから所有者に関する情報を読み取る\n心霊的な行為。\nアメリカの科学者ブキャナンが提唱した用語で、\nある実験によれば男性の１０人に１人、\n女性の４人に１人がこの能力をもつという。\nこの能力は透視の一種とされ、\nかつて存在した人間の記憶が\nにおいと同様に周囲の事物に残るとする\n超心理学的仮説に依拠している。\nエスプカードによる透視能力実験などは\nこの応用であり、近年ではサイコメトリーを\n用いて犯罪現場の遺留品から犯人や\n被害者の行方を探る試みも英米では\n行われている。\nオランダの透視能力者クロアゼは\nサイコメトリーの警察協力者として著名だ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "通过触摸手表、照片等特定人物的所有物，从中读取物主信息的心灵活动。这个术语由美国学者布坎南提出。据某项实验的说法，男性中每10人有1人、女性中每4人有1人具备这种能力。\n\n它被归为透视的一种，依据的是超心理学中的一种假说：曾经存在的人留下的记忆，会像气味一样残留在周围事物上。使用ESP卡进行的透视实验，也被视为这种思路的应用。近年，英美还出现了尝试通过犯罪现场遗留物进行触物感知、寻找犯人或受害者下落的做法。荷兰透视能力者克罗伊塞特，便因以触物感知协助警方而闻名。"
+        },
+        "notes": "实验比例与能力归类保留原作说法，未视作已证科学；クロアゼ与开场クロワゼット统一克罗伊塞特。"
+      },
+      {
+        "key": "terms.101",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "念動力",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "念动力"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.101",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "物理的エネルギーが介在していない、\nスプーン曲げで有名な金属変形、空中浮揚、\n念写、心霊治療、ポルターガイストなどの\n現象を念動力という。\nこうした、肉眼で大きな変化を確認出来るもの\nをマクロサイコキネシス（マクロＰＫ）と呼ぶ。\n\nその逆の、肉眼で確認出来ない量子力学的\nレベルの変化を起こすものはミクロＰＫと呼び、\n生物体に影響を及ぼすものは生体ＰＫと\n総称されている。\n念動力現象として有名なポルターガイストは、\n反復偶発的であることから、\n反復性偶発性念力（ＲＳＰＫ）という。\n\nある特定の人物が何らかの動機から\n無意識の内に自らの念力を発動させ、\n周囲の物体に何らかの影響を及ぼすのである。\n突然時計が止まる、コップが割れるなどの\n原因不明の現象を単発的な念力現象という。\nこれは肉親や友人の危機的状況や\n死と時間的に近接して起こりやすい。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据超心理学的分类，不通过物理能量介入而出现的金属变形（如弯勺）、空中漂浮、念写、心灵治疗、骚灵现象等，被归入念动力。肉眼能够观察到显著变化的现象，称为宏观意念致动，即宏观PK。\n\n相反，若引起的是肉眼无法确认、量子力学层面的变化，则称为微观PK；对生物体产生影响的，则统称生体PK。著名的骚灵现象，因其反复且自发出现，被称为反复性自发意念致动，简称RSPK。\n\n依这种解释，某个特定人物会出于某种动机，在无意识中发动念力，对周围物体产生影响。时钟突然停止、杯子突然碎裂等原因不明的事件，则被称为单发性的念动力现象。据说，这类现象容易在时间上接近亲属或朋友遭遇危机、死亡的时候发生。"
+        },
+        "notes": "术语按原作超心理学分类表达，RSPK释义作自然中文，未将传闻确认为物理事实。"
+      },
+      {
+        "key": "terms.186",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "超能力捜査",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "超能力调查"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.186",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "マクシミリアン・ランズネルは、\nカナダ史上もっとも不可解な殺人事件の\nひとつを超能力によって解決させた。\nそれがブーハ事件と呼ばれるものである。\n凶器が発見されず、聞き込みによっても\n容疑者と動機が絞り込めず、警察は\n通常以外の手段に訴えることにした。\nそこで、白羽の矢が立ったのがランズネル\nだった。 彼はバンクーバーで起きた\n宝石盗難事件を容疑者の「思考を読む」こと\nで解決に導いていたのだ。 今回の\n殺人事件でも、その力は遺憾なく発揮された。\n警察が犯人の可能性があるとしていた\n人物ではなく、殺された女性の息子が\n真犯人であることをテレパシーで言い当てた\nのである。 この華麗なる逮捕劇は、\nオカルトに対し懐疑的な立場を取っていた、\nイギリスの超常現象研究家であるコリン・\nウィルソンをして「唯一の例外」と言わしめた\nことでも知られている。\nだが一方で超能力捜査には疑問の声も上が\nっている。\n解釈の幅が広がるように、意図的に曖昧さ\nを残した予言を行う「マルティプル・アウト」\nなどを用い、巧みな話術でさも自らの\n超能力で事件が解決したように装っている\n———と言うのである。\nもちろん、この論争にはいまだ明確な決着は\nつけられていない。 謎と神秘のヴェールに\n包まれた超能力のメカニズムが解明された\n暁には、その力で難事件が解決に導かれる\n日もやってくるのかもしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据传，马克西米利安·朗斯纳曾凭借超能力，解决了加拿大历史上最难解释的杀人案之一——布哈案。警方既找不到凶器，也无法通过走访锁定嫌疑人和动机，于是决定求助于非常规手段。被选中的，就是朗斯纳。此前，他曾在温哥华的一起珠宝盗窃案中，通过『读取嫌疑人的思想』帮助破案。\n\n据这则叙述，他的能力在这起杀人案里也发挥得淋漓尽致。他通过心灵感应指出，真正的凶手并非警方怀疑的人，而是遇害女性的儿子。这场精彩的破案过程，也以让对神秘学持怀疑态度的英国超常现象研究者科林·威尔逊称之为『唯一的例外』而闻名。\n\n另一方面，对超能力调查的质疑也一直存在。有人认为，所谓能力者只是使用『多重出口』等手法，故意作出含糊、能容纳多种解释的预言，再凭巧妙话术，营造出案件由自己的超能力解决的假象。\n\n当然，这场争论至今仍未有明确结论。若有一天，笼罩在神秘面纱下的超能力机制得到解释，也许真的会迎来借助这种力量解决疑难案件的时代。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.94",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "犬",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬"
+        },
+        "notes": "原文犬为中文可直接使用的动物名称；对应正文搜查犬比喻及警犬释义，不更改词义。"
+      },
+      {
+        "key": "definitions.94",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "人の６０００倍といわれる鋭い嗅覚で、\n捜査の手助けをするのは警察犬である。\n\n現場に残存する臭いから、容疑者割り出しを\n行うのが彼らの使命だ。 具体的には、\n足跡追及活動、臭気選別活動、捜査活動が\n三本柱となる。 警視庁の場合は、\n警察犬としてシェパード２７頭、\nラブラドール・レトリバー５頭の計３２頭が在籍、\n捜査の最前線で活躍している。\n\n警察犬にシェパードが多いのは、特に鋭敏な\n嗅覚や運動神経、理解力、作業意欲などに\nおいて、シェパードが群を抜いた能力を持って\nいるからだ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "以据称达到人类6000倍的敏锐嗅觉协助调查的，就是警犬。\n\n它们的任务，是从现场残留的气味中锁定嫌疑人。具体而言，主要包括追踪足迹、辨别气味及协助搜查三方面。按原作记载，当时警视厅配有27只德国牧羊犬、5只拉布拉多寻回犬，共32只警犬，活跃于侦查一线。\n\n德国牧羊犬之所以占多数，是因为它们在敏锐嗅觉、运动能力、理解力和工作意愿等方面，具有出色的综合能力。"
+        },
+        "notes": "保留原作6000倍嗅觉的说法及27、5、32的历史数量，明确非当前编制统计。"
+      },
+      {
+        "key": "terms.169",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "御船千鶴子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "御船千鹤子"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.169",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "「千里眼の女」と呼ばれ、透視や念写を得意と\nしていた御船千鶴子であるが、彼女は\n生まれついての超能力者ではなかった。\n熊本県に生まれた御船は、当時流行していた\n催眠術に興味を持った義兄により、\n「透視が出来る」という催眠をかけられて、\nその能力を開花させたのである。\n御船の透視能力は極めて高かったが、同時\nに重大な問題も抱えていた。 透視の際には\nその能力がインチキでないことを示す為、\n必ず御船１人ではなく、監視を兼ねた立合い人\nが付き添っていた。 だが御船は精神統一の\n際にこれから透視する箱を持ち、監視者に\n対して背中を向ける癖があったのだ。\nこれを御船は「正面に向かって見られていては、\n精神統一が出来ない」と説明していたが、\n反対派の疑念の招く行為ともなってしまう。\nそこである時福来は、透視の実験を行う\n御船の顔を垂れ幕で覆い、手元だけを\n見えるようにして正面から透視の様を\n観察したという。\nこうした反対派の疑念は、明治４４年最悪\nの形で噴出してしまう。\n御船は東京へとやってきて、科学者達の\n前で透視実験を行うことになった。\n実験に使われたのは長さ５センチの鉛管。\n両端は溶接して封じられており、中には\n文字の書かれた紙片が収められている。\n問題は実験前日、福来がこれと似たような\n鉛管を、あらかじめ御船に渡していたことだった。\n緊張して精神統一が出来ず、透視に\n失敗することを恐れて、これで練習して\nおくようにと用意したのである。\nそして翌日、御船は待ち受けていた科学者\nから受け取った鉛管と、福来から渡された\n鉛管を手に持ち、福来から預かった鉛管を\n透視してしまったのだ。\nその透視は完全に的中していたのだが、\n実験に使われた鉛管は、福来が用意したもの\nである。 科学者達は、御船が福来より\n渡された鉛管の中身を知っていて、インチキ\nをやらかしたのだと主張した。\nこうした反対派の声を受け、同じ実験は\n翌々日にも再度行われる。 前回と違い、\n今度は立会人達がその場で書き認めた文字を、\n御船は１０分２１秒をかけ透視に成功する。\nだが、前回の失敗があった為、\nやはり科学者達からは懐疑の眼差しを\n向けられることになってしまった。\n自らの能力をインチキと呼ばれ、心痛のあまり\n御船は明治４４年、地元熊本にて自殺を\n遂げてしまう。 それと同時に、千里眼能力の\n真偽もまた、永遠に闇に葬られてしまったのだ。\n\n「千里眼の女」と呼ばれ、数奇な運命を\nたどった女性の心中は、最期の言葉に全て\nが込められているのかもしれない。\n\n「何も申し上げることは、ありません」",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "被称为『千里眼之女』、以透视和念写闻名的御船千鹤子，并非生来就被认为具有超能力。她出生于熊本县，姐夫对当时流行的催眠术感兴趣，给她施以『能够透视』的催眠，据说由此唤醒了她的能力。\n\n原作称，御船的透视能力极高，却也伴随着重大问题。为证明不是作弊，每次透视都会有见证人在场监督。但她在集中精神时，习惯拿着准备透视的盒子，背对监督者。她解释说：『被人从正面盯着，就无法集中精神。』这种行为却也招来了反对者的怀疑。于是有一次，福来用垂帘遮住她的脸，只露出双手，从正面观察实验。\n\n明治44年，这些质疑以最糟糕的形式爆发。御船来到东京，准备在科学家们面前进行透视实验。实验使用一根长5厘米、两端焊死的铅管，内部放有写着文字的纸片。问题在于实验前一天，福来已给过她一根相似的铅管。因为担心她紧张、无法集中精神而失败，福来让她先练习。\n\n第二天，御船手里拿着科学家交来的铅管，以及福来事先给的铅管，却透视了后者。虽然她说出的内容完全正确，可使用的是福来准备的铅管。科学家们因此声称，她早已知道里面写了什么，进行了作弊。\n\n受到质疑后，实验又在隔一天后重新举行。这次的文字由见证人当场写下，原作记载，御船用了10分21秒，成功说出了内容。但由于前一次的问题，科学家们仍对她投以怀疑的目光。能力被斥为骗局，使她痛苦不堪。明治44年，她在故乡熊本自尽。千里眼能力究竟是真是假，也仿佛随之永远埋入黑暗。\n\n被称为『千里眼之女』、经历坎坷命运的她，心中的一切，也许都浓缩在最后那句话里。\n\n『我没有什么可说的了。』"
+        },
+        "notes": "保留原作实验叙事与明治44年等数据；对成功与能力评价标明原作叙述，避免替实验真实性签核。 原文１人译为一人，其余实验时间、长度和年号保留数值。"
+      },
+      {
+        "key": "terms.170",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "福来友吉",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "福来友吉"
+        },
+        "notes": "历史人物姓名中日同形，保留专名。"
+      },
+      {
+        "key": "definitions.170",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "東京帝国大学の助教授として教鞭を振るう\n傍らで、超心理———すなわち超能力の\n科学的検証を行った人物。\n彼の名は超能力者・御船千鶴子の名とともに\n知られているが、本来は心理学の中でも\n催眠を専門としていた学者である。\nその他福来の初期の研究では、催眠術に\nよる感情のコントロールや人格の転換など\nが行われていた。\nこうした研究を重ね、明治４３年、福来は\n長尾郁子を対象とした透視実験中に、\n「念写」という新たな現象を見出す。 この念写\nは長尾だけでなく、幼少時から超能力を\n発揮していた三田光一も得意としていた。\n三田は４０キロ離れた場所に置かれた乾板に、\n月の裏側を念写して見せたのである。 もっとも\n福来はこの時、念写によって映し出されたのは\n月の裏側ではなく、三田の心の中に\nあるイメージだと発言しているが、それでも\n４０キロも離れた場所から、何者の介入も\n許さぬ状況で念写を成功させたことは\n重要なことだと語っている。\nこうした実験を繰り返す為、福来は何人\nもの超能力者を自宅に住まわせていた。 その\n目的のひとつは遠方よりやってきた超能力者達に、\n金銭的にも精神的にも負担をかけず、\n家庭的な雰囲気の中で本来持って\nいる能力を存分に発揮して貰う為。\nそしてもうひとつは、超能力者達の日常を\n観察し、そこに特異性がないかを確かめる\n為であった。\n\nこのように、超心理の研究に没頭する福来\nであったが、大正４年、超能力否定派によ\nり東京帝国大学から去ることとなる。 だが\n高野山での修行、四国巡礼などを経た\n大正１５年、今度は高野山大学の教授として\n復帰してくるのである。 それからも精力的に\n研究を重ね、「大日本心霊研究所（後のむ\nすび協会）」を設立。 海外での出版活動な\nど、超心理学の研究に没頭し、昭和２７年、\n８３歳にてこの世を去った。 その前夜の夜\n中には、突如として大声で「福来友吉第二\n世生まる」と３度繰り返し、「仕事を残した\nまま死ぬのが残念無念である」と残した\nと伝えられている。\n科学ではいまだ解明出来ない超心理学に、\nその生涯を捧げた福来もまた、何かの力に\nよって自らの死を感じとっていたのかもしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "曾任东京帝国大学副教授，同时研究超心理现象、尝试以科学方式验证超能力的人物。他的名字常与御船千鹤子相提并论，不过，他原本是心理学中专攻催眠的学者。早期研究还包括利用催眠控制情绪、改变人格等。\n\n经过一系列研究，明治43年，福来在以长尾郁子为对象的透视实验中，提出了『念写』这一新现象。除了长尾，自幼便据称具有超能力的三田光一，也擅长念写。据说，三田在距离40公里的感光干板上，留下了月球背面的影像。福来当时却表示，那并非月球背面，而是三田心中的图像。不过，他仍认为，能在相距40公里、排除他人干预的情况下完成念写，本身便十分重要。\n\n为反复进行这类实验，福来让多名超能力者住进自己家中。一方面，是为了减轻远道而来者在经济和精神上的负担，让他们在家庭氛围中充分发挥能力；另一方面，也是为了观察他们的日常生活，确认其中是否存在异常特征。\n\n尽管如此投入研究，福来仍在大正4年因超能力否定派的压力离开东京帝国大学。经过高野山修行、四国巡礼等经历后，他于大正15年以高野山大学教授的身份重返学界。此后，他继续积极研究，创办『大日本心灵研究所（后来的结协会）』，并在海外开展出版活动，将精力倾注于超心理学。\n\n昭和27年，他以83岁高龄辞世。据传，在去世前夜，他突然大声喊了3遍『福来友吉第二世诞生』，并留下『未竟工作便要离世，实在遗憾无比』的话。\n\n将一生献给科学尚无法解释的超心理研究的福来，也许同样借助某种力量，预感到了自己的死亡。"
+        },
+        "notes": "保留原作年号、距离及临终传闻；むすび協会译为结协会，组织历史沿用原叙述，不新增考证。"
+      },
+      {
+        "key": "terms.95",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "予知能力",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "预知能力"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.95",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "未来で起こる出来事を感知する力を予知能力\nという。 これに関連して、リモートビューイング\nなる言葉がある。 これは、遠隔透視・遠隔感知\nという意味で、透視能力やテレパシーといった\n能力をさらに広い範囲でとらえ、\n活用出来るレベルにまで高めたものである。\n\n\nいつ、どの地域で地震や洪水、干ばつなどが\n起こるかといった災害を予測する、今はない\nものを見通す力があり、リモートビューイング\nには予感や予知という意味が含まれる。\n\n\n自分にそういう力はないと思いこみがちだが、\n日常生活の中で、人と会ったり、何かしよう\nとする前に、あれこれと成り行きを想像する\nことはないだろうか。 その、自然な\nシミュレーションこそが、リモートビューイングの\n第一段階なのである。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "感知未来将发生之事的力量，被称为预知能力。与此相关，还有一个叫『遥视』的词，意为远距离透视、远距离感知。按相关说法，它将透视或心灵感应等能力扩展到更大范围，并提升到可以实际运用的程度。\n\n例如，预测何时、何地会发生地震、洪水、干旱等灾害，或看见当下尚未出现的事物。因此，遥视这一概念中，也包含预感和预知的含义。\n\n人们常认定自己没有这样的能力。但在日常生活中，与人见面或准备做某件事前，难道不会设想各种可能的发展吗？依本词条所介绍的观点，这种自然而然的预演，正是遥视的第一阶段。"
+        },
+        "notes": "末段把普通想象归为遥视的观点保留并标明观点归属，不暗示科学已确认二者等同。"
+      },
+      {
+        "key": "terms.168",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "長南年恵",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "长南年惠"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.168",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "１８６３年に山形県鶴岡市に生まれた、\n明治の霊能力者。\n\n彼女が家にいると、家の中の物が勝手に\n動いたり、がたがた揺れ出したりと不思議な\nことが次々と起こった。 そのような不思議現象\nはどんどんエスカレートし、天から笛や太鼓、\n琴など雅楽演奏が聞こえてくることもあった\nという。 年恵はまた、何も食べずに若々しい\n肉体を保っていた。 ３０歳を過ぎたあたりから\n煮炊きした食物は一切口にしないようになり、\nしたがって４４歳で亡くなるまで１４年間の間、\n排泄もせず、少女のような姿で年を\nとらなかったと言われている。\n彼女に関する研究文献によると、彼女の能力\nは無から有を生み出す巫術である。 空のビンに\n水を発生させ、それを飲むと病気が治ったという。\nまた、無学な彼女が突如筆を持ち、自動筆記を\n行ったという。 その能力は幼少の頃、農家に\n奉公に出された時から発現したので、\n次第に噂になり巫女として開業したという。\nなんとも不可思議な話であるが、これは公の\n記録に残っている。 明治３３年７月９日の\nとある全国紙の記事によると、彼女の能力を\n疑った新聞記者がやってみせろと言うと、\nいともたやすく「霊水」を出したという。 尚、\nこのような能力を持つ者は長南一族でも\n彼女一人だけで、天神様の力が宿ったとも\n言われている。 それというのも長南の一族は\nルーツをたどると一千年以上前の菅原道真に\n行き着くのだ。\n２００６年１１月には、彼女の没後百年を\n記念して、長南年恵１００年祭が鶴岡市の\n般若寺にて行われた。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "1863年出生于山形县鹤冈市的明治时期灵能力者。\n\n据说，只要她在家中，屋里的东西就会自行移动，或咯咯摇晃，怪事接连发生。后来，现象越来越强烈，甚至会从天空传来笛子、太鼓、琴等雅乐声。\n\n她还被传为不进食也能保持年轻的身体。大约30岁以后，她便不再吃任何煮熟的食物，因此据说直到44岁去世为止，14年间既不排泄，也不衰老，始终保持少女般的模样。\n\n有关她的研究文献称，她的能力是无中生有的巫术：能使空瓶里出现水，喝下后疾病便会痊愈；本无学识的她，也会突然提笔自动书写。据说，这些能力从她幼年到农家帮工时便已出现，渐渐传开，后来她便以巫女为业。\n\n这些故事听来不可思议，却也留在公开记录中。据明治33年7月9日某全国性报纸记载，一名怀疑其能力的记者要求她当场展示，她便轻而易举地变出了『灵水』。长南家族中，只有她一人被认为拥有这种能力，也有人说是天神之力寄宿于她。因为长南一族若追溯根源，可一直追到一千多年前的菅原道真。\n\n2006年11月，为纪念她去世百年，鹤冈市的般若寺举行了『长南年惠100年祭』。"
+        },
+        "notes": "不食、治病、不衰老等均保留传闻归属；未将报纸曾刊载等同于事实证实。"
+      },
+      {
+        "key": "terms.93",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "結婚式",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "婚礼"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.93",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "盛大な結婚式が行われているなか、花嫁は\n誓いの言葉を述べる前に、お世話になった\n両親や友人達に感謝の意を伝えた。\nそして最後に未来の夫を見据え、こう言った。\n「昨夜、付き添い役の女性と一緒に寝て貰って、\nあなたに感謝します」と。 そして花嫁は\nブーケを花婿の顔に押しつけるか、\n付き添い役の女性の頭に置くかして、\nひとり教会をあとにしたという。\nこれが「悩んだ花嫁」という結婚式にまつわる、\nアメリカの都市伝説である。\n本当の話だと誰もが口にするが、出所はやはり、\n友人の友人、そのまた友人といったように、\nはっきりしていないのである。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一场盛大的婚礼上，新娘在宣誓前，先向关照过自己的父母和朋友表达感谢。最后，她直视未来的丈夫，说道：\n『谢谢你昨晚和我的伴娘一起睡觉。』\n随后，新娘把花束摁在新郎脸上，或放到伴娘头上，独自离开了教堂。\n\n这就是美国与婚礼有关的都市传说——『苦恼的新娘』。人人都说是真事，可追问来源，却仍是朋友的朋友、再往后的朋友，始终说不清楚。"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "keywords.5126",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5127",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5130",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5132",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5133",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5135",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5145",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5124",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5129",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5136",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.5123",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.167",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "definitions.167",
+        "message": "Numbers differ; inspect time, date, amount or a documented source typo",
+        "acknowledged": true
+      },
+      {
+        "key": "definitions.85",
+        "message": "Numbers differ; inspect time, date, amount or a documented source typo",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.94",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "definitions.169",
+        "message": "Numbers differ; inspect time, date, amount or a documented source typo",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.170",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}
