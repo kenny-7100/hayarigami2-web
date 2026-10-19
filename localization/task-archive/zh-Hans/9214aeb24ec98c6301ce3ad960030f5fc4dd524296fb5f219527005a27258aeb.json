@@ -1,0 +1,445 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 30001,
+    "title": "第二话 · 心霊写真",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 4243,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "terms.65",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "レコーディングスタジオ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "录音室"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.65",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "レコーディングスタジオやＴＶの撮影スタジオで\n怪奇現象が起こるといった噂話を良く耳にする。\n例えば、スタジオで録音された音楽ＣＤに\n怪音が混じる、スタジオに霊が出現するという\nような話だ。 ５時から男が流行語大賞になった\n年に発売された、女性ボーカルバンドの楽曲や、\n２００１年にドラマの主題歌となった\n若手シンガーソングライターの曲に怪奇音声\nが混ざっているという。 また、スタジオに出現\nしたといわれる霊の中では、昭和６１年４月に\n自殺した女性アイドルがあげられる。 彼女は\n同じ年頃のアイドルが出演した音楽番組に\n姿を表し、見えたという視聴者から電話が\n殺到するという事件も起こっている。\n\n音楽業界や芸能界といった華やかな世界は、\nその魅力故にこの世の者達だけでなく、\n霊の心までをも惹きつけてしまう力を持って\nいるのかもしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "经常能听到录音室或电视摄影棚发生怪异现象的传闻。例如，在录音室制作的音乐ＣＤ里混入怪声，或摄影棚里出现亡灵。据说，「５点后的男人」获流行语大奖那一年发行的某支女主唱乐队的歌曲，以及２００１年成为电视剧主题曲的某位年轻创作歌手的作品，都混入了诡异声音。\n\n关于摄影棚里现身的亡灵，常被提到的，是一位在昭和６１年４月自杀的女偶像。据说，她曾出现在同龄偶像参与的音乐节目中，引得声称看见她的观众纷纷打来电话。\n\n音乐界、演艺界这样光鲜的世界，或许正因其魅力，不仅吸引活人，连亡灵的心也会被它牵动。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.66",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "四谷怪談",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "四谷怪谈"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.66",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "四谷怪談とは、鶴屋南北作の歌舞伎劇\n「東海道四谷怪談」が元である。\n２００４年に映画化されるなど、書籍だけではなく、\n映像作品も多く残っている為、\n認知度は高いだろう。\n\n夫である伊右衛門に毒を盛られ殺された妻・\nお岩が幽霊となって伊右衛門に復讐をする、\nというのが基本ストーリーである。 だが、\n内容よりもとにかく、お岩の顔が怖い、顔の\n怖い女性の幽霊が出る話、といったイメージ\nが先行している。\n\nこの、否定出来ない恐ろしさこそが、お岩の\n幽霊の本質であるともいえ、四谷怪談が人々\nの記憶に残る、「怪談」となり、今も語られ\n続けているのだろう。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "《四谷怪谈》源自鹤屋南北创作的歌舞伎剧《东海道四谷怪谈》。除了书籍，还有众多影像作品，２００４年也曾被搬上银幕，因此知名度应该很高。\n\n故事的基本情节是：被丈夫伊右卫门下毒杀害的妻子阿岩，化为鬼魂，向他复仇。不过，比起具体内容，人们往往首先想到的，是阿岩可怕的脸，或者「一个长相恐怖的女鬼出现的故事」。\n\n这种无法否认的恐怖，或许正是阿岩亡灵的本质，也让《四谷怪谈》成为留在人们记忆中的「怪谈」，至今仍被不断讲述。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.148",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "原料は髪の毛",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "原料是头发"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.148",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "戦中戦後の食糧難の時代に、原料不足から\n人毛を原料として醤油を作っていたという。\nこれを元にして発生した都市伝説が、\n“某社の調味料は髪の毛から作られている”\nというもの。\n\nある貿易港にインドからの大型タンカーが入港\nした。 麻薬の捜査をしていた管理局の人間が\nタンカーを調べたところ、大量の人毛が入った\nコンテナが発見され、これの受け取り人が\n某社だったという。 某社はこの髪の毛から\nうまみ成分を取り出し、あの全世界に\n輸出されている調味料を作り出していたのだ。\n\nこれは全く根も葉もない噂で、実際の原料は\n天然のサトウキビ。 この調味料の原料に\n関する噂は色々あるが、全て事実無根で\nある———と、されていたが、ごく近年に\nおいてその常識は崩れつつある。 経済発展が\n著しい某国において現代も製造しているという\nのだ。 一部の経済誌によると、政府の禁止令\nにも関わらず、人毛醤油が製造されていると\n言う。 ２００４年、メディアがその事実を\n紹介して明るみになった。 一般には醤油の\n原料はアミノ酸で、人毛も同成分なのだが、\n人体に残留した化学物質が毛にあつまるの\nで必ずしも安全であるとは言えない。 また、\n日本にも戦中に限らず、「毛塵屋」と呼ばれる\n商売が存在し、理髪店、美容院から出る\n髪の毛を回収する商売が存在していた。\nそこから醤油は作らないが、良質の髪は、\n日本髪を結う時にボリューム不足を補う為に\n添える「髪文字」と呼ばれるものに使用し\nていた。 一方、品質が劣るものは、工業用\nアミノ酸として用いられたが、現在はコストが\n見合わないとして毛塵屋は消滅したと\n言われている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据说，战争期间及战后粮食短缺时，曾因原料不足，使用人发制造酱油。在此基础上产生的都市传说，就是「某公司的调味料是用头发做的」。\n\n一艘来自印度的大型油轮驶入某个贸易港。负责调查毒品的管理部门人员检查油轮时，发现集装箱里装着大量人发，而收货方正是某家公司。据说，这家公司从头发中提取鲜味成分，生产出销往全世界的那种调味料。\n\n这原本是毫无根据的传闻，实际原料是天然甘蔗。关于这种调味料原料的种种说法，全都被认为是无稽之谈——然而近些年，这种常识也开始受到冲击。据说，在某个经济迅速发展的国家，如今仍有人生产人发酱油。部分经济刊物称，即使政府明令禁止，生产仍在继续。２００４年，媒体报道使这件事浮出水面。\n\n通常，酱油的原料含有氨基酸，人发也有同类成分，但人体残留的化学物质会聚集在头发中，因此并不能说安全。日本也并非只有战时才回收头发，过去还存在一种叫「毛尘屋」的生意，专门收集理发店、美容院剪下的头发。\n\n这些头发并不用于制作酱油。质量好的，会用来制作梳日式发髻时补足发量的「髪文字」；质量较差的，则用于工业氨基酸生产。据说如今成本已经不划算，毛尘屋也因此消失了。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.161",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "毛髪鑑定",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "毛发鉴定"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.161",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "１９８１年にコカインを検出する方法として\n毛髪が使用されて以来、現在でも普及している\n鑑識方法。\n\n毛髪による薬物検査法は、尿を使う検査法\nよりも優れているとされ、ダイアナ元妃の事故\nでも運転手アンリ・ポールの薬物使用に関して\n大きな成果を残している。\n\n毛のサンプルが取られた場所によって、薬物の\n微量成分や濃度にかなり違いがあり、コカインや\n長期に渡って使用された薬物を調べる際は\n頭皮から使われる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "自１９８１年开始利用毛发检测可卡因以来，至今仍广泛使用的一种鉴识方法。\n\n毛发药物检测被认为优于尿液检测。在戴安娜前王妃的车祸调查中，对司机亨利·保罗是否使用药物的检测，也取得了重要成果。\n\n毛发取样部位不同，药物微量成分及浓度会有相当大的差异。调查可卡因或长期使用的药物时，会采用头皮处的毛发。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.132",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "見立て殺人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "模仿杀人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.132",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "著名な推理作家による作品などでなじみの深い\n殺人の方法のこと。 その土地に伝わる伝説や、\n童謡をベースにして、殺人を粉飾する。\n例えば、島を舞台にした某小説では芭蕉の\n俳句になぞらえて人間が殺されていく。\nその他にも、地方の旧家に代々家に伝わる、\n斧、琴、菊に粉飾された殺人がおこる\n作品もある。\n\nこのような見立て殺人には事件の解決の糸口\nとなるヒントが隠されている場合が多く、推理\nのきっかけになる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "在著名推理作家的作品中，经常出现的一种杀人手法。以当地流传的传说、童谣等为蓝本，布置杀人现场。\n\n例如，某部以岛屿为舞台的小说中，人们按照芭蕉俳句描绘的意象，接连被杀。还有作品描写地方旧家中，发生以家族世代相传的斧、琴、菊为意象布置的谋杀。\n\n这类模仿杀人往往藏着破解案件的线索，可以成为推理的突破口。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.154",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "クルーズコントロール",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "定速巡航"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.154",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "都市伝説の第一人者、ジャン・ハロルド・ブルン\nヴァンが名著「ドーベルマンに何があったの？」に\n紹介された都市伝説のひとつ。 彼はこれを\n扱いながら、「車の扱い方は現代アメリカの\nフォークロアにもっともらしい伝説の限りない\nテーマを与えているようだ」と言っている。\n\n１９７０年代後半に「クルーズコントロール」と\n呼ばれる速度維持装置を搭載した特別車が\n販売された。 買ったドライバーはこれを\n飛行機の自動操縦と勘違いし高速道路に\n早速乗り込んだ。 ６０マイルにセットしたあと、\n一杯作ろうと後部座席に移動する。\nその３０秒後に衝突してしまうというもの。\n近年では運転席をはずす理由はコーヒーや\n他の飲み物、またはトイレ使用の例もあるという。\nまた、ドライバーは「テクノロジーに弱いという\n偏見がある」中東の金持ちであることがある\nようだ。 このような伝説をブルンヴァンは、\n「新しい技術」を明らかに誤解する人々の存在を\n侮辱することが目的だとしている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这是都市传说研究先驱扬·哈罗德·布鲁范德在名著《那只杜宾犬怎么了？》中介绍的一则都市传说。他在讨论此事时说：「汽车的使用方式，似乎为现代美国民间传说提供了无穷无尽、听来煞有介事的题材。」\n\n１９７０年代后期，一种装有「定速巡航」速度保持装置的特种车辆上市。买下它的司机误以为这和飞机的自动驾驶一样，立刻开上高速公路。把速度设为６０英里后，他便离开驾驶座，走到后排准备调一杯酒。３０秒后，车撞了。\n\n近年的版本中，离开驾驶座的理由也有去倒咖啡、拿其他饮料，或上厕所。司机有时被设定为一名中东富豪，因为人们对这类人抱有「不懂技术」的偏见。布鲁范德认为，这类传说的目的，就是嘲讽那些明显误解「新技术」的人。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.67",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "角膜移植",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "角膜移植"
+        },
+        "notes": "医学术语「角膜移植」中日同形，保留准确名称，完整释义另行译出。"
+      },
+      {
+        "key": "definitions.67",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "アイバンクを通じて提供される人の角膜を、\n白内障、角膜の混濁で濁ってしまった角膜と\n取り替える作業のこと。 角膜は、目の表面の\n一番外側にある透明な部分である。\nこの組織は、コラーゲンというタンパクが\n規則正しく並んで透明なダイヤモンドを\n作っているようなもので、配列が乱れたり、\n脂肪やカルシウムが沈着したり、血管が\n入ってきたりすると濁る。 一度濁って\nしまった角膜は元の透明には戻らないので、\n移植を必要とする。 特殊な例を除いては、\n人工で作った角膜や、他の動物の角膜の移植は\n上手くいかない。 角膜移植は成功率が高く、\n他の臓器移植では免疫抑制剤を\n使わなければ必ず起きる拒絶反応が、\nこれに限ってはあまり心配がない。\n理由としては、角膜の中には抗原提示細胞\nが少ないことや、血管がないこと、元々\n目の中は免疫寛容が成立しやすいことなど、\n様々な要因が重なっている。 さらに、\n顕微鏡手術や糸、器械類の大きな進歩も、\n成功率の向上に貢献している。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "将通过眼库捐赠的人体角膜，替换因白内障、角膜混浊等原因变得浑浊的角膜的手术。角膜位于眼睛表面最外侧，是透明的部分。\n\n这一组织由胶原蛋白规则排列而成，犹如构成了一块透明的钻石。排列一旦紊乱，或有脂肪、钙质沉积、血管长入，就会变得浑浊。已经混浊的角膜无法恢复原先的透明，因此需要移植。除特殊情况外，人工角膜或其他动物角膜的移植，通常难以成功。\n\n角膜移植成功率较高。其他器官移植若不使用免疫抑制剂，就难免出现排斥反应，而角膜移植相对不必过分担忧。这是多种因素共同作用的结果，例如角膜中的抗原提呈细胞较少、没有血管，以及眼内本就较容易形成免疫耐受。\n\n此外，显微手术、缝线和器械等方面的显著进步，也促进了成功率的提升。"
+        },
+        "notes": "保留原版辞典的医学叙述，包括其将白内障与角膜混浊并列的表述，不擅自改写为现代医学科普；该条须在编辑证据中标注原文局限。"
+      },
+      {
+        "key": "terms.68",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "月命日",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "每月忌日"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.68",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "故人の亡くなった日のことを祥月命日、\nあるいは忌日と呼び、月ごとにやってくる\n命日と同じ日付のことを、特に月命日と呼ぶ。\n\nちなみに仏式の法要は、故人が亡くなって\n７日目の「初七日」から始まる。 この日、\n死者は閻魔大王から最初の審判を受けると\n言われており、以降７日ごとの忌日に遺族\nは法要を行い、死者は次の生を受ける為\nに閻魔大王の審判を受ける。\nそして祥月命日から４９日目に迎える七七日で、\n死者は閻魔大王から最後の審判を受ける。\n一方遺族は僧侶の読経や墓参りなどを\n済ませてから忌晴れの宴席を設け、その後、\n白木の位牌を黒塗りの本位牌へ変えて仏壇\nへと納められる。\n何故法要が７日ごとに定められているのか\nと言うと、死んでから次の命を得るまでの\n期間を「中有」「中陰」と呼び、これが７日\nで一期、そして全部で七期の計４９日ある\nことに由来している為だ。 そしてそれぞれの\n裁きの日に、故人の後生が少しでも\nよいものになるようにと、遺族は追善供養\nを行うのである。\n\n以降、法事は新盆、百か日、一周忌、七回忌、\n十三回忌、十七回忌、二十三回忌、\n二十五回忌、二十七回忌、三十三回忌、\n五十回忌、百回忌に行うのが通例。 もっとも、\n一般的には三十三回忌か五十回忌をもって\n弔い上げとすることが多い。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "故人去世的日子称为「祥月命日」或「忌日」；每个月与忌日相同的日期，则特别称为「月命日」，即每月忌日。\n\n顺带一提，佛教法事从逝者去世第７天的「头七」开始。据说这一天，死者会接受阎魔大王的第一次审判。此后，每隔７天，家属举行法事，死者则为了获得下一次生命，继续接受审判。\n\n到了去世后的第４９天，也就是七七，死者接受最后的审判。家属则在僧侣诵经、扫墓等仪式结束后，设宴结束守丧，并将白木牌位换为黑漆的正式牌位，供入佛坛。\n\n之所以每隔７天举行法事，是因为从死亡到获得下一个生命之间的时期，被称作「中有」或「中阴」，每７天为一期，共七期，合计４９天。家属在每次审判之日为故人追荐供养，希望其来世能更好一些。\n\n之后，通常还会在新盆、百日、一周年忌、七回忌、十三回忌、十七回忌、二十三回忌、二十五回忌、二十七回忌、三十三回忌、五十回忌、百回忌举行法事。不过，一般多在三十三回忌或五十回忌结束长期祭奠。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.133",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "器物損壊",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "损坏器物罪"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.133",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "刑法第２６１条にて規定されている犯罪行為。\n「（抜粋）他人の物を損壊し、又は傷害した者\nは、３年以下の懲役又は３０万円以下の罰金\n若しくは科料に処する。 」とある。\nまた、自己の物であっても、差押えを受け、\n物権を負担し、又は賃貸したものを損壊し、\n又は傷害したときは、同様であると同２６２条に\n定められている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "日本《刑法》第２６１条规定的犯罪行为。条文节录如下：「损坏或伤害他人之物者，处３年以下有期徒刑，或３０万日元以下罚金，或科料。」\n\n第２６２条还规定，即使是自己的物品，如果已被扣押、设有物权负担，或已出租，损坏或伤害该物时，也适用同样规定。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.135",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "青酸カリ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "氰化钾"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.135",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "青酸化合物。 工業用に供されている他、\n柑橘類栽培の殺虫剤としても用いられる為\n入手が比較的容易。 強い刺激性の味が\nある為他殺に用いる場合は、コーヒーに\n混ぜたり、薬と偽って一気に飲ませるという\n説もある。 大量に服用して作用が急激な\n時は、最初から神経中枢を麻痺させて、\n昏倒、失神、呼吸困難、全身麻痺を起こし\n数秒から数分で死亡する。 通常例では、\n頭痛、めまい、嘔吐、発汗、心悸亢進、\n視野暗黒、呼吸困難、全身痙攣、昏睡の後\nに死に至る。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一种氰化物。除了工业用途，也曾作为柑橘栽培中的杀虫剂使用，因此相对容易取得。它具有强烈的刺激性味道，有说法称，用于谋杀时，会将其混入咖啡，或谎称是药，让人一口喝下。\n\n大量服用、迅速起效时，会首先使神经中枢麻痹，导致昏倒、失去意识、呼吸困难、全身麻痹，在数秒至数分钟内死亡。通常则会先出现头痛、眩晕、呕吐、出汗、心悸加剧、视野发黑、呼吸困难、全身痉挛，继而昏迷、死亡。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.63",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "生霊",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "生灵"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.63",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "生きている人間の霊魂が乖離したものを\n生霊という。 日本では古典の名著『源氏物語』\nの六条御息所の生霊が葵の上を取り殺す場面が\n描かれている。\nこのようにある人が他人に対して恨みや\n嫉妬などの強い感情を抱く場合、生霊となって\n現れるという。\n何もこの話は古典上の話ではない。\n不倫関係の女性が、男を独占出来ないのは\n彼の奥さんのせいだとして、毎夜枕元に現れる\nという話もあるという。\n生きている人間の霊魂と死んでいる人間の霊魂\n———死霊の最大の違いは、存在する目的が\nはっきりしているという点だ。 死霊は、\n自分が生きていると信じ、その場を通りがかった\n「波長が合う人」にたまたま付いていき、\n自分に気付いて欲しいと願っている場合もあるが、\n生霊に関しては存在理由が特定の人間に\n対する強い感情に寄るところが多く、その多くは\n死霊と同様の方法では解消出来ない。\nもしそのような場合になったら、生霊の当人との\n関係そのものを見直す事が肝要だ。 つまり、\n執着する理由が消滅すれば生霊も消え去ると\nいうわけだ。\nだが、このケースには不幸な可能性が二つ\nある。 ひとつは生霊本人は、霊を飛ばしている\n自覚がない事。 もうひとつは憑かれている\n本人にその自覚がない事だ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "活人的灵魂脱离身体，便称为「生灵」。日本古典名著《源氏物语》中，就描写了六条御息所的生灵作祟，害死葵之上的情节。\n\n据说，当一个人对别人抱有强烈的怨恨、嫉妒等感情时，就可能以生灵的形式出现。这并不只存在于古典故事里。也有传闻说，婚外情中的女性认为，自己无法独占男人，是因为他的妻子，因此每晚出现在对方枕边。\n\n活人的灵魂与死者的灵魂——死灵——最大的区别，在于存在目的是否明确。死灵有时会以为自己仍然活着，偶然跟随路过的「波长相合的人」，希望对方注意到自己。而生灵的存在，多半源自对某个特定之人的强烈感情，往往无法用处理死灵的方式消解。\n\n若遇到这种情况，关键在于重新审视自己与生灵本人的关系。也就是说，只要执着的理由消失，生灵也会随之消失。\n\n不过，这种情况有两种不幸的可能：一是生灵本人并不知道自己放出了灵魂；二是被附身的人，也没有意识到自己被缠上。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.159",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "愉快犯",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "愉快犯"
+        },
+        "notes": "保留日语犯罪分类用语「愉快犯」，下方完整释义明确指以引发社会骚动、欣赏反响为乐的罪犯；不误译为一般快乐的犯人。"
+      },
+      {
+        "key": "definitions.159",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "世間を騒がせ、その反響を楽しむことを目的\nとする犯罪。 また、その犯人。\n\n昭和５９年に起こった某お菓子メーカーを狙った\nことで有名な怪人２１面相が代表的である\nとされており、劇場型犯罪という言葉が生まれた\nのもこの事件がきっかけとされている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "指以引发社会骚动、欣赏外界反响为目的的犯罪，也指实施这种犯罪的人。\n\n昭和５９年发生的、针对某糖果生产商的著名「怪人２１面相」案件，被认为是代表性例子。据说，「剧场型犯罪」一词，也由这起事件而生。"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "terms.67",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.159",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

@@ -1,0 +1,1937 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 30001,
+    "title": "第二话 · 心霊写真",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 2247,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "prompt.38410.102",
+        "collection": "strings",
+        "kind": "confirmation",
+        "source": "これで決定でよろしいですか？",
+        "baseHash": null,
+        "location": {
+          "script": 38410,
+          "offset": 2458312
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "确定以当前填写内容提交吗？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.1",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "初芝貴子（はつしば・たかこ）\n劇団千年紀の女優。\n心霊写真のことが気がかりな様子。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "初芝贵子\n千年纪剧团的女演员。\n似乎十分在意灵异照片的事。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.2",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "安藤誠（あんどう・まこと）\n劇団千年紀の代表。\n盲目でありながら舞台という芸術を作り上げる天才。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤诚\n千年纪剧团的负责人。\n即使双目失明，仍能创造舞台艺术的天才。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.3",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "安藤誠（あんどう・まこと）\n劇団千年紀の代表。\n盲目でありながら舞台という芸術を作り上げる天才。\n実は目が見えている可能性が……。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤诚\n千年纪剧团的负责人。\n即使双目失明，仍能创造舞台艺术的天才。\n但他的眼睛，或许其实看得见……"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.4",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "佐伯竜彦（さえき・たつひこ）\n劇団千年紀の制作担当。\n五十嵐理緒の遺体の第一発見者。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐伯龙彦\n千年纪剧团的制作人。\n最先发现五十岚理绪遗体的人。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.5",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "佐伯竜彦（さえき・たつひこ）\n劇団千年紀の制作担当。\n五十嵐理緒の遺体の第一発見者。\n代表の安藤とは大学時代からの付き合い。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐伯龙彦\n千年纪剧团的制作人。\n最先发现五十岚理绪遗体的人。\n与团长安藤从大学时代就已相识。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.6",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "岩永陽一（いわなが・よういち）\n劇団千年紀の大道具。根っからの職人気質。\n瀬戸礼人の遺体の第一発見者。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "岩永阳一\n千年纪剧团的大道具师，骨子里有着工匠脾气。\n最先发现濑户礼人遗体的人。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.7",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "岩永陽一（いわなが・よういち）\n劇団千年紀の大道具。根っからの職人気質。\n瀬戸礼人の遺体の第一発見者。\nよそ見運転の車にはねられる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "岩永阳一\n千年纪剧团的大道具师，骨子里有着工匠脾气。\n最先发现濑户礼人遗体的人。\n被一辆司机走神的汽车撞伤。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.8",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "五十嵐理緒（いがらし・りお）\n劇団千年紀の看板女優。\n舞台初日を目前に控え、死亡。死因は不明。\n他殺と事故の両方の可能性がある。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "五十岚理绪\n千年纪剧团的招牌女演员。\n在首演临近时死亡，死因不明。\n他杀和意外都有可能。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.9",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "瀬戸礼人（せと・れいと）\n劇団千年紀の俳優。\n死んだ五十嵐理緒とは恋人同士だった。\n彼女の死に取り乱している。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "濑户礼人\n千年纪剧团的演员。\n与去世的五十岚理绪是恋人。\n因她的死而情绪失控。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.10",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "瀬戸礼人（せと・れいと）\n劇団千年紀の俳優。\n死んだ五十嵐理緒とは恋人同士だった。\n彼自身も後を追うように死亡。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "濑户礼人\n千年纪剧团的演员。\n与去世的五十岚理绪是恋人。\n他本人也仿佛追随她一般，接着死去。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.11",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "瀬戸礼人（せと・れいと）\n死んだ五十嵐理緒とは恋人同士だった。\n可動式の床と舞台の間に挟まれて\nなかば胴体が切断され、死に至る。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "濑户礼人\n与去世的五十岚理绪是恋人。\n被夹在可动地板与舞台之间，\n躯干几乎被拦腰切断，最终死亡。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.12",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "瀬戸礼人（せと・れいと）\n可動式の床と舞台の間に挟まれて\nなかば胴体が切断され、死に至る。\n遺体からは大量のアルコールが検出された。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "濑户礼人\n被夹在可动地板与舞台之间，\n躯干几乎被拦腰切断，最终死亡。\n遗体中检测出大量酒精。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.13",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "辻さやか（つじ・さやか）\n劇団千年紀の元看板女優。\n舞台初日の前日に交通事故で死亡。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "辻沙耶香\n千年纪剧团曾经的招牌女演员。\n在首演前一天死于交通事故。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.14",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "佐々木規行（ささき・のりゆき）\n警視庁捜査一課の課長。階級は警視正。\n元・ぼくの上司でもある。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木规行\n警视厅搜查一课课长，警衔为警视正。\n也曾是我的上司。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.15",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "小暮宗一郎（こぐれ・そういちろう）\n巡査部長。編纂室の同僚。\nごつい外見とは裏腹に、血や怪談が大の苦手。\nそのくせ霊感は強い。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮宗一郎\n巡查部长，编纂室的同事。\n外表魁梧，却极其害怕血和怪谈。\n偏偏灵感还很强。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.16",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "犬童蘭子（いんどう・らんこ）\n警部。編纂室のヌシ。\n毎日テレビを見ているか、公営ギャンブルに\nいそしむという公務員とは思えない生態を持つ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬童兰子\n警部，编纂室的当家人。\n每天不是看电视，就是热衷于公营博彩，\n生活习性实在不像公务员。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.17",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "賀茂泉かごめ（かもいずみ・かごめ）\n警部補。編纂室のメンバーとして配属される。\nプロファイラーとしての能力以外にも\n多彩な才能を持つが、性格に大いに難あり。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉戈薇\n警部补，被调入编纂室。\n除了犯罪心理画像，还具备多方面的才华，\n不过性格实在有很大的问题。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.18",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "霧崎水明（きりさき・すいめい）\n須未乃大学で講師を務める民俗学者。\nぼくの義理の兄。怪異事件の捜査では\n貴重な知識・情報を提供してくれる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雾崎水明\n在须未乃大学任讲师的民俗学者。\n与我没有血缘关系、却如亲兄长一般的人。\n调查怪异案件时，会提供宝贵的知识与信息。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.19",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "間宮ゆうか（まみや・ゆうか）\n須未乃大学の学生で、霧崎の教え子。\n自称・オカルトジャーナリスト。\n何かと編纂室の事件に首を突っ込みたがる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          },
+          {
+            "id": "suimei",
+            "source": [
+              "霧崎",
+              "水明"
+            ],
+            "preferred": "雾崎水明",
+            "avoid": [],
+            "note": "风海称哥，无血缘关系，不能改成亲哥哥。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "间宫悠香\n须未乃大学的学生，雾崎的学生。\n自称神秘事件调查记者。\n总想插手编纂室的案子。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.description.20",
+        "collection": "strings",
+        "kind": "character-description",
+        "source": "式部人見（しきぶ・ひとみ）\n鴨根大学付属病院の監察医にして、同大学の助教\n授として教鞭もとる。法医学のプロフェッショナルで、\n彼女の意見は捜査方針の決定に欠かせない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "式部人见\n鸭根大学附属医院的监察医，\n同时担任该大学副教授。精通法医学，\n她的意见对决定调查方向不可或缺。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.0.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.0.choice.4804",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼らは劇団を創立時から支えてきた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他们从创立之初就一直支撑着剧团"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.0.choice.4821",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼らは相性抜群だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他们非常合得来"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.0.choice.4842",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼らは自己顕示欲が強い",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他们都有很强的自我表现欲"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.0.choice.4854",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼らはライバル関係にある",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他们是竞争对手"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.0.choice.4859",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼らは親友だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他们是挚友"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.1.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.1.choice.4806",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは目が見えない",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生看不见"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.1.choice.4807",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは演出家だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生是导演"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.1.choice.4813",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんがパソコンで心霊写真を作った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生用电脑制作了灵异照片"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.1.choice.4820",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは高所恐怖症だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生有恐高症"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.1.choice.4847",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんはアルコールに依存している",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生依赖酒精"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.1.choice.4855",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは視力が回復している",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生已经恢复视力"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.2.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.2.choice.4807",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐々木課長は演出家だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长是导演"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.2.choice.4808",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐々木課長は心霊写真を信じている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长相信灵异照片"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.2.choice.4817",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐々木課長はセキュリティーカードを盗んだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长偷了门禁卡"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.2.choice.4838",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐々木課長は捜査一課所属だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长隶属搜查一课"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.2.choice.4842",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐々木課長は自己顕示欲が無い",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长没有自我表现欲"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.2.choice.4852",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐々木課長は職務怠慢だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木课长玩忽职守"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.3.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.3.choice.4841",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは『死の道行』を呪っている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生在诅咒《死之道行》"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.3.choice.4853",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは『死の道行』をストライキした",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生曾为《死之道行》罢工"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.3.choice.4861",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは『死の道行』を復讐に使った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生利用《死之道行》复仇"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.3.choice.4862",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは『死の道行』を延期したい",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生想让《死之道行》延期"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.3.choice.4863",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは『死の道行』を中止したい",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生想让《死之道行》停演"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.3.choice.4868",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは『死の道行』を公演したい",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生想让《死之道行》公演"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.4.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.4.choice.4810",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは初芝さんを主演として認めている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生认可初芝小姐担任主演"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.4.choice.4849",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人は見返りを求める関係だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人的关系建立在索求回报之上"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.4.choice.4857",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人には秘密の場所がある",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人有一个秘密场所"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.4.choice.4864",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんと初芝さんはメル友だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生和初芝小姐是邮件笔友"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.4.choice.4867",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人は恋をしている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人相恋"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.5.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.5.choice.4810",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "辻さんは安藤さんにとって主演女優だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "辻小姐是安藤先生心中的女主角"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.5.choice.4828",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんと辻さんは恋人同士だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生与辻小姐是恋人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.5.choice.4856",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは辻さんを天才と評している",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生评价辻小姐是天才"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.5.choice.4857",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんと辻さんの間には秘密がある",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生与辻小姐之间有秘密"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.5.choice.4861",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは辻さんの為に復讐している",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生正在为辻小姐复仇"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.5.choice.4865",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安藤さんは辻さんの霊に憑依されている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤先生被辻小姐的亡灵附身"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.6.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.6.choice.4817",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人はセキュリティーカードを貸し借りしていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人曾互相借用门禁卡"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.6.choice.4848",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "初芝さんは辻さんのヘアブラシを貰った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "初芝小姐收到了辻小姐的梳子"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.6.choice.4854",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "初芝さんと辻さんはライバルだった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "初芝小姐与辻小姐曾是竞争对手"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.6.choice.4859",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "初芝さんと辻さんは親友だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "初芝小姐与辻小姐曾是挚友"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.6.choice.4864",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "初芝さんと辻さんはメル友だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "初芝小姐与辻小姐曾是邮件笔友"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.7.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.7.choice.4808",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "この写真は心霊写真だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这是一张灵异照片"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.7.choice.4833",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "この写真は祟られている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这张照片受到了诅咒"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.7.choice.4842",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "この写真は自己顕示欲の表れだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这张照片体现了自我表现欲"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.7.choice.4858",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "この写真は客寄せの為だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这张照片是为了招揽观众"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.7.choice.4861",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "この写真は復讐のサインだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这张照片是复仇的信号"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.8.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.8.choice.4821",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人は相性が良かった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人很合得来"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.8.choice.4832",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "辻の死は五十嵐が仕組んだものだった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "辻的死是五十岚安排的"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.8.choice.4841",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "五十嵐は辻に呪われた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "五十岚受到了辻的诅咒"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.8.choice.4854",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人はライバル関係だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人曾是竞争对手"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.8.choice.4857",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人には秘密があった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人之间曾有秘密"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.8.choice.4858",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "五十嵐は辻の死を客寄せに使った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "五十岚利用辻的死招揽观众"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.9.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.9.choice.4808",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "ゆうかさんは心霊写真を求めている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "悠香小姐正在寻找灵异照片"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.9.choice.4814",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "ゆうかさんはスノコを求めている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "悠香小姐正在寻找栅顶"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.9.choice.4816",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "ゆうかさんはストーカーだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "悠香小姐是跟踪狂"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.9.choice.4828",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "ゆうかさんはぼくの恋人だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "悠香小姐是我的恋人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.9.choice.4835",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "ゆうかさんはオカルトジャーナリストだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "悠香小姐是神秘事件调查记者"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.9.choice.4841",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "ゆうかさんは呪いを求めている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "悠香小姐正在寻找诅咒"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.9.choice.4854",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "ゆうかさんと小暮さんはライバル関係にある",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          },
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "悠香小姐与小暮先生是竞争对手"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.9.choice.4867",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "ゆうかさんは恋の季節だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "悠香小姐正值恋爱的季节"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.10.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.10.choice.4820",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "兄さんは高所恐怖症だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "哥有恐高症"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.10.choice.4828",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "兄さんは恋人募集中だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "哥正在寻找恋人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.10.choice.4833",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "兄さんは祟りを調査中だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "哥正在调查诅咒"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.10.choice.4834",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "兄さんは民俗学に没頭している",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "哥醉心于民俗学"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.10.choice.4837",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "兄さんは警部の論文を読んだことがある",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "哥读过警部的论文"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.11.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.11.choice.4810",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "五十嵐さんが主演女優になる為協力した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人曾合作，让五十岚小姐成为主演"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.11.choice.4828",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人は恋人同士だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人曾是恋人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.11.choice.4843",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人ともセリに挟まれて死亡した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人都被升降台夹住而死"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.11.choice.4851",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人は痴情のもつれで事件に遭った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人因感情纠葛而卷入案件"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

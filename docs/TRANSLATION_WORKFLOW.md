@@ -29,7 +29,7 @@ npm run i18n:work -- status --locale zh-Hans --entry 30001
 
 `--entry` 是生产章节入口：第一话 20001、第二话 30001；不是 audit:chapter 的章节序号。原始主范围取 game.chapters，依赖按编译器相同的 32 位 101/1301 目标闭包收集。关键词范围与初始辞典的已验证例外在 `localization/chapter-scopes.json`。推理图取实际 2008 调用，不推算 ID。
 
-status 分 rich/strings 的 missing、stale、draft、reviewed，列出该范围的路线。静态清单包含章节名、关键词、术语全文、人物/关系说明、确认提示、场景/片尾 label。静态依赖闭包可能含不可达代码，不代表全部已执行；反过来，已采集 rich 全译也不证明漏采为零。仅第一话目前有专用源覆盖门禁，其他章不能冒用第一话的证明。
+status 分 rich/strings 的 missing、stale、draft、reviewed，列出该范围的路线。静态清单包含章节名、关键词、术语全文、人物/关系说明、确认提示、场景/片尾 label。静态依赖闭包可能含不可达代码，不代表全部已执行；反过来，已采集 rich 全译也不证明漏采为零。第一话和第二话目前各有专用源覆盖门禁，其他章不能冒用它们的证明。
 
 ## 2. 准备有限大小的离线任务包
 
@@ -84,7 +84,7 @@ npm run i18n:work -- prepare --locale zh-Hans --entry 20001 --key '完整key' --
 
 使用 `localization/templates/TRANSLATION_HANDOFF.md` 交接；逐场景核对否定、主语、称谓、时间、推测程度、选项意图、真名/假名与两路线差异。术语来源优先查语言规则和 glossary.evidence。新增规则应先证明适用范围，机器 preferred 仅提示，不做全局替换。
 
-每批运行工作台 check；合并后跑 `npm run i18n:test`。静态提取器改动跑 `npm run test:python`。章节阶段完成再运行完整 `npm run verify` 和浏览器验收，不必每 20 句重复全部耗时路线回归。第一话额外 `npm run i18n:check:chapter-one`；其他章需建立自己的源指令/条件变体证据后才能称完整。
+每批运行工作台 check；合并后跑 `npm run i18n:test`。静态提取器改动跑 `npm run test:python`。章节阶段完成再运行完整 `npm run verify` 和浏览器验收，不必每 20 句重复全部耗时路线回归。第一话额外 `npm run i18n:check:chapter-one`，第二话 `npm run i18n:check:chapter-two`；其他章需建立自己的源指令/条件变体证据后才能称完整。
 
 浏览器：独立测试存储，桌面、360×740、440×956、844×390；最大字号、长词、长辞典、姓名、高亮、收录、历史、选项、推理、保存读取、刷新语言；需要 RTL 的语言另验布局。修改显示必须实际操作，不用截图数量替代交互成功。媒体按模板逐项盘点，区分原画已有中文、中文释文、装饰性未转写与真正漏项。原文错字的编辑修正要记录源偏移/版本和理由。
 

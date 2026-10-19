@@ -1,0 +1,5602 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 30001,
+    "title": "第二话 · 心霊写真",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 3747,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.32102:1907080.90f92a49",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「全ての可能性を考えた上で、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"真実を見極めていく。\",\"color\":0,\"size\":0},{\"text\":\"ぼく達は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いつもそうしてきたじゃありませんか」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「お、押忍！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32102,
+          "page": "32102:1907080",
+          "route": "coverage-2-7",
+          "step": 600
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.32102:1906764.2c48db32",
+            "step": 598,
+            "script": 32102,
+            "text": "「もしかして、それを苦に自殺とか？」\n「あくまで可能性の話ですが、\n決してないわけじゃないと思うんです」",
+            "translation": "「难道是为此苦恼，才自杀的？」\n「只是说有这种可能，但我觉得并非完全不可能。」"
+          },
+          {
+            "key": "page.32102:1906904.9ca57fcd",
+            "step": 599,
+            "script": 32102,
+            "text": "「なるほど。さすが先輩であります」\n「いえ、小暮さん。\nこれは、どこまでいっても可能性の話です。\n自分で言っておいてなんですけど」",
+            "translation": "「原来如此。不愧是前辈。」\n「不，小暮先生。说到底，这只是可能性。虽然是我自己提出来的……」"
+          },
+          {
+            "key": "page.32102:1907080.90f92a49",
+            "step": 600,
+            "script": 32102,
+            "text": "「全ての可能性を考えた上で、\n真実を見極めていく。ぼく達は、\nいつもそうしてきたじゃありませんか」\n「お、押忍！」",
+            "translation": null
+          },
+          {
+            "key": "page.32102:1907248.34eba34",
+            "step": 601,
+            "script": 32102,
+            "text": "「仰るとおりでありますね！」\n小暮さんはそう言って胸を張った。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1924756.6a2ae81e",
+            "step": 602,
+            "script": 32132,
+            "text": "「じゃあ、小暮さんの見解も\n聞かせてもらえませんか？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「考虑过所有可能性，再找出真相。我们一直都是这么做的，不是吗？」\n「是、是！」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32102:1907248.34eba34",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「仰るとおりでありますね！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"小暮さんはそう言って胸を張った。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32102,
+          "page": "32102:1907248",
+          "route": "coverage-2-7",
+          "step": 601
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.32102:1906904.9ca57fcd",
+            "step": 599,
+            "script": 32102,
+            "text": "「なるほど。さすが先輩であります」\n「いえ、小暮さん。\nこれは、どこまでいっても可能性の話です。\n自分で言っておいてなんですけど」",
+            "translation": "「原来如此。不愧是前辈。」\n「不，小暮先生。说到底，这只是可能性。虽然是我自己提出来的……」"
+          },
+          {
+            "key": "page.32102:1907080.90f92a49",
+            "step": 600,
+            "script": 32102,
+            "text": "「全ての可能性を考えた上で、\n真実を見極めていく。ぼく達は、\nいつもそうしてきたじゃありませんか」\n「お、押忍！」",
+            "translation": null
+          },
+          {
+            "key": "page.32102:1907248.34eba34",
+            "step": 601,
+            "script": 32102,
+            "text": "「仰るとおりでありますね！」\n小暮さんはそう言って胸を張った。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1924756.6a2ae81e",
+            "step": 602,
+            "script": 32132,
+            "text": "「じゃあ、小暮さんの見解も\n聞かせてもらえませんか？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1924880.f4303da7",
+            "step": 603,
+            "script": 32132,
+            "text": "「えっ！？　じっ、自分がでありますか！」\n小暮さんの性格からして、こういう時に先輩を\n差し置いて意見するなどおこがましいとか\n思っているだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「您说得对！」\n小暮先生说着，挺起了胸膛。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1924756.6a2ae81e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「じゃあ、小暮さんの見解も\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"聞かせてもらえませんか？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1924756",
+          "route": "coverage-2-7",
+          "step": 602
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.32102:1907080.90f92a49",
+            "step": 600,
+            "script": 32102,
+            "text": "「全ての可能性を考えた上で、\n真実を見極めていく。ぼく達は、\nいつもそうしてきたじゃありませんか」\n「お、押忍！」",
+            "translation": null
+          },
+          {
+            "key": "page.32102:1907248.34eba34",
+            "step": 601,
+            "script": 32102,
+            "text": "「仰るとおりでありますね！」\n小暮さんはそう言って胸を張った。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1924756.6a2ae81e",
+            "step": 602,
+            "script": 32132,
+            "text": "「じゃあ、小暮さんの見解も\n聞かせてもらえませんか？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1924880.f4303da7",
+            "step": 603,
+            "script": 32132,
+            "text": "「えっ！？　じっ、自分がでありますか！」\n小暮さんの性格からして、こういう時に先輩を\n差し置いて意見するなどおこがましいとか\n思っているだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925072.c301bd37",
+            "step": 604,
+            "script": 32132,
+            "text": "だけど、ぼくの見解が偏っているかもしれないし、\nなるべく意見を聞いておくに越したことはない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「那么，也让我听听你的看法吧？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1924880.f4303da7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「えっ！？　じっ、自分がでありますか！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"小暮さんの性格からして、こういう時に先輩を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"差し置いて意見するなどおこがましいとか\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"思っているだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1924880",
+          "route": "coverage-2-7",
+          "step": 603
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.32102:1907248.34eba34",
+            "step": 601,
+            "script": 32102,
+            "text": "「仰るとおりでありますね！」\n小暮さんはそう言って胸を張った。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1924756.6a2ae81e",
+            "step": 602,
+            "script": 32132,
+            "text": "「じゃあ、小暮さんの見解も\n聞かせてもらえませんか？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1924880.f4303da7",
+            "step": 603,
+            "script": 32132,
+            "text": "「えっ！？　じっ、自分がでありますか！」\n小暮さんの性格からして、こういう時に先輩を\n差し置いて意見するなどおこがましいとか\n思っているだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925072.c301bd37",
+            "step": 604,
+            "script": 32132,
+            "text": "だけど、ぼくの見解が偏っているかもしれないし、\nなるべく意見を聞いておくに越したことはない。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925196.1b9f59b3",
+            "step": 605,
+            "script": 32132,
+            "text": "「そっ、そうでありますね………\n自分は五十嵐さんは他殺されたと\n考えているであります」\n「他殺ですか？　その根拠は？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「咦！？我、我吗！」\n以他的性格，这种时候，大概会觉得越过前辈发表意见太不自量力了吧。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1925072.c301bd37",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だけど、ぼくの見解が偏っているかもしれないし、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"なるべく意見を聞いておくに越したことはない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1925072",
+          "route": "coverage-2-7",
+          "step": 604
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.32132:1924756.6a2ae81e",
+            "step": 602,
+            "script": 32132,
+            "text": "「じゃあ、小暮さんの見解も\n聞かせてもらえませんか？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1924880.f4303da7",
+            "step": 603,
+            "script": 32132,
+            "text": "「えっ！？　じっ、自分がでありますか！」\n小暮さんの性格からして、こういう時に先輩を\n差し置いて意見するなどおこがましいとか\n思っているだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925072.c301bd37",
+            "step": 604,
+            "script": 32132,
+            "text": "だけど、ぼくの見解が偏っているかもしれないし、\nなるべく意見を聞いておくに越したことはない。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925196.1b9f59b3",
+            "step": 605,
+            "script": 32132,
+            "text": "「そっ、そうでありますね………\n自分は五十嵐さんは他殺されたと\n考えているであります」\n「他殺ですか？　その根拠は？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925364.60d5b34b",
+            "step": 606,
+            "script": 32132,
+            "text": "「まだ、どうとも言えない部分がありますが、\n思い出して欲しいであります。\n遺体の状況を」\n「遺体の状況？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可我的看法也可能偏颇，尽量多听听别人的意见，总没有坏处。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1925196.1b9f59b3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「そっ、そうでありますね………\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自分は五十嵐さんは他殺されたと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"考えているであります」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「他殺ですか？　その根拠は？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1925196",
+          "route": "coverage-2-7",
+          "step": 605
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.32132:1924880.f4303da7",
+            "step": 603,
+            "script": 32132,
+            "text": "「えっ！？　じっ、自分がでありますか！」\n小暮さんの性格からして、こういう時に先輩を\n差し置いて意見するなどおこがましいとか\n思っているだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925072.c301bd37",
+            "step": 604,
+            "script": 32132,
+            "text": "だけど、ぼくの見解が偏っているかもしれないし、\nなるべく意見を聞いておくに越したことはない。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925196.1b9f59b3",
+            "step": 605,
+            "script": 32132,
+            "text": "「そっ、そうでありますね………\n自分は五十嵐さんは他殺されたと\n考えているであります」\n「他殺ですか？　その根拠は？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925364.60d5b34b",
+            "step": 606,
+            "script": 32132,
+            "text": "「まだ、どうとも言えない部分がありますが、\n思い出して欲しいであります。\n遺体の状況を」\n「遺体の状況？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925516.b1b363e2",
+            "step": 607,
+            "script": 32132,
+            "text": "小暮さんの言葉を受けて記憶を反芻すると、\nふと、ある言葉が頭の隅に引っ掛かる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「这、这个嘛……我认为，五十岚小姐是被人杀害的。」\n「他杀？依据呢？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1925364.60d5b34b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「まだ、どうとも言えない部分がありますが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"思い出して欲しいであります。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"遺体の状況を」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「遺体の状況？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1925364",
+          "route": "coverage-2-7",
+          "step": 606
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.32132:1925072.c301bd37",
+            "step": 604,
+            "script": 32132,
+            "text": "だけど、ぼくの見解が偏っているかもしれないし、\nなるべく意見を聞いておくに越したことはない。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925196.1b9f59b3",
+            "step": 605,
+            "script": 32132,
+            "text": "「そっ、そうでありますね………\n自分は五十嵐さんは他殺されたと\n考えているであります」\n「他殺ですか？　その根拠は？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925364.60d5b34b",
+            "step": 606,
+            "script": 32132,
+            "text": "「まだ、どうとも言えない部分がありますが、\n思い出して欲しいであります。\n遺体の状況を」\n「遺体の状況？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925516.b1b363e2",
+            "step": 607,
+            "script": 32132,
+            "text": "小暮さんの言葉を受けて記憶を反芻すると、\nふと、ある言葉が頭の隅に引っ掛かる。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925624.50ec0148",
+            "step": 608,
+            "script": 32132,
+            "text": "「そういえばあの時、数ヶ所に渡って\n激しい骨折があるとか言ってましたよね」\n「それでありますよ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「虽然还有一些地方不能确定，但请回想一下，遗体的状况。」\n「遗体的状况？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1925516.b1b363e2",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"小暮さんの言葉を受けて記憶を反芻すると、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ふと、ある言葉が頭の隅に引っ掛かる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1925516",
+          "route": "coverage-2-7",
+          "step": 607
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.32132:1925196.1b9f59b3",
+            "step": 605,
+            "script": 32132,
+            "text": "「そっ、そうでありますね………\n自分は五十嵐さんは他殺されたと\n考えているであります」\n「他殺ですか？　その根拠は？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925364.60d5b34b",
+            "step": 606,
+            "script": 32132,
+            "text": "「まだ、どうとも言えない部分がありますが、\n思い出して欲しいであります。\n遺体の状況を」\n「遺体の状況？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925516.b1b363e2",
+            "step": 607,
+            "script": 32132,
+            "text": "小暮さんの言葉を受けて記憶を反芻すると、\nふと、ある言葉が頭の隅に引っ掛かる。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925624.50ec0148",
+            "step": 608,
+            "script": 32132,
+            "text": "「そういえばあの時、数ヶ所に渡って\n激しい骨折があるとか言ってましたよね」\n「それでありますよ」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925760.61372a75",
+            "step": 609,
+            "script": 32132,
+            "text": "「やはり、あの骨の折れ方は自分で\n落ちたにしては異常であります。\n誰かが作為的にやったとしか……」\n「なるほど。それはぼくも失念していました」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "顺着他的话回想，我忽然想起了某句话。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1925624.50ec0148",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「そういえばあの時、数ヶ所に渡って\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"激しい骨折があるとか言ってましたよね」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「それでありますよ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1925624",
+          "route": "coverage-2-7",
+          "step": 608
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.32132:1925364.60d5b34b",
+            "step": 606,
+            "script": 32132,
+            "text": "「まだ、どうとも言えない部分がありますが、\n思い出して欲しいであります。\n遺体の状況を」\n「遺体の状況？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925516.b1b363e2",
+            "step": 607,
+            "script": 32132,
+            "text": "小暮さんの言葉を受けて記憶を反芻すると、\nふと、ある言葉が頭の隅に引っ掛かる。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925624.50ec0148",
+            "step": 608,
+            "script": 32132,
+            "text": "「そういえばあの時、数ヶ所に渡って\n激しい骨折があるとか言ってましたよね」\n「それでありますよ」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925760.61372a75",
+            "step": 609,
+            "script": 32132,
+            "text": "「やはり、あの骨の折れ方は自分で\n落ちたにしては異常であります。\n誰かが作為的にやったとしか……」\n「なるほど。それはぼくも失念していました」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925988.b49a260",
+            "step": 610,
+            "script": 32132,
+            "text": "やはり、こうしてお互いの見解や可能性を\n話し合うと、色々なものが見えてくる気がする。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「说起来，当时有人说过，遗体有好几处严重骨折。」\n「就是这个。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1925760.61372a75",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「やはり、あの骨の折れ方は自分で\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"落ちたにしては異常であります。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"誰かが作為的にやったとしか……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「なるほど。それはぼくも失念していました」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1925760",
+          "route": "coverage-2-7",
+          "step": 609
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.32132:1925516.b1b363e2",
+            "step": 607,
+            "script": 32132,
+            "text": "小暮さんの言葉を受けて記憶を反芻すると、\nふと、ある言葉が頭の隅に引っ掛かる。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925624.50ec0148",
+            "step": 608,
+            "script": 32132,
+            "text": "「そういえばあの時、数ヶ所に渡って\n激しい骨折があるとか言ってましたよね」\n「それでありますよ」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925760.61372a75",
+            "step": 609,
+            "script": 32132,
+            "text": "「やはり、あの骨の折れ方は自分で\n落ちたにしては異常であります。\n誰かが作為的にやったとしか……」\n「なるほど。それはぼくも失念していました」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925988.b49a260",
+            "step": 610,
+            "script": 32132,
+            "text": "やはり、こうしてお互いの見解や可能性を\n話し合うと、色々なものが見えてくる気がする。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926112.5509cce1",
+            "step": 611,
+            "script": 32132,
+            "text": "と、そこまで話し合ったところで\nドアが開き、賀茂泉警部補が戻ってきた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「那种骨折的程度，如果是自己掉下去，实在太异常了。只能认为有人刻意动了手……」\n「原来如此。这一点我也疏忽了。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1925988.b49a260",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"やはり、こうしてお互いの見解や可能性を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"話し合うと、色々なものが見えてくる気がする。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1925988",
+          "route": "coverage-2-7",
+          "step": 610
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.32132:1925624.50ec0148",
+            "step": 608,
+            "script": 32132,
+            "text": "「そういえばあの時、数ヶ所に渡って\n激しい骨折があるとか言ってましたよね」\n「それでありますよ」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925760.61372a75",
+            "step": 609,
+            "script": 32132,
+            "text": "「やはり、あの骨の折れ方は自分で\n落ちたにしては異常であります。\n誰かが作為的にやったとしか……」\n「なるほど。それはぼくも失念していました」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925988.b49a260",
+            "step": 610,
+            "script": 32132,
+            "text": "やはり、こうしてお互いの見解や可能性を\n話し合うと、色々なものが見えてくる気がする。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926112.5509cce1",
+            "step": 611,
+            "script": 32132,
+            "text": "と、そこまで話し合ったところで\nドアが開き、賀茂泉警部補が戻ってきた。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926252.e68131ca",
+            "step": 612,
+            "script": 32132,
+            "text": "「相変わらずダメねぇ」\nいきなりこれだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "果然，像这样交流彼此的看法、探讨各种可能，就能看清许多东西。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1926112.5509cce1",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"と、そこまで話し合ったところで\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ドアが開き、賀茂泉警部補が戻ってきた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1926112",
+          "route": "coverage-2-7",
+          "step": 611
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.32132:1925760.61372a75",
+            "step": 609,
+            "script": 32132,
+            "text": "「やはり、あの骨の折れ方は自分で\n落ちたにしては異常であります。\n誰かが作為的にやったとしか……」\n「なるほど。それはぼくも失念していました」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1925988.b49a260",
+            "step": 610,
+            "script": 32132,
+            "text": "やはり、こうしてお互いの見解や可能性を\n話し合うと、色々なものが見えてくる気がする。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926112.5509cce1",
+            "step": 611,
+            "script": 32132,
+            "text": "と、そこまで話し合ったところで\nドアが開き、賀茂泉警部補が戻ってきた。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926252.e68131ca",
+            "step": 612,
+            "script": 32132,
+            "text": "「相変わらずダメねぇ」\nいきなりこれだ。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926324.b4320824",
+            "step": 613,
+            "script": 32132,
+            "text": "「ダメって、どうしてです？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "谈到这里，门开了，贺茂泉警部补走了回来。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1926252.e68131ca",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「相変わらずダメねぇ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いきなりこれだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1926252",
+          "route": "coverage-2-7",
+          "step": 612
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.32132:1925988.b49a260",
+            "step": 610,
+            "script": 32132,
+            "text": "やはり、こうしてお互いの見解や可能性を\n話し合うと、色々なものが見えてくる気がする。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926112.5509cce1",
+            "step": 611,
+            "script": 32132,
+            "text": "と、そこまで話し合ったところで\nドアが開き、賀茂泉警部補が戻ってきた。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926252.e68131ca",
+            "step": 612,
+            "script": 32132,
+            "text": "「相変わらずダメねぇ」\nいきなりこれだ。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926324.b4320824",
+            "step": 613,
+            "script": 32132,
+            "text": "「ダメって、どうしてです？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926376.a9885f08",
+            "step": 614,
+            "script": 32132,
+            "text": "「それはもちろん、あなた達が不毛な\n推理ばかりしてるからよ。\nそんな暇があるなら、これぐらいはして\n欲しいものね」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「还是这么不中用啊。」\n一上来就是这句话。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1926324.b4320824",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ダメって、どうしてです？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1926324",
+          "route": "coverage-2-7",
+          "step": 613
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.32132:1926112.5509cce1",
+            "step": 611,
+            "script": 32132,
+            "text": "と、そこまで話し合ったところで\nドアが開き、賀茂泉警部補が戻ってきた。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926252.e68131ca",
+            "step": 612,
+            "script": 32132,
+            "text": "「相変わらずダメねぇ」\nいきなりこれだ。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926324.b4320824",
+            "step": 613,
+            "script": 32132,
+            "text": "「ダメって、どうしてです？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926376.a9885f08",
+            "step": 614,
+            "script": 32132,
+            "text": "「それはもちろん、あなた達が不毛な\n推理ばかりしてるからよ。\nそんな暇があるなら、これぐらいはして\n欲しいものね」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「不中用？为什么这么说？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.32132:1926376.a9885f08",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「それはもちろん、あなた達が不毛な\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"推理ばかりしてるからよ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そんな暇があるなら、これぐらいはして\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"欲しいものね」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 32132,
+          "page": "32132:1926376",
+          "route": "coverage-2-7",
+          "step": 614
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.32132:1926252.e68131ca",
+            "step": 612,
+            "script": 32132,
+            "text": "「相変わらずダメねぇ」\nいきなりこれだ。",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926324.b4320824",
+            "step": 613,
+            "script": 32132,
+            "text": "「ダメって、どうしてです？」",
+            "translation": null
+          },
+          {
+            "key": "page.32132:1926376.a9885f08",
+            "step": 614,
+            "script": 32132,
+            "text": "「それはもちろん、あなた達が不毛な\n推理ばかりしてるからよ。\nそんな暇があるなら、これぐらいはして\n欲しいものね」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「当然是因为，你们净在做些毫无意义的推理。有这个闲工夫，至少也该做点这种程度的事吧。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39810:2321384.9297e8e3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"いや、そんなことは不可能だ………\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39810,
+          "page": "39810:2321384",
+          "route": "coverage-2-7",
+          "step": 2003
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39810:2321384.9297e8e3",
+            "step": 2003,
+            "script": 39810,
+            "text": "いや、そんなことは不可能だ………",
+            "translation": null
+          },
+          {
+            "key": "page.39810:2321440.364cbb5f",
+            "step": 2004,
+            "script": 39810,
+            "text": "そもそも安藤さんは盲目のはずだ。\n遺留品を受け取れたからといって、\nどうやってメールを打ったり出来ると\nいうのだ？",
+            "translation": null
+          },
+          {
+            "key": "page.39810:2321600.78fb359b",
+            "step": 2005,
+            "script": 39810,
+            "text": "だが、もし彼の裏に、辻さやかの怨念が\n存在していたとしたら………",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不，那是不可能的……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39810:2321440.364cbb5f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そもそも安藤さんは盲目のはずだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"遺留品を受け取れたからといって、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どうやってメールを打ったり出来ると\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いうのだ？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39810,
+          "page": "39810:2321440",
+          "route": "coverage-2-7",
+          "step": 2004
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39810:2321384.9297e8e3",
+            "step": 2003,
+            "script": 39810,
+            "text": "いや、そんなことは不可能だ………",
+            "translation": null
+          },
+          {
+            "key": "page.39810:2321440.364cbb5f",
+            "step": 2004,
+            "script": 39810,
+            "text": "そもそも安藤さんは盲目のはずだ。\n遺留品を受け取れたからといって、\nどうやってメールを打ったり出来ると\nいうのだ？",
+            "translation": null
+          },
+          {
+            "key": "page.39810:2321600.78fb359b",
+            "step": 2005,
+            "script": 39810,
+            "text": "だが、もし彼の裏に、辻さやかの怨念が\n存在していたとしたら………",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "首先，安藤先生应该是失明的。就算领到了遗物，又怎么能写邮件？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39810:2321600.78fb359b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、もし彼の裏に、辻さやかの怨念が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"存在していたとしたら………\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39810,
+          "page": "39810:2321600",
+          "route": "coverage-2-7",
+          "step": 2005
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39810:2321384.9297e8e3",
+            "step": 2003,
+            "script": 39810,
+            "text": "いや、そんなことは不可能だ………",
+            "translation": null
+          },
+          {
+            "key": "page.39810:2321440.364cbb5f",
+            "step": 2004,
+            "script": 39810,
+            "text": "そもそも安藤さんは盲目のはずだ。\n遺留品を受け取れたからといって、\nどうやってメールを打ったり出来ると\nいうのだ？",
+            "translation": null
+          },
+          {
+            "key": "page.39810:2321600.78fb359b",
+            "step": 2005,
+            "script": 39810,
+            "text": "だが、もし彼の裏に、辻さやかの怨念が\n存在していたとしたら………",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可如果他背后，存在着辻沙耶香的怨念……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2464232.724bea9c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"今回の事件は、安藤さんによる辻さんの為の\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"復讐劇だった……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2464232",
+          "route": "coverage-2-7",
+          "step": 2184
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2464232.724bea9c",
+            "step": 2184,
+            "script": 38412,
+            "text": "今回の事件は、安藤さんによる辻さんの為の\n復讐劇だった……。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464324.344e6277",
+            "step": 2185,
+            "script": 38412,
+            "text": "そう。安藤さんと辻さんは恋人同士であり、\nまた、安藤さんは彼女を天才と賞賛するほどに\n認めていた。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464460.a3388fd6",
+            "step": 2186,
+            "script": 38412,
+            "text": "その公私に渡り、かけがえのない存在であった\n辻さんを失った安藤さんの悲しみは、\n余人には計り知れない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这起案件，是安藤先生为了辻小姐而上演的复仇剧……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2464324.344e6277",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そう。安藤さんと辻さんは恋人同士であり、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"また、安藤さんは彼女を天才と賞賛するほどに\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"認めていた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2464324",
+          "route": "coverage-2-7",
+          "step": 2185
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2464232.724bea9c",
+            "step": 2184,
+            "script": 38412,
+            "text": "今回の事件は、安藤さんによる辻さんの為の\n復讐劇だった……。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464324.344e6277",
+            "step": 2185,
+            "script": 38412,
+            "text": "そう。安藤さんと辻さんは恋人同士であり、\nまた、安藤さんは彼女を天才と賞賛するほどに\n認めていた。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464460.a3388fd6",
+            "step": 2186,
+            "script": 38412,
+            "text": "その公私に渡り、かけがえのない存在であった\n辻さんを失った安藤さんの悲しみは、\n余人には計り知れない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464604.81a84d0b",
+            "step": 2187,
+            "script": 38412,
+            "text": "だが、失っただけならば悲しみに暮れるだけで\n済んでいたはずだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "没错，他们是恋人。安藤先生也极其认可她，甚至称赞她是天才。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2464460.a3388fd6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"その公私に渡り、かけがえのない存在であった\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"辻さんを失った安藤さんの悲しみは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"余人には計り知れない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2464460",
+          "route": "coverage-2-7",
+          "step": 2186
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2464232.724bea9c",
+            "step": 2184,
+            "script": 38412,
+            "text": "今回の事件は、安藤さんによる辻さんの為の\n復讐劇だった……。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464324.344e6277",
+            "step": 2185,
+            "script": 38412,
+            "text": "そう。安藤さんと辻さんは恋人同士であり、\nまた、安藤さんは彼女を天才と賞賛するほどに\n認めていた。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464460.a3388fd6",
+            "step": 2186,
+            "script": 38412,
+            "text": "その公私に渡り、かけがえのない存在であった\n辻さんを失った安藤さんの悲しみは、\n余人には計り知れない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464604.81a84d0b",
+            "step": 2187,
+            "script": 38412,
+            "text": "だが、失っただけならば悲しみに暮れるだけで\n済んでいたはずだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464700.8eb27b75",
+            "step": 2188,
+            "script": 38412,
+            "text": "問題は、辻さんの死後、その死をおとしめ、\n自らの利益を求める人間がいたことだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "无论工作还是私生活，她都是不可替代的存在。失去她的悲痛，旁人无从想象。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2464604.81a84d0b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、失っただけならば悲しみに暮れるだけで\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"済んでいたはずだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2464604",
+          "route": "coverage-2-7",
+          "step": 2187
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2464324.344e6277",
+            "step": 2185,
+            "script": 38412,
+            "text": "そう。安藤さんと辻さんは恋人同士であり、\nまた、安藤さんは彼女を天才と賞賛するほどに\n認めていた。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464460.a3388fd6",
+            "step": 2186,
+            "script": 38412,
+            "text": "その公私に渡り、かけがえのない存在であった\n辻さんを失った安藤さんの悲しみは、\n余人には計り知れない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464604.81a84d0b",
+            "step": 2187,
+            "script": 38412,
+            "text": "だが、失っただけならば悲しみに暮れるだけで\n済んでいたはずだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464700.8eb27b75",
+            "step": 2188,
+            "script": 38412,
+            "text": "問題は、辻さんの死後、その死をおとしめ、\n自らの利益を求める人間がいたことだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464808.6c035e66",
+            "step": 2189,
+            "script": 38412,
+            "text": "常世の辻さんも、現世の安藤さんも、\nその行為が許せなかったのだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "但若仅仅是失去，原本也许只会沉浸于悲伤。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2464700.8eb27b75",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"問題は、辻さんの死後、その死をおとしめ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"自らの利益を求める人間がいたことだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2464700",
+          "route": "coverage-2-7",
+          "step": 2188
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2464460.a3388fd6",
+            "step": 2186,
+            "script": 38412,
+            "text": "その公私に渡り、かけがえのない存在であった\n辻さんを失った安藤さんの悲しみは、\n余人には計り知れない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464604.81a84d0b",
+            "step": 2187,
+            "script": 38412,
+            "text": "だが、失っただけならば悲しみに暮れるだけで\n済んでいたはずだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464700.8eb27b75",
+            "step": 2188,
+            "script": 38412,
+            "text": "問題は、辻さんの死後、その死をおとしめ、\n自らの利益を求める人間がいたことだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464808.6c035e66",
+            "step": 2189,
+            "script": 38412,
+            "text": "常世の辻さんも、現世の安藤さんも、\nその行為が許せなかったのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464908.726d252f",
+            "step": 2190,
+            "script": 38412,
+            "text": "その強い想いこそが、今回の事件の動機へと\n繋がったのだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "问题在于，她去世之后，有人贬损她的死亡，从中谋取自己的利益。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2464808.6c035e66",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"常世の辻さんも、現世の安藤さんも、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その行為が許せなかったのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2464808",
+          "route": "coverage-2-7",
+          "step": 2189
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2464604.81a84d0b",
+            "step": 2187,
+            "script": 38412,
+            "text": "だが、失っただけならば悲しみに暮れるだけで\n済んでいたはずだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464700.8eb27b75",
+            "step": 2188,
+            "script": 38412,
+            "text": "問題は、辻さんの死後、その死をおとしめ、\n自らの利益を求める人間がいたことだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464808.6c035e66",
+            "step": 2189,
+            "script": 38412,
+            "text": "常世の辻さんも、現世の安藤さんも、\nその行為が許せなかったのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464908.726d252f",
+            "step": 2190,
+            "script": 38412,
+            "text": "その強い想いこそが、今回の事件の動機へと\n繋がったのだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "彼岸的辻小姐，与此世的安藤先生，都无法原谅这样的行为吧。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2464908.726d252f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"その強い想いこそが、今回の事件の動機へと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"繋がったのだ……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2464908",
+          "route": "coverage-2-7",
+          "step": 2190
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2464700.8eb27b75",
+            "step": 2188,
+            "script": 38412,
+            "text": "問題は、辻さんの死後、その死をおとしめ、\n自らの利益を求める人間がいたことだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464808.6c035e66",
+            "step": 2189,
+            "script": 38412,
+            "text": "常世の辻さんも、現世の安藤さんも、\nその行為が許せなかったのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464908.726d252f",
+            "step": 2190,
+            "script": 38412,
+            "text": "その強い想いこそが、今回の事件の動機へと\n繋がったのだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这份强烈的感情，最终成了本案的动机……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39615:2211108.ae8d782c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"瀬戸礼人殺害の真相を隠蔽する為に、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"五十嵐理緒をも殺害した、ということか……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"考えていて気持ちのいい話ではないが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"殺人犯が考えそうなことではある。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39615,
+          "page": "39615:2211108",
+          "route": "coverage-2-8",
+          "step": 1725
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39615:2211108.ae8d782c",
+            "step": 1725,
+            "script": 39615,
+            "text": "瀬戸礼人殺害の真相を隠蔽する為に、\n五十嵐理緒をも殺害した、ということか……。\n考えていて気持ちのいい話ではないが、\n殺人犯が考えそうなことではある。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "为了掩盖杀害濑户礼人的真相，连五十岚理绪也一并杀害……是这样吗？虽然想起来令人不快，却确实像是杀人犯会打的算盘。"
+            }
+          ]
+        },
+        "notes": "此处是推理图错误填答触发的推断，源文将两案因果倒置；保留原错误推理，不按真实案发顺序改写。"
+      },
+      {
+        "key": "page.37503:2364572.90eb23e1",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"初芝貴子……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ここまで来て、彼女が亡き親友のカードを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"使ったとは考えにくい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37503,
+          "page": "37503:2364572",
+          "route": "coverage-2-8",
+          "step": 2171
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37503:2364572.90eb23e1",
+            "step": 2171,
+            "script": 37503,
+            "text": "初芝貴子……\nここまで来て、彼女が亡き親友のカードを\n使ったとは考えにくい。",
+            "translation": null
+          },
+          {
+            "key": "page.37503:2364688.748a6c8a",
+            "step": 2172,
+            "script": 37503,
+            "text": "記録にあったのは、辻さやかの名前だったはずだ。\nだけど、彼女は３年前に死んでいる。",
+            "translation": null
+          },
+          {
+            "key": "page.37503:2364804.25101413",
+            "step": 2173,
+            "script": 37503,
+            "text": "ということは——",
+            "translation": null
+          },
+          {
+            "key": "choice.37503.62.0.8b58a542",
+            "step": 2173,
+            "script": 37503,
+            "text": "犯人が辻さやかのカードを使っている「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.37503.62.1.ed8e5b98",
+            "step": 2173,
+            "script": 37503,
+            "text": "辻さやかは実は生きていた「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "初芝贵子……事到如今，很难认为是她用了亡友的卡。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.37503:2364688.748a6c8a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"記録にあったのは、辻さやかの名前だったはずだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"だけど、彼女は３年前に死んでいる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37503,
+          "page": "37503:2364688",
+          "route": "coverage-2-8",
+          "step": 2172
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37503:2364572.90eb23e1",
+            "step": 2171,
+            "script": 37503,
+            "text": "初芝貴子……\nここまで来て、彼女が亡き親友のカードを\n使ったとは考えにくい。",
+            "translation": null
+          },
+          {
+            "key": "page.37503:2364688.748a6c8a",
+            "step": 2172,
+            "script": 37503,
+            "text": "記録にあったのは、辻さやかの名前だったはずだ。\nだけど、彼女は３年前に死んでいる。",
+            "translation": null
+          },
+          {
+            "key": "page.37503:2364804.25101413",
+            "step": 2173,
+            "script": 37503,
+            "text": "ということは——",
+            "translation": null
+          },
+          {
+            "key": "choice.37503.62.0.8b58a542",
+            "step": 2173,
+            "script": 37503,
+            "text": "犯人が辻さやかのカードを使っている「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.37503.62.1.ed8e5b98",
+            "step": 2173,
+            "script": 37503,
+            "text": "辻さやかは実は生きていた「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "记录上的名字，应该是辻沙耶香。可她３年前就已经死了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.37503:2364804.25101413",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ということは———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37503,
+          "page": "37503:2364804",
+          "route": "coverage-2-8",
+          "step": 2173
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37503:2364572.90eb23e1",
+            "step": 2171,
+            "script": 37503,
+            "text": "初芝貴子……\nここまで来て、彼女が亡き親友のカードを\n使ったとは考えにくい。",
+            "translation": null
+          },
+          {
+            "key": "page.37503:2364688.748a6c8a",
+            "step": 2172,
+            "script": 37503,
+            "text": "記録にあったのは、辻さやかの名前だったはずだ。\nだけど、彼女は３年前に死んでいる。",
+            "translation": null
+          },
+          {
+            "key": "page.37503:2364804.25101413",
+            "step": 2173,
+            "script": 37503,
+            "text": "ということは——",
+            "translation": null
+          },
+          {
+            "key": "choice.37503.62.0.8b58a542",
+            "step": 2173,
+            "script": 37503,
+            "text": "犯人が辻さやかのカードを使っている「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.37503.62.1.ed8e5b98",
+            "step": 2173,
+            "script": 37503,
+            "text": "辻さやかは実は生きていた「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这意味着——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "choice.37503.62.0.8b58a542",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"犯人が辻さやかのカードを使っている\",\"color\":0,\"size\":0},{\"text\":\"「菜单」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37503,
+          "route": "coverage-2-8",
+          "step": 2173
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37503:2364572.90eb23e1",
+            "step": 2171,
+            "script": 37503,
+            "text": "初芝貴子……\nここまで来て、彼女が亡き親友のカードを\n使ったとは考えにくい。",
+            "translation": null
+          },
+          {
+            "key": "page.37503:2364688.748a6c8a",
+            "step": 2172,
+            "script": 37503,
+            "text": "記録にあったのは、辻さやかの名前だったはずだ。\nだけど、彼女は３年前に死んでいる。",
+            "translation": null
+          },
+          {
+            "key": "page.37503:2364804.25101413",
+            "step": 2173,
+            "script": 37503,
+            "text": "ということは——",
+            "translation": null
+          },
+          {
+            "key": "choice.37503.62.0.8b58a542",
+            "step": 2173,
+            "script": 37503,
+            "text": "犯人が辻さやかのカードを使っている「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.37503.62.1.ed8e5b98",
+            "step": 2173,
+            "script": 37503,
+            "text": "辻さやかは実は生きていた「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "凶手使用了辻沙耶香的卡"
+            }
+          ]
+        },
+        "notes": "源末尾「菜单」为 op217 内联图标占位词，省去占位文字。"
+      },
+      {
+        "key": "choice.37503.62.1.ed8e5b98",
+        "collection": "rich",
+        "kind": "choice",
+        "source": "[{\"text\":\"辻さやかは実は生きていた\",\"color\":0,\"size\":0},{\"text\":\"「菜单」\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37503,
+          "route": "coverage-2-8",
+          "step": 2173
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37503:2364572.90eb23e1",
+            "step": 2171,
+            "script": 37503,
+            "text": "初芝貴子……\nここまで来て、彼女が亡き親友のカードを\n使ったとは考えにくい。",
+            "translation": null
+          },
+          {
+            "key": "page.37503:2364688.748a6c8a",
+            "step": 2172,
+            "script": 37503,
+            "text": "記録にあったのは、辻さやかの名前だったはずだ。\nだけど、彼女は３年前に死んでいる。",
+            "translation": null
+          },
+          {
+            "key": "page.37503:2364804.25101413",
+            "step": 2173,
+            "script": 37503,
+            "text": "ということは——",
+            "translation": null
+          },
+          {
+            "key": "choice.37503.62.0.8b58a542",
+            "step": 2173,
+            "script": 37503,
+            "text": "犯人が辻さやかのカードを使っている「菜单」",
+            "translation": null
+          },
+          {
+            "key": "choice.37503.62.1.ed8e5b98",
+            "step": 2173,
+            "script": 37503,
+            "text": "辻さやかは実は生きていた「菜单」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "辻沙耶香其实还活着"
+            }
+          ]
+        },
+        "notes": "源末尾「菜单」为 op217 内联图标占位词，省去占位文字。"
+      },
+      {
+        "key": "page.38410:2458156.144b0635",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"空白のスロットがあります。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"全てのスロットを埋めて下さい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38410,
+          "page": "38410:2458156",
+          "route": "chapter-two-branches",
+          "trial": 0,
+          "step": 2187
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38410:2458156.144b0635",
+            "step": 2187,
+            "script": 38410,
+            "text": "空白のスロットがあります。\n全てのスロットを埋めて下さい。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "还有空白栏位。请填写所有栏位。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2463980.3fac5bb2",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"安藤さんと辻さん。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この二人には何らかの秘密がある。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2463980",
+          "route": "chapter-two-branches",
+          "trial": 0,
+          "step": 2194
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2463980.3fac5bb2",
+            "step": 2194,
+            "script": 38412,
+            "text": "安藤さんと辻さん。\nこの二人には何らかの秘密がある。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464064.935c0c2d",
+            "step": 2195,
+            "script": 38412,
+            "text": "肝心なのは、その秘密が何なのかだが、\nぼくの頭脳はそれを証明するに至っていない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464176.60a049df",
+            "step": 2196,
+            "script": 38412,
+            "text": "…………残念だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "安藤先生与辻小姐。这两个人之间，隐藏着某种秘密。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2464064.935c0c2d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"肝心なのは、その秘密が何なのかだが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ぼくの頭脳はそれを証明するに至っていない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2464064",
+          "route": "chapter-two-branches",
+          "trial": 0,
+          "step": 2195
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2463980.3fac5bb2",
+            "step": 2194,
+            "script": 38412,
+            "text": "安藤さんと辻さん。\nこの二人には何らかの秘密がある。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464064.935c0c2d",
+            "step": 2195,
+            "script": 38412,
+            "text": "肝心なのは、その秘密が何なのかだが、\nぼくの頭脳はそれを証明するに至っていない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464176.60a049df",
+            "step": 2196,
+            "script": 38412,
+            "text": "…………残念だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "关键在于秘密究竟是什么，可我的推理还不足以证明。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2464176.60a049df",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"…………残念だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2464176",
+          "route": "chapter-two-branches",
+          "trial": 0,
+          "step": 2196
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2463980.3fac5bb2",
+            "step": 2194,
+            "script": 38412,
+            "text": "安藤さんと辻さん。\nこの二人には何らかの秘密がある。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464064.935c0c2d",
+            "step": 2195,
+            "script": 38412,
+            "text": "肝心なのは、その秘密が何なのかだが、\nぼくの頭脳はそれを証明するに至っていない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2464176.60a049df",
+            "step": 2196,
+            "script": 38412,
+            "text": "…………残念だ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……真遗憾。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2462228.e84524c3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"辻さやかさんは、安藤さんにとって、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"唯一、主演女優を任せるに足りる\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"女優だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2462228",
+          "route": "chapter-two-branches",
+          "trial": 1,
+          "step": 2453
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2462228.e84524c3",
+            "step": 2453,
+            "script": 38412,
+            "text": "辻さやかさんは、安藤さんにとって、\n唯一、主演女優を任せるに足りる\n女優だった。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462348.19edb8f3",
+            "step": 2454,
+            "script": 38412,
+            "text": "あの気難しい、孤高の演出家・安藤誠をして\n天才と言わしめるほどの演技者だ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462452.7f2e2d61",
+            "step": 2455,
+            "script": 38412,
+            "text": "彼女の死は劇団千年紀だけではなく、\n演劇界にとっても大変な損失だったに\n違いない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "对安藤先生而言，辻沙耶香是唯一足以担当女主角的演员。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2462348.19edb8f3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"あの気難しい、孤高の演出家・安藤誠をして\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"天才と言わしめるほどの演技者だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2462348",
+          "route": "chapter-two-branches",
+          "trial": 1,
+          "step": 2454
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2462228.e84524c3",
+            "step": 2453,
+            "script": 38412,
+            "text": "辻さやかさんは、安藤さんにとって、\n唯一、主演女優を任せるに足りる\n女優だった。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462348.19edb8f3",
+            "step": 2454,
+            "script": 38412,
+            "text": "あの気難しい、孤高の演出家・安藤誠をして\n天才と言わしめるほどの演技者だ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462452.7f2e2d61",
+            "step": 2455,
+            "script": 38412,
+            "text": "彼女の死は劇団千年紀だけではなく、\n演劇界にとっても大変な損失だったに\n違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462576.970323d6",
+            "step": 2456,
+            "script": 38412,
+            "text": "その辻さんを失った安藤さんの胸中たるや、\n想像に難くない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她的演技，让那个性情乖僻、孤高自傲的导演安藤诚，都称之为天才。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2462452.7f2e2d61",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"彼女の死は劇団千年紀だけではなく、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"演劇界にとっても大変な損失だったに\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"違いない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2462452",
+          "route": "chapter-two-branches",
+          "trial": 1,
+          "step": 2455
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2462228.e84524c3",
+            "step": 2453,
+            "script": 38412,
+            "text": "辻さやかさんは、安藤さんにとって、\n唯一、主演女優を任せるに足りる\n女優だった。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462348.19edb8f3",
+            "step": 2454,
+            "script": 38412,
+            "text": "あの気難しい、孤高の演出家・安藤誠をして\n天才と言わしめるほどの演技者だ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462452.7f2e2d61",
+            "step": 2455,
+            "script": 38412,
+            "text": "彼女の死は劇団千年紀だけではなく、\n演劇界にとっても大変な損失だったに\n違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462576.970323d6",
+            "step": 2456,
+            "script": 38412,
+            "text": "その辻さんを失った安藤さんの胸中たるや、\n想像に難くない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462664.ce12e83f",
+            "step": 2457,
+            "script": 38412,
+            "text": "その想いこそが、今回の事件の動機へと\n繋がったのだろう……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她的死，不只是千年纪剧团，对整个戏剧界而言，想必也是巨大的损失。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2462576.970323d6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"その辻さんを失った安藤さんの胸中たるや、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"想像に難くない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2462576",
+          "route": "chapter-two-branches",
+          "trial": 1,
+          "step": 2456
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2462348.19edb8f3",
+            "step": 2454,
+            "script": 38412,
+            "text": "あの気難しい、孤高の演出家・安藤誠をして\n天才と言わしめるほどの演技者だ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462452.7f2e2d61",
+            "step": 2455,
+            "script": 38412,
+            "text": "彼女の死は劇団千年紀だけではなく、\n演劇界にとっても大変な損失だったに\n違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462576.970323d6",
+            "step": 2456,
+            "script": 38412,
+            "text": "その辻さんを失った安藤さんの胸中たるや、\n想像に難くない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462664.ce12e83f",
+            "step": 2457,
+            "script": 38412,
+            "text": "その想いこそが、今回の事件の動機へと\n繋がったのだろう……。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2466940.f64a33ea",
+            "step": 2458,
+            "script": 38413,
+            "text": "今回の事件の実行犯たる安藤誠——\n彼は『死の道行』をストライキした。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "失去这样的她，安藤先生心中的痛苦，不难想象。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2462664.ce12e83f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"その想いこそが、今回の事件の動機へと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"繋がったのだろう……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2462664",
+          "route": "chapter-two-branches",
+          "trial": 1,
+          "step": 2457
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2462452.7f2e2d61",
+            "step": 2455,
+            "script": 38412,
+            "text": "彼女の死は劇団千年紀だけではなく、\n演劇界にとっても大変な損失だったに\n違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462576.970323d6",
+            "step": 2456,
+            "script": 38412,
+            "text": "その辻さんを失った安藤さんの胸中たるや、\n想像に難くない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462664.ce12e83f",
+            "step": 2457,
+            "script": 38412,
+            "text": "その想いこそが、今回の事件の動機へと\n繋がったのだろう……。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2466940.f64a33ea",
+            "step": 2458,
+            "script": 38413,
+            "text": "今回の事件の実行犯たる安藤誠——\n彼は『死の道行』をストライキした。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467044.e145ed03",
+            "step": 2459,
+            "script": 38413,
+            "text": "確かに、安藤さんは『死の道行』の初演時、\n辻さやかの死を受け、ストライキを起こした。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这份感情，大概正是这起案件的动机……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2466940.f64a33ea",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"今回の事件の実行犯たる安藤誠———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"彼は『死の道行』をストライキした。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2466940",
+          "route": "chapter-two-branches",
+          "trial": 1,
+          "step": 2458
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2462576.970323d6",
+            "step": 2456,
+            "script": 38412,
+            "text": "その辻さんを失った安藤さんの胸中たるや、\n想像に難くない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2462664.ce12e83f",
+            "step": 2457,
+            "script": 38412,
+            "text": "その想いこそが、今回の事件の動機へと\n繋がったのだろう……。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2466940.f64a33ea",
+            "step": 2458,
+            "script": 38413,
+            "text": "今回の事件の実行犯たる安藤誠——\n彼は『死の道行』をストライキした。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467044.e145ed03",
+            "step": 2459,
+            "script": 38413,
+            "text": "確かに、安藤さんは『死の道行』の初演時、\n辻さやかの死を受け、ストライキを起こした。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467160.91cb8293",
+            "step": 2460,
+            "script": 38413,
+            "text": "だが、それは過去の話だ。\n今の安藤さんは『死の道行』を\n何としても開演しようとしている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这起案件的实施者，安藤诚——他曾为《死之道行》罢工。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2467044.e145ed03",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"確かに、安藤さんは『死の道行』の初演時、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"辻さやかの死を受け、ストライキを起こした。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2467044",
+          "route": "chapter-two-branches",
+          "trial": 1,
+          "step": 2459
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2462664.ce12e83f",
+            "step": 2457,
+            "script": 38412,
+            "text": "その想いこそが、今回の事件の動機へと\n繋がったのだろう……。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2466940.f64a33ea",
+            "step": 2458,
+            "script": 38413,
+            "text": "今回の事件の実行犯たる安藤誠——\n彼は『死の道行』をストライキした。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467044.e145ed03",
+            "step": 2459,
+            "script": 38413,
+            "text": "確かに、安藤さんは『死の道行』の初演時、\n辻さやかの死を受け、ストライキを起こした。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467160.91cb8293",
+            "step": 2460,
+            "script": 38413,
+            "text": "だが、それは過去の話だ。\n今の安藤さんは『死の道行』を\n何としても開演しようとしている。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467284.8631184a",
+            "step": 2461,
+            "script": 38413,
+            "text": "辻さやかの霊を弔う為の復讐劇——。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "确实，首演时，因为辻沙耶香的死，他曾拒绝工作。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2467160.91cb8293",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だが、それは過去の話だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今の安藤さんは『死の道行』を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何としても開演しようとしている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2467160",
+          "route": "chapter-two-branches",
+          "trial": 1,
+          "step": 2460
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38413:2466940.f64a33ea",
+            "step": 2458,
+            "script": 38413,
+            "text": "今回の事件の実行犯たる安藤誠——\n彼は『死の道行』をストライキした。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467044.e145ed03",
+            "step": 2459,
+            "script": 38413,
+            "text": "確かに、安藤さんは『死の道行』の初演時、\n辻さやかの死を受け、ストライキを起こした。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467160.91cb8293",
+            "step": 2460,
+            "script": 38413,
+            "text": "だが、それは過去の話だ。\n今の安藤さんは『死の道行』を\n何としても開演しようとしている。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467284.8631184a",
+            "step": 2461,
+            "script": 38413,
+            "text": "辻さやかの霊を弔う為の復讐劇——。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467344.fc4f18e",
+            "step": 2462,
+            "script": 38413,
+            "text": "この連続殺人に彩られた舞台には、\nそういう意味が込められているのだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "可那已经是过去的事。现在的他，是无论如何都要让《死之道行》开演。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2467284.8631184a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"辻さやかの霊を弔う為の復讐劇———。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2467284",
+          "route": "chapter-two-branches",
+          "trial": 1,
+          "step": 2461
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38413:2467044.e145ed03",
+            "step": 2459,
+            "script": 38413,
+            "text": "確かに、安藤さんは『死の道行』の初演時、\n辻さやかの死を受け、ストライキを起こした。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467160.91cb8293",
+            "step": 2460,
+            "script": 38413,
+            "text": "だが、それは過去の話だ。\n今の安藤さんは『死の道行』を\n何としても開演しようとしている。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467284.8631184a",
+            "step": 2461,
+            "script": 38413,
+            "text": "辻さやかの霊を弔う為の復讐劇——。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467344.fc4f18e",
+            "step": 2462,
+            "script": 38413,
+            "text": "この連続殺人に彩られた舞台には、\nそういう意味が込められているのだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "一出祭奠辻沙耶香亡灵的复仇剧——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2467344.fc4f18e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"この連続殺人に彩られた舞台には、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そういう意味が込められているのだ……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2467344",
+          "route": "chapter-two-branches",
+          "trial": 1,
+          "step": 2462
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38413:2467160.91cb8293",
+            "step": 2460,
+            "script": 38413,
+            "text": "だが、それは過去の話だ。\n今の安藤さんは『死の道行』を\n何としても開演しようとしている。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467284.8631184a",
+            "step": 2461,
+            "script": 38413,
+            "text": "辻さやかの霊を弔う為の復讐劇——。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2467344.fc4f18e",
+            "step": 2462,
+            "script": 38413,
+            "text": "この連続殺人に彩られた舞台には、\nそういう意味が込められているのだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这出被连环谋杀染红的戏，承载的正是这样的意义……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39312:2010068.b7683deb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"五十嵐理緒への嫌がらせか……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39312,
+          "page": "39312:2010068",
+          "route": "chapter-two-branches",
+          "trial": 3,
+          "step": 977
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39312:2010068.b7683deb",
+            "step": 977,
+            "script": 39312,
+            "text": "五十嵐理緒への嫌がらせか……。",
+            "translation": null
+          },
+          {
+            "key": "page.39312:2010124.cdc70e4f",
+            "step": 978,
+            "script": 39312,
+            "text": "千年紀ほどの規模の劇団で看板女優を張って\nいる以上、他人から謂れのない恨みを買うこと\nだってあるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.39312:2010268.89a5f437",
+            "step": 979,
+            "script": 39312,
+            "text": "すると、やはりこの心霊写真は五十嵐さんへの\n嫌がらせと取るのが正しいのだろうか——？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "针对五十岚理绪的骚扰吗……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39312:2010124.cdc70e4f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"千年紀ほどの規模の劇団で看板女優を張って\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いる以上、他人から謂れのない恨みを買うこと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"だってあるだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39312,
+          "page": "39312:2010124",
+          "route": "chapter-two-branches",
+          "trial": 3,
+          "step": 978
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39312:2010068.b7683deb",
+            "step": 977,
+            "script": 39312,
+            "text": "五十嵐理緒への嫌がらせか……。",
+            "translation": null
+          },
+          {
+            "key": "page.39312:2010124.cdc70e4f",
+            "step": 978,
+            "script": 39312,
+            "text": "千年紀ほどの規模の劇団で看板女優を張って\nいる以上、他人から謂れのない恨みを買うこと\nだってあるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.39312:2010268.89a5f437",
+            "step": 979,
+            "script": 39312,
+            "text": "すると、やはりこの心霊写真は五十嵐さんへの\n嫌がらせと取るのが正しいのだろうか——？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "身为千年纪这种规模的剧团的招牌女演员，遭人无端怨恨，也不是不可能。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39312:2010268.89a5f437",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"すると、やはりこの心霊写真は五十嵐さんへの\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"嫌がらせと取るのが正しいのだろうか——？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39312,
+          "page": "39312:2010268",
+          "route": "chapter-two-branches",
+          "trial": 3,
+          "step": 979
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39312:2010068.b7683deb",
+            "step": 977,
+            "script": 39312,
+            "text": "五十嵐理緒への嫌がらせか……。",
+            "translation": null
+          },
+          {
+            "key": "page.39312:2010124.cdc70e4f",
+            "step": 978,
+            "script": 39312,
+            "text": "千年紀ほどの規模の劇団で看板女優を張って\nいる以上、他人から謂れのない恨みを買うこと\nだってあるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.39312:2010268.89a5f437",
+            "step": 979,
+            "script": 39312,
+            "text": "すると、やはりこの心霊写真は五十嵐さんへの\n嫌がらせと取るのが正しいのだろうか——？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那么，果然应该把这张灵异照片，看作对五十岚小姐的骚扰吗——？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39607:2192640.42df7393",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"個人的な怨恨で、劇団まるまるひとつを潰そうと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"するだろうか……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"もっとも、世の中には人の数だけ考え方もある。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39607,
+          "page": "39607:2192640",
+          "route": "chapter-two-branches",
+          "trial": 3,
+          "step": 1745
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39607:2192640.42df7393",
+            "step": 1745,
+            "script": 39607,
+            "text": "個人的な怨恨で、劇団まるまるひとつを潰そうと\nするだろうか……？\nもっとも、世の中には人の数だけ考え方もある。",
+            "translation": null
+          },
+          {
+            "key": "page.39607:2192788.b2cc0769",
+            "step": 1746,
+            "script": 39607,
+            "text": "ぼくがそれをトレース出来ないからといって、\n可能性を否定してしまうのは早計というもの\nだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "会有人因为私人恩怨，就想毁掉整个剧团吗……？不过，世上有多少人，就有多少种想法。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39607:2192788.b2cc0769",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ぼくがそれをトレース出来ないからといって、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"可能性を否定してしまうのは早計というもの\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"だろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39607,
+          "page": "39607:2192788",
+          "route": "chapter-two-branches",
+          "trial": 3,
+          "step": 1746
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39607:2192640.42df7393",
+            "step": 1745,
+            "script": 39607,
+            "text": "個人的な怨恨で、劇団まるまるひとつを潰そうと\nするだろうか……？\nもっとも、世の中には人の数だけ考え方もある。",
+            "translation": null
+          },
+          {
+            "key": "page.39607:2192788.b2cc0769",
+            "step": 1746,
+            "script": 39607,
+            "text": "ぼくがそれをトレース出来ないからといって、\n可能性を否定してしまうのは早計というもの\nだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不能因为我无法理解，就贸然否定这种可能。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38411:2460064.271abcfa",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ぼく達が今回の事件に関わることになった\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"きっかけは心霊写真だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38411,
+          "page": "38411:2460064",
+          "route": "chapter-two-branches",
+          "trial": 3,
+          "step": 2429
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38411:2460064.271abcfa",
+            "step": 2429,
+            "script": 38411,
+            "text": "ぼく達が今回の事件に関わることになった\nきっかけは心霊写真だった。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2460164.14d86ad5",
+            "step": 2430,
+            "script": 38411,
+            "text": "そして、この心霊写真は犯人の自己顕示欲を\n明確に表している。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2460256.b3db3f0f",
+            "step": 2431,
+            "script": 38411,
+            "text": "目立ちたがり屋の犯人は、心霊写真という\nセンセーショナルな証拠を故意に残すことで\n歪んだ心を満たしていたのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我们卷入这起案件的契机，就是灵异照片。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38411:2460164.14d86ad5",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そして、この心霊写真は犯人の自己顕示欲を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"明確に表している。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38411,
+          "page": "38411:2460164",
+          "route": "chapter-two-branches",
+          "trial": 3,
+          "step": 2430
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38411:2460064.271abcfa",
+            "step": 2429,
+            "script": 38411,
+            "text": "ぼく達が今回の事件に関わることになった\nきっかけは心霊写真だった。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2460164.14d86ad5",
+            "step": 2430,
+            "script": 38411,
+            "text": "そして、この心霊写真は犯人の自己顕示欲を\n明確に表している。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2460256.b3db3f0f",
+            "step": 2431,
+            "script": 38411,
+            "text": "目立ちたがり屋の犯人は、心霊写真という\nセンセーショナルな証拠を故意に残すことで\n歪んだ心を満たしていたのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2460404.e58eed6f",
+            "step": 2432,
+            "script": 38411,
+            "text": "そして、その犯人は、いま目の前にいる……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而这张灵异照片，清楚地表现了凶手炫耀自己的欲望。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38411:2460256.b3db3f0f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"目立ちたがり屋の犯人は、心霊写真という\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"センセーショナルな証拠を故意に残すことで\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"歪んだ心を満たしていたのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38411,
+          "page": "38411:2460256",
+          "route": "chapter-two-branches",
+          "trial": 3,
+          "step": 2431
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38411:2460064.271abcfa",
+            "step": 2429,
+            "script": 38411,
+            "text": "ぼく達が今回の事件に関わることになった\nきっかけは心霊写真だった。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2460164.14d86ad5",
+            "step": 2430,
+            "script": 38411,
+            "text": "そして、この心霊写真は犯人の自己顕示欲を\n明確に表している。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2460256.b3db3f0f",
+            "step": 2431,
+            "script": 38411,
+            "text": "目立ちたがり屋の犯人は、心霊写真という\nセンセーショナルな証拠を故意に残すことで\n歪んだ心を満たしていたのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2460404.e58eed6f",
+            "step": 2432,
+            "script": 38411,
+            "text": "そして、その犯人は、いま目の前にいる……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "凶手喜欢引人注目，故意留下灵异照片这样耸人听闻的证据，以满足自己扭曲的内心。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38411:2460404.e58eed6f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そして、その犯人は、いま目の前にいる……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38411,
+          "page": "38411:2460404",
+          "route": "chapter-two-branches",
+          "trial": 3,
+          "step": 2432
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38411:2460164.14d86ad5",
+            "step": 2430,
+            "script": 38411,
+            "text": "そして、この心霊写真は犯人の自己顕示欲を\n明確に表している。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2460256.b3db3f0f",
+            "step": 2431,
+            "script": 38411,
+            "text": "目立ちたがり屋の犯人は、心霊写真という\nセンセーショナルな証拠を故意に残すことで\n歪んだ心を満たしていたのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2460404.e58eed6f",
+            "step": 2432,
+            "script": 38411,
+            "text": "そして、その犯人は、いま目の前にいる……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而那名凶手，此刻就在眼前……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38411:2461112.271abcfa",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ぼく達が今回の事件に関わることになった\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"きっかけは心霊写真だった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38411,
+          "page": "38411:2461112",
+          "route": "chapter-two-branches",
+          "trial": 6,
+          "step": 2408
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38411:2461112.271abcfa",
+            "step": 2408,
+            "script": 38411,
+            "text": "ぼく達が今回の事件に関わることになった\nきっかけは心霊写真だった。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461212.883daca7",
+            "step": 2409,
+            "script": 38411,
+            "text": "そして、その心霊写真こそは犯人が残した\n復讐のメッセージだったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461312.1590b910",
+            "step": 2410,
+            "script": 38411,
+            "text": "犯人は写真による心理的圧迫まで計算に\n入れていたのだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我们卷入这起案件的契机，就是灵异照片。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38411:2461212.883daca7",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そして、その心霊写真こそは犯人が残した\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"復讐のメッセージだったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38411,
+          "page": "38411:2461212",
+          "route": "chapter-two-branches",
+          "trial": 6,
+          "step": 2409
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38411:2461112.271abcfa",
+            "step": 2408,
+            "script": 38411,
+            "text": "ぼく達が今回の事件に関わることになった\nきっかけは心霊写真だった。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461212.883daca7",
+            "step": 2409,
+            "script": 38411,
+            "text": "そして、その心霊写真こそは犯人が残した\n復讐のメッセージだったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461312.1590b910",
+            "step": 2410,
+            "script": 38411,
+            "text": "犯人は写真による心理的圧迫まで計算に\n入れていたのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461400.412a7be2",
+            "step": 2411,
+            "script": 38411,
+            "text": "精神的に追い詰めた上で、殺害する。\n残虐だが、復讐者にとっては\n欠かすことの出来ない儀式だったのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而那张灵异照片，正是凶手留下的复仇宣言。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38411:2461312.1590b910",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"犯人は写真による心理的圧迫まで計算に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"入れていたのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38411,
+          "page": "38411:2461312",
+          "route": "chapter-two-branches",
+          "trial": 6,
+          "step": 2410
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38411:2461112.271abcfa",
+            "step": 2408,
+            "script": 38411,
+            "text": "ぼく達が今回の事件に関わることになった\nきっかけは心霊写真だった。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461212.883daca7",
+            "step": 2409,
+            "script": 38411,
+            "text": "そして、その心霊写真こそは犯人が残した\n復讐のメッセージだったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461312.1590b910",
+            "step": 2410,
+            "script": 38411,
+            "text": "犯人は写真による心理的圧迫まで計算に\n入れていたのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461400.412a7be2",
+            "step": 2411,
+            "script": 38411,
+            "text": "精神的に追い詰めた上で、殺害する。\n残虐だが、復讐者にとっては\n欠かすことの出来ない儀式だったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461540.fcf864ab",
+            "step": 2412,
+            "script": 38411,
+            "text": "そして、その復讐者は、\nいま、ぼくらの目の前にいる……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "他大概连照片带来的心理压力，也计算在内了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38411:2461400.412a7be2",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"精神的に追い詰めた上で、殺害する。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"残虐だが、復讐者にとっては\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"欠かすことの出来ない儀式だったのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38411,
+          "page": "38411:2461400",
+          "route": "chapter-two-branches",
+          "trial": 6,
+          "step": 2411
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38411:2461212.883daca7",
+            "step": 2409,
+            "script": 38411,
+            "text": "そして、その心霊写真こそは犯人が残した\n復讐のメッセージだったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461312.1590b910",
+            "step": 2410,
+            "script": 38411,
+            "text": "犯人は写真による心理的圧迫まで計算に\n入れていたのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461400.412a7be2",
+            "step": 2411,
+            "script": 38411,
+            "text": "精神的に追い詰めた上で、殺害する。\n残虐だが、復讐者にとっては\n欠かすことの出来ない儀式だったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461540.fcf864ab",
+            "step": 2412,
+            "script": 38411,
+            "text": "そして、その復讐者は、\nいま、ぼくらの目の前にいる……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "先把人逼到精神上的绝境，再杀死对方。虽然残忍，却是复仇者不可缺少的仪式。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38411:2461540.fcf864ab",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そして、その復讐者は、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"いま、ぼくらの目の前にいる……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38411,
+          "page": "38411:2461540",
+          "route": "chapter-two-branches",
+          "trial": 6,
+          "step": 2412
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38411:2461312.1590b910",
+            "step": 2410,
+            "script": 38411,
+            "text": "犯人は写真による心理的圧迫まで計算に\n入れていたのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461400.412a7be2",
+            "step": 2411,
+            "script": 38411,
+            "text": "精神的に追い詰めた上で、殺害する。\n残虐だが、復讐者にとっては\n欠かすことの出来ない儀式だったのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38411:2461540.fcf864ab",
+            "step": 2412,
+            "script": 38411,
+            "text": "そして、その復讐者は、\nいま、ぼくらの目の前にいる……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "而那位复仇者，此刻就在我们眼前……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2468280.f3a4578a",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"今回の事件の実行犯たる安藤誠———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"彼は『死の道行』を公演しようとしている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2468280",
+          "route": "chapter-two-branches",
+          "trial": 7,
+          "step": 2463
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38413:2468280.f3a4578a",
+            "step": 2463,
+            "script": 38413,
+            "text": "今回の事件の実行犯たる安藤誠——\n彼は『死の道行』を公演しようとしている。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468388.65550258",
+            "step": 2464,
+            "script": 38413,
+            "text": "恐らく、その公演はただ一人の\n観客の為のもの。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468604.7dd783f3",
+            "step": 2465,
+            "script": 38413,
+            "text": "観客は、辻さやか。\n彼女しかいないだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这起案件的实施者，安藤诚——他正试图让《死之道行》上演。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2468388.65550258",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"恐らく、その公演はただ一人の\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"観客の為のもの。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2468388",
+          "route": "chapter-two-branches",
+          "trial": 7,
+          "step": 2464
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38413:2468280.f3a4578a",
+            "step": 2463,
+            "script": 38413,
+            "text": "今回の事件の実行犯たる安藤誠——\n彼は『死の道行』を公演しようとしている。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468388.65550258",
+            "step": 2464,
+            "script": 38413,
+            "text": "恐らく、その公演はただ一人の\n観客の為のもの。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468604.7dd783f3",
+            "step": 2465,
+            "script": 38413,
+            "text": "観客は、辻さやか。\n彼女しかいないだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468680.3e552ffb",
+            "step": 2466,
+            "script": 38413,
+            "text": "安藤さんは、全てを賭けて『死の道行』を\n演じきろうとしているのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那场演出，恐怕只为一位观众而存在。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2468604.7dd783f3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"観客は、辻さやか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"彼女しかいないだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2468604",
+          "route": "chapter-two-branches",
+          "trial": 7,
+          "step": 2465
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38413:2468280.f3a4578a",
+            "step": 2463,
+            "script": 38413,
+            "text": "今回の事件の実行犯たる安藤誠——\n彼は『死の道行』を公演しようとしている。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468388.65550258",
+            "step": 2464,
+            "script": 38413,
+            "text": "恐らく、その公演はただ一人の\n観客の為のもの。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468604.7dd783f3",
+            "step": 2465,
+            "script": 38413,
+            "text": "観客は、辻さやか。\n彼女しかいないだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468680.3e552ffb",
+            "step": 2466,
+            "script": 38413,
+            "text": "安藤さんは、全てを賭けて『死の道行』を\n演じきろうとしているのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468780.f795e54e",
+            "step": 2467,
+            "script": 38413,
+            "text": "辻さやかの霊を弔う為の、\nこの復讐劇を——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "那位观众，就是辻沙耶香。只能是她。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2468680.3e552ffb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"安藤さんは、全てを賭けて『死の道行』を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"演じきろうとしているのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2468680",
+          "route": "chapter-two-branches",
+          "trial": 7,
+          "step": 2466
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38413:2468388.65550258",
+            "step": 2464,
+            "script": 38413,
+            "text": "恐らく、その公演はただ一人の\n観客の為のもの。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468604.7dd783f3",
+            "step": 2465,
+            "script": 38413,
+            "text": "観客は、辻さやか。\n彼女しかいないだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468680.3e552ffb",
+            "step": 2466,
+            "script": 38413,
+            "text": "安藤さんは、全てを賭けて『死の道行』を\n演じきろうとしているのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468780.f795e54e",
+            "step": 2467,
+            "script": 38413,
+            "text": "辻さやかの霊を弔う為の、\nこの復讐劇を——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "安藤先生赌上了一切，想把《死之道行》演到最后。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2468780.f795e54e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"辻さやかの霊を弔う為の、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"この復讐劇を———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2468780",
+          "route": "chapter-two-branches",
+          "trial": 7,
+          "step": 2467
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38413:2468604.7dd783f3",
+            "step": 2465,
+            "script": 38413,
+            "text": "観客は、辻さやか。\n彼女しかいないだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468680.3e552ffb",
+            "step": 2466,
+            "script": 38413,
+            "text": "安藤さんは、全てを賭けて『死の道行』を\n演じきろうとしているのだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2468780.f795e54e",
+            "step": 2467,
+            "script": 38413,
+            "text": "辻さやかの霊を弔う為の、\nこの復讐劇を——",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "把这出祭奠辻沙耶香亡灵的复仇剧，演到最后——"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39605:2172888.fe0e0f7c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"…………うーん。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39605,
+          "page": "39605:2172888",
+          "route": "chapter-two-branches",
+          "trial": 8,
+          "step": 1754
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39605:2172888.fe0e0f7c",
+            "step": 1754,
+            "script": 39605,
+            "text": "…………うーん。",
+            "translation": null
+          },
+          {
+            "key": "page.39605:2172928.b9642a03",
+            "step": 1755,
+            "script": 39605,
+            "text": "いつもならば事件の背景や様子から、ある程度\n犯人の目的や動機が見え隠れするものなんだが……。\n今回は劇団という、閉鎖された上に密度の濃い\n空間が相手だからだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.39605:2173140.91c8e77",
+            "step": 1756,
+            "script": 39605,
+            "text": "さっぱりこの『絵』を描いている人物の姿が\n見えてこない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "……唔。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39605:2172928.b9642a03",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"いつもならば事件の背景や様子から、ある程度\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"犯人の目的や動機が見え隠れするものなんだが……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"今回は劇団という、閉鎖された上に密度の濃い\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"空間が相手だからだろうか。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39605,
+          "page": "39605:2172928",
+          "route": "chapter-two-branches",
+          "trial": 8,
+          "step": 1755
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39605:2172888.fe0e0f7c",
+            "step": 1754,
+            "script": 39605,
+            "text": "…………うーん。",
+            "translation": null
+          },
+          {
+            "key": "page.39605:2172928.b9642a03",
+            "step": 1755,
+            "script": 39605,
+            "text": "いつもならば事件の背景や様子から、ある程度\n犯人の目的や動機が見え隠れするものなんだが……。\n今回は劇団という、閉鎖された上に密度の濃い\n空間が相手だからだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.39605:2173140.91c8e77",
+            "step": 1756,
+            "script": 39605,
+            "text": "さっぱりこの『絵』を描いている人物の姿が\n見えてこない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "平时，从案件背景和经过中，总能隐约看出凶手的目的或动机……可这次面对的是剧团，一个既封闭、人与人之间又格外紧密的地方。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39605:2173140.91c8e77",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"さっぱりこの『絵』を描いている人物の姿が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"見えてこない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39605,
+          "page": "39605:2173140",
+          "route": "chapter-two-branches",
+          "trial": 8,
+          "step": 1756
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39605:2172888.fe0e0f7c",
+            "step": 1754,
+            "script": 39605,
+            "text": "…………うーん。",
+            "translation": null
+          },
+          {
+            "key": "page.39605:2172928.b9642a03",
+            "step": 1755,
+            "script": 39605,
+            "text": "いつもならば事件の背景や様子から、ある程度\n犯人の目的や動機が見え隠れするものなんだが……。\n今回は劇団という、閉鎖された上に密度の濃い\n空間が相手だからだろうか。",
+            "translation": null
+          },
+          {
+            "key": "page.39605:2173140.91c8e77",
+            "step": 1756,
+            "script": 39605,
+            "text": "さっぱりこの『絵』を描いている人物の姿が\n見えてこない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我完全看不清，究竟是谁在幕后描绘这幅『图景』。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39218:1913524.4ca102cf",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"理由なんかない……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"もし誰かに殺害されていたとしたら、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"犯人は死ぬとか考えていなかったんじゃ\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"なかったのか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39218,
+          "page": "39218:1913524",
+          "route": "chapter-two-branches",
+          "trial": 9,
+          "step": 575
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39218:1913524.4ca102cf",
+            "step": 575,
+            "script": 39218,
+            "text": "理由なんかない……\nもし誰かに殺害されていたとしたら、\n犯人は死ぬとか考えていなかったんじゃ\nなかったのか？",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1913680.64ea787c",
+            "step": 576,
+            "script": 39218,
+            "text": "例えば、こう考えてはどうだろう。\n彼女は予め誰かに呼び出されて、\nそこで誰かしらと口論になった。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1913816.58864a01",
+            "step": 577,
+            "script": 39218,
+            "text": "主演女優だからこそ妬む輩はいるだろうし、\nはたまた、過剰なまでに彼女の死を悔しがって\nみせた瀬戸さんという線も考えられる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也许根本没有理由……假如她是被人杀害的，凶手会不会原本没想到她会死？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39218:1913680.64ea787c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"例えば、こう考えてはどうだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"彼女は予め誰かに呼び出されて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そこで誰かしらと口論になった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39218,
+          "page": "39218:1913680",
+          "route": "chapter-two-branches",
+          "trial": 9,
+          "step": 576
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39218:1913524.4ca102cf",
+            "step": 575,
+            "script": 39218,
+            "text": "理由なんかない……\nもし誰かに殺害されていたとしたら、\n犯人は死ぬとか考えていなかったんじゃ\nなかったのか？",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1913680.64ea787c",
+            "step": 576,
+            "script": 39218,
+            "text": "例えば、こう考えてはどうだろう。\n彼女は予め誰かに呼び出されて、\nそこで誰かしらと口論になった。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1913816.58864a01",
+            "step": 577,
+            "script": 39218,
+            "text": "主演女優だからこそ妬む輩はいるだろうし、\nはたまた、過剰なまでに彼女の死を悔しがって\nみせた瀬戸さんという線も考えられる。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1913976.748c92cd",
+            "step": 578,
+            "script": 39218,
+            "text": "片や花形女優に、片や相手役とはいえ\n中堅どころの男優。\nそこに確執や劣等感はきっとあったはずだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "比如，可以这样想。她事先被人叫了出去，随后与对方发生争执。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39218:1913816.58864a01",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"主演女優だからこそ妬む輩はいるだろうし、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"はたまた、過剰なまでに彼女の死を悔しがって\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"みせた瀬戸さんという線も考えられる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39218,
+          "page": "39218:1913816",
+          "route": "chapter-two-branches",
+          "trial": 9,
+          "step": 577
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39218:1913524.4ca102cf",
+            "step": 575,
+            "script": 39218,
+            "text": "理由なんかない……\nもし誰かに殺害されていたとしたら、\n犯人は死ぬとか考えていなかったんじゃ\nなかったのか？",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1913680.64ea787c",
+            "step": 576,
+            "script": 39218,
+            "text": "例えば、こう考えてはどうだろう。\n彼女は予め誰かに呼び出されて、\nそこで誰かしらと口論になった。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1913816.58864a01",
+            "step": 577,
+            "script": 39218,
+            "text": "主演女優だからこそ妬む輩はいるだろうし、\nはたまた、過剰なまでに彼女の死を悔しがって\nみせた瀬戸さんという線も考えられる。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1913976.748c92cd",
+            "step": 578,
+            "script": 39218,
+            "text": "片や花形女優に、片や相手役とはいえ\n中堅どころの男優。\nそこに確執や劣等感はきっとあったはずだ。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914112.315ba738",
+            "step": 579,
+            "script": 39218,
+            "text": "もしかしたら痴情のもつれから痴話喧嘩に発展し、\n怒りから彼女を突き飛ばし……\n結果として、打ち所が悪くて死んでしまった。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "身为主演，自然可能遭人嫉妒。又或者，是那个对她的死表现得过度悲痛的濑户先生。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39218:1913976.748c92cd",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"片や花形女優に、片や相手役とはいえ\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"中堅どころの男優。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そこに確執や劣等感はきっとあったはずだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39218,
+          "page": "39218:1913976",
+          "route": "chapter-two-branches",
+          "trial": 9,
+          "step": 578
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39218:1913680.64ea787c",
+            "step": 576,
+            "script": 39218,
+            "text": "例えば、こう考えてはどうだろう。\n彼女は予め誰かに呼び出されて、\nそこで誰かしらと口論になった。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1913816.58864a01",
+            "step": 577,
+            "script": 39218,
+            "text": "主演女優だからこそ妬む輩はいるだろうし、\nはたまた、過剰なまでに彼女の死を悔しがって\nみせた瀬戸さんという線も考えられる。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1913976.748c92cd",
+            "step": 578,
+            "script": 39218,
+            "text": "片や花形女優に、片や相手役とはいえ\n中堅どころの男優。\nそこに確執や劣等感はきっとあったはずだ。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914112.315ba738",
+            "step": 579,
+            "script": 39218,
+            "text": "もしかしたら痴情のもつれから痴話喧嘩に発展し、\n怒りから彼女を突き飛ばし……\n結果として、打ち所が悪くて死んでしまった。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914272.5549f196",
+            "step": 580,
+            "script": 39218,
+            "text": "焦った犯人はどうにかして佐伯さんから鍵の\n番号を聞き出すと、そこに五十嵐さんの遺体を\n運び込み、敢えて落下事故を演出してみせた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "一边是当红女演员，另一边虽是男主角，却只是中坚水平的演员。两人之间，难免有些隔阂或自卑。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39218:1914112.315ba738",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"もしかしたら痴情のもつれから痴話喧嘩に発展し、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"怒りから彼女を突き飛ばし……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"結果として、打ち所が悪くて死んでしまった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39218,
+          "page": "39218:1914112",
+          "route": "chapter-two-branches",
+          "trial": 9,
+          "step": 579
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39218:1913816.58864a01",
+            "step": 577,
+            "script": 39218,
+            "text": "主演女優だからこそ妬む輩はいるだろうし、\nはたまた、過剰なまでに彼女の死を悔しがって\nみせた瀬戸さんという線も考えられる。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1913976.748c92cd",
+            "step": 578,
+            "script": 39218,
+            "text": "片や花形女優に、片や相手役とはいえ\n中堅どころの男優。\nそこに確執や劣等感はきっとあったはずだ。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914112.315ba738",
+            "step": 579,
+            "script": 39218,
+            "text": "もしかしたら痴情のもつれから痴話喧嘩に発展し、\n怒りから彼女を突き飛ばし……\n結果として、打ち所が悪くて死んでしまった。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914272.5549f196",
+            "step": 580,
+            "script": 39218,
+            "text": "焦った犯人はどうにかして佐伯さんから鍵の\n番号を聞き出すと、そこに五十嵐さんの遺体を\n運び込み、敢えて落下事故を演出してみせた。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914440.3e811c09",
+            "step": 581,
+            "script": 39218,
+            "text": "誰が犯人かは分からないが、\nその可能性は十分にある。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "也许是感情纠葛演变成情侣争吵，他一怒之下推开她……结果撞到要害，她就死了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39218:1914272.5549f196",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"焦った犯人はどうにかして佐伯さんから鍵の\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"番号を聞き出すと、そこに五十嵐さんの遺体を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"運び込み、敢えて落下事故を演出してみせた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39218,
+          "page": "39218:1914272",
+          "route": "chapter-two-branches",
+          "trial": 9,
+          "step": 580
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39218:1913976.748c92cd",
+            "step": 578,
+            "script": 39218,
+            "text": "片や花形女優に、片や相手役とはいえ\n中堅どころの男優。\nそこに確執や劣等感はきっとあったはずだ。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914112.315ba738",
+            "step": 579,
+            "script": 39218,
+            "text": "もしかしたら痴情のもつれから痴話喧嘩に発展し、\n怒りから彼女を突き飛ばし……\n結果として、打ち所が悪くて死んでしまった。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914272.5549f196",
+            "step": 580,
+            "script": 39218,
+            "text": "焦った犯人はどうにかして佐伯さんから鍵の\n番号を聞き出すと、そこに五十嵐さんの遺体を\n運び込み、敢えて落下事故を演出してみせた。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914440.3e811c09",
+            "step": 581,
+            "script": 39218,
+            "text": "誰が犯人かは分からないが、\nその可能性は十分にある。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914524.87f97902",
+            "step": 582,
+            "script": 39218,
+            "text": "ということは、この事件は………\n誰かの手によるものではないのだろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "凶手慌了，设法从佐伯先生那里套出密码，把遗体搬上去，故意伪装成坠落事故。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39218:1914440.3e811c09",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"誰が犯人かは分からないが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その可能性は十分にある。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39218,
+          "page": "39218:1914440",
+          "route": "chapter-two-branches",
+          "trial": 9,
+          "step": 581
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39218:1914112.315ba738",
+            "step": 579,
+            "script": 39218,
+            "text": "もしかしたら痴情のもつれから痴話喧嘩に発展し、\n怒りから彼女を突き飛ばし……\n結果として、打ち所が悪くて死んでしまった。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914272.5549f196",
+            "step": 580,
+            "script": 39218,
+            "text": "焦った犯人はどうにかして佐伯さんから鍵の\n番号を聞き出すと、そこに五十嵐さんの遺体を\n運び込み、敢えて落下事故を演出してみせた。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914440.3e811c09",
+            "step": 581,
+            "script": 39218,
+            "text": "誰が犯人かは分からないが、\nその可能性は十分にある。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914524.87f97902",
+            "step": 582,
+            "script": 39218,
+            "text": "ということは、この事件は………\n誰かの手によるものではないのだろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "还不知道凶手是谁，但这种可能完全存在。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39218:1914524.87f97902",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ということは、この事件は………\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"誰かの手によるものではないのだろうか？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39218,
+          "page": "39218:1914524",
+          "route": "chapter-two-branches",
+          "trial": 9,
+          "step": 582
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39218:1914272.5549f196",
+            "step": 580,
+            "script": 39218,
+            "text": "焦った犯人はどうにかして佐伯さんから鍵の\n番号を聞き出すと、そこに五十嵐さんの遺体を\n運び込み、敢えて落下事故を演出してみせた。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914440.3e811c09",
+            "step": 581,
+            "script": 39218,
+            "text": "誰が犯人かは分からないが、\nその可能性は十分にある。",
+            "translation": null
+          },
+          {
+            "key": "page.39218:1914524.87f97902",
+            "step": 582,
+            "script": 39218,
+            "text": "ということは、この事件は………\n誰かの手によるものではないのだろうか？",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这么说，这起案件……不就是人为造成的吗？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.37601:2322292.69928b43",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「そうね。\",\"color\":0,\"size\":0},{\"text\":\"犯人が辻さやかの\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"カードを使っている……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それは間違いないわ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37601,
+          "page": "37601:2322292",
+          "route": "chapter-two-branches",
+          "trial": 10,
+          "step": 2186
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37601:2322292.69928b43",
+            "step": 2186,
+            "script": 37601,
+            "text": "「そうね。犯人が辻さやかの\nカードを使っている……\nそれは間違いないわ」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322496.6fdb2f29",
+            "step": 2187,
+            "script": 37601,
+            "text": "「さすが先輩！　\nお見事な推理であります」\n「…………えっ？」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322596.492f7e3e",
+            "step": 2188,
+            "script": 37601,
+            "text": "気が付くとこの場にいる二人は一様に\n感心したような眼差しで、ぼくを見ている。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「没错。凶手用了辻沙耶香的卡……这一点不会错。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.37601:2322496.6fdb2f29",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「さすが先輩！　\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"お見事な推理であります」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「…………えっ？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37601,
+          "page": "37601:2322496",
+          "route": "chapter-two-branches",
+          "trial": 10,
+          "step": 2187
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37601:2322292.69928b43",
+            "step": 2186,
+            "script": 37601,
+            "text": "「そうね。犯人が辻さやかの\nカードを使っている……\nそれは間違いないわ」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322496.6fdb2f29",
+            "step": 2187,
+            "script": 37601,
+            "text": "「さすが先輩！　\nお見事な推理であります」\n「…………えっ？」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322596.492f7e3e",
+            "step": 2188,
+            "script": 37601,
+            "text": "気が付くとこの場にいる二人は一様に\n感心したような眼差しで、ぼくを見ている。",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322744.572eebfb",
+            "step": 2189,
+            "script": 37601,
+            "text": "「あれ？　ちょっと待って下さい。\nぼくはまだ何も説明していませんよ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「不愧是前辈！推理得太精彩了！」\n「……咦？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.37601:2322596.492f7e3e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"気が付くとこの場にいる二人は一様に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"感心したような眼差しで、ぼくを見ている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37601,
+          "page": "37601:2322596",
+          "route": "chapter-two-branches",
+          "trial": 10,
+          "step": 2188
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37601:2322292.69928b43",
+            "step": 2186,
+            "script": 37601,
+            "text": "「そうね。犯人が辻さやかの\nカードを使っている……\nそれは間違いないわ」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322496.6fdb2f29",
+            "step": 2187,
+            "script": 37601,
+            "text": "「さすが先輩！　\nお見事な推理であります」\n「…………えっ？」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322596.492f7e3e",
+            "step": 2188,
+            "script": 37601,
+            "text": "気が付くとこの場にいる二人は一様に\n感心したような眼差しで、ぼくを見ている。",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322744.572eebfb",
+            "step": 2189,
+            "script": 37601,
+            "text": "「あれ？　ちょっと待って下さい。\nぼくはまだ何も説明していませんよ」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322892.72e0fd26",
+            "step": 2190,
+            "script": 37601,
+            "text": "「そんなことせずとも、ずっとブツブツ独り言を\n言ってたわよ。自覚がなかったの？」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "回过神来，眼前两人都带着赞许的目光看着我。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.37601:2322744.572eebfb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「あれ？　\",\"color\":0,\"size\":0},{\"text\":\"ちょっと待って下さい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ぼくはまだ何も説明していませんよ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37601,
+          "page": "37601:2322744",
+          "route": "chapter-two-branches",
+          "trial": 10,
+          "step": 2189
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37601:2322496.6fdb2f29",
+            "step": 2187,
+            "script": 37601,
+            "text": "「さすが先輩！　\nお見事な推理であります」\n「…………えっ？」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322596.492f7e3e",
+            "step": 2188,
+            "script": 37601,
+            "text": "気が付くとこの場にいる二人は一様に\n感心したような眼差しで、ぼくを見ている。",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322744.572eebfb",
+            "step": 2189,
+            "script": 37601,
+            "text": "「あれ？　ちょっと待って下さい。\nぼくはまだ何も説明していませんよ」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322892.72e0fd26",
+            "step": 2190,
+            "script": 37601,
+            "text": "「そんなことせずとも、ずっとブツブツ独り言を\n言ってたわよ。自覚がなかったの？」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2323012.8c9c0b33",
+            "step": 2191,
+            "script": 37601,
+            "text": "「えぇっ！？　そうだったんですか………\n深く考えていたもので、気が付きませんでした」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「咦？等一下。我还什么都没解释呢。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.37601:2322892.72e0fd26",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「そんなことせずとも、ずっとブツブツ独り言を\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"言ってたわよ。\",\"color\":0,\"size\":0},{\"text\":\"自覚がなかったの？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37601,
+          "page": "37601:2322892",
+          "route": "chapter-two-branches",
+          "trial": 10,
+          "step": 2190
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37601:2322596.492f7e3e",
+            "step": 2188,
+            "script": 37601,
+            "text": "気が付くとこの場にいる二人は一様に\n感心したような眼差しで、ぼくを見ている。",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322744.572eebfb",
+            "step": 2189,
+            "script": 37601,
+            "text": "「あれ？　ちょっと待って下さい。\nぼくはまだ何も説明していませんよ」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322892.72e0fd26",
+            "step": 2190,
+            "script": 37601,
+            "text": "「そんなことせずとも、ずっとブツブツ独り言を\n言ってたわよ。自覚がなかったの？」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2323012.8c9c0b33",
+            "step": 2191,
+            "script": 37601,
+            "text": "「えぇっ！？　そうだったんですか………\n深く考えていたもので、気が付きませんでした」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2323136.8f91444b",
+            "step": 2192,
+            "script": 37601,
+            "text": "「警察官としては軽率ね。\nだけど、的を射た推理だったし、\n大目に見てあげるわ」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「用不着解释，你一直在嘀嘀咕咕地自言自语。自己没发现吗？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.37601:2323012.8c9c0b33",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「えぇっ！？　\",\"color\":0,\"size\":0},{\"text\":\"そうだったんですか………\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"深く考えていたもので、気が付きませんでした」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37601,
+          "page": "37601:2323012",
+          "route": "chapter-two-branches",
+          "trial": 10,
+          "step": 2191
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37601:2322744.572eebfb",
+            "step": 2189,
+            "script": 37601,
+            "text": "「あれ？　ちょっと待って下さい。\nぼくはまだ何も説明していませんよ」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2322892.72e0fd26",
+            "step": 2190,
+            "script": 37601,
+            "text": "「そんなことせずとも、ずっとブツブツ独り言を\n言ってたわよ。自覚がなかったの？」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2323012.8c9c0b33",
+            "step": 2191,
+            "script": 37601,
+            "text": "「えぇっ！？　そうだったんですか………\n深く考えていたもので、気が付きませんでした」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2323136.8f91444b",
+            "step": 2192,
+            "script": 37601,
+            "text": "「警察官としては軽率ね。\nだけど、的を射た推理だったし、\n大目に見てあげるわ」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2323284.ba1182cd",
+            "step": 2193,
+            "script": 37601,
+            "text": "珍しく賀茂泉警部補からお褒めの言葉を貰うと、\nぼく達は改めて事件の検証へと入る。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「什么！？原来是这样……我想得太入神了，没注意到。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.37601:2323136.8f91444b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「警察官としては軽率ね。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"だけど、的を射た推理だったし、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"大目に見てあげるわ」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37601,
+          "page": "37601:2323136",
+          "route": "chapter-two-branches",
+          "trial": 10,
+          "step": 2192
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.37601:2322892.72e0fd26",
+            "step": 2190,
+            "script": 37601,
+            "text": "「そんなことせずとも、ずっとブツブツ独り言を\n言ってたわよ。自覚がなかったの？」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2323012.8c9c0b33",
+            "step": 2191,
+            "script": 37601,
+            "text": "「えぇっ！？　そうだったんですか………\n深く考えていたもので、気が付きませんでした」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2323136.8f91444b",
+            "step": 2192,
+            "script": 37601,
+            "text": "「警察官としては軽率ね。\nだけど、的を射た推理だったし、\n大目に見てあげるわ」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2323284.ba1182cd",
+            "step": 2193,
+            "script": 37601,
+            "text": "珍しく賀茂泉警部補からお褒めの言葉を貰うと、\nぼく達は改めて事件の検証へと入る。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「身为警察，这也太不谨慎了。不过，推理确实切中要害，就不跟你计较了。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.37601:2323284.ba1182cd",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"珍しく賀茂泉警部補からお褒めの言葉を貰うと、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ぼく達は改めて事件の検証へと入る。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 37601,
+          "page": "37601:2323284",
+          "route": "chapter-two-branches",
+          "trial": 10,
+          "step": 2193
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.37601:2323012.8c9c0b33",
+            "step": 2191,
+            "script": 37601,
+            "text": "「えぇっ！？　そうだったんですか………\n深く考えていたもので、気が付きませんでした」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2323136.8f91444b",
+            "step": 2192,
+            "script": 37601,
+            "text": "「警察官としては軽率ね。\nだけど、的を射た推理だったし、\n大目に見てあげるわ」",
+            "translation": null
+          },
+          {
+            "key": "page.37601:2323284.ba1182cd",
+            "step": 2193,
+            "script": 37601,
+            "text": "珍しく賀茂泉警部補からお褒めの言葉を貰うと、\nぼく達は改めて事件の検証へと入る。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "难得得到贺茂泉警部补的夸奖。随后，我们继续梳理案件。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2465424.c0a0ef91",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"安藤さんは辻さんの霊に憑依されている……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2465424",
+          "route": "chapter-two-branches",
+          "trial": 20,
+          "step": 2229
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2465424.c0a0ef91",
+            "step": 2229,
+            "script": 38412,
+            "text": "安藤さんは辻さんの霊に憑依されている……。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465492.7d0c00bb",
+            "step": 2230,
+            "script": 38412,
+            "text": "そうだ。現代科学では認められないものだろうが、\n状況証拠も物証も、あらゆるものが辻さやかの\n霊の存在を示している。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465648.528a7443",
+            "step": 2231,
+            "script": 38412,
+            "text": "実行犯は安藤さん。\nそして、彼を影で操っていたのは——\n辻さやかだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "安藤先生被辻小姐的亡灵附身了……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2465492.7d0c00bb",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"そうだ。現代科学では認められないものだろうが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"状況証拠も物証も、あらゆるものが辻さやかの\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"霊の存在を示している。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2465492",
+          "route": "chapter-two-branches",
+          "trial": 20,
+          "step": 2230
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2465424.c0a0ef91",
+            "step": 2229,
+            "script": 38412,
+            "text": "安藤さんは辻さんの霊に憑依されている……。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465492.7d0c00bb",
+            "step": 2230,
+            "script": 38412,
+            "text": "そうだ。現代科学では認められないものだろうが、\n状況証拠も物証も、あらゆるものが辻さやかの\n霊の存在を示している。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465648.528a7443",
+            "step": 2231,
+            "script": 38412,
+            "text": "実行犯は安藤さん。\nそして、彼を影で操っていたのは——\n辻さやかだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465756.38908454",
+            "step": 2232,
+            "script": 38412,
+            "text": "例え実体のない犯人でも、現代科学では\n証明出来ない犯人でも、ぼく達の仕事は\n犯罪をふせぐこと。それに尽きる。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "没错。现代科学或许无法承认，可无论间接证据还是物证，一切都指向辻沙耶香的亡灵确实存在。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2465648.528a7443",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"実行犯は安藤さん。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そして、彼を影で操っていたのは———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"辻さやかだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2465648",
+          "route": "chapter-two-branches",
+          "trial": 20,
+          "step": 2231
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2465424.c0a0ef91",
+            "step": 2229,
+            "script": 38412,
+            "text": "安藤さんは辻さんの霊に憑依されている……。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465492.7d0c00bb",
+            "step": 2230,
+            "script": 38412,
+            "text": "そうだ。現代科学では認められないものだろうが、\n状況証拠も物証も、あらゆるものが辻さやかの\n霊の存在を示している。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465648.528a7443",
+            "step": 2231,
+            "script": 38412,
+            "text": "実行犯は安藤さん。\nそして、彼を影で操っていたのは——\n辻さやかだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465756.38908454",
+            "step": 2232,
+            "script": 38412,
+            "text": "例え実体のない犯人でも、現代科学では\n証明出来ない犯人でも、ぼく達の仕事は\n犯罪をふせぐこと。それに尽きる。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465900.47dc84b0",
+            "step": 2233,
+            "script": 38412,
+            "text": "正直、恐ろしくて仕方ないが、\n刑事として使命をまっとうしなければ……！",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "实施犯罪的是安藤先生。而在背后操纵他的——是辻沙耶香。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2465756.38908454",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"例え実体のない犯人でも、現代科学では\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"証明出来ない犯人でも、ぼく達の仕事は\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"犯罪をふせぐこと。それに尽きる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2465756",
+          "route": "chapter-two-branches",
+          "trial": 20,
+          "step": 2232
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2465492.7d0c00bb",
+            "step": 2230,
+            "script": 38412,
+            "text": "そうだ。現代科学では認められないものだろうが、\n状況証拠も物証も、あらゆるものが辻さやかの\n霊の存在を示している。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465648.528a7443",
+            "step": 2231,
+            "script": 38412,
+            "text": "実行犯は安藤さん。\nそして、彼を影で操っていたのは——\n辻さやかだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465756.38908454",
+            "step": 2232,
+            "script": 38412,
+            "text": "例え実体のない犯人でも、現代科学では\n証明出来ない犯人でも、ぼく達の仕事は\n犯罪をふせぐこと。それに尽きる。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465900.47dc84b0",
+            "step": 2233,
+            "script": 38412,
+            "text": "正直、恐ろしくて仕方ないが、\n刑事として使命をまっとうしなければ……！",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "即使凶手没有实体，即使现代科学无法证明，我们的工作，终究是阻止犯罪。仅此而已。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2465900.47dc84b0",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"正直、恐ろしくて仕方ないが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"刑事として使命をまっとうしなければ……！\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2465900",
+          "route": "chapter-two-branches",
+          "trial": 20,
+          "step": 2233
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2465648.528a7443",
+            "step": 2231,
+            "script": 38412,
+            "text": "実行犯は安藤さん。\nそして、彼を影で操っていたのは——\n辻さやかだ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465756.38908454",
+            "step": 2232,
+            "script": 38412,
+            "text": "例え実体のない犯人でも、現代科学では\n証明出来ない犯人でも、ぼく達の仕事は\n犯罪をふせぐこと。それに尽きる。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2465900.47dc84b0",
+            "step": 2233,
+            "script": 38412,
+            "text": "正直、恐ろしくて仕方ないが、\n刑事として使命をまっとうしなければ……！",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "说实话，我怕得不得了。可身为刑警，必须履行自己的职责……！"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.36511:2338140.505a1bea",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ぼくは初芝さんに話を聞くことにした。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 36511,
+          "page": "36511:2338140",
+          "route": "chapter-two-branches",
+          "trial": 31,
+          "step": 1987
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.36511:2338140.505a1bea",
+            "step": 1987,
+            "script": 36511,
+            "text": "ぼくは初芝さんに話を聞くことにした。",
+            "translation": null
+          },
+          {
+            "key": "page.36511:2338200.d4aebfbe",
+            "step": 1988,
+            "script": 36511,
+            "text": "てっきり岩永さんと同じ病院で療養している\nものと思ったが、近くの看護師に確認した\nところ、彼女は既に退院したとのことだった。",
+            "translation": null
+          },
+          {
+            "key": "page.36511:2338364.572e62e4",
+            "step": 1989,
+            "script": 36511,
+            "text": "携帯で連絡してみると、驚いた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "我决定去问问初芝小姐。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.36511:2338200.d4aebfbe",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"てっきり岩永さんと同じ病院で療養している\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ものと思ったが、近くの看護師に確認した\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ところ、彼女は既に退院したとのことだった。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 36511,
+          "page": "36511:2338200",
+          "route": "chapter-two-branches",
+          "trial": 31,
+          "step": 1988
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.36511:2338140.505a1bea",
+            "step": 1987,
+            "script": 36511,
+            "text": "ぼくは初芝さんに話を聞くことにした。",
+            "translation": null
+          },
+          {
+            "key": "page.36511:2338200.d4aebfbe",
+            "step": 1988,
+            "script": 36511,
+            "text": "てっきり岩永さんと同じ病院で療養している\nものと思ったが、近くの看護師に確認した\nところ、彼女は既に退院したとのことだった。",
+            "translation": null
+          },
+          {
+            "key": "page.36511:2338364.572e62e4",
+            "step": 1989,
+            "script": 36511,
+            "text": "携帯で連絡してみると、驚いた。",
+            "translation": null
+          },
+          {
+            "key": "page.36511:2338420.5258cbf5",
+            "step": 1990,
+            "script": 36511,
+            "text": "なんと自主稽古をする為劇団に\n向かっているというのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "本以为她和岩永先生在同一家医院休养，向附近的护士确认后，却得知她已经出院了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.36511:2338364.572e62e4",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"携帯で連絡してみると、驚いた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 36511,
+          "page": "36511:2338364",
+          "route": "chapter-two-branches",
+          "trial": 31,
+          "step": 1989
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.36511:2338140.505a1bea",
+            "step": 1987,
+            "script": 36511,
+            "text": "ぼくは初芝さんに話を聞くことにした。",
+            "translation": null
+          },
+          {
+            "key": "page.36511:2338200.d4aebfbe",
+            "step": 1988,
+            "script": 36511,
+            "text": "てっきり岩永さんと同じ病院で療養している\nものと思ったが、近くの看護師に確認した\nところ、彼女は既に退院したとのことだった。",
+            "translation": null
+          },
+          {
+            "key": "page.36511:2338364.572e62e4",
+            "step": 1989,
+            "script": 36511,
+            "text": "携帯で連絡してみると、驚いた。",
+            "translation": null
+          },
+          {
+            "key": "page.36511:2338420.5258cbf5",
+            "step": 1990,
+            "script": 36511,
+            "text": "なんと自主稽古をする為劇団に\n向かっているというのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "打电话联系她，我吃了一惊。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.36511:2338420.5258cbf5",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"なんと自主稽古をする為劇団に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"向かっているというのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 36511,
+          "page": "36511:2338420",
+          "route": "chapter-two-branches",
+          "trial": 31,
+          "step": 1990
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.36511:2338200.d4aebfbe",
+            "step": 1988,
+            "script": 36511,
+            "text": "てっきり岩永さんと同じ病院で療養している\nものと思ったが、近くの看護師に確認した\nところ、彼女は既に退院したとのことだった。",
+            "translation": null
+          },
+          {
+            "key": "page.36511:2338364.572e62e4",
+            "step": 1989,
+            "script": 36511,
+            "text": "携帯で連絡してみると、驚いた。",
+            "translation": null
+          },
+          {
+            "key": "page.36511:2338420.5258cbf5",
+            "step": 1990,
+            "script": 36511,
+            "text": "なんと自主稽古をする為劇団に\n向かっているというのだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她居然正在去剧团的路上，准备自主排练。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2466576.ff2aa038",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"今回の事件の実行犯たる安藤誠———\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"彼は『死の道行』を呪っている……？\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2466576",
+          "route": "chapter-two-branches",
+          "trial": 31,
+          "step": 2235
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38413:2466576.ff2aa038",
+            "step": 2235,
+            "script": 38413,
+            "text": "今回の事件の実行犯たる安藤誠——\n彼は『死の道行』を呪っている……？",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2466680.8149ea3d",
+            "step": 2236,
+            "script": 38413,
+            "text": "『死の道行』は安藤さんにとって\n呪うべきものではなく、呪うべき者達に\n裁きを下す為の舞台だったはず。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2466820.fc4f18e",
+            "step": 2237,
+            "script": 38413,
+            "text": "この連続殺人に彩られた舞台には、\nそういう意味が込められているのだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这起案件的实施者，安藤诚——他在诅咒《死之道行》……？"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2466680.8149ea3d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"『死の道行』は安藤さんにとって\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"呪うべきものではなく、呪うべき者達に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"裁きを下す為の舞台だったはず。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2466680",
+          "route": "chapter-two-branches",
+          "trial": 31,
+          "step": 2236
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38413:2466576.ff2aa038",
+            "step": 2235,
+            "script": 38413,
+            "text": "今回の事件の実行犯たる安藤誠——\n彼は『死の道行』を呪っている……？",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2466680.8149ea3d",
+            "step": 2236,
+            "script": 38413,
+            "text": "『死の道行』は安藤さんにとって\n呪うべきものではなく、呪うべき者達に\n裁きを下す為の舞台だったはず。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2466820.fc4f18e",
+            "step": 2237,
+            "script": 38413,
+            "text": "この連続殺人に彩られた舞台には、\nそういう意味が込められているのだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "对他而言，《死之道行》并不是应该诅咒的对象，而是用来审判那些该受诅咒之人的舞台。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38413:2466820.fc4f18e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"この連続殺人に彩られた舞台には、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そういう意味が込められているのだ……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38413,
+          "page": "38413:2466820",
+          "route": "chapter-two-branches",
+          "trial": 31,
+          "step": 2237
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38413:2466576.ff2aa038",
+            "step": 2235,
+            "script": 38413,
+            "text": "今回の事件の実行犯たる安藤誠——\n彼は『死の道行』を呪っている……？",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2466680.8149ea3d",
+            "step": 2236,
+            "script": 38413,
+            "text": "『死の道行』は安藤さんにとって\n呪うべきものではなく、呪うべき者達に\n裁きを下す為の舞台だったはず。",
+            "translation": null
+          },
+          {
+            "key": "page.38413:2466820.fc4f18e",
+            "step": 2237,
+            "script": 38413,
+            "text": "この連続殺人に彩られた舞台には、\nそういう意味が込められているのだ……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这出被连环谋杀染红的戏，承载的正是这样的意义……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2463560.8f2dca8b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"辻さやかは、あの気難しい安藤誠さんに\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"天才と評されるほどの演技者だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2463560",
+          "route": "chapter-two-branches",
+          "trial": 40,
+          "step": 2420
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2463560.8f2dca8b",
+            "step": 2420,
+            "script": 38412,
+            "text": "辻さやかは、あの気難しい安藤誠さんに\n天才と評されるほどの演技者だ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2463660.7f2e2d61",
+            "step": 2421,
+            "script": 38412,
+            "text": "彼女の死は劇団千年紀だけではなく、\n演劇界にとっても大変な損失だったに\n違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2463784.970323d6",
+            "step": 2422,
+            "script": 38412,
+            "text": "その辻さんを失った安藤さんの胸中たるや、\n想像に難くない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "辻沙耶香的演技，连那个难以取悦的安藤诚都评价为天才。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2463660.7f2e2d61",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"彼女の死は劇団千年紀だけではなく、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"演劇界にとっても大変な損失だったに\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"違いない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2463660",
+          "route": "chapter-two-branches",
+          "trial": 40,
+          "step": 2421
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2463560.8f2dca8b",
+            "step": 2420,
+            "script": 38412,
+            "text": "辻さやかは、あの気難しい安藤誠さんに\n天才と評されるほどの演技者だ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2463660.7f2e2d61",
+            "step": 2421,
+            "script": 38412,
+            "text": "彼女の死は劇団千年紀だけではなく、\n演劇界にとっても大変な損失だったに\n違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2463784.970323d6",
+            "step": 2422,
+            "script": 38412,
+            "text": "その辻さんを失った安藤さんの胸中たるや、\n想像に難くない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2463872.ce12e83f",
+            "step": 2423,
+            "script": 38412,
+            "text": "その想いこそが、今回の事件の動機へと\n繋がったのだろう……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "她的死，不只是千年纪剧团，对整个戏剧界而言，想必也是巨大的损失。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2463784.970323d6",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"その辻さんを失った安藤さんの胸中たるや、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"想像に難くない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2463784",
+          "route": "chapter-two-branches",
+          "trial": 40,
+          "step": 2422
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2463560.8f2dca8b",
+            "step": 2420,
+            "script": 38412,
+            "text": "辻さやかは、あの気難しい安藤誠さんに\n天才と評されるほどの演技者だ。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2463660.7f2e2d61",
+            "step": 2421,
+            "script": 38412,
+            "text": "彼女の死は劇団千年紀だけではなく、\n演劇界にとっても大変な損失だったに\n違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2463784.970323d6",
+            "step": 2422,
+            "script": 38412,
+            "text": "その辻さんを失った安藤さんの胸中たるや、\n想像に難くない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2463872.ce12e83f",
+            "step": 2423,
+            "script": 38412,
+            "text": "その想いこそが、今回の事件の動機へと\n繋がったのだろう……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "失去这样的她，安藤先生心中的痛苦，不难想象。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.38412:2463872.ce12e83f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"その想いこそが、今回の事件の動機へと\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"繋がったのだろう……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 38412,
+          "page": "38412:2463872",
+          "route": "chapter-two-branches",
+          "trial": 40,
+          "step": 2423
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.38412:2463660.7f2e2d61",
+            "step": 2421,
+            "script": 38412,
+            "text": "彼女の死は劇団千年紀だけではなく、\n演劇界にとっても大変な損失だったに\n違いない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2463784.970323d6",
+            "step": 2422,
+            "script": 38412,
+            "text": "その辻さんを失った安藤さんの胸中たるや、\n想像に難くない。",
+            "translation": null
+          },
+          {
+            "key": "page.38412:2463872.ce12e83f",
+            "step": 2423,
+            "script": 38412,
+            "text": "その想いこそが、今回の事件の動機へと\n繋がったのだろう……。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "这份感情，大概正是这起案件的动机……"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.39999:1779824.a42a7f54",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"ルート選択\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 39999,
+          "page": "39999:1779824",
+          "route": "chapter-two-branches",
+          "trial": "isolated-39999-10",
+          "step": 10
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.39999:1779824.a42a7f54",
+            "step": 10,
+            "script": 39999,
+            "text": "ルート選択",
+            "translation": null
+          },
+          {
+            "key": "choice.39999.21.0.61f63b3a",
+            "step": 10,
+            "script": 39999,
+            "text": "科学ルート",
+            "translation": null
+          },
+          {
+            "key": "choice.39999.21.1.e928095f",
+            "step": 10,
+            "script": 39999,
+            "text": "オカルトルート",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "路线选择"
+            }
+          ]
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

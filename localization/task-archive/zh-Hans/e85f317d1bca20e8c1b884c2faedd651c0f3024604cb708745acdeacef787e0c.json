@@ -1,0 +1,2005 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 30001,
+    "title": "第二话 · 心霊写真",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 4796,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "logic.4.field.12.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.12.choice.4814",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "五十嵐さんはスノコから転落した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "五十岚小姐从栅顶坠落"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.12.choice.4826",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "五十嵐さんは内気な人だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "五十岚小姐性格内向"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.12.choice.4842",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "五十嵐さんは自己顕示欲の塊だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "五十岚小姐有极强的自我表现欲"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.12.choice.4846",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "五十嵐さんの死因は失血死だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "五十岚小姐的死因是失血死亡"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.12.choice.4856",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "五十嵐さんは天才と呼ばれていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "五十岚小姐被称作天才"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.12.choice.4858",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "五十嵐さんは客寄せが上手い",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "五十岚小姐擅长招揽观众"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.13.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂时留空"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.13.choice.4812",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐伯さんが五十嵐さんを殺害した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐伯先生杀害了五十岚小姐"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.13.choice.4816",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐伯さんは五十嵐さんをストーキングしてた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐伯先生曾跟踪骚扰五十岚小姐"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.13.choice.4825",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐伯さんは制作側として思うところがあった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐伯先生站在制作人的立场上另有想法"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.13.choice.4828",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐伯さんは五十嵐さんの恋人になった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐伯先生成了五十岚小姐的恋人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.4.field.13.choice.4850",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "佐伯さんは五十嵐さんに惚れていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐伯先生爱慕五十岚小姐"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4800",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "小暮",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮"
+        },
+        "notes": "保留镜像已有简中关键词「小暮」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4802",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "贺茂泉戈薇",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉戈薇"
+        },
+        "notes": "保留镜像已有简中关键词「贺茂泉戈薇」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4837",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "论文",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "论文"
+        },
+        "notes": "保留镜像已有简中关键词「论文」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4801",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "犬童兰子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "indo",
+            "source": [
+              "犬童",
+              "蘭子"
+            ],
+            "preferred": "犬童兰子",
+            "avoid": [],
+            "note": "女性，用她；随意老练，不套中国地域方言。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "犬童兰子"
+        },
+        "notes": "保留镜像已有简中关键词「犬童兰子」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4804",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "千年纪剧团",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "千年纪剧团"
+        },
+        "notes": "保留镜像已有简中关键词「千年纪剧团」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4808",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "灵异照片",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "灵异照片"
+        },
+        "notes": "保留镜像已有简中关键词「灵异照片」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4838",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "搜查一课",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "搜查一课"
+        },
+        "notes": "保留镜像已有简中关键词「搜查一课」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4803",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "佐佐木规行",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐佐木规行"
+        },
+        "notes": "保留镜像已有简中关键词「佐佐木规行」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4806",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "失明",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "失明"
+        },
+        "notes": "保留镜像已有简中关键词「失明」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4807",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "导演",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "导演"
+        },
+        "notes": "保留镜像已有简中关键词「导演」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4868",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "公演",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "公演"
+        },
+        "notes": "保留镜像已有简中关键词「公演」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4809",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "五十岚理绪",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "五十岚理绪"
+        },
+        "notes": "保留镜像已有简中关键词「五十岚理绪」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4810",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "女主演",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "女主演"
+        },
+        "notes": "保留镜像已有简中关键词「女主演」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4825",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "创作",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "制作人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4812",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "他杀",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他杀"
+        },
+        "notes": "保留镜像已有简中关键词「他杀」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4811",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "佐伯龙彦",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐伯龙彦"
+        },
+        "notes": "保留镜像已有简中关键词「佐伯龙彦」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4862",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "延期",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "延期"
+        },
+        "notes": "保留镜像已有简中关键词「延期」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4863",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "中止",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "中止"
+        },
+        "notes": "保留镜像已有简中关键词「中止」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4816",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "跟踪狂",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "跟踪狂"
+        },
+        "notes": "保留镜像已有简中关键词「跟踪狂」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4817",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "门卡",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "门卡"
+        },
+        "notes": "保留镜像已有简中关键词「门卡」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4814",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "吊架",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "栅顶"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4820",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "恐高症",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "恐高症"
+        },
+        "notes": "保留镜像已有简中关键词「恐高症」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4821",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "投缘",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "相性"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4822",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "初芝贵子",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "初芝贵子"
+        },
+        "notes": "保留镜像已有简中关键词「初芝贵子」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4826",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "腼腆",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "腼腆"
+        },
+        "notes": "保留镜像已有简中关键词「腼腆」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4828",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "恋人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "恋人"
+        },
+        "notes": "保留镜像已有简中关键词「恋人」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4827",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "濑户礼人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "濑户礼人"
+        },
+        "notes": "保留镜像已有简中关键词「濑户礼人」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4805",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "安藤诚",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安藤诚"
+        },
+        "notes": "保留镜像已有简中关键词「安藤诚」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4832",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "交通事故",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "交通事故"
+        },
+        "notes": "保留镜像已有简中关键词「交通事故」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4833",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "作祟",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "作祟"
+        },
+        "notes": "保留镜像已有简中关键词「作祟」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4859",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "挚友",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "挚友"
+        },
+        "notes": "保留镜像已有简中关键词「挚友」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4839",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "雾崎",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "雾崎"
+        },
+        "notes": "保留镜像已有简中关键词「雾崎」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4834",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "民俗学",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "民俗学"
+        },
+        "notes": "保留镜像已有简中关键词「民俗学」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4835",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "调查神秘事件的记者",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "神秘事件调查记者"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4840",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "悠香",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "悠香"
+        },
+        "notes": "保留镜像已有简中关键词「悠香」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4836",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "多重曝光",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "多重曝光"
+        },
+        "notes": "保留镜像已有简中关键词「多重曝光」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4841",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "诅咒",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "诅咒"
+        },
+        "notes": "保留镜像已有简中关键词「诅咒」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4842",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "自我表现欲",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "自我表现欲"
+        },
+        "notes": "保留镜像已有简中关键词「自我表现欲」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4843",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "拍卖",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "升降台"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4845",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "人见",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见"
+        },
+        "notes": "保留镜像已有简中关键词「人见」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4846",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "失血死",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "失血死亡"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4847",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "酒精",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "酒精"
+        },
+        "notes": "保留镜像已有简中关键词「酒精」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4831",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "十沙耶佳",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "辻沙耶香"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4848",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "发梳",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "发梳"
+        },
+        "notes": "保留镜像已有简中关键词「发梳」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4864",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "邮件",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "邮件"
+        },
+        "notes": "保留镜像已有简中关键词「邮件」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4850",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "恋慕",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "多情"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4849",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "回顾",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "回报"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4851",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "痴情的纠结",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "感情纠葛"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4852",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "渎职",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "渎职"
+        },
+        "notes": "保留镜像已有简中关键词「渎职」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4844",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "岩永阳一",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "岩永阳一"
+        },
+        "notes": "保留镜像已有简中关键词「岩永阳一」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4854",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "竞争对手",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "竞争对手"
+        },
+        "notes": "保留镜像已有简中关键词「竞争对手」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4853",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "罢工",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "罢工"
+        },
+        "notes": "保留镜像已有简中关键词「罢工」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4858",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "揽客",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "招揽观众"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4867",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "恋",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "相恋"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4861",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "复仇",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "复仇"
+        },
+        "notes": "保留镜像已有简中关键词「复仇」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4855",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "视力",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "视力"
+        },
+        "notes": "保留镜像已有简中关键词「视力」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4813",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "U盘",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "U盘"
+        },
+        "notes": "保留镜像已有简中关键词「U盘」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4857",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "秘密",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "秘密"
+        },
+        "notes": "保留镜像已有简中关键词「秘密」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4865",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "附身",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "附身"
+        },
+        "notes": "保留镜像已有简中关键词「附身」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4856",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "天才",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "天才"
+        },
+        "notes": "保留镜像已有简中关键词「天才」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "keywords.4829",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "血",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "血"
+        },
+        "notes": "保留镜像已有简中关键词「血」；该词在本章人物、物证或推理语境中含义准确，与正文采用的称呼一致。"
+      },
+      {
+        "key": "terms.162",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ウィリアム・Ｈ・マムラー",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "威廉·Ｈ·马姆勒"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.162",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "世界で初めて心霊写真を撮影したとされる人物。\n１８６１年ウィリアムが自分の写した写真に\n知り合いの姿を見たことがきっかけに、\n依頼者の知人である故人を、撮影する写真に\n写す商売を始めたのが心霊写真の最初とされる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据说是世界上第一个拍摄灵异照片的人。１８６１年，威廉在自己拍摄的照片中看到了熟人的身影，随后开始经营一种业务：让委托人认识的故人出现在照片中。这被视为灵异照片的开端。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.128",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "サンスクリット語",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "梵语"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.128",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "「完成された」という意味を持つ動詞過去分詞\nｓａｍｓｋｒｔａに由来する。 文典家の規定する\n文法の細則に則って「完成、洗練された」言語を\n意味する。 インド、ヨーロッパ語に淵源する\n古代インドの言語。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "名称源自动词的过去分词 samskrta，意为「完成的」。指遵循语法学家制定的详细语法规则，经过「完善、精炼」的语言。它是古印度的语言，源出印欧语系。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.62",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "少年課",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "少年课"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.62",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "正式名称は、少年育成課。\nその名が示すように、法律で定められた成人に\n達しない、十代の青少年の犯罪を取り扱う。\n補導から現在深刻な問題となっている\n青少年の凶悪犯罪まで、未成年に関する\n犯罪の全てはここで取り扱われている。\n未成年者———いわゆる少年犯罪について\nの昨今の動向だが、法務省が発行している\n平成１８年度版犯罪白書によると、\n少年刑法犯検挙人員は１７万８９７２人。\n前年比７．３％減となっている。\nまた人口１０万人あたりの検挙比率は１４１８人。\n決して低い水準ではないが、昨年度よりも\n減少しているのが事実のようだ。\nそのような実態であるが、少年犯罪の\n凶悪化が増加の印象を与えるのか。\nこれは情報メディアの発達により、印象の\n受け止め方に違いが起きているのでは\nないだろうか。\n既存の社会通念の枠外の少年犯罪が\n起こった時、それがセンセーショナルに\n報道され、同時にインターネット上で活発な\n議論が展開される。 そして似たような性向を\n持つ者をネットのそこかしこで発見する。\n加えて、たとえ隣家でも接触が乏しい\n現代社会において蔓延する不信感……\nこのような素地のせいで、たとえ\nその凶悪さが過去とさほど変わらない\n場合でも受け止める我々の意識に変化が\n起きたのではないだろうか。\n\n余談だが、同白書では殺人を犯した少年の\n数は７８人。 昭和３４年の同白書によると\n４１５人となっている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "正式名称为「少年育成课」。顾名思义，负责处理尚未达到法定成年年龄的十几岁青少年的犯罪。从训诫、辅导，到如今成为严重社会问题的青少年恶性犯罪，所有涉及未成年人的犯罪都由这里处理。\n\n关于未成年人——也就是所谓少年犯罪——近年的动向，法务省发行的平成１８年度版《犯罪白皮书》记载，因触犯刑法而被查获的少年人数为１７万８９７２人，较上年减少７．３％。每１０万人口中的查获人数为１４１８人。虽然绝不是低水平，但确实比上一年度有所减少。\n\n实际情况如此，为什么少年犯罪的恶性程度，却会给人日益增加的印象？或许是信息媒体的发展，改变了我们接收这些消息的方式。\n\n当发生超出既有社会常识框架的少年犯罪时，媒体会以耸动的方式报道，网络上也同时展开激烈讨论。人们又会在网上各处，发现有着类似倾向的人。再加上现代社会中，即使是邻居也少有往来，因此滋生的普遍不信任……有了这样的土壤，即使罪行的凶恶程度与过去相差不大，我们对它的感受，或许也已经发生变化。\n\n顺带一提，同一份白皮书记载，犯下杀人罪的少年为７８人；昭和３４年的白皮书中，这个数字则是４１５人。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.129",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "心霊写真",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "灵异照片"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.129",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "心霊写真とは、人間の視覚では見ることの\n出来ない超自然的存在をとらえた写真。\n撮影者の意図に関わりなく写し出される\nケースが多く、霊魂が普遍的に存在することを\n示す例として、しばしば引き合いに出される。\nそのほとんどは錯覚やトリックと言われているが、\n霊魂存在の客観的な証拠になりうるものも\nいくつか存在する。\n\n霊を撮影することによって名をなした\n１９世紀末から２０世紀初頭にかけての\n写真家達は、みんな詐欺師であることが\n判明している。 大抵はネガに手を加え、\n心霊写真のようなものが見えるようにしたのだ。\n最近ではアナログ手法ではなく、\n撮影した写真をデジタル処理によって\n心霊写真を製造する方法がもっとも手軽だろう。\nしかし、そのような手法をとらずに出来た写真も\nたしかに存在する。 だが、それは空気中の埃が\n光に反射したものを誤解など、これでもまだ\n本物の心霊写真とは言えない。 それらの条件を\nかいくぐっても尚、撮影されてしまうものは\n存在する。 そのような物が映り込んでしまう\n真相は謎———であることが多い。\nただ、撮影場所はいわゆる「曰く付き」の\n場所であることが多いようだ。\nそれが何か影響しているのか否か、\nそれは現代科学をもってしても、\n解明しきれないケースのようだ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "灵异照片，是指拍下人眼无法看见的超自然存在的照片。很多时候，它们并非出于拍摄者的意图而出现，因此常被用来说明灵魂普遍存在。虽然大多数被认为是错觉或伪造，但也有少数被视为可能成为灵魂存在的客观证据。\n\n１９世纪末至２０世纪初，那些靠拍摄亡灵成名的摄影师，后来都被揭穿是骗子。大多是在底片上做手脚，使照片看起来出现了灵异影像。如今，比起传统手法，对拍好的照片进行数字处理，恐怕是制作灵异照片最方便的办法。\n\n不过，确实也有一些照片并未使用这些手法。可其中仍可能只是空气中的尘埃反光，被人误认，因此还不能称为真正的灵异照片。即使排除这些条件，仍然存在拍下异常影像的情况。那些东西为什么会出现在画面中，往往仍是谜。\n\n只是，拍摄地点似乎常是所谓「有故事」的地方。这是否产生了某种影响，即使借助现代科学，也仍有无法彻底解释的案例。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.175",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "有名人死亡説",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "名人死亡传闻"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.175",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ＴＶ出演をするなどして有名なタレントや\n司会者などが根も葉もない根拠により\n死亡したと噂されること。\n\n東村山市出身のコメディアンを始めとし、\n台湾出身の歌姫、「神の子」と呼ばれた\n天才サッカープレイヤーなど、洋の東西を問わず、\nこうした噂の流れる有名人は少なくない。\n\n東村山市出身のコメディアンの死亡説に\n関しては、同姓同名の別人が亡くなった\n記事が新聞に掲載され、それが誤って\n広まった言われている。\nまた「神の子」と呼ばれたサッカープレイヤーは、\n本人が腹痛で入院した際に\n何故か死亡説が広まった。\nその為、彼の生まれた国の政府まで、\nこの噂の真偽を正す為、事実調査に\n乗り出したという。\n\nまたその逆に、死んだ有名人と遭遇したという\n都市伝説も、世界各国で囁かれている。\nその中でも一際多いのがエルヴィス・プレスリー\nである。 エルヴィスとの再会を望む\n熱狂的なファン達の思いが、こうした噂を\n呼び起こすのであろうか。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "指经常出现在电视上的艺人、主持人等名人，被毫无根据地传说已经死亡。\n\n从东村山市出身的喜剧演员，到台湾出身的歌后，再到被称为「上帝之子」的天才足球运动员，无论东西方，遭遇这类传闻的名人都不在少数。\n\n关于那位东村山市出身的喜剧演员，据说是报纸刊登了一位同名同姓者去世的消息，随后被误传开来。而那位被称为「上帝之子」的足球运动员，则是在因腹痛住院时，不知为何传出了死讯。据说，连他的出生国政府都为核实传闻，展开了调查。\n\n反过来，关于与已经去世的名人相遇的都市传说，也在世界各地流传。其中最常见的，是埃尔维斯·普雷斯利，也就是猫王。或许正是狂热歌迷希望与他重逢的心愿，催生了这些传闻。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.144",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "安すぎる車",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "便宜得离谱的汽车"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.144",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "安く売っていた新品同様の中古車が実は\n事故車であったという都市伝説。\n\nとある大学生が必死にバイトして貯めた金で\n中古車を購入することにした。 中古車展示場\nには高級車から大衆車まで様々ある。\n大学生の貯めた僅かな金でも買える格安車も\nあるにはあるが大抵相当古い。 しかしそんな中、\n一台だけ異様に綺麗で安価な中古車を\n見つけた。 外見はほぼ新品で、尚かつ\n走行距離もほとんどない。 しかし一点だけ、\n助手席のシートに赤い染みがついていたのだ。\nそう、その車両は実は事故車で、前の持ち主\nが彼女とドライブ中に、助手席に乗っていた\n彼女の首が信じられないような事故でもげて\nしまったのだ。 以来、持ち主は精神に異常を\nきたし、何も話さなくなってしまったという。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一种都市传说：低价出售、几乎崭新的二手车，其实曾出过严重事故。\n\n某个大学生辛苦打工攒了钱，决定买一辆二手车。车行里，从豪华车到普通家用车，应有尽有。用他那点积蓄也买得起的便宜车并非没有，但大多相当老旧。可就在其中，他发现了一辆异常干净、价格又低的二手车。外观几乎全新，行驶里程也很少。唯一的问题，是副驾驶座椅上有一块红色污渍。\n\n没错，那其实是一辆事故车。前任车主带女友兜风时，坐在副驾驶的女友在一场难以置信的事故中，头颅竟被扯掉。从那以后，车主便精神失常，再也不说话了。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.183",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ミミズバーガー",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "蚯蚓汉堡"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.183",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "今尚まことしやかに囁かれる有名都市伝説である。\n\n\n某巨大ハンバーガーチェーンのハンバーガーの\nパテにはミミズが使われているらしい、というもの。\nそれを店員に言うと、別室に連れて\n行かれて口止め料５万円を貰ったという話も。\n\n価格の高いイメージのある牛肉を使用して、\n安価なハンバーガーを販売している為に、\n囁かれた噂であると考えられる。 また、\n食肉業者ではひき肉を『ミミズ』と呼んでいた\nことから噂が広まった可能性もある。\n\nミミズ以外にも、ネコの肉、カンガルー、ネズミ\nなどの肉が使用されているといったバリエーション\nまで存在し、特にネコ肉を使用しているという話は、\nミミズよりも先に広まった都市伝説だ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "至今仍被说得煞有介事的著名都市传说。\n\n据说，某家大型汉堡连锁店的肉饼里，使用了蚯蚓。还有一种说法是，只要把这件事告诉店员，就会被带进单独的房间，拿到５万日元封口费。\n\n牛肉在人们印象中价格较高，却被用来制作便宜的汉堡，这种反差可能催生了传闻。也可能是因为肉类加工行业曾把绞肉称作「蚯蚓」，才让说法流传开来。\n\n除了蚯蚓，还存在使用猫肉、袋鼠肉、老鼠肉等变体。其中，使用猫肉的说法，比蚯蚓版本出现得更早。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.130",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "タバコの灰",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "烟灰"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.130",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "タバコの灰はよい肥料になると園芸家の間で\nもっぱらの噂だ。 タバコに限らず植物を燃やした\n灰にはカリウム、マグネシウム、カルシウム\nなどが比較的高い割合で含まれており、\n焼畑農業のように、灰を土に入れれば\n「肥料になる」とはいえるらしい。\n\nしかしながらこれを花屋に持ち込むと、\n幾ばくかの金銭で買い取ってくれるというのは\n都市伝説である。 実際にはそのような事実は\n存在しない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "园艺爱好者中，一直流传着烟灰能当好肥料的说法。不只是烟草，植物燃烧后的灰烬，通常都含有较高比例的钾、镁、钙等成分。因此，像刀耕火种那样，把灰烬混入土壤，似乎确实可以说有施肥作用。\n\n不过，把烟灰拿到花店，店家就会付钱收购，这只是都市传说。现实中并没有这样的事。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.160",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "メンソールのタバコ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "薄荷烟"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.160",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "「メンソールのタバコを吸っているとインポに\nなる」という都市伝説。\n\n「１０年以上もの長い間メンソールタバコを吸って\nいると、メンソールが脊髄にある勃起中枢に\n影響を及ぼし機能を低下させる可能性もある」\nということが昔から言われているが\n２、３年という短い期間であれば問題ないようだ。\nしかし、これらはあくまでも俗説であって、\n科学的根拠があるわけではない。\n\nタバコに関する都市伝説は他にも存在する。\n\n・タバコの灰は肥料になる為、とある花屋\nではキロ３万円で買い取ってくれる。\n・とあるタバコのパッケージは、秘密結社ＫＫＫ\nのメッセージが隠されている。\n・某国が戦争中、兵士に支給していたタバコ\nには、戦場で士気を高める為に興奮剤が\n混ぜられていた。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一种都市传说，声称「抽薄荷烟会导致阳痿」。\n\n过去一直有人说：「如果连续１０年以上抽薄荷烟，薄荷醇可能影响脊髓中的勃起中枢，使其功能下降。」也有人说，只抽２、３年这样较短的时间，似乎没有问题。不过，这些终究只是民间说法，并没有科学依据。\n\n与香烟有关的都市传说还有不少，例如：\n・烟灰可以当肥料，因此某家花店会以每公斤３万日元的价格收购。\n・某种香烟的包装里，隐藏着秘密组织ＫＫＫ的信息。\n・某国在战争期间，为提高士兵在战场上的士气，在配发的香烟中混入了兴奋剂。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.131",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "奈落",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "奈落"
+        },
+        "notes": "保留舞台术语「奈落」，正文和完整释义说明其为舞台下方空间，不误译为佛教地狱。"
+      },
+      {
+        "key": "definitions.131",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "舞台の下、地下にある空間のこと。 かつて舞台\nを回転させる作業を人力で行っていた時には、\nこの奈落で働いていた人も多かったという。\n\nかつては文字どおりの地下——穴を掘っただけ\n——で、汚く薄暗く、地獄を想起させるような\n場所だった為、サンスクリット語で「地獄」を\n意味する「ナラカ」の名がつけられたとされる。\nまた江戸時代、奈落で働く人々は、わけあって\n顔を出すことが出来ない前科者などが多かった\nとも言われている。 しかし現在は回転舞台\nの殆どが電動式になっており、奈落も昔ほど\nの暗いイメージは払拭されつつある。 労力は\n軽減されたが危険度は増しており、人体が\n挟まれれば命に危険を及ぼすことから、回転\n舞台の使用には厳重な監視がつけられている。\nだが残念ながら、近年でも出演者が舞台上から\n奈落に転落する事件や、奈落と舞台の間を\n上下するセリに挟まれて、出演者が死亡する\n事件など、舞台にまつわる悲惨な事件は皆無\nではない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "指舞台下方的地下空间。过去转台还靠人力转动时，据说有不少人在这里工作。\n\n早期的奈落，真的是地下——不过是挖了一个坑——又脏又暗，让人联想到地狱。因此，据说它取名自梵语中意为「地狱」的 naraka。也有说法称，江户时代在奈落工作的人，多是因种种缘故不能公开露面的有前科者。\n\n如今，大多数转台都已电动化，奈落阴暗的旧印象也逐渐淡去。人力负担虽然减轻，危险性却增加了。身体一旦被夹住，就可能危及生命，因此使用转台时必须严密监看。\n\n但遗憾的是，即使近年，仍有演员从舞台坠入奈落，或被往返于奈落与舞台之间的升降台夹住而死亡的事件。围绕舞台发生的悲剧，并未绝迹。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.188",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "酒に目薬",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "往酒里滴眼药水"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.188",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "酒に目薬を入れると酔いが回るという都市伝説。\n科学的根拠は一切無い。 主に意中の相手を\n酔わせて、ものにしようという場合に良く囁かれる\n都市伝説だ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一种都市传说，声称往酒里加入眼药水，能让人更快醉倒。这种说法毫无科学依据。通常是在谈论如何灌醉心仪对象、趁机得手时，被人提起。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.158",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ＣＤに霊の声",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "ＣＤ里的亡灵声音"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.158",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ＣＤに限らず、音源に原因不明のノイズが\n混入していて、それが一般に霊の仕業だと\n考えられる場合が多い。 その歴史は古く、\nレコードの時代のみならず、かの発明王エジソンが\n霊との交信装置を発明しようと努力していた\n記録があるくらいだ。\nこの種のものにおいて近年でもっとも有名なのは、\nあるフォークグループの絶版となっている\nライブ盤だ。 リードボーカルのＭＣ最中\n「私にも聞かせて」という声が入っている。\n他にも収録されたスタジオや、ラジオ局が\n昔墓地だった為とされる怪音の噂は現在も\n後を絶たない。\nここまで聞くと、原因は幽霊ではないか、\nと思われるが、いくつかの物理的な原因が\n存在するのは確かである。\nそれは３つに大別出来る。\n\n１、音を重ねていくうちに、たまたまそう聴こえる\nようになっただけのもの。\n２、ＣＤを話題にさせる手段として、わざと隠し\n音を入れておくもの。\n３、ミキサーとか作曲者による意図的な悪戯\n\n特に３であるが、これは現在の音楽業界の\n現状を示唆している。\nクレジットでは作詞作曲が歌っている\nアーティストの名義になっているが、\n印税収入欲しさや、自ら作ったんだという\n虚栄心からゴーストライターに作らせたものを\n買い取っている場合がある。\nそういう人達がレコーディングに関わっている\n場合、どこかに自分の足跡を残そうとする\n傾向があるという。 また、アーティストが\nサウンドの知識が皆無で現場の雰囲気を\n省みずにワガママを言う場合があり、\nそれの仕返しで呻き声を入れるケースが\nあるという。\nそのような特殊事情を排除したとしても、\n原因不明の音声が混入しているケースが\nあるという。 それを果たして「霊」の仕業と\nしていいのかどうか。\nこの種の話題は決して解明しきれない部分が\nこれからも残るのは間違いないだろう。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "不只是ＣＤ，录音中有时会混入原因不明的杂音，人们往往将其归因于亡灵。这类说法历史悠久，不仅唱片时代就有，甚至留下过发明家爱迪生试图研制与亡灵通信装置的记录。\n\n近年最有名的例子，是某个民谣组合一张已经绝版的现场专辑。主唱说话时，录音里混入了一句「也让我听听」。此外，录音室或广播电台过去曾是墓地，因此录下怪声之类的传闻，至今仍层出不穷。\n\n听到这里，难免觉得原因是鬼魂，但可以确定，其中存在一些物理上的解释。大致分为３类：\n\n１、声音叠加时，偶然听起来像某种话语。\n２、为了制造ＣＤ话题，故意加入隐藏的声音。\n３、混音师或作曲者有意进行的恶作剧。\n\n尤其是第３类，也折射出音乐行业的一些现状。署名中，词曲作者写的是演唱者本人，实际却可能为了版税收入，或满足「作品是自己创作的」的虚荣心，买下代笔者的作品。\n\n据说，这些真正的创作者参与录音时，有时会想留下属于自己的痕迹。也有艺人完全不懂声音制作，却不顾现场气氛，一味任性要求，工作人员便以加入呻吟声的方式报复。\n\n即使排除这些特殊情况，仍据说存在混入不明声音的录音。究竟能否把它们归为「亡灵」所为？这类话题，今后也一定仍会留下无法彻底解释的部分。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.64",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "榊",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "榊"
+        },
+        "notes": "日本神事所用树木的专名，汉字「榊」即为条目主题，保留而不误换为另一树种。"
+      },
+      {
+        "key": "definitions.64",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "賢木、坂木、龍眼木とも書き祭祀の時、\n神前に供え、あるいは装飾品として用いる。\n元々は常緑木の総称のことをいった。\n\n後世に至って別に一種の木を定めて榊とし、\n現在に至る。 『古事記』では、天照大神が\n天の岩戸に隠れた折に、「天香山の\n五百津眞賢木（いほつまさかき）を\n根こじにこじて云々」と記されていることから、\n榊を神事に用いるのは、神代以前よりの\nことと推測される。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "也写作贤木、坂木、龙眼木，在祭祀时供于神前，或用作装饰。最初是常绿树木的统称。\n\n后来，才从中指定一种树作为「榊」，沿用至今。《古事记》记载，天照大神藏入天岩户时，人们「将天香山的五百津真贤木连根掘起……」。由此推测，以榊举行神事的习俗，自神代以前便已存在。"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "keywords.4800",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4802",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4837",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4801",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4804",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4808",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4838",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4803",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4806",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4807",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4868",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4809",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4810",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4812",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4811",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4862",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4863",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4816",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4817",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4820",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4822",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4826",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4828",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4827",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4805",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4832",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4833",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4859",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4839",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4834",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4840",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4836",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4841",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4842",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4845",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4847",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4848",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4864",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4852",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4844",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4854",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4853",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4861",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4855",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4813",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4857",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4865",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4856",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4829",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.131",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.64",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

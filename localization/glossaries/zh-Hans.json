@@ -2,15 +2,20 @@
   "version": 1,
   "locale": "zh-Hans",
   "rules": [
-    { "id": "kamoizumi", "source": ["賀茂泉", "かごめ"], "preferred": "贺茂泉戈薇", "avoid": ["贺茂泉笼目"], "note": "按距离使用姓氏或警衔，不强制每次使用全名。", "evidence": "localization/ZH_HANS_STYLE.md" },
-    { "id": "yuka", "source": ["間宮", "ゆうか"], "preferred": "间宫悠香", "avoid": ["间宫由香"], "note": "既有关键词 4738；其他同名人物不能机械替换。", "evidence": "localization/ZH_HANS_STYLE.md" },
-    { "id": "shikibu", "source": ["式部", "人見"], "preferred": "式部人见", "avoid": [], "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。", "evidence": "localization/ZH_HANS_STYLE.md" },
-    { "id": "indo", "source": ["犬童", "蘭子"], "preferred": "犬童兰子", "avoid": [], "note": "女性，用她；随意老练，不套中国地域方言。", "evidence": "localization/ZH_HANS_STYLE.md" },
-    { "id": "kogure", "source": ["小暮"], "preferred": "小暮宗一郎", "avoid": [], "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。", "evidence": "localization/ZH_HANS_STYLE.md" },
-    { "id": "suimei", "source": ["霧崎", "水明"], "preferred": "雾崎水明", "avoid": [], "note": "风海称哥，无血缘关系，不能改成亲哥哥。", "evidence": "localization/ZH_HANS_STYLE.md" },
-    { "id": "kinship-one", "entries": [20001], "source": ["伯父", "姪", "曾我", "曽我"], "preferred": "姨父／外甥女", "avoid": ["伯父", "侄女"], "note": "舞母亲与曾我亡妻为姐妹；高潮亲口说的爸爸/叔叔是身份线索，不能替换。", "evidence": "localization/REVIEW_NOTES.md" },
-    { "id": "ta-kun", "entries": [20001], "source": ["たーくん"], "preferred": "小太", "avoid": [], "note": "草壁太一的亲昵称呼。", "evidence": "localization/ZH_HANS_STYLE.md" },
-    { "id": "cold-reading", "source": ["コールドリーディング"], "preferred": "冷读术", "avoid": ["冷阅读术"], "note": "保留骗局的语境，不改成超能力。", "evidence": "localization/ZH_HANS_STYLE.md" },
-    { "id": "regression", "source": ["退行催眠"], "preferred": "回溯催眠", "avoid": ["退行催眠"], "note": "正文与辞典统一；不得改动角色的错误推断。", "evidence": "localization/ZH_HANS_STYLE.md" }
+    {"id": "kamoizumi", "source": ["賀茂泉", "かごめ"], "preferred": "贺茂泉戈薇", "avoid": ["贺茂泉笼目"], "note": "按距离使用姓氏或警衔，不强制每次使用全名。", "evidence": "localization/ZH_HANS_STYLE.md"},
+    {"id": "yuka", "source": ["間宮", "ゆうか"], "preferred": "间宫悠香", "avoid": ["间宫由香"], "note": "既有关键词 4738；其他同名人物不能机械替换。", "evidence": "localization/ZH_HANS_STYLE.md"},
+    {"id": "shikibu", "source": ["式部", "人見"], "preferred": "式部人见", "avoid": [], "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。", "evidence": "localization/ZH_HANS_STYLE.md"},
+    {"id": "indo", "source": ["犬童", "蘭子"], "preferred": "犬童兰子", "avoid": [], "note": "女性，用她；随意老练，不套中国地域方言。", "evidence": "localization/ZH_HANS_STYLE.md"},
+    {"id": "kogure", "source": ["小暮"], "preferred": "小暮宗一郎", "avoid": [], "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。", "evidence": "localization/ZH_HANS_STYLE.md"},
+    {"id": "suimei", "source": ["霧崎", "水明"], "preferred": "雾崎水明", "avoid": [], "note": "风海称哥，无血缘关系，不能改成亲哥哥。", "evidence": "localization/ZH_HANS_STYLE.md"},
+    {"id": "kinship-one", "entries": [20001], "source": ["伯父", "姪", "曾我", "曽我"], "preferred": "姨父／外甥女", "avoid": ["伯父", "侄女"], "note": "舞母亲与曾我亡妻为姐妹；高潮亲口说的爸爸/叔叔是身份线索，不能替换。", "evidence": "localization/REVIEW_NOTES.md"},
+    {"id": "ta-kun", "entries": [20001], "source": ["たーくん"], "preferred": "小太", "avoid": [], "note": "草壁太一的亲昵称呼。", "evidence": "localization/ZH_HANS_STYLE.md"},
+    {"id": "cold-reading", "source": ["コールドリーディング"], "preferred": "冷读术", "avoid": ["冷阅读术"], "note": "保留骗局的语境，不改成超能力。", "evidence": "localization/ZH_HANS_STYLE.md"},
+    {"id": "regression", "source": ["退行催眠"], "preferred": "回溯催眠", "avoid": ["退行催眠"], "note": "正文与辞典统一；不得改动角色的错误推断。", "evidence": "localization/ZH_HANS_STYLE.md"},
+    {"id": "tsuji", "entries": [30001], "source": ["辻", "十沙耶佳"], "preferred": "辻沙耶香", "avoid": ["十沙耶佳", "辻沙耶佳"], "note": "女性，称辻小姐；关键词 4831 及全部内联引用统一。", "evidence": "docs/reviews/CHAPTER_TWO_ZH_HANS.md"},
+    {"id": "stage-grid", "entries": [30001], "source": ["スノコ", "吊架"], "preferred": "栅顶", "avoid": ["吊架"], "note": "舞台上方工作区域；关键词 4814。", "evidence": "docs/reviews/CHAPTER_TWO_ZH_HANS.md"},
+    {"id": "stage-lift", "entries": [30001], "source": ["セリ", "拍卖"], "preferred": "升降台", "avoid": ["拍卖"], "note": "舞台机械，不是竞价交易；关键词 4843。", "evidence": "docs/reviews/CHAPTER_TWO_ZH_HANS.md"},
+    {"id": "producer", "entries": [30001], "source": ["制作", "创作"], "preferred": "制作人", "avoid": [], "note": "仅本章剧团职务语境，关键词 4825，不禁止一般创作一词。", "evidence": "docs/reviews/CHAPTER_TWO_ZH_HANS.md"},
+    {"id": "amorous", "entries": [30001], "source": ["恋多き", "恋慕"], "preferred": "多情", "avoid": [], "note": "佐伯常邀女演员外出；关键词 4850，不概括为已确定的恋人关系。", "evidence": "docs/reviews/CHAPTER_TWO_ZH_HANS.md"}
   ]
 }

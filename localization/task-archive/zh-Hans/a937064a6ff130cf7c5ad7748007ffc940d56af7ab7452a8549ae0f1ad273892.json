@@ -1,0 +1,181 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 30001,
+    "title": "第二话 · 心霊写真",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 118,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.30601:1801576.1c1cf560",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"                　「やっぱりこの芝居、再演なんて\",\"color\":0,\"size\":-2},{\"text\":\"\\n\",\"color\":0,\"size\":-2},{\"text\":\"                 　かけない方が良かったんだよ」\",\"color\":0,\"size\":-2},{\"text\":\"\\n\",\"color\":0,\"size\":-2},{\"text\":\"  \",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"                        「辻さんの祟りとか？」\",\"color\":0,\"size\":-1},{\"text\":\"\\n\",\"color\":0,\"size\":-1},{\"text\":\" \",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"                   「まさかねぇ……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "e4df56e35d6994e835f0d2184eab86345ba5e5553de8752ac56ab61b3d263e7e",
+        "location": {
+          "script": 30601,
+          "page": "30601:1801576",
+          "route": "chapter-2-end-39000.json",
+          "step": 103
+        },
+        "requiredRefs": [
+          {
+            "ref": 0,
+            "text": "                　「やっぱりこの芝居、再演なんて",
+            "color": 0,
+            "size": -2
+          },
+          {
+            "ref": 1,
+            "text": "\n",
+            "color": 0,
+            "size": -2
+          },
+          {
+            "ref": 2,
+            "text": "                 　かけない方が良かったんだよ」",
+            "color": 0,
+            "size": -2
+          },
+          {
+            "ref": 3,
+            "text": "\n",
+            "color": 0,
+            "size": -2
+          },
+          {
+            "ref": 6,
+            "text": "                        「辻さんの祟りとか？」",
+            "color": 0,
+            "size": -1
+          },
+          {
+            "ref": 7,
+            "text": "\n",
+            "color": 0,
+            "size": -1
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.30601:1801224.7bbbca61",
+            "step": 101,
+            "script": 30601,
+            "text": "壁に貼られた〔公演〕のポスターだけが、\n地味な色合の警察関係者の中にあって\nやけに浮いて見える。",
+            "translation": "在一群衣着色调暗淡的警务人员之间，墙上贴着的〔公演〕海报显得格外醒目。"
+          },
+          {
+            "key": "page.30601:1801368.fc1dfcc7",
+            "step": 102,
+            "script": 30601,
+            "text": "その合間で肩を寄せ合い、深刻そうに会話を\n交わしているのは劇団の関係者だろう。\n揃いのＴシャツを着て、互いに不安げな視線を\n巡らせている。",
+            "translation": "几个人挤在他们之间，凑在一起神情凝重地交谈，大概是剧团的工作人员吧。他们穿着统一的Ｔ恤，不安地交换着目光。"
+          },
+          {
+            "key": "page.30601:1801576.1c1cf560",
+            "step": 103,
+            "script": 30601,
+            "text": "「やっぱりこの芝居、再演なんて\n                 　かけない方が良かったんだよ」\n  \n                        「辻さんの祟りとか？」\n \n                   「まさかねぇ……」",
+            "translation": "「果然，\n这出戏就不该重新上演。」\n「你是说，辻先生的诅咒？」\n「不至于吧……」"
+          },
+          {
+            "key": "page.30601:1801900.46890ea",
+            "step": 104,
+            "script": 30601,
+            "text": "ひそひそと会話を交わすスタッフ達は、\nぼくらに気付くと軽く会釈をして走り去ってしまった。\n聞かれたくない話だったのだろうか……？",
+            "translation": "那些窃窃私语的工作人员发现我们后，轻轻点头致意，便快步离开了。是些不想让我们听见的话吗……？"
+          },
+          {
+            "key": "page.30601:1802104.38bd702e",
+            "step": 105,
+            "script": 30601,
+            "text": "ロビーに設えられたソファを囲むようにして、\n佐々木課長が部下に指示を出している姿を見つけ、\nぼくは小暮さんと賀茂泉警部補を引き連れて\n駆け寄った。",
+            "translation": "我发现佐佐木课长正站在大厅的沙发旁，向部下下达指示，便带着小暮先生和贺茂泉警部补快步走了过去。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"                　「やっぱりこの芝居、再演なんて\",\"color\":0,\"size\":-2},{\"text\":\"\\n\",\"color\":0,\"size\":-2},{\"text\":\"                 　かけない方が良かったんだよ」\",\"color\":0,\"size\":-2},{\"text\":\"\\n\",\"color\":0,\"size\":-2},{\"text\":\"  \",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"                        「辻さんの祟りとか？」\",\"color\":0,\"size\":-1},{\"text\":\"\\n\",\"color\":0,\"size\":-1},{\"text\":\" \",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"                   「まさかねぇ……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "ref": 0,
+              "text": "「果然，"
+            },
+            {
+              "ref": 1,
+              "text": "\n"
+            },
+            {
+              "ref": 2,
+              "text": "这出戏就不该重新上演。」"
+            },
+            {
+              "ref": 3,
+              "text": "\n"
+            },
+            {
+              "ref": 6,
+              "text": "「你是说，辻先生的诅咒？」"
+            },
+            {
+              "ref": 7,
+              "text": "\n"
+            },
+            {
+              "text": "「不至于吧……」"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "ref": 0,
+              "text": "「果然，"
+            },
+            {
+              "ref": 1,
+              "text": "\n"
+            },
+            {
+              "ref": 2,
+              "text": "这出戏就不该重新上演。」"
+            },
+            {
+              "ref": 3,
+              "text": "\n"
+            },
+            {
+              "ref": 6,
+              "text": "「你是说，辻小姐的诅咒？」"
+            },
+            {
+              "ref": 7,
+              "text": "\n"
+            },
+            {
+              "text": "「不至于吧……」"
+            }
+          ]
+        },
+        "notes": "根据本章人物资料与后续连续剧情确认辻沙耶香为女性，修正早期窃语中的敬称；保留所有小字强调引用。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

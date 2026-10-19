@@ -1,0 +1,110 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 30001,
+    "title": "第二话 · 心霊写真",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 58,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.32601:1951780.ab0ad6d4",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「その時間帯のアリバイを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"証明してくれる人はいますか？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"賀茂泉警部補の問いに、安藤さんは\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"顔色ひとつ変えず応じる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "d47e70d8d51f927b5d4f121164f69633dddf752a4f1ddb643ea6f6e0b0c3336b",
+        "location": {
+          "script": 32601,
+          "page": "32601:1951780",
+          "route": "chapter-2-end-39000.json",
+          "step": 724
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.32601:1951548.8da31e50",
+            "step": 722,
+            "script": 32601,
+            "text": "「翌日——五十嵐さんが\n亡くなった日の朝はいかがですか？」\n「自宅にいました」",
+            "translation": "「那么第二天——也就是五十岚小姐去世那天早上呢？」\n「我在家。」"
+          },
+          {
+            "key": "page.32601:1951680.20b38487",
+            "step": 723,
+            "script": 32601,
+            "text": "「あの日は佐伯から、五十嵐のことを\n報せる電話で起きたものですから」",
+            "translation": "「那天早上，我是被佐伯告知五十岚死讯的电话叫醒的。」"
+          },
+          {
+            "key": "page.32601:1951780.ab0ad6d4",
+            "step": 724,
+            "script": 32601,
+            "text": "「その時間帯のアリバイを\n証明してくれる人はいますか？」\n賀茂泉警部補の問いに、安藤さんは\n顔色ひとつ変えず応じる。",
+            "translation": "「有人能证明您在那个时间段的不在场证明吗？」\n面对贺茂泉警部补的提问，安藤先生神色不变。"
+          },
+          {
+            "key": "page.32601:1951940.ddbe998",
+            "step": 725,
+            "script": 32601,
+            "text": "「残念ですが、\n独り暮らしなので証人はいません」\n「分かりました」\n答えながら、賀茂泉警部補がぼくに目配せする。",
+            "translation": "「很遗憾，我独居，没有证人。」\n「明白了。」\n贺茂泉警部补一边回答，一边朝我使了个眼色。"
+          },
+          {
+            "key": "page.32601:1952128.ced3fbdd",
+            "step": 726,
+            "script": 32601,
+            "text": "安藤さんはスノコに通じる鍵の番号を\n知っている以上、犯人である可能性は高い。",
+            "translation": "既然安藤先生知道通往栅顶的门锁密码，他是凶手的可能性就很高。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"「その時間帯のアリバイを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"証明してくれる人はいますか？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"賀茂泉警部補の問いに、安藤さんは\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"顔色ひとつ変えず応じる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "「有人能证明您在那个时间段的不在场证明吗？」\n面对贺茂泉警部补的提问，安藤先生神色不变。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "「有人能证明您在那个时间段不在现场吗？」\n面对贺茂泉警部补的提问，安藤先生神色不变。"
+            }
+          ]
+        },
+        "notes": "消除「证明不在场证明」的重复搭配，保留询问有无人证的不在场证明含义，不额外限定必须在家。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

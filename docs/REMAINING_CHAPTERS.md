@@ -95,3 +95,7 @@ npm run qa:replay -- --route tests/fixtures/chapter-3-finale.json --bundle all-f
 ## 适配边界
 
 这次完成的是所有章节的 Web 剧情、选择、推理、评分、辞典、存档、原资源演出与结局闭环。PSP 系统菜单/鉴赏壳不作为章节游戏逻辑移入；原生名单并发演出改为手动卡片，原版混色仍沿用已记录的 Web 近似，不声称逐帧/逐像素一致。未新增中文翻译。Safari、Firefox、实体移动设备尚未作设备验收。
+
+## 第二话简中翻译补充（2026-10-19）
+
+第二话 4,702 条富文本和 228 条静态文本已补齐，详情见 [专门验收](reviews/CHAPTER_TWO_ZH_HANS.md)。特别注意：39000 可由科学和灵异路线抵达，39992 是早期失败，不能按结尾编号认定路线。新增 chapter-2-science.json（来源 remaining/chapter-2.json routes[0]）进入完整历史逐停顿存档测试；浏览器检查点生成器同时重放科学/灵异/失败三条路线。

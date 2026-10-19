@@ -132,3 +132,15 @@ node --experimental-strip-types tests/generate-zh-hans-fixtures.mjs
 `routes.jsonl.manifest.json` 绑定游戏包和语料文件 SHA，过期时必须重新 i18n:extract；不能只修改指纹让旧语料通过。固定种子第一话的可重放轨迹保存到 `output/localization/chapter-one-trials.json`，数值 trial 对应 routes 数组下标。新的 prompt 和所有场景 label 纳入源清单；章节索引及原始片段不是可直接翻译的完整句子。
 
 新增目录：`localization/glossaries/` 保存有出处的语言术语规则；`localization/task-archive/` 保存已应用任务输入与检查证据；`localization/templates/TRANSLATION_HANDOFF.md` 用于上下文交接、审校范围及媒体清单。工作中的任务放 output/localization/tasks/，避免将尚未填写的任务误当已应用源稿。
+
+## 第二话简中全译校验
+
+```sh
+npm run i18n:extract
+npm run i18n:check:chapter-two
+node --experimental-strip-types tests/generate-chapter-two-zh-hans-fixtures.mjs
+# 独立存储 /tests/qa.html?bundle=ch2-zh-hans&lang=zh-Hans
+# 扩展 UI 文案加 &stress=1
+```
+
+i18n:extract 会重建第一话、第二话的分支语料，不要在提取尚未结束时并发运行依赖语料的门禁。源覆盖报告为 output/localization/chapter-two-source-coverage.json，译稿报告为 chapter-two-zh-Hans.json。科学成功路线用 chapter-2-science.json；39992 是失败路线。完整基准与原文疑点见 [第二话译文验收](reviews/CHAPTER_TWO_ZH_HANS.md)。
