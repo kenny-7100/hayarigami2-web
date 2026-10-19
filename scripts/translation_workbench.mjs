@@ -152,7 +152,7 @@ function main() {
  const inputs=loadWorkbench(o.locale);
  if(command==='status'){
   const {scope,entries}=inventory(inputs.game,inputs.corpus,Number(o.entry));
-  console.log(JSON.stringify({entry:scope.entry,title:scope.title,scriptCount:scope.scripts.size,counts:progress(entries,inputs.catalog),routes:[...new Set(entries.filter(e=>e.route).map(e=>e.route))],scope:'compiled dependency closure + collected route variants; not proof of exhaustive source execution',sourceCoverageGate:scope.entry===20001?'npm run i18n:check:chapter-one':scope.entry===30001?'npm run i18n:check:chapter-two':'not established for this chapter',mediaReview:'separate inventory and browser review required'},null,2));
+  console.log(JSON.stringify({entry:scope.entry,title:scope.title,scriptCount:scope.scripts.size,counts:progress(entries,inputs.catalog),routes:[...new Set(entries.filter(e=>e.route).map(e=>e.route))],scope:'compiled dependency closure + collected route variants; not proof of exhaustive source execution',sourceCoverageGate:scope.entry===20001?'npm run i18n:check:chapter-one':scope.entry===30001?'npm run i18n:check:chapter-two':scope.entry===40001?'npm run i18n:check:chapter-three':'not established for this chapter',mediaReview:'separate inventory and browser review required'},null,2));
  }else if(command==='prepare'){
   if(!o.file)throw new Error('--file required');
   const task=prepareTask(inputs,{entry:Number(o.entry),kind:o.kind,limit:o.limit===undefined?20:Number(o.limit),maxChars:o.chars===undefined?6000:Number(o.chars),route:o.route,key:o.key});

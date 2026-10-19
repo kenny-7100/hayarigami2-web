@@ -1,0 +1,110 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 70,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.48001:3058248.a2523957",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"やけにぼく達のことを心配してくれる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"本当はゆうかさんが少し調子が悪いのだが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"余計な心配をかけても悪いので、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そのことも伏せることにした。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "31992c32210300fc657bcc109a894c15e39c4d8a538dec31b6fae7d05c1d2576",
+        "location": {
+          "script": 48001,
+          "page": "48001:3058248",
+          "route": "chapter-3-end-44142.json",
+          "step": 2340
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.48001:3058020.979d2216",
+            "step": 2338,
+            "script": 48001,
+            "text": "自分の事件を抱えて大変であろう\n人見さんのことを考え、今回も事件のことは\n言わないようにした。",
+            "translation": "想到人见也正为自己那边的案子奔忙，我这次仍没有提起这里的案件。"
+          },
+          {
+            "key": "page.48001:3058152.4ffd0ff8",
+            "step": 2339,
+            "script": 48001,
+            "text": "『じゃあ、みんな元気なのね？\n具合が悪くなった人もいないのね？』",
+            "translation": "『那大家都很好吧？没有人身体不舒服吧？』"
+          },
+          {
+            "key": "page.48001:3058248.a2523957",
+            "step": 2340,
+            "script": 48001,
+            "text": "やけにぼく達のことを心配してくれる。\n本当はゆうかさんが少し調子が悪いのだが、\n余計な心配をかけても悪いので、\nそのことも伏せることにした。",
+            "translation": "他格外关心我们的状况。其实悠香有点不舒服，不过我不想让他多担心，便也瞒了下来。"
+          },
+          {
+            "key": "page.48001:3058432.92713dcd",
+            "step": 2341,
+            "script": 48001,
+            "text": "「ええ、大丈夫ですよ」\n『そう……』",
+            "translation": "「嗯，都没事。」\n『是吗……』"
+          },
+          {
+            "key": "page.48001:3058500.46b83656",
+            "step": 2342,
+            "script": 48001,
+            "text": "何故だろう？人見さんの声は晴れない。",
+            "translation": "为什么呢？人见的声音仍然不见轻松。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"やけにぼく達のことを心配してくれる。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"本当はゆうかさんが少し調子が悪いのだが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"余計な心配をかけても悪いので、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そのことも伏せることにした。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "他格外关心我们的状况。其实悠香有点不舒服，不过我不想让他多担心，便也瞒了下来。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "她格外关心我们的状况。其实悠香有点不舒服，不过我不想让她多担心，便也瞒了下来。"
+            }
+          ]
+        },
+        "notes": "依据简中人物规则与源文彼女，人见为女性；修正这句指向人见的代词，不改变对话内容。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

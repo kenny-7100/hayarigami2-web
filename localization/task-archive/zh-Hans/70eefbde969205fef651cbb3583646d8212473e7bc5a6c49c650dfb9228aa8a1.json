@@ -1,0 +1,96 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 9,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.48901:3103684.cc783459",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「あ、ずみ……！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "675c677a97821a2b4bbcf1a4b1961fe4160190f61e9ed1fb8a8bd03e9ae1cffe",
+        "location": {
+          "script": 48901,
+          "page": "48901:3103684",
+          "route": "chapter-3-end-44142.json",
+          "step": 2497
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.48901:3103432.162a8252",
+            "step": 2495,
+            "script": 48901,
+            "text": "かすれた声で、ぼくは喘いだ。\nこれまで見たこともないような、毅然とした\n兄さんの姿。",
+            "translation": "我用沙哑的声音喘息着。哥的身影，是我从未见过的坚定。"
+          },
+          {
+            "key": "page.48901:3103572.ce296b78",
+            "step": 2496,
+            "script": 48901,
+            "text": "その兄さんの顔に、さっと驚愕が張り付いた。\n目を大きく見開き、男を見つめている。",
+            "translation": "突然，惊愕攀上了他的脸。他睁大眼，死死看着那个男人。"
+          },
+          {
+            "key": "page.48901:3103684.cc783459",
+            "step": 2497,
+            "script": 48901,
+            "text": "「あ、ずみ……！」",
+            "translation": "「阿……澄……！」"
+          },
+          {
+            "key": "page.48901:3103760.bc65cfbf",
+            "step": 2498,
+            "script": 48901,
+            "text": "それが耳に入ったからかどうかは分からないが、\n男がゆっくりと背中を向けた。\nもうぼく達に興味を失ったとでもいうように、\n見向きもせずに、のろのろと階段を下りていく。",
+            "translation": "不知是不是听到了这声呼唤，男人慢慢转过身。仿佛已经失去兴趣，连看都不再看我们一眼，缓缓走下楼梯。"
+          },
+          {
+            "key": "page.48901:3103968.8cba87e0",
+            "step": 2499,
+            "script": 48901,
+            "text": "足を引きずる音が、遠ざかっていく。\n兄さんは凍りついたように動けない。",
+            "translation": "拖曳的脚步声渐渐远去。哥却像冻住了一样，动弹不得。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"「あ、ずみ……！」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "「阿……澄……！」"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "「安……昙……！」"
+            }
+          ]
+        },
+        "notes": "源假名あずみ在后续大学往事中确认为安曇優，统一姓名为安昙，保留惊讶停顿。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

@@ -1,0 +1,1041 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 792,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.41451:2666084.54377c5f",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「はい。\",\"color\":0,\"size\":0},{\"text\":\"———ですが、決してお客様に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ご迷惑をおかけするようなことではございませんので」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2666084",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 349
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2665872.e83cf9fe",
+            "step": 347,
+            "script": 41451,
+            "text": "「その……ちょっと不都合がございまして」\n「不都合……ですか？」",
+            "translation": "「那个……有些不方便的地方。」\n「不方便……？」"
+          },
+          {
+            "key": "page.41451:2665968.e0722869",
+            "step": 348,
+            "script": 41451,
+            "text": "思わず怪訝な顔で聞き返してしまったぼくに、\n楡枝支配人は少し慌てたように付け足す。",
+            "translation": "我不由得疑惑地反问，她便有些慌张地补充道。"
+          },
+          {
+            "key": "page.41451:2666084.54377c5f",
+            "step": 349,
+            "script": 41451,
+            "text": "「はい。——ですが、決してお客様に\nご迷惑をおかけするようなことではございませんので」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666212.42f9ff98",
+            "step": 350,
+            "script": 41451,
+            "text": "「ええと……じゃあ、\n何があったかをお聞きしてもいいですか？」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666304.fc13efe9",
+            "step": 351,
+            "script": 41451,
+            "text": "何が不都合なのかが分からなくては、\n「はいそうですか」と素直に頷くことも出来ない。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「是的。——不过，绝不是什么会给客人添麻烦的事，请放心。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2666212.42f9ff98",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ええと……じゃあ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"何があったかをお聞きしてもいいですか？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2666212",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 350
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2665968.e0722869",
+            "step": 348,
+            "script": 41451,
+            "text": "思わず怪訝な顔で聞き返してしまったぼくに、\n楡枝支配人は少し慌てたように付け足す。",
+            "translation": "我不由得疑惑地反问，她便有些慌张地补充道。"
+          },
+          {
+            "key": "page.41451:2666084.54377c5f",
+            "step": 349,
+            "script": 41451,
+            "text": "「はい。——ですが、決してお客様に\nご迷惑をおかけするようなことではございませんので」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666212.42f9ff98",
+            "step": 350,
+            "script": 41451,
+            "text": "「ええと……じゃあ、\n何があったかをお聞きしてもいいですか？」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666304.fc13efe9",
+            "step": 351,
+            "script": 41451,
+            "text": "何が不都合なのかが分からなくては、\n「はいそうですか」と素直に頷くことも出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666420.96bbc618",
+            "step": 352,
+            "script": 41451,
+            "text": "これが賀茂泉警部補だったら\n身分を明らかにしようがしまいが、\n居丈高に出て真相を暴露するのだろうが、\nどうもぼくはそういったことには向いていないようだ。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「那个……那么，可以问问究竟发生过什么吗？」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2666304.fc13efe9",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"何が不都合なのかが分からなくては、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「はいそうですか」と素直に頷くことも出来ない。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2666304",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 351
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2666084.54377c5f",
+            "step": 349,
+            "script": 41451,
+            "text": "「はい。——ですが、決してお客様に\nご迷惑をおかけするようなことではございませんので」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666212.42f9ff98",
+            "step": 350,
+            "script": 41451,
+            "text": "「ええと……じゃあ、\n何があったかをお聞きしてもいいですか？」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666304.fc13efe9",
+            "step": 351,
+            "script": 41451,
+            "text": "何が不都合なのかが分からなくては、\n「はいそうですか」と素直に頷くことも出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666420.96bbc618",
+            "step": 352,
+            "script": 41451,
+            "text": "これが賀茂泉警部補だったら\n身分を明らかにしようがしまいが、\n居丈高に出て真相を暴露するのだろうが、\nどうもぼくはそういったことには向いていないようだ。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666620.f6a12e14",
+            "step": 353,
+            "script": 41451,
+            "text": "しかし遠慮がちなぼくの言葉に、\n楡枝支配人は周囲を憚るように素早く視線を巡らせ、\n答えてくれた。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "如果连哪里不方便都不知道，我也没法乖乖点头，说一声「原来如此」。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2666420.96bbc618",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"これが賀茂泉警部補だったら\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"身分を明らかにしようがしまいが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"居丈高に出て真相を暴露するのだろうが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どうもぼくはそういったことには向いていないようだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2666420",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 352
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kamoizumi",
+            "source": [
+              "賀茂泉",
+              "かごめ"
+            ],
+            "preferred": "贺茂泉戈薇",
+            "avoid": [
+              "贺茂泉笼目"
+            ],
+            "note": "按距离使用姓氏或警衔，不强制每次使用全名。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.41451:2666212.42f9ff98",
+            "step": 350,
+            "script": 41451,
+            "text": "「ええと……じゃあ、\n何があったかをお聞きしてもいいですか？」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666304.fc13efe9",
+            "step": 351,
+            "script": 41451,
+            "text": "何が不都合なのかが分からなくては、\n「はいそうですか」と素直に頷くことも出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666420.96bbc618",
+            "step": 352,
+            "script": 41451,
+            "text": "これが賀茂泉警部補だったら\n身分を明らかにしようがしまいが、\n居丈高に出て真相を暴露するのだろうが、\nどうもぼくはそういったことには向いていないようだ。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666620.f6a12e14",
+            "step": 353,
+            "script": 41451,
+            "text": "しかし遠慮がちなぼくの言葉に、\n楡枝支配人は周囲を憚るように素早く視線を巡らせ、\n答えてくれた。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666756.d8e01604",
+            "step": 354,
+            "script": 41451,
+            "text": "「実はその……\n別館は１０年前に火災に見舞われまして……。\nそれで現在も立ち入り禁止になっているんです」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "换成贺茂泉警部补，无论亮不亮身份，大概都会盛气凌人地逼出真相。可我似乎实在不擅长那种做法。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2666620.f6a12e14",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"しかし遠慮がちなぼくの言葉に、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"楡枝支配人は周囲を憚るように素早く視線を巡らせ、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"答えてくれた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2666620",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 353
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2666304.fc13efe9",
+            "step": 351,
+            "script": 41451,
+            "text": "何が不都合なのかが分からなくては、\n「はいそうですか」と素直に頷くことも出来ない。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666420.96bbc618",
+            "step": 352,
+            "script": 41451,
+            "text": "これが賀茂泉警部補だったら\n身分を明らかにしようがしまいが、\n居丈高に出て真相を暴露するのだろうが、\nどうもぼくはそういったことには向いていないようだ。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666620.f6a12e14",
+            "step": 353,
+            "script": 41451,
+            "text": "しかし遠慮がちなぼくの言葉に、\n楡枝支配人は周囲を憚るように素早く視線を巡らせ、\n答えてくれた。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666756.d8e01604",
+            "step": 354,
+            "script": 41451,
+            "text": "「実はその……\n別館は１０年前に火災に見舞われまして……。\nそれで現在も立ち入り禁止になっているんです」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666900.22a6b5a4",
+            "step": 355,
+            "script": 41451,
+            "text": "「火事——ですか？」\n「ええ、幸い死傷者は出なかったんですが、\n取り壊すのも、その……」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "不过，面对我小心翼翼的询问，榆枝经理快速扫了一眼周围，像是有所顾忌，随后还是回答了。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2666756.d8e01604",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「実はその……\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"別館は１０年前に火災に見舞われまして……。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"それで現在も立ち入り禁止になっているんです」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2666756",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 354
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2666420.96bbc618",
+            "step": 352,
+            "script": 41451,
+            "text": "これが賀茂泉警部補だったら\n身分を明らかにしようがしまいが、\n居丈高に出て真相を暴露するのだろうが、\nどうもぼくはそういったことには向いていないようだ。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666620.f6a12e14",
+            "step": 353,
+            "script": 41451,
+            "text": "しかし遠慮がちなぼくの言葉に、\n楡枝支配人は周囲を憚るように素早く視線を巡らせ、\n答えてくれた。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666756.d8e01604",
+            "step": 354,
+            "script": 41451,
+            "text": "「実はその……\n別館は１０年前に火災に見舞われまして……。\nそれで現在も立ち入り禁止になっているんです」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666900.22a6b5a4",
+            "step": 355,
+            "script": 41451,
+            "text": "「火事——ですか？」\n「ええ、幸い死傷者は出なかったんですが、\n取り壊すのも、その……」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667028.33285f1d",
+            "step": 356,
+            "script": 41451,
+            "text": "「ああ、そういうことでしたか」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「其实……附楼在１０年前遭遇过火灾……所以直到现在，都禁止入内。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2666900.22a6b5a4",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「火事———ですか？」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"「ええ、幸い死傷者は出なかったんですが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"取り壊すのも、その……」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2666900",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 355
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2666620.f6a12e14",
+            "step": 353,
+            "script": 41451,
+            "text": "しかし遠慮がちなぼくの言葉に、\n楡枝支配人は周囲を憚るように素早く視線を巡らせ、\n答えてくれた。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666756.d8e01604",
+            "step": 354,
+            "script": 41451,
+            "text": "「実はその……\n別館は１０年前に火災に見舞われまして……。\nそれで現在も立ち入り禁止になっているんです」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666900.22a6b5a4",
+            "step": 355,
+            "script": 41451,
+            "text": "「火事——ですか？」\n「ええ、幸い死傷者は出なかったんですが、\n取り壊すのも、その……」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667028.33285f1d",
+            "step": 356,
+            "script": 41451,
+            "text": "「ああ、そういうことでしたか」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667084.9d721908",
+            "step": 357,
+            "script": 41451,
+            "text": "こんな小さな島では、\n焼け跡一つ取り壊すにも本土から\n業者を呼び寄せなくてはならないのだろう。\nその重機や人員、輸送費も馬鹿にはなるまい。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「火灾——？」\n「是的，幸好没有人伤亡。不过，拆除的话，那个……」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2667028.33285f1d",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「ああ、そういうことでしたか」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2667028",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 356
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2666756.d8e01604",
+            "step": 354,
+            "script": 41451,
+            "text": "「実はその……\n別館は１０年前に火災に見舞われまして……。\nそれで現在も立ち入り禁止になっているんです」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2666900.22a6b5a4",
+            "step": 355,
+            "script": 41451,
+            "text": "「火事——ですか？」\n「ええ、幸い死傷者は出なかったんですが、\n取り壊すのも、その……」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667028.33285f1d",
+            "step": 356,
+            "script": 41451,
+            "text": "「ああ、そういうことでしたか」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667084.9d721908",
+            "step": 357,
+            "script": 41451,
+            "text": "こんな小さな島では、\n焼け跡一つ取り壊すにも本土から\n業者を呼び寄せなくてはならないのだろう。\nその重機や人員、輸送費も馬鹿にはなるまい。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667268.2de27b8c",
+            "step": 358,
+            "script": 41451,
+            "text": "だったら不都合が生じて、\nどうしても取り壊さなくてはならない必要が\n生じるまでは放置しておこう、\nという結論に至ったのだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「啊，原来是这样。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2667084.9d721908",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"こんな小さな島では、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"焼け跡一つ取り壊すにも本土から\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"業者を呼び寄せなくてはならないのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"その重機や人員、輸送費も馬鹿にはなるまい。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2667084",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 357
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2666900.22a6b5a4",
+            "step": 355,
+            "script": 41451,
+            "text": "「火事——ですか？」\n「ええ、幸い死傷者は出なかったんですが、\n取り壊すのも、その……」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667028.33285f1d",
+            "step": 356,
+            "script": 41451,
+            "text": "「ああ、そういうことでしたか」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667084.9d721908",
+            "step": 357,
+            "script": 41451,
+            "text": "こんな小さな島では、\n焼け跡一つ取り壊すにも本土から\n業者を呼び寄せなくてはならないのだろう。\nその重機や人員、輸送費も馬鹿にはなるまい。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667268.2de27b8c",
+            "step": 358,
+            "script": 41451,
+            "text": "だったら不都合が生じて、\nどうしても取り壊さなくてはならない必要が\n生じるまでは放置しておこう、\nという結論に至ったのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667436.f14e91c4",
+            "step": 359,
+            "script": 41451,
+            "text": "「それはどうも、失礼なことを——」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "在这么小的岛上，就算只是拆除一处火灾遗址，也得从本土请人来吧。重型机械、人员，还有运输费用，都不是小数目。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2667268.2de27b8c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"だったら不都合が生じて、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"どうしても取り壊さなくてはならない必要が\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"生じるまでは放置しておこう、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"という結論に至ったのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2667268",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 358
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2667028.33285f1d",
+            "step": 356,
+            "script": 41451,
+            "text": "「ああ、そういうことでしたか」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667084.9d721908",
+            "step": 357,
+            "script": 41451,
+            "text": "こんな小さな島では、\n焼け跡一つ取り壊すにも本土から\n業者を呼び寄せなくてはならないのだろう。\nその重機や人員、輸送費も馬鹿にはなるまい。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667268.2de27b8c",
+            "step": 358,
+            "script": 41451,
+            "text": "だったら不都合が生じて、\nどうしても取り壊さなくてはならない必要が\n生じるまでは放置しておこう、\nという結論に至ったのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667436.f14e91c4",
+            "step": 359,
+            "script": 41451,
+            "text": "「それはどうも、失礼なことを——」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667496.8f81c37c",
+            "step": 360,
+            "script": 41451,
+            "text": "「いえ、とんでもございません。\nですので、ご迷惑をおかけするとは思いますが、\n別館にはお近づきになられませんよう\nお願いいたします」",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "所以，他们大概决定，在真正出现问题、不得不拆除之前，先放着不管。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2667436.f14e91c4",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「それはどうも、失礼なことを———」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2667436",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 359
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2667084.9d721908",
+            "step": 357,
+            "script": 41451,
+            "text": "こんな小さな島では、\n焼け跡一つ取り壊すにも本土から\n業者を呼び寄せなくてはならないのだろう。\nその重機や人員、輸送費も馬鹿にはなるまい。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667268.2de27b8c",
+            "step": 358,
+            "script": 41451,
+            "text": "だったら不都合が生じて、\nどうしても取り壊さなくてはならない必要が\n生じるまでは放置しておこう、\nという結論に至ったのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667436.f14e91c4",
+            "step": 359,
+            "script": 41451,
+            "text": "「それはどうも、失礼なことを——」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667496.8f81c37c",
+            "step": 360,
+            "script": 41451,
+            "text": "「いえ、とんでもございません。\nですので、ご迷惑をおかけするとは思いますが、\n別館にはお近づきになられませんよう\nお願いいたします」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667676.2abba2ee",
+            "step": 361,
+            "script": 41451,
+            "text": "「分かりました。同行者にもよく伝えておきます」\n特に兄さんとゆうかさんには、\nしっかり釘を刺しておく必要があるだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「这样啊，抱歉，问了失礼的问题——」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2667496.8f81c37c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「いえ、とんでもございません。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ですので、ご迷惑をおかけするとは思いますが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"別館にはお近づきになられませんよう\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"お願いいたします」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2667496",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 360
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2667268.2de27b8c",
+            "step": 358,
+            "script": 41451,
+            "text": "だったら不都合が生じて、\nどうしても取り壊さなくてはならない必要が\n生じるまでは放置しておこう、\nという結論に至ったのだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667436.f14e91c4",
+            "step": 359,
+            "script": 41451,
+            "text": "「それはどうも、失礼なことを——」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667496.8f81c37c",
+            "step": 360,
+            "script": 41451,
+            "text": "「いえ、とんでもございません。\nですので、ご迷惑をおかけするとは思いますが、\n別館にはお近づきになられませんよう\nお願いいたします」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667676.2abba2ee",
+            "step": 361,
+            "script": 41451,
+            "text": "「分かりました。同行者にもよく伝えておきます」\n特に兄さんとゆうかさんには、\nしっかり釘を刺しておく必要があるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667888.2a1dd8f3",
+            "step": 362,
+            "script": 41451,
+            "text": "好奇心は猫をも殺すというけれど、\nあの二人は好奇心と知的欲求の為に\n身を滅ぼすなら本望だ、と思っている節がある。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「不，绝没有那回事。只是，虽然可能给您带来不便，还是请您不要靠近附楼。」"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2667676.2abba2ee",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「分かりました。同行者にもよく伝えておきます」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"特に兄さんとゆうかさんには、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"しっかり釘を刺しておく必要があるだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2667676",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 361
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.41451:2667436.f14e91c4",
+            "step": 359,
+            "script": 41451,
+            "text": "「それはどうも、失礼なことを——」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667496.8f81c37c",
+            "step": 360,
+            "script": 41451,
+            "text": "「いえ、とんでもございません。\nですので、ご迷惑をおかけするとは思いますが、\n別館にはお近づきになられませんよう\nお願いいたします」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667676.2abba2ee",
+            "step": 361,
+            "script": 41451,
+            "text": "「分かりました。同行者にもよく伝えておきます」\n特に兄さんとゆうかさんには、\nしっかり釘を刺しておく必要があるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667888.2a1dd8f3",
+            "step": 362,
+            "script": 41451,
+            "text": "好奇心は猫をも殺すというけれど、\nあの二人は好奇心と知的欲求の為に\n身を滅ぼすなら本望だ、と思っている節がある。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2668052.8ca8375b",
+            "step": 363,
+            "script": 41451,
+            "text": "どうやって二人に余計な刺激を与えずに\n釘を刺せるか、ここは慎重に\n吟味する必要があるだろう。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "「明白了，我也会好好告诉同行的人。」\n尤其是哥和悠香，必须郑重提醒一下。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2667888.2a1dd8f3",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"好奇心は猫\",\"color\":0,\"size\":0},{\"text\":\"をも殺すというけれど、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"あの二人は好奇心と知的欲求の為に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"身を滅ぼすなら本望だ、と思っている節がある。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2667888",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 362
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2667496.8f81c37c",
+            "step": 360,
+            "script": 41451,
+            "text": "「いえ、とんでもございません。\nですので、ご迷惑をおかけするとは思いますが、\n別館にはお近づきになられませんよう\nお願いいたします」",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667676.2abba2ee",
+            "step": 361,
+            "script": 41451,
+            "text": "「分かりました。同行者にもよく伝えておきます」\n特に兄さんとゆうかさんには、\nしっかり釘を刺しておく必要があるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667888.2a1dd8f3",
+            "step": 362,
+            "script": 41451,
+            "text": "好奇心は猫をも殺すというけれど、\nあの二人は好奇心と知的欲求の為に\n身を滅ぼすなら本望だ、と思っている節がある。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2668052.8ca8375b",
+            "step": 363,
+            "script": 41451,
+            "text": "どうやって二人に余計な刺激を与えずに\n釘を刺せるか、ここは慎重に\n吟味する必要があるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2668184.62e2d533",
+            "step": 364,
+            "script": 41451,
+            "text": "…………だが、せっかくのリゾート中なのだ。\nぼくは中庭にあるプールバーで、\nのんびりと真夏の太陽を浴びながら\n作戦を練ることにした。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "虽说好奇害死猫，但那两个人似乎觉得，若是为了好奇心与求知欲而毁了自己，也算死得其所。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2668052.8ca8375b",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"どうやって二人に余計な刺激を与えずに\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"釘を刺せるか、ここは慎重に\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"吟味する必要があるだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2668052",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 363
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2667676.2abba2ee",
+            "step": 361,
+            "script": 41451,
+            "text": "「分かりました。同行者にもよく伝えておきます」\n特に兄さんとゆうかさんには、\nしっかり釘を刺しておく必要があるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2667888.2a1dd8f3",
+            "step": 362,
+            "script": 41451,
+            "text": "好奇心は猫をも殺すというけれど、\nあの二人は好奇心と知的欲求の為に\n身を滅ぼすなら本望だ、と思っている節がある。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2668052.8ca8375b",
+            "step": 363,
+            "script": 41451,
+            "text": "どうやって二人に余計な刺激を与えずに\n釘を刺せるか、ここは慎重に\n吟味する必要があるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2668184.62e2d533",
+            "step": 364,
+            "script": 41451,
+            "text": "…………だが、せっかくのリゾート中なのだ。\nぼくは中庭にあるプールバーで、\nのんびりと真夏の太陽を浴びながら\n作戦を練ることにした。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "该怎样提醒，才能不反过来刺激他们的好奇心？这个问题，得慎重考虑。"
+            }
+          ]
+        },
+        "notes": ""
+      },
+      {
+        "key": "page.41451:2668184.62e2d533",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"…………だが、せっかくのリゾート中なのだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ぼくは中庭にあるプールバーで、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"のんびりと真夏の太陽を浴びながら\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"作戦を練ることにした。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": null,
+        "location": {
+          "script": 41451,
+          "page": "41451:2668184",
+          "route": "chapter-three-branches",
+          "trial": 35,
+          "step": 364
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.41451:2667888.2a1dd8f3",
+            "step": 362,
+            "script": 41451,
+            "text": "好奇心は猫をも殺すというけれど、\nあの二人は好奇心と知的欲求の為に\n身を滅ぼすなら本望だ、と思っている節がある。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2668052.8ca8375b",
+            "step": 363,
+            "script": 41451,
+            "text": "どうやって二人に余計な刺激を与えずに\n釘を刺せるか、ここは慎重に\n吟味する必要があるだろう。",
+            "translation": null
+          },
+          {
+            "key": "page.41451:2668184.62e2d533",
+            "step": 364,
+            "script": 41451,
+            "text": "…………だが、せっかくのリゾート中なのだ。\nぼくは中庭にあるプールバーで、\nのんびりと真夏の太陽を浴びながら\n作戦を練ることにした。",
+            "translation": null
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": null,
+        "translation": {
+          "parts": [
+            {
+              "text": "…………不过，难得正在度假。我决定去中庭的台球酒吧，悠闲地晒着盛夏阳光，再琢磨对策。"
+            }
+          ]
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 71,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.43301:2769968.2e634829",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"被害者が発見されたのは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ホテル３階の\",\"color\":0,\"size\":0},{\"text\":\"〔双人房〕\",\"size\":0,\"keyword\":4926},{\"text\":\"だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"被害者は一人で島に営業にきていたサラリーマンで、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"発見直後すぐに病院へと搬送されている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "105d4eb3b58ecb717b9985ebc2f46a42215bcd9c6083eaee5399b3c1fb3cb1bc",
+        "location": {
+          "script": 43301,
+          "page": "43301:2769968",
+          "route": "chapter-3-end-44142.json",
+          "step": 819
+        },
+        "requiredRefs": [
+          {
+            "ref": 3,
+            "text": "〔双人房〕",
+            "size": 0,
+            "keyword": 4926
+          }
+        ],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.43301:2769624.c20cf372",
+            "step": 817,
+            "script": 43301,
+            "text": "賀茂泉警部補には開口一番「酒臭いわよ」と\n言われてしまったが……仕方ないだろう。",
+            "translation": "贺茂泉警部补一开口就是“你一身酒味”，可这也没办法啊。"
+          },
+          {
+            "key": "page.43301:2769736.cd92547e",
+            "step": 818,
+            "script": 43301,
+            "text": "結局、騒ぎに巻き込まれ、\nシャワーさえ浴びることが出来ないのだ。\n自分が酒臭いことは、\n言われるまでもなく自覚している。",
+            "translation": "到头来，我卷进了这场骚动，连澡都没能洗。自己一身酒气，不用她说，我也知道。"
+          },
+          {
+            "key": "page.43301:2769968.2e634829",
+            "step": 819,
+            "script": 43301,
+            "text": "被害者が発見されたのは、\nホテル３階の〔双人房〕だ。\n被害者は一人で島に営業にきていたサラリーマンで、\n発見直後すぐに病院へと搬送されている。",
+            "translation": "受害者是在酒店３楼的〔双人房〕里被发现的。他是一名独自来岛上跑业务的公司职员，被发现后，立刻送往了医院。"
+          },
+          {
+            "key": "page.43301:2770152.e39ae019",
+            "step": 820,
+            "script": 43301,
+            "text": "小さなソファには、\n投げ出されたスーツの上着と旅行鞄。\nテーブルの上にはワインの空きビンと、グラス二つ。",
+            "translation": "小沙发上随意丢着西装外套和旅行包。桌上摆着一个空葡萄酒瓶，还有两只酒杯。"
+          },
+          {
+            "key": "page.43301:2770296.76762305",
+            "step": 821,
+            "script": 43301,
+            "text": "テレビはつけっ放しになったままで、\nついさっきまで誰かがこの部屋で動き回っていたのが\nそのまま残されているようだった。",
+            "translation": "电视还开着，仿佛就在刚才，还有人在房间里走动，一切都原封不动地留了下来。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"被害者が発見されたのは、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ホテル３階の\",\"color\":0,\"size\":0},{\"text\":\"〔双人房〕\",\"size\":0,\"keyword\":4926},{\"text\":\"だ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"被害者は一人で島に営業にきていたサラリーマンで、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"発見直後すぐに病院へと搬送されている。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "受害者是在酒店３楼的"
+            },
+            {
+              "ref": 3,
+              "text": "〔双人房〕"
+            },
+            {
+              "text": "里被发现的。他是一名独自来岛上跑业务的公司职员，被发现后，立刻送往了医院。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "受害者是在酒店３楼的"
+            },
+            {
+              "ref": 3,
+              "text": "〔大床房〕"
+            },
+            {
+              "text": "里被发现的。他是一名独自来岛上跑业务的公司职员，被发现后，立刻送往了医院。"
+            }
+          ]
+        },
+        "notes": "统一关键词4926（ダブル）为大床房，与双床房区分；保留原房型及收录ID。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

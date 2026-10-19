@@ -1,0 +1,96 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 23,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.45501:2906948.2366578e",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"『ふむ……電波の状態は最悪だな。で、なんと？』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "3a18ab228fb7436756da68c3f83575ee43f06acd5a57d1ac6f60d1fef9e1d0a2",
+        "location": {
+          "script": 45501,
+          "page": "45501:2906948",
+          "route": "chapter-3-end-44142.json",
+          "step": 1490
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.45501:2906816.87c53e14",
+            "step": 1488,
+            "script": 45501,
+            "text": "『人見から？』",
+            "translation": "『人见？』"
+          },
+          {
+            "key": "page.45501:2906856.f99f5303",
+            "step": 1489,
+            "script": 45501,
+            "text": "「兄さんの電話が繋がらなくて、\nぼくの方にかけてきたみたい」",
+            "translation": "「她说打不通你的电话，所以才打给我。」"
+          },
+          {
+            "key": "page.45501:2906948.2366578e",
+            "step": 1490,
+            "script": 45501,
+            "text": "『ふむ……電波の状態は最悪だな。で、なんと？』",
+            "translation": "『嗯……信号确实糟透了。他说什么？』"
+          },
+          {
+            "key": "page.45501:2907020.2f3dcb7f",
+            "step": 1491,
+            "script": 45501,
+            "text": "「流行り神を調べてみたら？ って伝えてくれって」",
+            "translation": "「他说，让你试着调查一下流行之神。」"
+          },
+          {
+            "key": "page.45501:2907092.d9a0c2a1",
+            "step": 1492,
+            "script": 45501,
+            "text": "『流行り神？ ……なるほどな』\n兄さんには心当たりがあるみたいだ。",
+            "translation": "『流行之神？……原来如此。』\n哥似乎想到了什么。"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"『ふむ……電波の状態は最悪だな。で、なんと？』\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "『嗯……信号确实糟透了。他说什么？』"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "『嗯……信号确实糟透了。她说什么？』"
+            }
+          ]
+        },
+        "notes": "依据简中人物规则与源文彼女，人见为女性；修正这句指向人见的代词，不改变对话内容。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

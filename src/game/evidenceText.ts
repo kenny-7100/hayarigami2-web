@@ -22,8 +22,26 @@ export const chapterTwoEvidence: Record<number, string> = {
   2495: '手机邮件：我在这里啊……快点，来接我……',
   4209: '思考：代替辻沙耶香的人。',
 };
+/** Finale source artwork: captions translate readable clues without repainting them. */
+export const chapterThreeEvidence: Record<number, string> = {
+  2600: '地图：日本关东近海，红圈标示常世岛所在的位置。',
+  2605: '药盒：成人用晕船药。黄色宣传语：很快入睡，逐渐恢复！',
+  2610: '书封：《亡灵如此漫长的缺席》，作者柿崎幸之助。',
+  2615: '名片：《东东体育报》编辑部记者，落合圭三。',
+  2640: '录像画面：PLAY 表示正在播放；左上角是录像标记。',
+  2641: '录像画面：PLAY 表示正在播放。',
+  2642: '录像画面放大：PLAY，意为播放。',
+  2675: '墙上的英文留言：欢迎来到艾滋病的世界。',
+  2690: '书封：《世界猎奇事件簿·现代篇》。',
+  2705: '手稿：下方署名为青山正纯；正文内容随剧情中的阅读展开。',
+  4300: '思考：取走器官的人是……',
+  4301: '思考：凶手的身世。',
+  4302: '思考：有疑点的罪行。',
+  4303: '思考：死者复活。',
+  4304: '思考：关于谷的行动。',
+};
 export function visibleEvidence(state: GameState): string[] {
   if (state.mode === 'logic' || state.logicVisible) return [];
-  const captions = state.chapterEntry === 20001 ? chapterOneEvidence : state.chapterEntry === 30001 ? chapterTwoEvidence : {};
+  const captions = state.chapterEntry === 20001 ? chapterOneEvidence : state.chapterEntry === 30001 ? chapterTwoEvidence : state.chapterEntry === 40001 ? chapterThreeEvidence : {};
   return [...new Set(Object.values(state.sprites).filter(layer => layer.alpha > 0).map(layer => captions[layer.asset]).filter(Boolean))];
 }

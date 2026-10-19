@@ -27,3 +27,5 @@
 - [100 项玩家视角评审与决策](reviews/PLAYER_REVIEW_2026-10-19.md)：多章节抽样、采纳原因、实现边界与验收依据。
 
 - [第二话简中译文验收](reviews/CHAPTER_TWO_ZH_HANS.md)：完整性门禁、科学/灵异路线身份、术语与原作疑点、媒体和四视口抽查。
+
+- [最终话简中翻译与验收](reviews/CHAPTER_THREE_ZH_HANS.md)：源覆盖、各分支、片尾、术语及媒体释文。

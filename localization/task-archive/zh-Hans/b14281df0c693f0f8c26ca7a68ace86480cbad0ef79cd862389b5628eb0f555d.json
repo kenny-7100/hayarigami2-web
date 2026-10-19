@@ -1,0 +1,1710 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 11925,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "keywords.4926",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "双人房",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "大床房"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4927",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "忠犬",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "忠犬"
+        },
+        "notes": "「忠犬」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4928",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "火蜥蜴",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "火蜥蜴"
+        },
+        "notes": "「火蜥蜴」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4929",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "电话",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "电话"
+        },
+        "notes": "「电话」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4930",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "手术痕迹",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "手术痕迹"
+        },
+        "notes": "「手术痕迹」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4931",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "器官",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "器官"
+        },
+        "notes": "「器官」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4932",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "青山医院",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "青山医院"
+        },
+        "notes": "「青山医院」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4934",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "副经理",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "副经理"
+        },
+        "notes": "「副经理」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4935",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "凤",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "凤"
+        },
+        "notes": "「凤」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4963",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "旅馆套间",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "酒店套房"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4936",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "老江湖",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "老于世故"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4950",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "媒体宣传策略",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "媒体应对方针"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4960",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "伪证",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "伪证"
+        },
+        "notes": "「伪证」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4937",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "中畑",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "中畑"
+        },
+        "notes": "「中畑」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4939",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "商贩之女",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "风尘女子"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4949",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "鸭根大学附属医院",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "鸭根大学附属医院"
+        },
+        "notes": "「鸭根大学附属医院」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4948",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "避人耳目的宿驿",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "藏身之处"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4947",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "傀儡",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "傀儡"
+        },
+        "notes": "「傀儡」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4977",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "手记",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "手记"
+        },
+        "notes": "「手记」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4952",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "复活",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "复活"
+        },
+        "notes": "「复活」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4940",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "犯人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "凶手"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4941",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "都市传说",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "都市传说"
+        },
+        "notes": "「都市传说」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4942",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "器官买卖的掮客",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "器官掮客"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4943",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "茂原义和",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "茂原义和"
+        },
+        "notes": "「茂原义和」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4944",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "丰岛达志",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "丰岛达志"
+        },
+        "notes": "「丰岛达志」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4945",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "河西真人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "河西真人"
+        },
+        "notes": "「河西真人」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4946",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "天羽修",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "天羽修"
+        },
+        "notes": "「天羽修」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4967",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "落合圭三",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "落合圭三"
+        },
+        "notes": "「落合圭三」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4959",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "特快消息",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "独家新闻"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4968",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "野狗",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "野狗"
+        },
+        "notes": "「野狗」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4964",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "人见",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见"
+        },
+        "notes": "「人见」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4951",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "新宿",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "新宿"
+        },
+        "notes": "「新宿」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4971",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "青山",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "青山"
+        },
+        "notes": "「青山」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4957",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "医疗事故",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "医疗事故"
+        },
+        "notes": "「医疗事故」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4970",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "德增健二",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "德增健二"
+        },
+        "notes": "「德增健二」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4958",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "治疗",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "治疗"
+        },
+        "notes": "「治疗」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4978",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "地方病",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "地方病"
+        },
+        "notes": "「地方病」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4969",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "单人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "独自"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4966",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "安昙优",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安昙优"
+        },
+        "notes": "「安昙优」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4953",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "实地调查",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "田野调查"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4955",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "妹",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "妹妹"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4954",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "恋人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "恋人"
+        },
+        "notes": "「恋人」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "keywords.4933",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "旅馆老板",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "酒店老板"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4979",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "感染",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "感染"
+        },
+        "notes": "「感染」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "terms.113",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "南極",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "南极"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.113",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "南極の氷は、地球全体にも影響を及ぼしている。\n大陸の表面は、その９７．６％が氷に覆われて\nおり、その体積は地球上の雪や氷の９０％を\n占めている。 温暖化が騒がれる昨今、この氷が\n全て溶けると世界中の海面が７０メートル上昇する\n量と言われている。\n\nしかし一方で、こんな声もある。\n北極の氷山は海の上に浮かんでいるので、\n氷が溶けても水位は上がらない。 しかし\n南極大陸には土地があり、その上に氷が張って\n氷山がそびえ立っている。 この氷が溶け出して\n初めて、海面が上昇するのではないか———\nという説だ。\nもちろん、この説だけを盲信し、「だから\n北極の氷は溶けても構わない」という結論は\n乱暴すぎる。 事実、地球が始まって以来、\n温暖な時期には海面が上昇し、氷河期には\nそれが下がるということも明らかになっている。\n\nまた南極には様々なペンギンやアザラシを\n始めとし生き物達が暮らしている。\n我々人間の住む場所が水没してしまうことも\n憂慮すべき事態だが、このまま温暖化が進めば\n南極に暮らす罪なき生き物達まで住処を\n失ってしまうのだ。\n\nまた余談であるが、南極にある昭和基地の\n電話番号は、東京都内と同じ「０３」から始まる\n番号である。 これは昭和基地への電話が板橋に\nある国立極地研究所を経由している為である。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "南极的冰，也影响着整个地球。南极大陆表面的９７．６％被冰覆盖，这些冰的体积占地球全部冰雪的９０％。在全球变暖备受关注的今天，据说，倘若这些冰全部融化，全世界的海平面就会上升７０米。\n\n不过，也有人这样解释：北极的冰山浮在海面上，即使融化，水位也不会上升；南极却有陆地，陆地上覆盖着冰，还耸立着冰山。只有这些冰融化并流入海洋，才会使海平面上升。\n当然，若只凭这一点便断言「所以北极的冰融化也无所谓」，未免太过草率。事实上，地球形成以来，温暖时期海平面上升、冰河时期海平面下降的现象，也已经得到确认。\n\n此外，南极还栖息着各种企鹅、海豹及其他生物。人类的居住地被海水淹没，固然令人忧虑；但如果变暖持续下去，那些生活在南极的无辜生灵，也将失去家园。\n\n顺带一提，南极昭和基地的电话号码，与东京都内一样以「０３」开头。这是因为，拨往昭和基地的电话，会经由位于板桥的国立极地研究所转接。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.69",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "殉職",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "殉职"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.69",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "警察官が勤務中に不慮の事故、\n事件に巻き込まれ死亡することを殉職という。\n殉職した警察官に対しては、二階級特進に\n加え、遺族に対する一定の金額の補償が\nなされている。 その金額は死亡の状況、\n地方自治体、扶養家族の有無によって\n多少違いがあるが、おおよそ３０００万円が\nベースとなり、諸々の手当てがついて\n４５００万円程度になる。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警察在执行公务时，因意外事故或卷入案件而死亡，称为殉职。对殉职警察，除了追晋两级警衔，还会向其遗属发放一定金额的抚恤金。具体金额会因死亡情形、所属地方政府以及有无受扶养家属而有所不同，基本金额约为３０００万日元，加上各项补助后，约为４５００万日元。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.70",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "二階級特進",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "特晋两级"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.70",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "主に殉職した警察官に対して認められる\n特例の昇進。 殉職した警官には遺族に対して\n補償される一定の金額に加え、階級の昇進\nがある。 二階級とは、在職階級から\n二階級昇進するという意味。 警察署の階級は、\n巡査、巡査長、その上が巡査部長でさらに\nその上に警部補という構成になっているので、\n殉職時に巡査長であれば、二階級上の\n警部補まで昇進することが可能である。\nただし、殉職すれば必ず二階級特進を\n果たすかといえば必ずしもそうとは限らない。\n例えば、職務遂行時に交通事故で死亡した\n場合は一階級だけ階級があがる。 昇進は\n殉職時の状況に応じて決められているのだ。\n\nこの制度は明治初期、日本に警察制度が\n創設されて間もない頃に導入されたという。\n当時軍隊では死亡した兵士に金銭や勲章を\n授けた上で、二階級特進させていた。\nこれをそのまま、警察にも導入したというのである。\n\nまた殉職した際に二階級特進させるというのは\n法律で定められた規則ではない。\n職務遂行中、不幸にも命を落とした警察官に\n対し、功績を讃えて慰霊の意とするとともに、\n遺族へ手厚い補償があるように、その配慮も\nあると言われている。 何故ならば、殉職した\n警察官に遺族に対する補償は、最終の階級に\n応じて行われるからだ。\nまた、中には殉職せずに二階級特進を果たした\n警察官もいる。 それはオリンピックに出場した、\n警視庁所属の巡査部長だ。\nこの時には、女性警察官による初の金メダル\n獲得という功績を讃え、二階級特進で警部補に\n昇格となった。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "主要针对殉职警察实行的特别晋升制度。警察殉职后，除了向遗属发放一定金额的抚恤金，还会追晋警衔。所谓两级，是指在原有警衔的基础上晋升两级。按照本词条的说明，警察的等级依次为巡查、巡查长、巡查部长、警部补；若殉职时为巡查长，便可晋升至高两级的警部补。\n不过，殉职并不一定都会追晋两级。例如，执行公务时因交通事故死亡，可能只晋升一级。具体晋升幅度，会根据殉职时的情形决定。\n\n据说，这项制度始于明治初期，日本刚建立警察制度不久。当时，军队会向阵亡士兵颁发抚恤金与勋章，并追晋两级；警察也直接引入了这一做法。\n\n殉职后追晋两级，并不是法律明文规定的规则。据说，这既是为了表彰不幸因公殒命的警察、寄托哀思，也是为了让遗属获得更充分的抚恤。因为遗属能领取的抚恤金，是按照殉职警察最终的警衔计算的。\n也有警察并未殉职，却获得了特晋两级的待遇。那是一位参加奥运会、隶属警视厅的巡查部长。她成为首位夺得奥运金牌的女警察；为表彰这一功绩，原词条称她获特晋两级，升任警部补。"
+        },
+        "notes": "源文将巡查长列为一级，且末段巡查部长升警部补与“两级”矛盾；保留原作制度叙述，并以“本词条的说明／原词条称”明确归属，不自行编造警衔史实。"
+      },
+      {
+        "key": "terms.71",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "船酔い",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "晕船"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.71",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "船に揺られることで身体の平衡感覚を司る\n三半規管に狂いが生じ、それが視覚の混乱を\n招き、酔いという症状が出てしまうのである。\n\n船酔い防止対策として、前日に充分な睡眠を\n取ること・空腹のまま乗船しないこと・酔い止め薬\nを前もって飲んでおくことなどが挙げられる。\nまた、吐き気を催してしまったときは無理に\n我慢せず、全部吐き出したほうがすっきりするし、\n気分の悪さも改善される。 旅客船に乗った際の\n最大の防止策は、揺れやすい前方部を避け\n乗船し、すぐ横になり眠ること。\nこれが一番簡単で効果も絶大だ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "船身摇晃，会扰乱负责维持身体平衡的半规管，进而造成视觉与平衡感觉的混乱，出现晕船症状。\n\n预防晕船的方法，包括前一晚充分睡眠、不空腹乘船，以及提前服用晕船药等。若已经恶心欲吐，也不必强忍，吐出来后反而可能舒服一些。乘坐客船时，原词条推荐避开摇晃较大的船头，上船后尽快躺下睡觉，称这是最简单、效果也很明显的办法。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.180",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "カニバリズム",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "食人习俗"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.180",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "カニバリズムとは人肉嗜食のことで、通常は\n一部の種族で行われている儀式をさす。\nしかしながら、食人行為が精神病患者や\n心神喪失者、性的サイコパスなどによって\n行われていることも事実なのである。\nこの種の事件を起こしたもので有名なものは\n別項で解説をしているジェフリー・ダーマー\nなどがある。\n\n人食いの風習があった一族にアステカ族が\n挙げられる。\n彼らの宗教観の中核は、太陽が毎日必ず\n天を運行し、人間の繁栄や穀物の実りを\n持たしてくれるよう、定期的に人間の生け贄を\n捧げなければいけない、という考えである。\nトウモロコシの神の健康と繁栄の為、\n人間の心臓を供物として絶やしてはならず、\nまた、人の肉を食べることが儀式の重要な\n部分だった。 アステカ族は太陽神の他にも\nたくさんの神々を崇拝していた。 その中の\n主要な神が大地母神テテナイナンであった。\n収穫祭において、生きたままの生贄女性の\n皮を剥ぎ、神官がその皮を被って女神と\n同一化する儀式が行われているという。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "食人习俗，指的是食用人肉的行为，通常用于描述某些族群的仪式。不过，也确有食人行为出现在涉及精神疾病、精神失常或性心理异常者的案件之中。较为知名的例子，便是本辞典另有介绍的杰弗里·达默。\n\n阿兹特克人是曾有食人习俗的族群之一。他们宗教观念的核心，是必须定期献上活人祭品，才能确保太阳每天运行于天际，赐予人类繁荣与谷物丰收。为了玉米神的安康与兴盛，人心这一供品不可断绝，而食用人肉也是仪式的重要一环。\n阿兹特克人除了太阳神，还崇拜许多神灵。其中一位主要神祇，便是大地母神特特奈南。据说，在丰收祭上，人们会剥下女性活祭品的皮，由祭司披在身上，通过这样的仪式与女神合一。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.136",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "出る部屋",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "闹鬼的房间"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.136",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ホテルや旅館には霊が出ると言われるいわく\nつきの部屋がある。 例えば、殺人事件や、\n自殺などが起こった部屋だ。 それらの部屋\nにはお札が貼ってあったり、盛り塩がされて\nいたりする。 また、知らずに宿泊した人間が\n霊的な体験をしたり、ラップ音に悩まされたり\nするという。\n一方で「出る」ことが期待される宿というのも\n世の中には存在する。 岩手県のとある旅館\nの奥座敷には、座敷童子が出るというのだ。\nその座敷童子に一目会おうと、全国から\n観光客が引きも切らずに訪れている。\nこうした宿では、出ない方ががっかりされて\nしまうのだが、やはり一般には何も出ない\n部屋こそが望ましいだろう。\n\nもっとも、昨今ではこうした話もすっかり\nメジャーになってしまい、旅館側もそれと\n分かるところには御札を貼らないようにする\nなど、自衛策（？）を取っているようだ。\nライティングデスクの引き出しを抜いた、天板\nの裏側、ベッドの裏側など、いずれも容易\nには見つからない場所に貼られているらしい。\nまた、日本全国、世界各国を駆けめぐるツアー\nコンダクターの間では、各ホテルの「出る部屋」\nをまとめた手帳が存在しているらしい。 実在す\nるならば一度はお目にかかってみたい代物だが、\nインターネットが盛んになった今となっては、\nツアーコンダクターの間だけで手帳を回してい\nても、幽霊の出る部屋などネット経由で瞬く間\nに広まってしまうことだろう。\nしかし実際問題として、旅行客で部屋が満室\nになれば、「出る部屋」を割り当てられるのは\nツアーコンダクターということになる。 彼らは\nそういった時の為に、数珠やお守り、中には\n小さな仏壇まで持ち歩いている人もいるらしい。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "酒店和旅馆里，有时会有据说闹鬼的房间。例如，曾经发生凶杀或自杀的房间。这些房间里可能贴着符札，或摆着用于净化的盐堆。据说，不知情的客人入住后，会遭遇灵异现象，或被来历不明的敲击声困扰。\n但世上也有让人期待着「闹鬼」的旅馆。岩手县某家旅馆的内室，据说会出现座敷童子。为了见它一面，来自全国各地的游客络绎不绝。在这样的旅馆里，什么都不出现反而会令人失望。不过，对大多数人来说，想必还是什么都没有的房间更好。\n\n如今，这类传闻已广为人知，旅馆似乎也开始采取某种「自保措施」——把符札贴在不容易被发现的地方。例如，抽出书桌抽屉后才能看见的桌板背面，或床的背面。\n据说，奔走于日本各地乃至世界各国的旅行领队之间，还流传着一本汇总各家酒店「闹鬼房间」的手册。若真有其物，倒很想亲眼看看。不过，在网络如此发达的今天，即使手册只在领队之间传阅，哪里闹鬼的消息，恐怕也会转眼传遍网络吧。\n然而，现实的问题是，一旦酒店住满游客，被安排到「闹鬼房间」的往往就是领队。为了应付这种情况，有人会随身携带念珠、护身符，据说甚至有人带着小佛龛。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.177",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "七人岬",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "七人岬"
+        },
+        "notes": "「七人岬」是本章沿用的简中术语或人名，保留既有写法。"
+      },
+      {
+        "key": "definitions.177",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "四国・中国地方、特に高知県に出現すると\n言われている、７人組の妖怪。 その姿は\n白装束に身を包んだ人、あるいはぼんやりとした\n火の玉や、蛇の形をしていると言う。\n七人岬は海で命を落とした者の亡霊であり、\nこれに出会った者は熱病や水難事故で命を\n落としてしまう。 こうして生者を取り殺すことに\n成功すると、もっとも古参の霊は成仏して\nしまう為、彼らは常に７人であり、\nそれ以上に増えることはない。\nこの七人岬の元となったのは、前述のとおり\n海で命を落とした者とされているが、\n他の説も多く存在している。\n戦国大名・長宗我部元親によって切腹を\n申しつけられた家臣達、殺された長者一家、\n地元の者に見捨てられ、嵐の海で命を落とした\n船乗り、海に捨てられた女遍路などなど、\nいずれにしても、その正体は定かではない。\n\nこの七人岬に似た妖怪としては、丑三つ時に\n四つ辻で出会うという、高知の七人童子。\n姿は見えないが、行き会うと地面に放られ\nるという、香川の七人同行などが挙げられる。\n\nまた近年では、この七人岬の話を下敷きにした\n「渋谷七人岬」なる都市伝説も語られている。\n\n渋谷にある坂で女子高生７人が次々と\n亡くなったのは、援助交際を行っていた\n女子高生達が、身ごもった子供を中絶した\n為であり、子供の怨念が七人岬を蘇らせ、\n女子高生達の命を奪ったからだ\n———というものである。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "据说出没于四国、中国地方，尤其是高知县的一组妖怪，共有７个。其形貌有身穿白衣的人、朦胧的鬼火，也有蛇形的说法。\n七人岬是葬身海中的亡灵，遇见它们的人，会因热病或水难丧命。每当成功夺去一名活人的性命，资历最老的亡灵便能成佛，因此它们始终只有７个，不会继续增加。\n关于七人岬的来历，除了海难死者的亡灵之外，还有许多说法：被战国大名长宗我部元亲命令切腹的家臣、惨遭杀害的富户一家、被当地人抛弃而死于风暴海域的船员，以及被扔进海里的女性巡礼者……总之，其真实身份并无定论。\n\n与七人岬相似的妖怪，还有据说会在丑时三刻出现在十字路口的高知「七人童子」，以及香川的「七人同行」——虽看不见它们的身影，但迎面撞上，便会被摔倒在地。\n\n近年，还出现了以七人岬为原型的都市传说「涩谷七人岬」。\n故事说，涩谷某处坡道上，７名女高中生接连死亡。这些女孩曾从事援助交际，并将怀上的孩子堕掉。孩子们的怨念唤醒了七人岬，夺走了女孩们的性命。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.138",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "舟幽霊",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "船幽灵"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.138",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "板子一枚下は地獄という言葉がある。\n船の床板の下は、地獄のような海。 漁師という\n仕事は、それほどまでに恐ろしいものなのだ。\n\n荒れた海では立つのはもちろん、顔を出して泳ぎ\n続けることも厳しく、冷たい海水は体温と命の\n灯火をじわじわと奪い取っていく。\nだからこそ、海にはそこで命を落とした者の\n幽霊が数多く現れる。 その中でももっとも\n知られた存在が、舟幽霊だ。 海で死んだ者達\nが、無念に囚われたまま、風のない夜中の\n海に漕ぎ出してくる。 そして生きた漁師の\n乗り込んでいる船に近づいてはこう言うのだ。\n「杓を貸せ……杓を貸せ……」と。\nだがこの時、間違っても杓を貸してはいけない。\n幽霊達は受け取った杓で海水を汲み、\n漁師達の乗る船を沈めてしまうのだ。\nだから漁師達は、必ず底の抜けた杓を持って\n海に出たという。 また底の抜けた杓の\nない時には、木の灰をかけると、幽霊達が\n姿を消したという伝承もある。\nしかしもっと質の悪い舟幽霊になると、何も\nない海に突如大きな岩礁の幻を見せたり、\n逆に岩礁だらけの危険な海域を、さも穏やかな\n海であるように見せては、船を難破させる\nこともあるそうだ。\nまた、怪談などでよく耳にする「タクシーの中から\n乗客が消え、座席はびっしょり水で濡れていた」\nという話。 今や日本全域で語られている\nこの話が、ある大きな海難事故を境に、\nその現場周辺で広まったという話もある。\n\n１０００人あまりもの犠牲者を出した客船の\n転覆事故のあと、事故現場近くの国道を中心に、\nこの怪談が語られるようになったというのだ。\n当時は乗り込んだ馬車から女性が消えるという\n話であったが、時代が進むにつれ、\nそれはタクシーの怪談と変化した。\n\n冷たい海に命を奪われた誰かが、今も家か、\nあるいは恋人の待つ場所へ向かうべく、\n真夜中の国道に立ち尽くしているとすれば……\nそれは怖さよりも、哀しみを感じる光景ではないか。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "有句话叫「船板之下，便是地狱」。薄薄一层船板下面，是宛如地狱的大海。渔夫的工作，就是如此凶险。\n\n在波涛汹涌的海上，不仅无法站稳，就连始终把脸露出水面都十分困难。冰冷的海水，会一点点夺走人的体温与生命。也正因如此，海上流传着许多死者亡灵现身的故事，其中最广为人知的，便是船幽灵。\n死于海中的人们，怀着无法消散的执念，在无风的深夜划船而来。它们靠近活人渔夫的船，低声说道：\n「借个水舀……借个水舀……」\n这时，千万不能把水舀借给它们。幽灵会用借来的水舀不断舀入海水，把渔船弄沉。因此，据说渔夫出海时，一定会带上一个没有底的水舀。也有传说称，若没有这种水舀，撒出草木灰也能让幽灵消失。\n更恶劣的船幽灵，还会让空无一物的海面突然显现巨大礁石的幻影，或把遍布暗礁的险恶海域伪装成平静海面，诱使船只遇难。\n此外，怪谈里常有这样一个故事：「出租车里的乘客忽然消失，座位上只留下一片湿漉漉的水迹。」如今，这个故事已传遍日本，据说它最初是在某次重大海难之后，于事故现场附近流传开的。\n\n一艘客船倾覆，夺走了约１０００人的性命。此后，以事故现场附近的公路为中心，人们开始讲述这个怪谈。最初消失的是坐上马车的女子，随着时代变迁，马车才变成了出租车。\n\n如果某个被冰冷海水夺去生命的人，至今仍伫立在深夜的公路上，只为回家，或回到恋人等待的地方……那样的景象，比起恐怖，是否更令人悲伤呢？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.137",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "舟に猫",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "船与猫"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.137",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "三毛猫は幸運を招くと古くから信じられていた。\n特に船乗りの間には三毛猫を船に乗せていれば\n遭難しないという俗信がある。\n\n船と三毛猫に関する逸話は少なくない。\n昔の日本の船乗りは必ず船内に猫を飼っていた。\n猫が騒げば時化になり、眠れば天候は穏やか\nと信じられ、猫を見て天候を予測した。\nまた大時化で方向が分からなくなったときにも\n猫は北のほうを向くと信じられており、\n猫は磁石代わりにもなった。\n食料や積荷をねずみから守るという役割もあり、\n猫は船には欠かせない動物だった。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "自古以来，人们便相信三花猫能够招来好运。船员之间尤其流传着这样的说法：只要让三花猫上船，就不会遇难。\n\n关于船与三花猫的轶闻并不少。过去，日本船员总会在船上养猫。他们相信，猫若躁动不安，海上便会起风浪；猫若安睡，天气便会平稳，因此会观察猫来预测天气。又据说，在大风暴中迷失方向时，猫仍会朝向北方，因而也能充当指南针。\n猫还能保护食物和货物不受老鼠啃咬，是船上不可或缺的动物。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.142",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "幽霊船",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "幽灵船"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.142",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "海を彷徨っている不気味な船や、沈没したはず\nなのに航行を目撃される船のことを幽霊船という。\n\n\n千葉の房総沖の話だ。 夜中に漁をしていると\n音も無く近づいてくる漁船がある。 しかし、中\nには誰も乗っていない。 不審に思って声を\nかけてみるが反応がない。 いよいよ怖くなった\n船主は、その船から距離を置こうとしたが\nなんとその船は後ろからついてくる。 結局その\n船は漁港までついてきて、その後消えてし\nまったらしい。 ある漁師は勇敢にも幽霊船\nの正体を暴こうとその幽霊船に乗り込んだ。\n漁師を乗せたまま突然船は動き出し、その\n漁師は、今でも行方不明だという。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "在海上阴森漂泊的船，或明明已经沉没、却又被人目击仍在航行的船，被称为幽灵船。\n\n这是千叶房总近海的一个故事。有人在深夜捕鱼时，发现一艘渔船悄无声息地靠近，船上却空无一人。他觉得奇怪，便出声招呼，却没有回应。船主越来越害怕，想与那艘船拉开距离，没想到它竟从后面跟了上来。据说，那艘船一路跟到了渔港，随后才消失。\n还有一位渔夫，为了查明幽灵船的真面目，壮着胆子登了上去。船却载着他突然驶离。那位渔夫，至今仍下落不明。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.139",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "のっぺらぼう",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "无脸怪"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.139",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "一般的に外見は普通に見えるが顔面に\n何もない妖怪のことをのっぺらぼうという。\nこれが出てくる物語でもっとも有名なのが、\n小泉八雲の『怪談』の中に描かれている\n『むじな』だ。\nしゃがみこんで泣いている女に、偶然通り\n掛かった商人が何事かと声をかけると、\nその女は目も鼻も口もない顔で振り返る。\n驚いた商人はそこを逃げ出し、\n出くわした蕎麦屋の屋台に飛び込んで、\n今目にした出来事を語ろうとする。\nしかし余りのことに取り乱して、\n上手く説明出来ずにいると、\n蕎麦屋の親父はこう言って振り返る。\n「それはこんな顔じゃないか？」\nそう言って顔を一撫ですると、親父の顔も\nのっぺらぼうになっていた———。\n\nこれは妖怪や幽霊が続けて出てきては\n人を驚かせる、所謂「再度の怪」と言われる\n形式の物語である。\n\nまた博物学や民俗学で知られる南方熊楠も\nまた、岐阜に伝わるのっぺらぼうの伝説を\n残している。\n若き久々利城主が狩りに出かけた晩。\n１人の山伏と出会ったが、どうしたわけか太刀は\n抜くことが出来ず、弓は弦が切れている。\n止むなく素手で山伏を組み伏せようとしたが、\nその山伏は飛び掛かられるや否や、\n忽然と姿を消してしまった。 そして改めて\n確かめてみると、太刀は抜くことが出来、\n弓の弦も元通りになっている。 おかしなこと\nもあるものだと、首を捻りながらの帰り道、\nとある寺に立ち寄りその話を住職に\n聞かせると、「その化け物とは、このような顔か」\nと言うなり、目も鼻も口もない者達が、\n久々利城主を取り囲んでいた。 もはや\nこれまで！ と思った久々利城主であったが、\n一陣の風とともに化け物達は姿を消し、\n寺もかき消え、久々利城主とその一行は\n野原の真ん中に突っ立っていたという。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "外表看似普通人，脸上却没有任何五官的妖怪，通常被称为无脸怪。最著名的故事，是小泉八云《怪谈》中的《貉》。\n一位商人偶然路过，看到一个女子蹲在地上哭泣，便上前询问。女子回过头，脸上竟没有眼睛、鼻子和嘴。商人吓得落荒而逃，冲进碰巧遇见的荞麦面摊，想把刚才的遭遇说出来，却惊慌得语无伦次。\n这时，面摊老板转过头来，说道：\n「你说的，是这样的脸吗？」\n他抬手在脸上一抹，那张脸也变得一片光滑——\n\n这类妖怪或幽灵接连出现、反复惊吓人的故事，属于所谓「再度之怪」的形式。\n\n以博物学与民俗学研究闻名的南方熊楠，也记录过岐阜的无脸怪传说。\n年轻的久久利城主外出狩猎，当晚遇见１名山伏。不知为何，他的太刀拔不出来，弓弦也断了。无奈之下，他只得徒手扑向山伏，想将其制服，山伏却在那一瞬间凭空消失。再一检查，太刀已能正常拔出，弓弦也恢复如初。\n城主满心疑惑，在归途中顺路走进一座寺院，把经历讲给住持听。住持刚说出「你说的妖怪，是这样的脸吗」，一群没有眼睛、鼻子和嘴的人，便将城主团团围住。\n城主以为自己已经无路可逃。谁知一阵风吹过，妖怪和寺院一同消失，城主一行人只是呆呆站在荒野中央。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.140",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "時そば",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "时荞麦"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.140",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "『時そば』は、古典落語の演目の一つ。\n『刻そば』ともいう。\n\n内容は蕎麦屋台で起こる滑稽話であり、数多い\n古典落語の中でも、一般的に広く知られた演目\nの一つだ。 内容は蕎麦屋の主人と客の会話\n主体で進む。 口の旨い詐欺師まがいの客が\n蕎麦屋の亭主を上手く騙し、まんまと食事代を\n安く上げる。 それを見ていた別の者が同じ\n手口で詐欺を働こうとしたところ、下手を打ち、\nかえって多く食事代を払うことに\nなってしまったという。\n「時そば」と言えば、蕎麦をすする音のリアルさが\n一番の見せ場だと言われているが、一方で\n勘定をごまかそうとする男の滑稽さを描くのが\n神髄だとする説もある。\n\nちなみに京都や大阪で演じられる上方落語\nでは、「時うどん」となる。 あらすじは「時そば」と\nほぼ同一であるが、主人公は知恵者の\n兄貴分と、少し足りない弟分の２人。\nこの「時うどん」が原型として存在しており、\nそれを上方落語を江戸落語に移植するのが\n得意であった、３代目柳家小さんが翻案した\nと言われている。 この３代目柳家小さんは、\n文豪夏目㈱石をして「彼と時を同じゅうして\n生きている我々は大変な仕合せである」\nと作品の中で語らせたほどの名人であった。\n",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "《时荞麦》是古典落语的一个段子，也写作《刻荞麦》。\n\n这是发生在荞麦面摊上的滑稽故事，在众多古典落语中，也属于广为人知的名篇。故事主要通过老板与客人的对话展开。一个口齿伶俐、近乎骗子的客人，巧妙地骗过老板，少付了面钱。另一个人看见后，也想照样行骗，却弄巧成拙，反而多付了钱。\n提起《时荞麦》，有人认为最精彩的是逼真地模仿吸食荞麦面的声音，也有人认为，其精髓在于刻画那种想在结账时耍小聪明的滑稽模样。\n\n在京都、大阪一带表演的上方落语中，这个段子叫《时乌冬》。情节与《时荞麦》大致相同，但主角是２个人：一个精明的老大哥，以及一个有些迟钝的小跟班。\n据说，《时乌冬》才是原型，后来由擅长将上方落语改编为江户落语的第３代柳家小三，改编成《时荞麦》。第３代柳家小三是一位名家，连大文豪夏目漱石都曾在作品中赞叹：「能够与他生在同一时代，我们实在是太幸运了。」"
+        },
+        "notes": "源文「夏目㈱石」为异常字形文本，依明确作家姓名修正为夏目漱石；保留两次３代及２人的数量。"
+      },
+      {
+        "key": "terms.72",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "ホムンクルス",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "荷蒙库鲁斯"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.72",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "錬金術から生み出された、人造人間のこと。\nかつて錬金術師の中には、錬金術によって、\n蒸溜器の中で人間を作り出せると考えた者が\nいた。 ホムンクルスが登場する\n有名な戯曲にゲーテの『ファウスト』があるが、\nこの戯曲の第二部に、化学者のワーグナー\nという人物が登場しホムンクルスを\n作成している。 ホムンクルスの造り方は、\nまずは数百の物質を細心の注意で調合して、\n人間の材料を練り上げ、ガラス容器の中に\n密閉して蒸溜する。 真っ黒に濁った液が\n澄んできて、蒸溜器の中心が暗黒の中で\n赤いルビーのように輝き出すと\n明るい白い光が生まれる。 そうして\n蒸溜器の中で固まりが動き出して、液が\n段々と澄んでくれば最終段階だ。 濁って\nは澄み、濁っては澄む。 それを繰り返すと、\n容器の中に完全な形をした小さな人間\nが出来上がってくると言われている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "由炼金术创造出来的人造人。过去，有些炼金术师相信，能够通过炼金术，在蒸馏器中制造人类。歌德的著名戏剧《浮士德》中，也出现了荷蒙库鲁斯。在第二部里，一位名叫瓦格纳的化学家便造出了它。\n制作时，首先要小心调配数百种物质，炼成人类的原料，密封在玻璃容器中蒸馏。待漆黑浑浊的液体渐渐澄清，蒸馏器中心便会在黑暗中如红宝石般发亮，随后绽放出明亮的白光。\n接着，容器中的团块开始活动，液体逐渐澄清，便进入了最后阶段。浑浊，又澄清；浑浊，又澄清。如此反复，据说容器中最终便会形成一个身体完整的小人。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.73",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "錬金術師",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "炼金术师"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.73",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "錬金術とは読んで字の如く、黄金を人工的に\n作り出す為の技術のことである。 １２世紀から\n１７世紀にかけての中世ヨーロッパを中心に\n発展し、その後徐々に姿を消していった。\n錬金術師とはそれを行おうとする人物をいう。\n例えば金属を黄金に変える為の物質である\n『賢者の石』を作ったという、フルカネリ、\nその弟子のカンスリエ、ルネ・アローらがいる。\n特にカンスリエは師匠であるフルカネリに\n賢者の石を譲り受け、仲間達の前で鉛を\n純金に変えて見せたという。 この人物に\n関しては写真も残っており、精力的に錬金術の\n復活に務め、弟子も多く育てたという。\n黄金は古代よりその輝きと金属としての\n不変性の為に、生命の反映、永遠の象徴\nとして尊重されてきた。 メキシコの古代\nアステカ人の間でも、アジアのシュメール人\nの間でも黄金は神々の武具や道具を作る\n地上における唯一の素材と考えられていた。\n黄金だけが神秘的存在の完全性を象徴する\n金属であったのだ。 元々は錬金術とい\nう考え方は、金属の精錬技術や合金技術\nの未熟から生まれて出てきた。 それが下位\nに属する、卑金属からいくつかの精錬・合金\nの段階を経て最上位の完全な黄金に\nたどり着くことが出来るという、夢想に\n変わったのである。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "炼金术，顾名思义，是人工制造黄金的技术。它主要于１２至１７世纪在欧洲发展，随后逐渐销声匿迹。尝试实践这门技术的人，便称为炼金术师。\n例如，据说制造出了能将金属变为黄金的「贤者之石」的富尔卡内利，以及他的弟子康瑟利耶、勒内·阿洛等人。尤其是康瑟利耶，据说从师父富尔卡内利手中得到了贤者之石，并在同伴面前将铅变成了纯金。此人还留下了照片，据说曾积极致力于复兴炼金术，也培养了许多弟子。\n自古以来，黄金便因其光辉与作为金属的不变性，被视为生命的映照、永恒的象征。无论墨西哥的古代阿兹特克人，还是亚洲的苏美尔人，都认为黄金是世间唯一能够用来打造神明武具与器物的材料。唯有黄金，才足以象征神秘存在的完美。\n炼金术的想法，最初源于人们对金属冶炼和合金技术的认识尚不成熟。后来，它逐渐演变为一种梦想：只要让低等的贱金属经过若干次冶炼、合金的阶段，便能抵达最高等、最完美的黄金。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.74",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "フランケンシュタイン",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "弗兰肯斯坦"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.74",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "１８１８年に発行された「フランケンシュタイン、\nすなわち現代のプロメテウス」\nに登場するモンスター……ではなく、\nそれを作り出した科学者の名前。 それこそが\nヴィクター・フランケンシュタインである。\n映画などでお馴染みの、恐ろしい姿をした\n哀れな人造人間に名前はない。 その為か、\n現代ではフランケンシュタインと言えば、\n人造人間の方を連想する人も多いであろう。\n\nさらにフランケンシュタインの作った人造人間は、\n満足に喋ることの出来ない、凶暴な怪物という\nイメージが強い。 しかしこれは\nフランケンシュタインの人造人間を扱った\n幾多の映画作品によって固定されたイメージ\nなのだ。 本来の彼は、筆舌に尽くしがたい\nほどおぞましい容姿と、豊かな知性をともに\n持ってしまったばかりに、自分自身の存在に\nついて大いに煩悶する存在なのだ。\n創造主であるフランケンシュタイン博士\n相手に、自らの善良さを雄弁に語って聞かせ、\nそれをほぼ納得させてしまうのである。\nしかも人造人間は菜食主義者であり、それを\n誇りにしているというのだから興味深い。\nモンスターは人々を襲い、物を破壊し、混乱を\n招く恐ろしい存在という先入観をそぎ落とし、\nフランケンシュタインと向き合ってみると、\n新たな発見があるかもしれない。\n\nそしてフランケンシュタイン博士にまつわる\n興味深い話がもうひとつ。\n女性作家メアリー・シェリーの手によって\n書かれたと言われている「フランケンシュタイン、\nすなわち現代のプロメテウス」であるが、\nその主人公のフランケンシュタインは\n実在の人物だったという説があるのだ。\n小説が書かれた同時代、同じく\nヴィクター・フランケンシュタインなる人物が、\n死者を蘇らせる実験についての日記を\n書き残しているのである。\n墓地から遺体を盗み出しては、バラバラの\n人体パーツを縫い合わせていたフランケン\nシュタインは、ある時とうとう思い余って\n生きた人間に襲いかかり、その脳を取り出して\nしまう。 既に完成していた体に、\n別の人間から奪った脳を移植し……。\n残念ながら、日記はここで終わっている為、\nこの実験が成功したのか、はたまた全ては\nフィクションだったのかは謎のままである。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "弗兰肯斯坦，是１８１８年出版的《弗兰肯斯坦，或现代普罗米修斯》中那头怪物的名字……并非如此。它其实是创造怪物的科学家的名字——维克多·弗兰肯斯坦。电影里人们熟悉的那个面目可怖、命运悲惨的人造人，本身没有名字。或许正因如此，如今一提到弗兰肯斯坦，许多人反而会先想到人造人。\n\n在人们的印象中，他创造的人造人常常是一头连话都说不清的凶暴怪物。然而，这其实是众多相关电影逐渐固定下来的形象。原作中的他，既拥有难以形容的可怕外貌，又具有丰富的智慧，正因如此，才会为自己的存在深深苦恼。\n他甚至能向创造者弗兰肯斯坦博士雄辩地诉说自己的善良，几乎说服对方。更有趣的是，人造人还是个素食主义者，并以此为傲。若能抛开「怪物只会袭击人类、破坏事物、制造混乱」的成见，重新面对这个故事，或许会有所发现。\n\n关于弗兰肯斯坦博士，还有一则有趣的传闻。一般认为，《弗兰肯斯坦，或现代普罗米修斯》出自女作家玛丽·雪莱之手，但也有一种说法，认为主人公确有其人。\n据说，在小说写作的同一时代，有一位同名的维克多·弗兰肯斯坦，留下了尝试让死者复活的实验日记。他从墓地偷来尸体，把不同人体的部件缝合起来。某一天，他终于按捺不住，袭击了一个活人，取出了对方的大脑，再将那颗脑移植进已经完成的身体……\n遗憾的是，日记到此便结束了。这场实验究竟成功与否，抑或整件事只是虚构，至今仍是谜。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.75",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "反魂術",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "反魂术"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.75",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "死者の身体から去っていった霊魂を元の\n身体に返すことを反魂と言い、死人を\n生き返らせる為の術を反魂術という。\n\n死者を蘇らせる術と聞くと、なにやら\n大がかりな術を想像するかもしれないが、\n我々の極身近なところにも、その術の片鱗が\nひっそりと息づいている。\n物部氏の始祖と言われているニギハヤヒノミコト\nが天磐船に乗って天降った時、天津神は十種の\n神宝を授けた。 「息津鏡（おきつかがみ）」\n「辺津鏡（へつかがみ）」\n「八握剣（やつかのつるぎ）」「生玉（いくたま）」\n「足玉（たるたま）」「死反玉（まかるかえしの\nたま）」「道反玉（ちがえしのたま）」「蛇の比礼\n（おろちのひれ）」「蜂の比礼（はちのひれ）」\n「品々物の比礼（くさぐさのものひれ）」である。\nそしてこの十種の神宝を合わせ、こう唱えれば\n死者すら蘇ってくるというのだ。\nそしてその祭文こそが「一二三四五六七八\n九十 布留部 布留部 由良由良都布留部\n（ひとふたみよいつむここのたり ふるべ\nふるべ ゆらゆらとふるべ）」なのである。\n読み方こそ違えど、現代でも我々が数を\n数えるのに使う言葉が、死者すら蘇らせる\n凄まじい力を秘めた祭文であったのだ。\n\nまた、諸国を巡り優れた和歌を残した西行\nも、死者の蘇生を試みたと「撰集抄」\nに残されている。 人骨を集め法師、鬼から盗み\n見た蘇生の秘術を施した末に出来あがった\nのは、心のない、出来損ないの人であった。\nそれを高野山に残し、本物の蘇生の秘術を\n求める西行法師であったが……。 世の理に\n反した蘇生を試みた西行法師の行く末は、\nぜひ自分の目で確かめて貰いたい。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "将离开死者身体的灵魂召回原身，称为反魂；使死者复生的法术，便称为反魂术。\n\n听到让死者复活的法术，或许会联想到规模宏大的仪式。可实际上，在我们身边，也悄然留存着这种法术的痕迹。\n相传，物部氏的始祖饶速日命乘天磐船降临人间时，天津神赐予他十种神宝，分别为息津镜、边津镜、八握剑、生玉、足玉、死反玉、道反玉、蛇之比礼、蜂之比礼，以及品品物之比礼。\n据说，将这十种神宝聚在一起，吟诵祭文，便连死者也能唤醒。那段祭文就是：\n「一二三四五六七八九十，布留部，布留部，由良由良都布留部。」\n虽说读音不同，其中的数词，却正是现代人日常数数时仍在使用的词语。原来，它们竟也存在于足以令死者复生的祭文之中。\n\n此外，《撰集抄》也记载，曾游历诸国、留下众多优秀和歌的西行，同样尝试过让死者复活。他收集人骨，施展从法师与鬼那里偷看到的复生秘术，最终造出的，却是一个没有心智、并不完整的人。\n西行将它留在高野山，继续寻求真正的复生秘术。然而，试图违逆世间常理的西行法师，后来又走向何方呢？还请亲自去读一读那个故事。"
+        },
+        "notes": "神宝名与祭文保留汉字专名，省去原日语读音注记；源文「人骨を集め法師、鬼から」句法残缺，按从法师与鬼处偷学秘术的句意衔接，不另造施术者。"
+      },
+      {
+        "key": "terms.76",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "都市伝説",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "都市传说"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.76",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "夜中に目が光る「音楽室のベートーベン」や、\n主にひとり暮らしの女性の家に潜んでいる\n「ベッドの下の男」といった、誰もが知っている\n奇怪な噂話を民俗学では都市伝説と呼ぶ。\nこの研究はアメリカで盛んに行われていたが、\n日本でも１９９０年代に入り、調査・研究が\n進められた。 都市といえば、機能的で快適に\n過ごすことが出来、光り輝く繁栄した地、という\nイメージが強い。 しかし都市伝説は、それとは\n対照的に闇の部分で蠢くものにスポットをあてて\nいるのが特徴的だ。 怪談まがいの都市伝説も\n散見されるが、基本的には「あたかも本当に\nありそうな怖い話」が主流であり、\nまたそれらの中には人々が潜在的に抱えている\n不安感や恐怖感などが多々、見受けられる。\nその為か、社会不安を呼び起こすような\n大事件のあとには、その事件にまつわる\n後日談、あるいは裏話の要素を含んだ\n都市伝説が流布する。\n連続するテロ事件が警戒されていた時期、\n街で困っている外国人を助けると、そのお礼に\nテロが起きる日を教えてくれる、という都市伝説\nなどは、その顕著な例と言えるだろう。\n\n\nいずれにしても薄気味悪い話と聞き流さず、\nかつてはキツネやタヌキが何らかの形で\n我々人間に対してメッセージを送っていた\nということを思い出し、耳を傾けるのも\n良いかもしれない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "半夜眼睛会发光的「音乐教室里的贝多芬」，或潜伏在独居女性家中的「床下的男人」——民俗学将这些广为人知的怪异传闻，称为都市传说。\n这类研究在美国十分活跃，日本也在１９９０年代开始推进相关调查。城市常让人联想到便利、舒适、灯火辉煌与繁荣，而都市传说的特点，恰恰是把目光投向这些光亮背后蠢动的阴影。\n其中也有近似怪谈的故事，但主流仍是「仿佛真的可能发生的恐怖故事」。故事里，常能看见人们潜藏的不安与恐惧。因此，每当发生引发社会不安的重大事件之后，便会流传包含该事件后续或内幕的都市传说。\n例如，在人们警惕接连发生的恐怖袭击时，曾有这样的传闻：在街上帮助了遇到困难的外国人，对方便为了报恩，告诉你恐怖袭击将发生在哪一天。这就是一个鲜明的例子。\n\n无论如何，或许不必只把它们当成阴森的闲话，听过就算了。想起从前的狐狸与狸猫，也曾以某种形式向人类传递讯息，我们不妨再仔细听一听。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.152",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "日焼けサロンで体がレアステーキ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "晒黑沙龙里的半熟人体"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.152",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "ガングロ、ヤマンバといったいわゆるコギャル\nが流行した数年前に広がった都市伝説。\n\nある女子高生が、自分もガングロになる為に\n日焼けサロンに通っていた。 日焼けサロンでは\n安全の為に一日の限度時間が決められている。\nしかしその女子高生は、それを守っていては\n色黒になるのに時間がかかってしまうと思い、\n掛け持ちでサロンに通っていた。\n熱心にサロンに通いつめた結果、彼女は\n立派なガングロになることが出来た。 しかし、\nその直後から彼女に度重なる腹痛が襲う。\nしかも身体から原因不明の悪臭がするよう\nになった。 どんなに身体を洗っても、その\n悪臭は消えない。 身の危険を感じた彼女が\n医者に駆け込むと、医者は彼女にこう告げた。\n「あなたの身体は日焼けサロンの機械によって\n内臓が調理されてしまいました。 今のあなたの\n内臓は生焼けの状態です」驚いた女子高生が\n治療法を尋ねたが、時既に遅し。\nその医者は無情にも手の施しようがないと\n彼女に告げた。 結局、彼女はそのまましばらく\nしてから亡くなってしまったらしい。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这是数年前，黑脸妆、山姥妆等少女潮流盛行时流传的都市传说。\n\n一名女高中生为了把肤色晒黑，经常光顾晒黑沙龙。出于安全考虑，沙龙规定了每天使用设备的时间上限。女孩却觉得，照规矩来未免太慢，于是同时跑好几家店。\n一番努力之后，她终于晒出了理想的黝黑肤色。可紧接着，她开始频繁腹痛，身上还散发出原因不明的恶臭，无论怎样洗澡都洗不掉。女孩察觉不妙，急忙去看医生，得到的回答却是：\n「晒黑沙龙的机器，把你的内脏烤熟了。现在，你的内脏正处于半生不熟的状态。」\n大惊失色的女孩连忙询问治疗方法，却已经太迟。医生冷冷地告诉她，已经无能为力。\n据说，不久之后，她便死去了。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.77",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "所持",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "随身携带"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.77",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "警察手帳は必ず所持しなければならない\nものと、服務規程で定められている。\nこの手帳がなければ、警察官の身分は\n保証されない。 これは拳銃にも同じことが\n言える。 これらの二つをなくしてしまった為に、\n過去、自殺者が出たこともあるという。\nとにかく職務中であればいついかなる場合、\n裸でフロに入る場合においてもそれは変わらず、\nビニール袋にそれらを入れ、頭にくくりつけて\n入浴することもあるという。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警察的服务规定要求，必须随身携带警察证件。没有证件，就无法证明警察身份；对配枪也有相应的严格要求。据说，过去甚至有人因丢失这两样东西而自杀。\n总之，只要是在执勤期间，无论何时何地，都必须随身保管。即使脱光衣服洗澡也不例外：据说有人会把它们装进塑料袋，系在头上入浴。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.187",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "コンタクトレンズ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "隐形眼镜"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.187",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "コンタクトレンズをつけたまま眠り、眼球の裏側に\n入り込んだ話を聞いたことはないだろうか。\nコンタクトに関する恐ろしい話には\n以下のようなものがある。\n\n溶接工や溶鉱炉の管理といった、\n熱に関わる仕事でコンタクトレンズが溶け、\n角膜にぴたりとくっつき取れなくなったという話。\nプログラマーがコンタクトをつけたまま、\n数日間の残業をこなした結果、\nドライアイによる目の乾きで、レンズが角膜に\n張り付いてしまったという話。\n\n本当にそんなことが起こるのだろうか、\nとコンタクト装着者は不安に思うだろう。\nしかし、某有名コンタクトレンズ会社によれば、\n普通に使用している分には眼球の裏側に\n入ってしまったり、レンズが溶けることは\n起こらないという。 それというのも、\n眼球は瞼の奥で瞼と白目が繋がっていて、\n袋のような構造をしている為、\n奥へズレた場合でも取れなくなることはない。\nただ、無理に直そうとすると眼球を傷つける\n可能性がある為、注意が必要である。\nコンタクトにまつわる都市伝説は、ピアス同様、\nデリケートな部分に直接接触する為、\nいかにも真実味がありそうなネタが\n出てくるのであろう。 だが、コンタクト自体、\n眼球の粘膜に接触するものには変わりなく、\n多くの注意が必要なのは間違いない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "你是否听说过，有人戴着隐形眼镜睡觉，醒来后镜片竟滑到了眼球后面？关于隐形眼镜，还有这样的恐怖故事。\n\n从事焊接或高炉管理等高温作业的人，镜片被热量熔化，牢牢黏在角膜上，再也取不下来。又或者，程序员戴着隐形眼镜连续加班数日，因眼睛干涩，镜片便贴死在了角膜上。\n\n佩戴隐形眼镜的人，想必会担心：真会发生这种事吗？不过，据某家知名隐形眼镜公司介绍，正常使用时，镜片既不会滑到眼球后面，也不会熔化。因为眼睑深处的结膜与眼白相连，形成袋状结构，即使镜片移位，也不会因此跑到眼球后方、再也无法取出。\n但若强行纠正位置，仍可能伤到眼球，需要小心。\n隐形眼镜与穿孔饰品一样，直接接触人体敏感的部位，因而很容易衍生出听来煞有介事的都市传说。不过，隐形眼镜毕竟直接接触眼部表面，使用时确实需要多加注意。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.78",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "エイズの世界へようこそ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "欢迎来到艾滋病的世界"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.78",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "アメリカが発祥の地である、都市伝説のひとつ。\n\nある男がバーで美しい女性と出会い意気投合し、\nそのまま２人は一夜をともにする。 しかし翌日、\n男が目を覚ますと隣に女性の姿はなかった。\n男は一夜限りの遊びだからと割り切り、\nそんなに気にすることなくバスルームへ向かう。\nだが、鏡の前に立った男は愕然とする。\nそこには、赤い口紅で\n\n「エイズの世界へようこそ！」\n\nと、書かれてあったのだ。 後日、エイズ検査を\n受けた男は、陽性反応が出た、という話である。\n\nこれはエイズ・メアリー伝説と呼ばれ、アメリカ\nだけでなく日本でも「事実」として語り継がれて\nいるという。\n\nこれをただの都市伝説と受け止めるだけでは\n勿体ない。 これが成立した背景を考察する\nことにより、ひとつの真理が浮かび上がる。\n６０年代のアメリカはベトナム戦争で疲弊し、\n若者を中心として反戦・平和運動が渦巻いて\nいた。 同時にヒッピーブームあたりから端を\n発した、不特定多数の相手と肉体関係を持つ\nフリーセックスが沸き起こり、伝統的な価値観を\n抱く層から嫌悪されていたのだ。\n当然、そのような乱れた行動をすると\n性感染症のリスクが飛躍的に高まる。\nそれと相まって致死率が高いエイズ、\n後天性免疫不全症候群が認知されてきた\nことから、ひとつの警鐘としてこの都市伝説が\n成立したと考えられる。\nまた、近年の日本においても、「性の若年化」に\n伴いこの都市伝説が輸入されたのであろう。\nこのような乱れた性に関する批評はこの場で\nする必要はないが、何にせよ自己の行動に\n責任を持たなければならないことには\n変わりがない。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这是一个起源于美国的都市传说。\n\n一个男人在酒吧邂逅了美丽女子，两人十分投缘，随即共度一夜。第二天醒来，身旁的女子却已不见踪影。男人只当是露水情缘，并未多想，便走进浴室。可当他站到镜子前，却惊呆了。镜面上，有人用鲜红的口红写着：\n\n「欢迎来到艾滋病的世界！」\n\n据说，男人后来接受检测，结果呈阳性。\n这个故事被称为「艾滋玛丽」传说，不仅在美国，也在日本被当作「真事」传播。\n\n若只把它当作一则都市传说，未免可惜。考察它形成的背景，便能看出人们心中的某种观念。６０年代的美国因越南战争而疲惫不堪，以年轻人为中心的反战与和平运动风起云涌。与此同时，伴随嬉皮士风潮，主张与不固定对象发生性关系的性自由观念也开始流行，并受到传统价值观拥护者的反感。\n原词条认为，这类行为增加了性传播疾病的风险，而随着致死率很高的艾滋病——后天性免疫缺陷综合征——逐渐为人所知，这则传说便作为一种警示而诞生。近年的日本，也可能因性行为年龄趋低而引入了它。\n此处无意继续评判性观念；但无论如何，每个人都应为自己的行为负责。"
+        },
+        "notes": "源文两人写为２人，中文以“两人”自然表达；保留原作对传说形成背景的解释及时代立场，以“原词条认为”标明归属，不把都市传说写成医学事实。"
+      },
+      {
+        "key": "terms.79",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "臓器ブローカー",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "器官掮客"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.79",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "日本人の臓器を高額で取引している\nブローカーの都市伝説である。\n「中近東で日本人女性の臓器が数十万円\nで売買されている」といった噂話が囁かれている。\nその噂話が、フリーのジャーナリストや、\n旅行代理店の関係者から聞こえてくれば\n事実かと疑いたくもなるだろう。 しかも、\n犯罪に関わっているわけではないのに、日本\n人旅行者が海外へ行ったきり、帰ってこない\n例が増えているというのだ。 彼らが、\n臓器売買の対象になったかどうかは定かでは\nないが、借金返済の為、腎臓や角膜を\n提供している例は少なからずあるという。\n実際に、フィリピンでは貧困層の人々が金を\n得る為に腎臓を売るケースがある。 これに\n関して倫理的な反感はあると思うが、少なく\nともフィリピン国内では合法である。 また、\nそのレシピエント（この場合は臓器希望者と\nいうのが適切かもしれない）に日本人が多く\n含まれていると報道されている。 フィリピン\nで臓器移植手術する理由は安価と手軽さだ。\nまた、このような現状を臓器ブローカーが仲介\nしている為、臓器の価格が近年高騰傾向\nにあるようだ。 また、中国では死刑囚の死体\nから臓器を取り出し移植手術をしている。\n中国国内の移植手術における供給源は\n死刑囚であるのだ。\n都市伝説では話の舞台は中近東とアジア圏\nと隔たりがあるが、上記の事情を考えると、\n臓器移植目的で誘拐、拉致をするのは信憑性\nが低いといえよう。 すなわち、臓器移植を\nする為の設備を所有する程の者がその\n供給方法を違法なものに頼るとは到底考え\nにくいのである。 さらに言うならば、ここ１０年\nの中近東における臓器移植実績が他地域\nと比べると低水準にあるのだ。 だから安心\nして旅行に……などと気を抜かないで\n心して海外旅行を楽しんで欲しい。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这是关于有人高价买卖日本人器官的都市传说。\n「中东一带，有人以几十万日元的价格买卖日本女性的器官」——类似传闻时有耳闻。如果消息来自自由记者或旅行社从业者，人们或许就会怀疑它并非空穴来风。据说，还有越来越多并未涉及犯罪的日本游客，出国后便再也没有回来。虽然无法确定他们是否成了器官买卖的受害者，但为了偿还债务而卖出肾脏或角膜的事例，据说也不在少数。\n\n原词条写道，在菲律宾，确有贫困者为挣钱而卖肾的情况，并称此举虽然可能引起伦理上的反感，却至少在当地合法；报道还称，接受器官的一方——或许叫作求购者更贴切——包含不少日本人。他们选择在菲律宾接受移植，原因是便宜、方便。而由于器官掮客从中牵线，器官价格近年来似乎还有上涨趋势。\n原词条也提到，中国曾从死刑犯遗体中摘取器官，用于移植手术，并将其描述为当地的器官来源。\n\n都市传说把故事设在中东，而上述事例则来自亚洲其他地区。原词条据此认为，为器官移植而绑架游客的说法可信度不高：既然已经拥有进行移植手术的设备，就很难想象还会依靠违法手段获取器官。此外，它还指出，近１０年中东地区的器官移植数量，与其他地区相比处于较低水平。\n但这可不意味着，出门旅游便能毫无戒心。还请保持警惕，平安享受海外旅行。"
+        },
+        "notes": "保留原作器官交易传闻、推论及“近１０年”的时代语境；涉及法律与供体来源的过时概括明确归属于原词条，不冒充现行法规或当下事实。"
+      },
+      {
+        "key": "terms.80",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "仙人",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "仙人"
+        },
+        "notes": "「仙人」是本章沿用的简中术语或人名，保留既有写法。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "keywords.4927",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4928",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4929",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4930",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4931",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4932",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4934",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4935",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4960",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4937",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4949",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4947",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4977",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4952",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4941",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4943",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4944",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4945",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4946",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4967",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4968",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4964",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4951",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4971",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4957",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4970",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4958",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4978",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4966",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4954",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4979",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.177",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "definitions.78",
+        "message": "Numbers differ; inspect time, date, amount or a documented source typo",
+        "acknowledged": true
+      },
+      {
+        "key": "terms.80",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

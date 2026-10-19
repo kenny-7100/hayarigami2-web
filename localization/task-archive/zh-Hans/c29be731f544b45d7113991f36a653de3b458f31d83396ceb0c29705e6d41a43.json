@@ -1,0 +1,108 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 43,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.45501:2904256.a5ecaaaf",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"人見さんは、ぼくが兄さんと一緒であることを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"知っているようだ。兄さんが話したのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "59994bc10f608f3dce0daefd304c43fedd5f2530b6d0bb8d6ce1f8e7f18d2c3e",
+        "location": {
+          "script": 45501,
+          "page": "45501:2904256",
+          "route": "chapter-3-end-44142.json",
+          "step": 1465
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.45501:2903980.ce531db1",
+            "step": 1463,
+            "script": 45501,
+            "text": "「ああ、〔人见〕さん。\n珍しいですね、電話をかけてくるなんて。\n何かありましたか？」",
+            "translation": "「啊，〔人见〕医生。难得接到你的电话，出什么事了吗？」"
+          },
+          {
+            "key": "page.45501:2904104.56f5e0e2",
+            "step": 1464,
+            "script": 45501,
+            "text": "『霧崎くんに連絡を取りたかったんだけど、\n彼の電話、ずっと繋がらなくてね。\n纯也くんに伝えてもらおうと思って』",
+            "translation": "『我想联系雾崎，可他的电话一直打不通。就想请{name:1}帮忙传个话。』"
+          },
+          {
+            "key": "page.45501:2904256.a5ecaaaf",
+            "step": 1465,
+            "script": 45501,
+            "text": "人見さんは、ぼくが兄さんと一緒であることを\n知っているようだ。兄さんが話したのだろう。",
+            "translation": "人见似乎知道我和哥在一起。大概是哥告诉他的吧。"
+          },
+          {
+            "key": "page.45501:2904376.e191f668",
+            "step": 1466,
+            "script": 45501,
+            "text": "「何しろ今、こっちは天気が悪くて……\nそれで兄さんの電話も通じないのかもしれませんね」",
+            "translation": "「我们这边天气很差……哥的电话打不通，也许就是这个原因。」"
+          },
+          {
+            "key": "page.45501:2904492.ec6dd00a",
+            "step": 1467,
+            "script": 45501,
+            "text": "『常世島に行ってるんですって？』",
+            "translation": "『听说你们去了常世岛？』"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"人見さんは、ぼくが兄さんと一緒であることを\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"知っているようだ。兄さんが話したのだろう。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "人见似乎知道我和哥在一起。大概是哥告诉他的吧。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "人见似乎知道我和哥在一起。大概是哥告诉她的吧。"
+            }
+          ]
+        },
+        "notes": "依据简中人物规则与源文彼女，人见为女性；修正这句指向人见的代词，不改变对话内容。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

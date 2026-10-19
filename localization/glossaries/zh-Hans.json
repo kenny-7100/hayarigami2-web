@@ -16,6 +16,9 @@
     {"id": "stage-grid", "entries": [30001], "source": ["スノコ", "吊架"], "preferred": "栅顶", "avoid": ["吊架"], "note": "舞台上方工作区域；关键词 4814。", "evidence": "docs/reviews/CHAPTER_TWO_ZH_HANS.md"},
     {"id": "stage-lift", "entries": [30001], "source": ["セリ", "拍卖"], "preferred": "升降台", "avoid": ["拍卖"], "note": "舞台机械，不是竞价交易；关键词 4843。", "evidence": "docs/reviews/CHAPTER_TWO_ZH_HANS.md"},
     {"id": "producer", "entries": [30001], "source": ["制作", "创作"], "preferred": "制作人", "avoid": [], "note": "仅本章剧团职务语境，关键词 4825，不禁止一般创作一词。", "evidence": "docs/reviews/CHAPTER_TWO_ZH_HANS.md"},
-    {"id": "amorous", "entries": [30001], "source": ["恋多き", "恋慕"], "preferred": "多情", "avoid": [], "note": "佐伯常邀女演员外出；关键词 4850，不概括为已确定的恋人关系。", "evidence": "docs/reviews/CHAPTER_TWO_ZH_HANS.md"}
+    {"id": "amorous", "entries": [30001], "source": ["恋多き", "恋慕"], "preferred": "多情", "avoid": [], "note": "佐伯常邀女演员外出；关键词 4850，不概括为已确定的恋人关系。", "evidence": "docs/reviews/CHAPTER_TWO_ZH_HANS.md"},
+    {"id": "azumi", "entries": [40001], "source": ["安曇"], "preferred": "安昙优", "avoid": ["阿澄", "安昙佑"], "note": "安昙优是人见的恋人、七原望的哥哥；按关系使用安昙，不能提前揭示身份。", "evidence": "docs/reviews/CHAPTER_THREE_ZH_HANS.md"},
+    {"id": "double-room", "entries": [40001], "source": ["ダブル", "双人房"], "preferred": "大床房", "avoid": ["双人房"], "note": "与ツイン双床房、シングル单人房区分；正文及关键词4926一致。", "evidence": "docs/reviews/CHAPTER_THREE_ZH_HANS.md"},
+    {"id": "shikibu-finale", "entries": [40001], "source": ["人見", "式部"], "preferred": "人见", "avoid": ["人见先生", "式部先生"], "note": "女性，使用她；与安昙的关系及十年前经历按当前路线的信息范围呈现。", "evidence": "docs/reviews/CHAPTER_THREE_ZH_HANS.md"}
   ]
 }

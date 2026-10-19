@@ -1,0 +1,2383 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 600,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "prompt.45017.124",
+        "collection": "strings",
+        "kind": "confirmation",
+        "source": "これで決定でよろしいですか？",
+        "baseHash": null,
+        "location": {
+          "script": 45017,
+          "offset": 3479944
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "确定提交当前推理吗？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "prompt.45018.125",
+        "collection": "strings",
+        "kind": "confirmation",
+        "source": "これで決定でよろしいですか？",
+        "baseHash": null,
+        "location": {
+          "script": 45018,
+          "offset": 3526156
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "确定提交当前推理吗？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.【検証５】",
+        "collection": "strings",
+        "kind": "overlay-label",
+        "source": "【検証５】",
+        "baseHash": null,
+        "location": {
+          "script": 45068,
+          "offset": 3537112
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【验证５】"
+        },
+        "notes": ""
+      },
+      {
+        "key": "prompt.47099.3",
+        "collection": "strings",
+        "kind": "confirmation",
+        "source": "セーブしますか？",
+        "baseHash": null,
+        "location": {
+          "script": 47099,
+          "offset": 3524972
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "要保存进度吗？"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.＜流行之神２携带版",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜流行之神２携带版",
+        "baseHash": null,
+        "location": {
+          "script": 6200,
+          "offset": 28256
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈流行之神２ 携带版"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.演职员表＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "演职员表＞",
+        "baseHash": null,
+        "location": {
+          "script": 6200,
+          "offset": 28296
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "制作人员名单〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.【剧本】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【剧本】",
+        "baseHash": null,
+        "location": {
+          "script": 6101,
+          "offset": 26164
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【剧本】"
+        },
+        "notes": "制作名单已有中文职位或署名「【剧本】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.＜剧本大纲＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜剧本大纲＞",
+        "baseHash": null,
+        "location": {
+          "script": 6201,
+          "offset": 28476
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈剧本大纲〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.皆川 千寻",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "皆川 千寻",
+        "baseHash": null,
+        "location": {
+          "script": 6101,
+          "offset": 26216
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "皆川 千寻"
+        },
+        "notes": "制作名单已有中文职位或署名「皆川 千寻」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.＜剧本制作总指挥＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜剧本制作总指挥＞",
+        "baseHash": null,
+        "location": {
+          "script": 6101,
+          "offset": 26236
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈剧本制作总指挥〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.长井 知佳",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "长井 知佳",
+        "baseHash": null,
+        "location": {
+          "script": 6126,
+          "offset": 32256
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "长井 知佳"
+        },
+        "notes": "制作名单已有中文职位或署名「长井 知佳」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.＜零话＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜零话＞",
+        "baseHash": null,
+        "location": {
+          "script": 6102,
+          "offset": 27344
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈第零话〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.剧本： 皆川 千寻",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "剧本： 皆川 千寻",
+        "baseHash": null,
+        "location": {
+          "script": 6125,
+          "offset": 29984
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "剧本：皆川 千寻"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.编剧： 桧木田 正史",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "编剧： 桧木田 正史",
+        "baseHash": null,
+        "location": {
+          "script": 6105,
+          "offset": 33996
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "编剧：桧木田 正史"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.山根 直树",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "山根 直树",
+        "baseHash": null,
+        "location": {
+          "script": 6105,
+          "offset": 34052
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "山根 直树"
+        },
+        "notes": "制作名单已有中文职位或署名「山根 直树」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.＜一话＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜一话＞",
+        "baseHash": null,
+        "location": {
+          "script": 6124,
+          "offset": 27688
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈第一话〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.剧本： 志津田 寿",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "剧本： 志津田 寿",
+        "baseHash": null,
+        "location": {
+          "script": 6105,
+          "offset": 33968
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "剧本：志津田 寿"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.志津田 寿",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "志津田 寿",
+        "baseHash": null,
+        "location": {
+          "script": 6124,
+          "offset": 27768
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "志津田 寿"
+        },
+        "notes": "制作名单已有中文职位或署名「志津田 寿」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.森 美树",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "森 美树",
+        "baseHash": null,
+        "location": {
+          "script": 6124,
+          "offset": 27792
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "森 美树"
+        },
+        "notes": "制作名单已有中文职位或署名「森 美树」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.久保田 英树",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "久保田 英树",
+        "baseHash": null,
+        "location": {
+          "script": 6105,
+          "offset": 34028
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "久保田 英树"
+        },
+        "notes": "制作名单已有中文职位或署名「久保田 英树」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.＜二话＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜二话＞",
+        "baseHash": null,
+        "location": {
+          "script": 6103,
+          "offset": 29620
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈第二话〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.＜最终话＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜最终话＞",
+        "baseHash": null,
+        "location": {
+          "script": 6125,
+          "offset": 29964
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈最终话〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.桧木田 正史",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "桧木田 正史",
+        "baseHash": null,
+        "location": {
+          "script": 6125,
+          "offset": 30012
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "桧木田 正史"
+        },
+        "notes": "制作名单已有中文职位或署名「桧木田 正史」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.＜戈薇篇＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜戈薇篇＞",
+        "baseHash": null,
+        "location": {
+          "script": 6104,
+          "offset": 31756
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈戈薇篇〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.剧本： 森 美树",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "剧本： 森 美树",
+        "baseHash": null,
+        "location": {
+          "script": 6104,
+          "offset": 31780
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "剧本：森 美树"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.编剧： 皆川 千寻",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "编剧： 皆川 千寻",
+        "baseHash": null,
+        "location": {
+          "script": 6104,
+          "offset": 31808
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "编剧：皆川 千寻"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.＜悠香篇＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜悠香篇＞",
+        "baseHash": null,
+        "location": {
+          "script": 6126,
+          "offset": 32176
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈悠香篇〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.编剧： 森 美树",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "编剧： 森 美树",
+        "baseHash": null,
+        "location": {
+          "script": 6126,
+          "offset": 32228
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "编剧：森 美树"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.＜小暮篇＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜小暮篇＞",
+        "baseHash": null,
+        "location": {
+          "script": 6105,
+          "offset": 33948
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈小暮篇〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.＜神秘事件资料库＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜神秘事件资料库＞",
+        "baseHash": null,
+        "location": {
+          "script": 6127,
+          "offset": 34368
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈神秘事件资料库〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.山田 有见",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "山田 有见",
+        "baseHash": null,
+        "location": {
+          "script": 6127,
+          "offset": 34404
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "山田 有见"
+        },
+        "notes": "制作名单已有中文职位或署名「山田 有见」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.俵 法子",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "俵 法子",
+        "baseHash": null,
+        "location": {
+          "script": 6127,
+          "offset": 34428
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "俵 法子"
+        },
+        "notes": "制作名单已有中文职位或署名「俵 法子」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.＜插入话 最终话·人见篇＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜插入话 最终话·人见篇＞",
+        "baseHash": null,
+        "location": {
+          "script": 6210,
+          "offset": 37716
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈插入话 最终话·人见篇〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.新川 宗平",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "新川 宗平",
+        "baseHash": null,
+        "location": {
+          "script": 6132,
+          "offset": 54132
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "新川 宗平"
+        },
+        "notes": "制作名单已有中文职位或署名「新川 宗平」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【剧本主编】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【剧本主编】",
+        "baseHash": null,
+        "location": {
+          "script": 6106,
+          "offset": 36164
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【剧本主编】"
+        },
+        "notes": "制作名单已有中文职位或署名「【剧本主编】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【人物设定】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【人物设定】",
+        "baseHash": null,
+        "location": {
+          "script": 6107,
+          "offset": 37348
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【人物设定】"
+        },
+        "notes": "制作名单已有中文职位或署名「【人物设定】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.菅原 健",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "菅原 健",
+        "baseHash": null,
+        "location": {
+          "script": 6107,
+          "offset": 37384
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "菅原 健"
+        },
+        "notes": "制作名单已有中文职位或署名「菅原 健」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【插曲】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【插曲】",
+        "baseHash": null,
+        "location": {
+          "script": 6213,
+          "offset": 38692
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【插曲】"
+        },
+        "notes": "制作名单已有中文职位或署名「【插曲】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.「无法听见的歌」",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "「无法听见的歌」",
+        "baseHash": null,
+        "location": {
+          "script": 6213,
+          "offset": 38712
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "《无法听见的歌》"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.作词：上松范康 （",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "作词：上松范康 （",
+        "baseHash": null,
+        "location": {
+          "script": 6213,
+          "offset": 38748
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "作词：上松范康（"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.作·编曲：菊田大介（",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "作·编曲：菊田大介（",
+        "baseHash": null,
+        "location": {
+          "script": 6213,
+          "offset": 38776
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "作曲、编曲：菊田大介（"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.演唱：霜月遥",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "演唱：霜月遥",
+        "baseHash": null,
+        "location": {
+          "script": 6213,
+          "offset": 38808
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "演唱：霜月遥"
+        },
+        "notes": "制作名单已有中文职位或署名「演唱：霜月遥」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.ＥｌｅｍｅｎtｓＧaｒｄｅｎ）",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "ＥｌｅｍｅｎtｓＧaｒｄｅｎ）",
+        "baseHash": null,
+        "location": {
+          "script": 6213,
+          "offset": 38872
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "Elements Garden）"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.【策划】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【策划】",
+        "baseHash": null,
+        "location": {
+          "script": 6214,
+          "offset": 39948
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【策划】"
+        },
+        "notes": "制作名单已有中文职位或署名「【策划】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.梶原 一平",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "梶原 一平",
+        "baseHash": null,
+        "location": {
+          "script": 6214,
+          "offset": 39976
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "梶原 一平"
+        },
+        "notes": "制作名单已有中文职位或署名「梶原 一平」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【美术】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【美术】",
+        "baseHash": null,
+        "location": {
+          "script": 6214,
+          "offset": 39996
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【美术】"
+        },
+        "notes": "制作名单已有中文职位或署名「【美术】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.伊地知 浩崇",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "伊地知 浩崇",
+        "baseHash": null,
+        "location": {
+          "script": 6214,
+          "offset": 40024
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "伊地知 浩崇"
+        },
+        "notes": "制作名单已有中文职位或署名「伊地知 浩崇」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【程序】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【程序】",
+        "baseHash": null,
+        "location": {
+          "script": 6108,
+          "offset": 38144
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【程序】"
+        },
+        "notes": "制作名单已有中文职位或署名「【程序】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.林 恭彦",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "林 恭彦",
+        "baseHash": null,
+        "location": {
+          "script": 6216,
+          "offset": 40764
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "林 恭彦"
+        },
+        "notes": "制作名单已有中文职位或署名「林 恭彦」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.矶井 直树",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "矶井 直树",
+        "baseHash": null,
+        "location": {
+          "script": 6216,
+          "offset": 40784
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "矶井 直树"
+        },
+        "notes": "制作名单已有中文职位或署名「矶井 直树」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.家木 孝明",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "家木 孝明",
+        "baseHash": null,
+        "location": {
+          "script": 6216,
+          "offset": 40804
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "家木 孝明"
+        },
+        "notes": "制作名单已有中文职位或署名「家木 孝明」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【销售·广告】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【销售·广告】",
+        "baseHash": null,
+        "location": {
+          "script": 6117,
+          "offset": 49448
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【销售·广告】"
+        },
+        "notes": "制作名单已有中文职位或署名「【销售·广告】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.佐藤 智洋",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "佐藤 智洋",
+        "baseHash": null,
+        "location": {
+          "script": 6217,
+          "offset": 41100
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐藤 智洋"
+        },
+        "notes": "制作名单已有中文职位或署名「佐藤 智洋」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.村松 裕基",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "村松 裕基",
+        "baseHash": null,
+        "location": {
+          "script": 6217,
+          "offset": 41120
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "村松 裕基"
+        },
+        "notes": "制作名单已有中文职位或署名「村松 裕基」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.小酒井 省吾",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "小酒井 省吾",
+        "baseHash": null,
+        "location": {
+          "script": 6117,
+          "offset": 49492
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小酒井 省吾"
+        },
+        "notes": "制作名单已有中文职位或署名「小酒井 省吾」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.猿桥 健藏",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "猿桥 健藏",
+        "baseHash": null,
+        "location": {
+          "script": 6117,
+          "offset": 49516
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "猿桥 健藏"
+        },
+        "notes": "制作名单已有中文职位或署名「猿桥 健藏」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.杉浦 裕美子",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "杉浦 裕美子",
+        "baseHash": null,
+        "location": {
+          "script": 6217,
+          "offset": 41184
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "杉浦 裕美子"
+        },
+        "notes": "制作名单已有中文职位或署名「杉浦 裕美子」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.阿藤 智美",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "阿藤 智美",
+        "baseHash": null,
+        "location": {
+          "script": 6117,
+          "offset": 49580
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "阿藤 智美"
+        },
+        "notes": "制作名单已有中文职位或署名「阿藤 智美」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.木村 英里",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "木村 英里",
+        "baseHash": null,
+        "location": {
+          "script": 6217,
+          "offset": 41228
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "木村 英里"
+        },
+        "notes": "制作名单已有中文职位或署名「木村 英里」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.箱崎 俊太郎",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "箱崎 俊太郎",
+        "baseHash": null,
+        "location": {
+          "script": 6217,
+          "offset": 41248
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "箱崎 俊太郎"
+        },
+        "notes": "制作名单已有中文职位或署名「箱崎 俊太郎」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.池户 康",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "池户 康",
+        "baseHash": null,
+        "location": {
+          "script": 6217,
+          "offset": 41272
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "池户 康"
+        },
+        "notes": "制作名单已有中文职位或署名「池户 康」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.井上 惠一",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "井上 惠一",
+        "baseHash": null,
+        "location": {
+          "script": 6117,
+          "offset": 49600
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "井上 惠一"
+        },
+        "notes": "制作名单已有中文职位或署名「井上 惠一」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.南谷 裕子",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "南谷 裕子",
+        "baseHash": null,
+        "location": {
+          "script": 6217,
+          "offset": 41312
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "南谷 裕子"
+        },
+        "notes": "制作名单已有中文职位或署名「南谷 裕子」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【网站设计】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【网站设计】",
+        "baseHash": null,
+        "location": {
+          "script": 6218,
+          "offset": 42708
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【网站设计】"
+        },
+        "notes": "制作名单已有中文职位或署名「【网站设计】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.多多内 良则",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "多多内 良则",
+        "baseHash": null,
+        "location": {
+          "script": 6117,
+          "offset": 49640
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "多多内 良则"
+        },
+        "notes": "制作名单已有中文职位或署名「多多内 良则」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.佐桥 直幸",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "佐桥 直幸",
+        "baseHash": null,
+        "location": {
+          "script": 6117,
+          "offset": 49684
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "佐桥 直幸"
+        },
+        "notes": "制作名单已有中文职位或署名「佐桥 直幸」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.竹内 朗",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "竹内 朗",
+        "baseHash": null,
+        "location": {
+          "script": 6218,
+          "offset": 42780
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "竹内 朗"
+        },
+        "notes": "制作名单已有中文职位或署名「竹内 朗」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.小笠原 翔",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "小笠原 翔",
+        "baseHash": null,
+        "location": {
+          "script": 6218,
+          "offset": 42800
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小笠原 翔"
+        },
+        "notes": "制作名单已有中文职位或署名「小笠原 翔」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【包装设计",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【包装设计",
+        "baseHash": null,
+        "location": {
+          "script": 6219,
+          "offset": 43112
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【包装设计"
+        },
+        "notes": "制作名单已有中文职位或署名「【包装设计」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.筱田 好美",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "筱田 好美",
+        "baseHash": null,
+        "location": {
+          "script": 6118,
+          "offset": 50392
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "筱田 好美"
+        },
+        "notes": "制作名单已有中文职位或署名「筱田 好美」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.丸山 佳佑",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "丸山 佳佑",
+        "baseHash": null,
+        "location": {
+          "script": 6219,
+          "offset": 43164
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "丸山 佳佑"
+        },
+        "notes": "制作名单已有中文职位或署名「丸山 佳佑」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.龟山 友希",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "龟山 友希",
+        "baseHash": null,
+        "location": {
+          "script": 6118,
+          "offset": 50500
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "龟山 友希"
+        },
+        "notes": "制作名单已有中文职位或署名「龟山 友希」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【开发支持】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【开发支持】",
+        "baseHash": null,
+        "location": {
+          "script": 6118,
+          "offset": 50412
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【开发支持】"
+        },
+        "notes": "制作名单已有中文职位或署名「【开发支持】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.长谷川 刚",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "长谷川 刚",
+        "baseHash": null,
+        "location": {
+          "script": 6118,
+          "offset": 50480
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "长谷川 刚"
+        },
+        "notes": "制作名单已有中文职位或署名「长谷川 刚」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.·游戏手册设计】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "·游戏手册设计】",
+        "baseHash": null,
+        "location": {
+          "script": 6219,
+          "offset": 43252
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "·游戏手册设计】"
+        },
+        "notes": "制作名单已有中文职位或署名「·游戏手册设计】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【特别感谢】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【特别感谢】",
+        "baseHash": null,
+        "location": {
+          "script": 6133,
+          "offset": 51696
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【特别感谢】"
+        },
+        "notes": "制作名单已有中文职位或署名「【特别感谢】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.大崎 芳郎",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "大崎 芳郎",
+        "baseHash": null,
+        "location": {
+          "script": 6220,
+          "offset": 43908
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "大崎 芳郎"
+        },
+        "notes": "制作名单已有中文职位或署名「大崎 芳郎」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.石原 健",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "石原 健",
+        "baseHash": null,
+        "location": {
+          "script": 6220,
+          "offset": 43928
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "石原 健"
+        },
+        "notes": "制作名单已有中文职位或署名「石原 健」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.小岛 照雄",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "小岛 照雄",
+        "baseHash": null,
+        "location": {
+          "script": 6220,
+          "offset": 43948
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小岛 照雄"
+        },
+        "notes": "制作名单已有中文职位或署名「小岛 照雄」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.清水 圣之助",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "清水 圣之助",
+        "baseHash": null,
+        "location": {
+          "script": 6220,
+          "offset": 43968
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "清水 圣之助"
+        },
+        "notes": "制作名单已有中文职位或署名「清水 圣之助」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【协助】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【协助】",
+        "baseHash": null,
+        "location": {
+          "script": 6134,
+          "offset": 53308
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【协助】"
+        },
+        "notes": "制作名单已有中文职位或署名「【协助】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.株式会社 西兰花",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "株式会社 西兰花",
+        "baseHash": null,
+        "location": {
+          "script": 6221,
+          "offset": 44304
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "株式会社 西兰花"
+        },
+        "notes": "制作名单已有中文职位或署名「株式会社 西兰花」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【导演】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【导演】",
+        "baseHash": null,
+        "location": {
+          "script": 6121,
+          "offset": 53920
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【导演】"
+        },
+        "notes": "制作名单已有中文职位或署名「【导演】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.築濑 凉司",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "築濑 凉司",
+        "baseHash": null,
+        "location": {
+          "script": 6121,
+          "offset": 53948
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "筑濑 凉司"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.【制片人】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【制片人】",
+        "baseHash": null,
+        "location": {
+          "script": 6132,
+          "offset": 54104
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【制片人】"
+        },
+        "notes": "制作名单已有中文职位或署名「【制片人】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【携带版开发】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【携带版开发】",
+        "baseHash": null,
+        "location": {
+          "script": 6224,
+          "offset": 47364
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【携带版开发】"
+        },
+        "notes": "制作名单已有中文职位或署名「【携带版开发】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.株式会社Ｏtｗo",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "株式会社Ｏtｗo",
+        "baseHash": null,
+        "location": {
+          "script": 6224,
+          "offset": 47400
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "株式会社 O-TWO"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.＜流行り神２ 演职员表＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜流行り神２ 演职员表＞",
+        "baseHash": null,
+        "location": {
+          "script": 6225,
+          "offset": 47564
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈流行之神２ 制作人员名单〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.＜剧本统筹＞",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "＜剧本统筹＞",
+        "baseHash": null,
+        "location": {
+          "script": 6101,
+          "offset": 26188
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "〈剧本统筹〉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "label.【音乐】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【音乐】",
+        "baseHash": null,
+        "location": {
+          "script": 6128,
+          "offset": 37540
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【音乐】"
+        },
+        "notes": "制作名单已有中文职位或署名「【音乐】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.酒井 良",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "酒井 良",
+        "baseHash": null,
+        "location": {
+          "script": 6128,
+          "offset": 37560
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "酒井 良"
+        },
+        "notes": "制作名单已有中文职位或署名「酒井 良」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【总策划】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【总策划】",
+        "baseHash": null,
+        "location": {
+          "script": 6108,
+          "offset": 38092
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【总策划】"
+        },
+        "notes": "制作名单已有中文职位或署名「【总策划】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.山本 雅博",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "山本 雅博",
+        "baseHash": null,
+        "location": {
+          "script": 6108,
+          "offset": 38168
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "山本 雅博"
+        },
+        "notes": "制作名单已有中文职位或署名「山本 雅博」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.白井 笃",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "白井 笃",
+        "baseHash": null,
+        "location": {
+          "script": 6108,
+          "offset": 38188
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "白井 笃"
+        },
+        "notes": "制作名单已有中文职位或署名「白井 笃」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【背景】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【背景】",
+        "baseHash": null,
+        "location": {
+          "script": 6109,
+          "offset": 39308
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【背景】"
+        },
+        "notes": "制作名单已有中文职位或署名「【背景】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.不破 大辅",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "不破 大辅",
+        "baseHash": null,
+        "location": {
+          "script": 6110,
+          "offset": 40512
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "不破 大辅"
+        },
+        "notes": "制作名单已有中文职位或署名「不破 大辅」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.藤田 晃生",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "藤田 晃生",
+        "baseHash": null,
+        "location": {
+          "script": 6110,
+          "offset": 40532
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "藤田 晃生"
+        },
+        "notes": "制作名单已有中文职位或署名「藤田 晃生」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.【背景协助】",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "【背景协助】",
+        "baseHash": null,
+        "location": {
+          "script": 6136,
+          "offset": 39556
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "【背景协助】"
+        },
+        "notes": "制作名单已有中文职位或署名「【背景协助】」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.过去的栖家",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "过去的栖家",
+        "baseHash": null,
+        "location": {
+          "script": 6136,
+          "offset": 39580
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "过去的栖家"
+        },
+        "notes": "制作名单已有中文职位或署名「过去的栖家」，保留镜像汉化及专名，不改署名归属。"
+      },
+      {
+        "key": "label.久保玲",
+        "collection": "strings",
+        "kind": "credit-label",
+        "source": "久保玲",
+        "baseHash": null,
+        "location": {
+          "script": 6136,
+          "offset": 39600
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "久保玲"
+        },
+        "notes": "制作名单已有中文职位或署名「久保玲」，保留镜像汉化及专名，不改署名归属。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "label.【剧本】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.皆川 千寻",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.长井 知佳",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.山根 直树",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.志津田 寿",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.森 美树",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.久保田 英树",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.桧木田 正史",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.山田 有见",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.俵 法子",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.新川 宗平",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【剧本主编】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【人物设定】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.菅原 健",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【插曲】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.演唱：霜月遥",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【策划】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.梶原 一平",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【美术】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.伊地知 浩崇",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【程序】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.林 恭彦",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.矶井 直树",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.家木 孝明",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【销售·广告】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.佐藤 智洋",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.村松 裕基",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.小酒井 省吾",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.猿桥 健藏",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.杉浦 裕美子",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.阿藤 智美",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.木村 英里",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.箱崎 俊太郎",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.池户 康",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.井上 惠一",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.南谷 裕子",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【网站设计】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.多多内 良则",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.佐桥 直幸",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.竹内 朗",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.小笠原 翔",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【包装设计",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.筱田 好美",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.丸山 佳佑",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.龟山 友希",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【开发支持】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.长谷川 刚",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.·游戏手册设计】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【特别感谢】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.大崎 芳郎",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.石原 健",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.小岛 照雄",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.清水 圣之助",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【协助】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.株式会社 西兰花",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【导演】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【制片人】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【携带版开发】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【音乐】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.酒井 良",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【总策划】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.山本 雅博",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.白井 笃",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【背景】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.不破 大辅",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.藤田 晃生",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.【背景协助】",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.过去的栖家",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "label.久保玲",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

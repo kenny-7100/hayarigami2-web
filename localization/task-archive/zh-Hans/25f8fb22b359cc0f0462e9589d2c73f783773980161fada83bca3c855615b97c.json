@@ -1,0 +1,108 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 65,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.47401:3022528.f10bad16",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"時折ノイズが混じるだけで、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"人見さんは沈黙したままだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ひょっとして嘘がバレたのでは……と\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そわそわしていると、不意に声が届いた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "405e3b76add8c91c08a71677a843b85f37aa150a3f76ee735dc1c62ddfaa3cf6",
+        "location": {
+          "script": 47401,
+          "page": "47401:3022528",
+          "route": "chapter-3-end-44142.json",
+          "step": 2059
+        },
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [
+          {
+            "key": "page.47401:3022316.36337c34",
+            "step": 2057,
+            "script": 47401,
+            "text": "「その人の心にはトラウマが残り、\nそれが原因でメスが握れなくなってしまう\n——なんてこと、\n実際に起こったりするんでしょうか？」",
+            "translation": "「这件事在心里留下创伤，让他从此无法握住手术刀——现实中，真的会发生这样的情况吗？」"
+          },
+          {
+            "key": "page.47401:3022492.a039223c",
+            "step": 2058,
+            "script": 47401,
+            "text": "『…………』",
+            "translation": "『…………』"
+          },
+          {
+            "key": "page.47401:3022528.f10bad16",
+            "step": 2059,
+            "script": 47401,
+            "text": "時折ノイズが混じるだけで、\n人見さんは沈黙したままだ。\nひょっとして嘘がバレたのでは……と\nそわそわしていると、不意に声が届いた。",
+            "translation": "偶尔传来几声杂音，人见却一直沉默。我正不安地猜测，是不是谎话被识破了，忽然听见他的声音。"
+          },
+          {
+            "key": "page.47401:3022708.79760a6b",
+            "step": 2060,
+            "script": 47401,
+            "text": "『そうね、トラウマ——つまり心的外傷というのは、\n外部の要因で大きなショックを受け、\nそれが心の傷となって長期間その人物に\n影響を及ぼすことを言うの』",
+            "translation": "『嗯，所谓创伤，也就是心理创伤，指的是人受到外界因素带来的强烈冲击，在心中留下伤痕，并长期影响这个人。』"
+          },
+          {
+            "key": "page.47401:3022908.9411a097",
+            "step": 2061,
+            "script": 47401,
+            "text": "『ただ辛い記憶というだけで済んでいるうちはいい\nけれど、その傷が引き金でストレス障害を引き起こす\nようになると、ＰＴＳＤ、つまり心的外傷後ストレス障害\nと呼ばれて専門的な〔治疗〕が必要になる』",
+            "translation": "『如果只停留在痛苦的记忆，还算好。可当那道伤痕引发应激障碍，就称为ＰＴＳＤ，也就是创伤后应激障碍，需要专业〔治疗〕。』"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"時折ノイズが混じるだけで、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"人見さんは沈黙したままだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ひょっとして嘘がバレたのでは……と\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そわそわしていると、不意に声が届いた。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "偶尔传来几声杂音，人见却一直沉默。我正不安地猜测，是不是谎话被识破了，忽然听见他的声音。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "偶尔传来几声杂音，人见却一直沉默。我正不安地猜测，是不是谎话被识破了，忽然听见她的声音。"
+            }
+          ]
+        },
+        "notes": "依据简中人物规则与源文彼女，人见为女性；修正这句指向人见的代词，不改变对话内容。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

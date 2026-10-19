@@ -1,0 +1,96 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 72,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.43701:2794864.f05dde6c",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"「左様でございます。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"最初はシングルルームをご用意いたしたのですが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"夜になってダブルに替えて欲しいと言われましたので、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そうさせて頂きました」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "d246e10c12940f43536582298989078ee18283a94e535bc5a5641ec3ffa5c509",
+        "location": {
+          "script": 43701,
+          "page": "43701:2794864",
+          "route": "chapter-3-end-44142.json",
+          "step": 973
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.43701:2794684.3d9a29d6",
+            "step": 971,
+            "script": 43701,
+            "text": "「それは、お客様からお申し出がございまして」",
+            "translation": "「这是客人自己提出的要求。」"
+          },
+          {
+            "key": "page.43701:2794752.f22f0f4",
+            "step": 972,
+            "script": 43701,
+            "text": "「本人から？」\n賀茂泉警部補の問いに、\n楡枝支配人は優雅な動きで頷いた。",
+            "translation": "「他本人要求的？」\n面对贺茂泉警部补的追问，榆枝经理优雅地点了点头。"
+          },
+          {
+            "key": "page.43701:2794864.f05dde6c",
+            "step": 973,
+            "script": 43701,
+            "text": "「左様でございます。\n最初はシングルルームをご用意いたしたのですが、\n夜になってダブルに替えて欲しいと言われましたので、\nそうさせて頂きました」",
+            "translation": "「正是。我们最初为他安排的是单人房，不过到了晚上，他提出想换成双人房，我们便替他换了。」"
+          },
+          {
+            "key": "page.43701:2795056.b51e1b1f",
+            "step": 974,
+            "script": 43701,
+            "text": "「わたくしどもも、\n空いている部屋はたくさんございますので、\nそういうご希望には、\n出来るだけお応えするようにしております」",
+            "translation": "「我们还有很多空房，所以这类要求，我们都会尽量满足。」"
+          },
+          {
+            "key": "page.43701:2795224.48cac09",
+            "step": 975,
+            "script": 43701,
+            "text": "「じゃあ、二人分のルームサービスというのも？」",
+            "translation": "「那么，两人份的客房服务也是？」"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"「左様でございます。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"最初はシングルルームをご用意いたしたのですが、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"夜になってダブルに替えて欲しいと言われましたので、\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"そうさせて頂きました」\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "「正是。我们最初为他安排的是单人房，不过到了晚上，他提出想换成双人房，我们便替他换了。」"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "「正是。我们最初为他安排的是单人房，不过到了晚上，他提出想换成大床房，我们便替他换了。」"
+            }
+          ]
+        },
+        "notes": "房型ダブル统一为大床房；与关键词4926及同一调查中的房间变更一致。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

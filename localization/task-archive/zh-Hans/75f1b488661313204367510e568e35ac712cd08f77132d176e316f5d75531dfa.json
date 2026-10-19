@@ -1,0 +1,96 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 35,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "page.44021:2820760.17ef1b59",
+        "collection": "rich",
+        "kind": "page",
+        "source": "[{\"text\":\"一つは、部屋を突然シングルルームから\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ダブルルームに変えていることだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+        "baseHash": "8017d9d76d21e9567e6c55af4e7e008bbac5f737d9a13d7e87b9f25cb5901ff9",
+        "location": {
+          "script": 44021,
+          "page": "44021:2820760",
+          "route": "chapter-3-end-44142.json",
+          "step": 1026
+        },
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [
+          {
+            "key": "page.44021:2820536.c26e9a90",
+            "step": 1024,
+            "script": 44021,
+            "text": "楡枝支配人の話ではその男は営業で島に来ていて、\n３泊する予定になっていたそうだ。\n仕事で滞在していた為、連れなどは特にいない。",
+            "translation": "据榆枝经理说，他来岛上跑业务，预订了３晚的住宿。因为是出差，所以没有同伴。"
+          },
+          {
+            "key": "page.44021:2820700.ca21a7f7",
+            "step": 1025,
+            "script": 44021,
+            "text": "しかし、気になる点はいくつかある。",
+            "translation": "不过，其中有几个地方令人在意。"
+          },
+          {
+            "key": "page.44021:2820760.17ef1b59",
+            "step": 1026,
+            "script": 44021,
+            "text": "一つは、部屋を突然シングルルームから\nダブルルームに変えていることだ。",
+            "translation": "其一，他突然把单人房换成了双人房。"
+          },
+          {
+            "key": "page.44021:2820860.9a59e02",
+            "step": 1027,
+            "script": 44021,
+            "text": "ルームサービスも二人分取っていたが、\n部屋に誰かが出入りしたという証言は、\n今のところない。",
+            "translation": "他还叫了两人份的客房服务，但目前并没有人见过谁出入他的房间。"
+          },
+          {
+            "key": "page.44021:2820988.b4386d7",
+            "step": 1028,
+            "script": 44021,
+            "text": "唯一考えられそうなのが、\n中畑さんがチェックインの際に\n商売女を捜していたということだが……",
+            "translation": "唯一想到的线索，是中畑办理入住时，曾打听过风尘女子的消息……"
+          }
+        ],
+        "contextNotice": "Deduplicated observation window; use i18n:context for an actual route transcript.",
+        "previousTranslation": {
+          "source": "[{\"text\":\"一つは、部屋を突然シングルルームから\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0},{\"text\":\"ダブルルームに変えていることだ。\",\"color\":0,\"size\":0},{\"text\":\"\\n\",\"color\":0,\"size\":0}]",
+          "parts": [
+            {
+              "text": "其一，他突然把单人房换成了双人房。"
+            }
+          ],
+          "status": "draft"
+        },
+        "translation": {
+          "parts": [
+            {
+              "text": "其一，他突然把单人房换成了大床房。"
+            }
+          ]
+        },
+        "notes": "房型ダブル统一为大床房；与关键词4926及同一调查中的房间变更一致。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

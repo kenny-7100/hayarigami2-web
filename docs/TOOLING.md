@@ -144,3 +144,17 @@ node --experimental-strip-types tests/generate-chapter-two-zh-hans-fixtures.mjs
 ```
 
 i18n:extract 会重建第一话、第二话的分支语料，不要在提取尚未结束时并发运行依赖语料的门禁。源覆盖报告为 output/localization/chapter-two-source-coverage.json，译稿报告为 chapter-two-zh-Hans.json。科学成功路线用 chapter-2-science.json；39992 是失败路线。完整基准与原文疑点见 [第二话译文验收](reviews/CHAPTER_TWO_ZH_HANS.md)。
+
+## 最终话简中全译校验
+
+```sh
+npm run i18n:extract
+npm run i18n:check:chapter-three
+node --experimental-strip-types tests/generate-chapter-three-zh-hans-fixtures.mjs
+# 独立测试存储 /tests/qa.html?bundle=ch3-zh-hans&lang=zh-Hans
+# 扩展 UI 文案加 &stress=1
+```
+
+最终话入口 40001，编译依赖闭包 448 条记录。采集器读取 16,085 条源文本指令；另 63 条均为名单主脚本 6001 的空格槽，门禁逐个核对源偏移和内容，不能删掉报告来掩盖缺口。全库语料重建后为 27,483 条。chapter-three-trials.json 保存固定种子 300 条可重放轨迹。
+
+专用检查验证 6,316 条富文本、509 条静态译文、源签名、内联关键词一致性。浏览器包含科学、灵异、失败、特殊回忆、双路线真实后日谈和片尾，以及每条路线最长的实际中文段落。完整历史测试仍由 remaining-chapters.test.mjs 执行，不由这些最多 100 页的 UI 检查点替代。详见 reviews/CHAPTER_THREE_ZH_HANS.md。

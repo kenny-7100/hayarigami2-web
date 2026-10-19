@@ -18,13 +18,14 @@
     "qa:fixtures": "node --experimental-strip-types tests/generate-chapter-one-browser-fixtures.mjs",
     "verify": "npm run check:game && npm run test:python && npm test && npm run lint && npm run check:qa && npm run build",
     "check:qa": "tsc -p tsconfig.qa.json",
-    "i18n:extract": "python3 scripts/extract_localization.py && node --experimental-strip-types scripts/extract_story_localization.mjs && node --experimental-strip-types scripts/collect_chapter_one_localization.mjs && node --experimental-strip-types scripts/collect_chapter_two_localization.mjs",
+    "i18n:extract": "python3 scripts/extract_localization.py && node --experimental-strip-types scripts/extract_story_localization.mjs && node --experimental-strip-types scripts/collect_chapter_one_localization.mjs && node --experimental-strip-types scripts/collect_chapter_two_localization.mjs && node --experimental-strip-types scripts/collect_chapter_three_localization.mjs",
     "i18n:check": "node --experimental-strip-types scripts/audit_localization.mjs",
     "i18n:release-check": "node --experimental-strip-types scripts/audit_localization.mjs --complete",
     "i18n:check:chapter-one": "node --experimental-strip-types scripts/check_chapter_one_translation.mjs",
     "i18n:work": "node --experimental-strip-types scripts/translation_workbench.mjs",
     "i18n:context": "node --experimental-strip-types scripts/translation_context.mjs",
-    "i18n:test": "node --experimental-strip-types --test tests/i18n.test.mjs tests/localization-routes.test.mjs tests/chapter-one-translation.test.mjs tests/translation-workbench.test.mjs tests/chapter-two-translation.test.mjs",
+    "i18n:test": "node --experimental-strip-types --test tests/i18n.test.mjs tests/localization-routes.test.mjs tests/chapter-one-translation.test.mjs tests/translation-workbench.test.mjs tests/chapter-two-translation.test.mjs tests/chapter-three-translation.test.mjs",
+    "i18n:check:chapter-three": "node --experimental-strip-types scripts/check_chapter_three_translation.mjs",
     "i18n:check:chapter-two": "node --experimental-strip-types scripts/check_chapter_two_translation.mjs"
   },
   "dependencies": {

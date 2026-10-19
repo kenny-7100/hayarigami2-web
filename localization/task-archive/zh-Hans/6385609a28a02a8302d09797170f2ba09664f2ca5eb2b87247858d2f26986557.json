@@ -1,0 +1,2154 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 990,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "logic.5.field.9.choice.4963",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼らの共通点はスイートルームだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他们的共同点是住在酒店套房"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.9.choice.4969",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼らの共通点は一人客であることだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他们的共同点是独自投宿"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.10.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂留空白"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.10.choice.4927",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "大野原巡査は警部補の言いなりだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "大野原巡查对警部补言听计从"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.10.choice.4929",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "大野原巡査は警部補の電話番だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "大野原巡查替警部补守着电话"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.10.choice.4961",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "大野原巡査は警部補の運転手だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "大野原巡查是警部补的司机"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.10.choice.4968",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "大野原巡査は警部補に噛み付いた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "大野原巡查咬了警部补"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.11.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂留空白"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.11.choice.4917",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "七原先生は安曇さんに臓器移植を施したい",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "七原想为安昙进行器官移植"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.11.choice.4927",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安曇さんは七原先生の言うがままだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安昙对七原言听计从"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.11.choice.4930",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "七原先生は安曇さんに手術をした",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "七原为安昙做过手术"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.11.choice.4940",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "七原先生は安曇さんが犯人だと考えた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "七原认为安昙是凶手"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.11.choice.4955",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安曇さんは七原先生のお兄さんだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安昙是七原的哥哥"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.12.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂留空白"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.12.choice.4904",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安曇さんは幽霊だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安昙是幽灵"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.12.choice.4931",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安曇さんは臓器を求めている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安昙在寻找器官"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.12.choice.4940",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安曇さんが犯人だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安昙是凶手"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.12.choice.4952",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安曇さんは一度死んでいる",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安昙曾经死过一次"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.12.choice.4956",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安曇さんはゾンビだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安昙是僵尸"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.12.choice.4978",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "安曇さんは風土病にかかっている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "安昙患有地方病"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.13.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂留空白"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.13.choice.4902",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "青山先生は安曇さんにマスクを与えた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "青山给了安昙口罩"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.13.choice.4906",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "青山先生は安曇さんを幽霊だと思っている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "青山认为安昙是幽灵"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.13.choice.4917",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "青山先生は安曇さんに臓器移植した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "青山为安昙移植了器官"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.13.choice.4918",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "青山先生は安曇さんを雇った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "青山雇用了安昙"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.13.choice.4928",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "青山先生は安曇さんに火蜥蜴を与えた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "青山给了安昙火蜥蜴"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.13.choice.4948",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "青山先生は安曇さんを匿っていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "青山曾藏匿安昙"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.13.choice.4952",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "青山先生は安曇さんに蘇生方法を教えた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "青山教了安昙复活的方法"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.13.choice.4977",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "青山先生は安曇さんについて手記を残した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "青山留下了关于安昙的手记"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.14.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂留空白"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.14.choice.4905",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "福井さんは人見さんに病院を紹介した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "福井向人见介绍了医院"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.14.choice.4921",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "福井さんは人見さんの主治医だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "福井是人见的主治医生"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.14.choice.4939",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "福井さんは人見さんに裏の仕事を教えた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "福井向人见介绍了见不得光的工作"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.14.choice.4948",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "福井さんは人見さんを匿っていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "福井曾藏匿人见"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.14.choice.4949",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "福井さんと人見さんは繋がりがあった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "福井与人见早有联系"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.15.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂留空白"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.15.choice.4900",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんは常世島に来ていた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见曾来过常世岛"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.15.choice.4901",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんは現在ストライキ中だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见目前正在罢工"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.15.choice.4929",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんは電話が大好きだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见非常喜欢打电话"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.15.choice.4940",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "この事件の犯人は人見さんだ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "这起案件的凶手是人见"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.15.choice.4951",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんは新宿での事件で忙しい",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见正忙于新宿的案件"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.15.choice.4978",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんは風土病に効く薬を持っている",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见持有治疗地方病的药物"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.16.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂留空白"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.16.choice.4921",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんは安曇さんの主治医だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见是安昙的主治医生"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.16.choice.4931",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんは安曇さんの臓器を奪った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见夺走了安昙的器官"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.16.choice.4940",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人は共犯者だ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人是共犯"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.16.choice.4954",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "二人は恋人だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "两人曾是恋人"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.17.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂留空白"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.17.choice.4903",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "３人はリゾートホテルで知り合った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "３人在度假酒店相识"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.17.choice.4905",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "３人は病院で知り合った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "３人在医院相识"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.17.choice.4911",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "３人はこのホテルの常連だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "３人都是这家酒店的常客"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.17.choice.4941",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "３人は都市伝説サークル仲間だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "３人是都市传说社团的伙伴"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.17.choice.4953",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "３人はフィールドワーク仲間だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "３人曾一起开展田野调查"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.18.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂留空白"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.18.choice.4921",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "道明寺は医者だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "道明寺曾是医生"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.18.choice.4922",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "道明寺は本当は偉い人物だった",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "道明寺其实是个大人物"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.18.choice.4924",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "道明寺はぼくらに便宜を図った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "道明寺为我们提供了便利"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.18.choice.4962",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "ぼくらが解決すると踏んでいるのではないか",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他是否认定我们能够破案"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.18.choice.4965",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "彼の目的はぼくらの阻害だろうか",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "他的目的是阻碍我们吗"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.19.choice.0",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "空欄のまま保留",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "暂留空白"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.19.choice.4904",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんはゆうかさんが死んだと考えた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          },
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见认为悠香已经死亡"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.19.choice.4907",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんはゆうかさんを生贄にささげた",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          },
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见将悠香作为活祭品献出"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.19.choice.4917",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんはゆうかさんに臓器移植を施す",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          },
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见为悠香进行器官移植"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.19.choice.4931",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんはゆうかさんの臓器を奪った",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          },
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见夺走了悠香的器官"
+        },
+        "notes": ""
+      },
+      {
+        "key": "logic.5.field.19.choice.4958",
+        "collection": "strings",
+        "kind": "relation-description",
+        "source": "人見さんはゆうかさんを治療した",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "yuka",
+            "source": [
+              "間宮",
+              "ゆうか"
+            ],
+            "preferred": "间宫悠香",
+            "avoid": [
+              "间宫由香"
+            ],
+            "note": "既有关键词 4738；其他同名人物不能机械替换。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          },
+          {
+            "id": "shikibu",
+            "source": [
+              "式部",
+              "人見"
+            ],
+            "preferred": "式部人见",
+            "avoid": [],
+            "note": "式部是姓，人见是名；按关系使用式部医生或人见小姐。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人见为悠香做了治疗"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4972",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "警部",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "警部"
+        },
+        "notes": "关键词「警部」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4956",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "僵尸",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "僵尸"
+        },
+        "notes": "关键词「僵尸」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4900",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "常世岛",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "常世岛"
+        },
+        "notes": "关键词「常世岛」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4975",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "哥哥",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "哥哥"
+        },
+        "notes": "关键词「哥哥」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4976",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "悠香女士",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "悠香"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4973",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "小暮先生",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [
+          {
+            "id": "kogure",
+            "source": [
+              "小暮"
+            ],
+            "preferred": "小暮宗一郎",
+            "avoid": [],
+            "note": "认真拘谨；小暮称风海前辈，旁白不倒置前后辈。不要每句套是也。",
+            "evidence": "localization/ZH_HANS_STYLE.md"
+          }
+        ],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "小暮先生"
+        },
+        "notes": "关键词「小暮先生」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4974",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "贺茂泉警部补",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "贺茂泉警部补"
+        },
+        "notes": "关键词「贺茂泉警部补」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4901",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "罢工",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "罢工"
+        },
+        "notes": "关键词「罢工」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4902",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "面具",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "口罩"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4903",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "游览胜地的旅馆",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "度假酒店"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4904",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "幽灵",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "幽灵"
+        },
+        "notes": "关键词「幽灵」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4905",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "医院",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "医院"
+        },
+        "notes": "关键词「医院」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4906",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "患者之魂",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "病人亡魂"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4907",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "土著宗教",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "本土宗教"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4908",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "经理",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "经理"
+        },
+        "notes": "关键词「经理」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4909",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "榆枝",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "榆枝"
+        },
+        "notes": "关键词「榆枝」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4911",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "常客",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "常客"
+        },
+        "notes": "关键词「常客」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4912",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "谷",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "谷"
+        },
+        "notes": "关键词「谷」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4913",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "作家",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "作家"
+        },
+        "notes": "关键词「作家」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4910",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "柿崎幸之助",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "柿崎幸之助"
+        },
+        "notes": "关键词「柿崎幸之助」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4914",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "单人房",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "单人房"
+        },
+        "notes": "关键词「单人房」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4915",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "配楼",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "附楼"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4916",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "海滨",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "海滨"
+        },
+        "notes": "关键词「海滨」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4961",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "流星号",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "流星号"
+        },
+        "notes": "关键词「流星号」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4917",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "器官移植",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "器官移植"
+        },
+        "notes": "关键词「器官移植」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4918",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "护士",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "护士"
+        },
+        "notes": "关键词「护士」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4920",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "福井",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "福井"
+        },
+        "notes": "关键词「福井」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4921",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "医生",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "医生"
+        },
+        "notes": "关键词「医生」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4919",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "七原望",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "七原望"
+        },
+        "notes": "关键词「七原望」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4922",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "刑事部机动搜查队队长",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "刑事部机动搜查队队长"
+        },
+        "notes": "关键词「刑事部机动搜查队队长」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4923",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "道明寺警视",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "道明寺警视"
+        },
+        "notes": "关键词「道明寺警视」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4924",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "方便",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "提供便利"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4965",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "阻碍",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "阻碍"
+        },
+        "notes": "关键词「阻碍」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      },
+      {
+        "key": "keywords.4962",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "策划",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "企图"
+        },
+        "notes": ""
+      },
+      {
+        "key": "keywords.4925",
+        "collection": "strings",
+        "kind": "keywords",
+        "source": "大野原刚",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "大野原刚"
+        },
+        "notes": "关键词「大野原刚」已有简体中文，保留姓名、职务或既定用语，与剧情对应。"
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      {
+        "key": "keywords.4972",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4956",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4900",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4975",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4973",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4974",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4901",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4904",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4905",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4908",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4909",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4911",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4912",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4913",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4910",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4914",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4916",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4961",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4917",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4918",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4920",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4921",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4919",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4922",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4923",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4965",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      },
+      {
+        "key": "keywords.4925",
+        "message": "Translation equals source; explain intentional retention",
+        "acknowledged": true
+      }
+    ],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}

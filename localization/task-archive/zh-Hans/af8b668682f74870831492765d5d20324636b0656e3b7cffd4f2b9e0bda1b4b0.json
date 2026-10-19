@@ -1,0 +1,281 @@
+{
+  "task": {
+    "version": 2,
+    "locale": "zh-Hans",
+    "entry": 40001,
+    "title": "最终话 · 流行り神",
+    "sourceSha256": "9a25d84e51c9faa2609d5f5a4db5659d74c79fec632a2f9e3d03e00ccd6edd79",
+    "gameSha256": "be27a899d14e86f4c5acb023ad8df8561f6bb92c0c249b48ea4214b734a7b37f",
+    "instructions": [
+      "Edit translation and notes only. Keep keys, source and baseHash unchanged.",
+      "Use complete scene context; adjacent corpus entries are representative observations, not an exhaustive route transcript.",
+      "Preserve all required refs, unknown speaker/subject, uncertainty and route-specific clues.",
+      "Warnings require a contextual note; imports remain draft. No API calls."
+    ],
+    "sourceCharacters": 3409,
+    "oversizeSingleEntry": false,
+    "entries": [
+      {
+        "key": "definitions.80",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "人間界をはなれて、山中に住み、不老不死・\n神変自在の法を集め、霞を食べて生きると\nいう空想上の人のこと。\n\n仏語では、外道の修行者で、世俗と交わり\nを断って山中に入り、諸道の法を修めて悟り\nを得た者のこと。 五神通など、神変自在の\n術をあやつるという。\n\nまた、道教での理想とする人間のことを\n言ったり、比喩的に浮世離れした人間を\nいうこともある。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "传说中远离人世、隐居山中，掌握长生不死与神通变化之法，餐霞而生的人。\n\n在佛教用语中，仙人指不属佛门的修行者：他们与世俗断绝往来，入山修习诸道，获得悟境，据说能运用五神通等变化自在的法术。\n\n仙人也指道教所追求的理想人物，有时还被用来比喻超然于尘世的人。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.163",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "人魚の肉",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人鱼之肉"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.163",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "上半身は人間、下半身は魚の姿をし、\n水中で暮らすと言われている、空想の生物。\n人魚のモデルになった生物はジュゴンで\nあるとの説があるが、これはジュゴンが前肢\nで子を抱き、立つようにして海面に浮く姿\nからの連想であろう。 またＵＦＯの目撃地点では、\n人魚も目撃したという情報も多く、\nそこから人魚は異星人によって作られた\n生物である———という見方もあるようだ。\n\n人魚にまつわる伝説は、洋の東西を問わず、\n数多く見受けられる。\n日本では食べれば不死の命を得られることで\n知られており、人魚の肉を食べて不死となる話は、\n日本全国に広まっている。 地方によって\n細部が異なるが、その大筋は以下のようになる。\n\n\nその昔、若狭の国の長者の娘が人魚の肉を\n食べたところ、いつまでも十七歳の若さを\n保った。 彼女は３９人の夫と結婚するが、\n自分だけ年を取らない事を嘆き尼となり、\n椿の花を手にして諸国遍歴の旅に出たと\n言う———。\n\nまた日本各地の寺院などには、古くから\n伝わる人魚のミイラが複数残されている。\nもっともこれらのほとんどは、猿の上半身と\n手頃な大きさの魚を組み合わせた贋物であり、\n江戸時代にはその専門家がいたほどに、\n数多く製作されてヨーロッパにまで\nて輸出されいた。\n\n西洋ではアンデルセンの「人魚姫」や、\nライン川に現れるローレライなどで知られている。\n\nローレライは美しい歌声で川をゆく船人達を\n惑わし、舵を取り損ねさせては船を水底に\n沈めてしまうという、恐ろしい伝説を持つ人魚。\nしかしその顔は金髪の\n美しい少女だと言われている。\n\n一般に人魚と言えば「マーメイド」と訳しがちだが、\nこれは若い女性の人魚のみを指す言葉。\n人魚全般は「マーフォーク」、\n男性の人魚は「マーマン」と呼ぶのが通例。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "人鱼，是传说中上半身为人、下半身为鱼，生活在水中的生物。有一种说法认为，人鱼的原型是儒艮，或许是因为儒艮用前肢抱着幼崽、仿佛直立般浮在海面的姿态，引发了人们的联想。也有不少传闻称，在目击ＵＦＯ的地点，同时有人看见了人鱼，因而又衍生出「人鱼是外星人创造的生物」这样的解释。\n\n无论东方还是西方，都有许多人鱼传说。在日本，人鱼因食其肉可得不死之身而闻名，类似故事传遍各地。细节虽因地域而异，大致情节如下。\n\n从前，若狭国一位富户的女儿吃了人鱼肉，从此永远保持十七岁的容貌。她先后嫁过３９位丈夫，却因只有自己不会衰老而悲伤，最终出家为尼，手持山茶花，踏上游历诸国的旅途。\n\n日本各地的寺院中，也留存着多具据说自古传下的人鱼干尸。不过，其中大多是把猴子的上半身与大小合适的鱼拼在一起的赝品。江户时代甚至有专门制作这种东西的匠人，成品数量众多，还远销欧洲。\n\n西方的人鱼，则以安徒生的《海的女儿》，以及出现在莱茵河的罗蕾莱等形象著称。\n罗蕾莱拥有一则可怕的传说：她用美妙歌声迷惑过往船员，使他们失去对船舵的控制，最终葬身河底。但据说，她却有着金发少女般美丽的容貌。\n\n一般提到人鱼，人们常会想到英语 mermaid，但这个词只指年轻的女性人鱼。人鱼一族通常称为 merfolk，男性人鱼则称为 merman。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.164",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "徐福伝説",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "徐福传说"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.164",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "秦の方士（神仙の術、方術を行う人）。\n童男童女をもって探しに行けば不死の薬を\n求めることが出来ると言い、始皇帝は民間から\n童男童女数千人を探し出し、徐福に率いさせ\n海上に仙人を探させたが、一行は二度と帰ること\nがなかった……。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "徐福是秦朝的方士，也就是修习神仙之术与方术的人。\n他声称，若带着童男童女出海寻访，便能求得不死之药。于是，秦始皇从民间征集数千名童男童女，交由徐福率领，出海寻找仙人。然而，这支队伍从此再也没有归来……"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.81",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "マッドサイエンティスト",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "疯狂科学家"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.81",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "常軌を逸した考えを持つ狂った科学者のこと\nをいう。 『フランケンシュタインあるいは現代\nのプロメテウス』に登場する、人造人間を作っ\nたヴィクター・フランケンシュタイン博士などが\nそれに当たる。 彼は安易に、禁じられた実験を\n行う。 生命を操り、神の領域を侵すといった\n常軌を逸脱した思考、思想を持つ典型と\n言えるだろう。 そのような生命の創造や操作に\n対するマッドサイエンティストの挑戦は、\nその原型を錬金術時代の数々の伝説の中に\n見ることも出来る。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "指抱有超乎常理的思想、陷入疯狂的科学家。《弗兰肯斯坦，或现代普罗米修斯》中创造人造人的维克多·弗兰肯斯坦博士，就是其中的典型。他轻率地涉足禁忌实验，妄图操纵生命、侵入神的领域，体现了这种越出常轨的思维。\n疯狂科学家对于创造、操控生命的挑战，其原型也可以在炼金术时代的诸多传说中找到。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.178",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "呪術",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "咒术"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.178",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "獲物の増加や豊作を祈るとき、病気を治すとき、\nそして政敵を殺そうとするとき。\nそれら全てで呪術が使われてきたという。\n日本において代表的な呪術には、\n以下のものがある。\n\n密教系呪術…本格的な呪法のひとつで、\nインドのヒンドゥー教の影響を受けている。\n仏教の一流派であり、仏教の教説中、\n最高深秘とされる。 人間が身体と口と意の\n３つを通じて仏尊と交流し、その加護を受けて\n即身成仏することを目的とする思想をもつ。\n\n陰陽道系呪術…古代中国の陰陽五行説を\n基にした呪法で、日本には６世紀頃に伝来した\nとされている。 天文、暦数、占筮、相地を\n扱い、吉凶禍福を察して祭祀や方術を行い\n災禍を避けたり、呪詛や呪殺を含む呪いまで\n行われていたという。 有名な陰陽師として、\n安倍晴明が挙げられる。\n\nまた、丑の刻参りや願掛けも呪術のひとつである。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "祈求猎物繁衍或五谷丰登时，治疗疾病时，乃至企图杀死政敌时，人们都曾诉诸咒术。日本具有代表性的咒术，主要有以下几类。\n\n密教系咒术：一种体系完备的咒法，受到印度教影响。密教属于佛教的一支，其教义被视为最高深的秘密教法。修行者通过身、口、意这３者与佛尊相通，祈求加护，追求即身成佛。\n\n阴阳道系咒术：以中国古代的阴阳五行说为基础，据说于６世纪前后传入日本。它涵盖天文、历数、占筮与相地，通过判断吉凶祸福，举行祭祀、施行方术，以避开灾祸。据说也会施展诅咒乃至咒杀。著名的阴阳师，便有安倍晴明。\n\n此外，丑时参拜与许愿祈求，也属于咒术的一种。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.198",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "医療ミスに関する都市伝説",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "关于医疗事故的都市传说"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.198",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "右の肺にガンの見つかった５０代の男性が、\n執刀医の誤りで健康な左の肺を切り取られて\nしまった。 原因は、医師がレントゲン写真を\n裏表逆さまに見ていたからだった。\nこの患者はしばらく入院していたが、\nやがて亡くなってしまった。\n遺族には膨大な慰謝料が支払われたという。\n\nこのような医療ミスに関する都市伝説の\n最近の傾向として、大病院の名を盛り込み\n流布するケースが増えている。 実際にミスの\n発覚した病院が採用されることが多い。\n例えば、患者取り違えで有名になった\n某Ｔ大付属病院。\n\nとある高齢入院患者が、点滴を打たれて間も\nなく苦しみ出した。 ナースコールで駆け付けた\n数人の女性看護師の中に師長がいた。\n彼女は点滴のラベルを見るや青ざめ、\nすぐさま針をはずし\n「これ、どこかにしまっちゃって！」と、\n若い女性看護師に指示したという。\nその後、老人には別の点滴が打たれたものの、\n翌日、突然亡くなってしまった。\n師長は家族の人達がやってきたとき\n「かなりのご高齢でしたからね……」と\n空々しい口調で話していたらしい。\n\nこの種の医療に関する都市伝説が\n絶えないのは、昨今報道されている医師不足と\n看護師の労働環境の劣悪化にあるとも言える。\n全国には、医師が極度に不足している地域や、\n放漫経営によって破綻する病院の話に暇がない。\nまた一方には歯科医が飽和傾向にあり、\n一説によると全国のコンビニエンスストアの\n数より多い為、厳しい競争のあまり、\nおよそ人間的でない営業形態をとっている\nケースもあるようだ。 生命を扱う分野であるにも\n関わらず、このような社会不安を煽るような\n事態にあって、医療に関する都市伝説が\n形成される環境要因は充分に完成していると\nいえよう。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "一位５０多岁的男性，右肺被查出癌症，主刀医生却误将健康的左肺切掉。原因竟是医生把Ｘ光片的正反面看反了。病人又住了一段时间院，最终还是去世了。据说，遗属获得了巨额赔偿。\n\n近年来，这类关于医疗事故的都市传说，越来越常把大型医院的名字编进故事里。被借用的，往往是现实中确实曝光过医疗失误的医院。例如，某家因弄错患者身份而出名的Ｔ大学附属医院。\n\n一位年迈住院患者输液后不久，便痛苦起来。几名女护士听到呼叫赶来，护士长也在其中。她一看输液瓶的标签，脸色顿时变了，立刻拔掉针头，吩咐年轻护士：\n「快把这个收起来！」\n后来，老人换了一瓶输液，却在次日突然死亡。家属赶来时，护士长还故作自然地说：\n「毕竟年纪已经很大了嘛……」\n\n这类医疗传闻之所以层出不穷，或许也与近年来有关医生短缺、护士工作环境恶化的报道有关。各地时常传出医生严重不足，或医院因经营失当而破产的消息。另一方面，牙医却趋于饱和；有说法称，牙科诊所比全国便利店还多，激烈竞争之下，有些经营方式甚至显得不近人情。\n明明是关乎生命的领域，却接连出现令人不安的状况。可以说，滋生医疗都市传说的土壤，已经十分充足。"
+        },
+        "notes": ""
+      },
+      {
+        "key": "terms.82",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "トラウマ",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "心理创伤"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.82",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "心的外傷。\n心理的意味での損傷体験をさす言葉。\nフロイトとプロイエルによる『ヒステリーの研究』の\n中でこの単語が初めて使われた。 心的外傷は、\n心理的刺激により、心のバランスを失うほど強力\nな情緒的ショックが与えられた時、無意識のうち\nに心の中に残る痕跡である。 自我はそのような\n心的外傷を無意識内へと抑圧しようとするので、\n抑圧された心的外傷は特定の情動と結びついて\nコンプレックスを生み出す。 過去の特異な\n体験が、恐怖や不安、悲哀等の感情を伴って、\nその後の精神生活に悪影響を及ぼし、日常生活\nにおいては、神経症状を示すことがある。\n心的外傷と言うと、目には見えないものの\nように錯覚してしまいがちだが、実際には\n脳神経系に非可逆的なダメージを与えている。\nその為、海外では一般の傷害罪より\nも重罪と見做すことが多い。\n\nまた、トラウマが元で引き起こされる症状に、\n心的外傷後ストレス障害、通称ＰＴＳＤと\n急性ストレス障害、通称ＡＳＤがある。\nトラウマとなる出来事から４週間以内に、\n症状が自然治癒するものがＡＳＤ、それ以上\n続く場合はＰＴＳＤを考慮した診察となる。\n\nベトナム戦争をきっかけに広く知れ渡った\nこれらの症状は、現在大規模災害や犯罪\n被害者などにも同様の診断が下されるよう\nになっている。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "又称心灵创伤，指在心理层面留下损伤的经历。原词条将这个概念的使用，追溯到弗洛伊德与布洛伊尔合著的《癔症研究》。\n当心理刺激带来的情绪冲击强烈到足以破坏内心平衡时，便可能在无意识中留下痕迹。按照这一精神分析的解释，自我会试图将创伤压抑到无意识之中，而被压抑的创伤又会与特定情绪相连，形成情结。过去的特殊经历，可能伴随恐惧、不安或悲伤，持续影响此后的精神生活，并在日常生活中表现为神经症状。\n原词条强调，心理创伤并不只是「看不见的伤」，还称它会对脑神经系统造成不可逆的损害，并称海外常据此将相关行为视为比普通伤害更重的罪行。\n\n由创伤引发的症状，包括创伤后应激障碍，简称ＰＴＳＤ，以及急性应激障碍，简称ＡＳＤ。原词条以事件发生后４周为界：在此期间症状自然消退的归为ＡＳＤ，持续更久则考虑按ＰＴＳＤ进行诊察。\n\n这些症状因越南战争而广为人知，如今也被用于评估重大灾害幸存者与犯罪受害者等群体的创伤反应。"
+        },
+        "notes": "源文把不可逆神经损害、海外量刑及４周诊断界线概括得过满；保留时代背景并明确是原词条表述，不将其冒充现行临床诊断规范。"
+      },
+      {
+        "key": "terms.83",
+        "collection": "strings",
+        "kind": "terms",
+        "source": "コピーキャット",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "模仿犯"
+        },
+        "notes": ""
+      },
+      {
+        "key": "definitions.83",
+        "collection": "strings",
+        "kind": "definitions",
+        "source": "コピーキャットとは人まねするものを言う。\nコピーキャット犯罪とは、メディアで放送されたり、\n書かれたりして騒動となった事件を真似て、\n犯罪を犯すことをいう。\nいわゆる模倣犯の事だが、近年の特徴として、\n最初の事件とコピーキャット事例のタイムラグが\nどんどん短くなってきていることだ。\n一度に広範囲に情報を流布する事が出来る\nメディア社会が成立している「負の恩恵」の\n象徴とも言える。\n例えば、振り込め詐欺などはその典型で\nあり、その注意を喚起しようと報道をされ、\nいくつものグループが逮捕されたにも関わらず、\nその根絶の様相はまだ見えない。 同様に、\n若年者の脅迫自殺（「○○をやめないと\n自殺する」など）、違法なマルチ商法、\n凶悪異常犯罪後の類似事件なども\nコピーキャットと考えられるだろう。\n何故このような事が起きるのか。\nそれはいくつかに分けられる。\nそれは参考とした原犯罪の犯人に\n罪を被らせようとする場合、\n「自分ならもっと上手くやれる」と対抗心を\n触発される場合だ。",
+        "baseHash": null,
+        "location": {},
+        "requiredRefs": [],
+        "glossary": [],
+        "context": [],
+        "contextNotice": "No adjacent observed context; investigate source/route before translating.",
+        "previousTranslation": null,
+        "translation": {
+          "text": "Copycat，意为模仿他人的人。所谓模仿犯罪，是指仿照经媒体播报、刊载并引起轰动的案件，再次实施犯罪。\n近年来，这类犯罪的一个特点，是原案与模仿事件之间的时间差越来越短。媒体能够瞬间将信息传播到广阔范围，这也可以说是媒体社会所带来的某种「负面恩惠」。\n例如，汇款诈骗便是典型。尽管媒体不断报道、提醒公众防范，也有多个团伙落网，却仍看不到根绝的迹象。同样，年轻人以自杀相威胁——例如「你再不停止某某行为，我就自杀」——以及非法传销、恶性异常犯罪发生后的类似案件，也可能属于模仿现象。\n为什么会出现这种事？原因不止一种。有的人想把自己的罪行嫁祸给原案凶手，也有人被激起了竞争心，觉得「换成我，一定能做得更高明」。"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [],
+    "canApply": true,
+    "editorialStatus": "draft; structural checks are not narrative review"
+  }
+}
