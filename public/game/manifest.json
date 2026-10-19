@@ -1,0 +1,2913 @@
+{
+  "schemaVersion": 1,
+  "metadata": {
+    "BOOTABLE": 1,
+    "CATEGORY": "UG",
+    "DISC_ID": "ULJS00149",
+    "DISC_NUMBER": 1,
+    "DISC_TOTAL": 1,
+    "DISC_VERSION": "1.02",
+    "PARENTAL_LEVEL": 7,
+    "PSP_SYSTEM_VER": "3.95",
+    "REGION": 32768,
+    "TITLE": "流行之神２携帶版　　　　　"
+  },
+  "dataSha256": "c058a009bfb7b1e9ffedbb48b037d577ff965cfa2b9fabc9c8868c2c7e6b87e5",
+  "dataSize": 264896512,
+  "archiveOffset": 253296640,
+  "entries": [
+    {
+      "name": "anm0000.dat",
+      "offset": 253298688,
+      "size": 357040,
+      "stamp": 953315793
+    },
+    {
+      "name": "background.png",
+      "offset": 253657088,
+      "size": 149328,
+      "stamp": 944334712
+    },
+    {
+      "name": "FontA.fnt",
+      "offset": 253806592,
+      "size": 23232,
+      "stamp": 944918203
+    },
+    {
+      "name": "FontA.ftd",
+      "offset": 253831168,
+      "size": 23232,
+      "stamp": 942772713
+    },
+    {
+      "name": "FontA0.ftx",
+      "offset": 253855744,
+      "size": 360464,
+      "stamp": 953315791
+    },
+    {
+      "name": "FontA1.ftx",
+      "offset": 254218240,
+      "size": 1518672,
+      "stamp": 953315792
+    },
+    {
+      "name": "FontA2.ftx",
+      "offset": 255737856,
+      "size": 232016,
+      "stamp": 953315792
+    },
+    {
+      "name": "FontB.fnt",
+      "offset": 255971328,
+      "size": 23232,
+      "stamp": 944918203
+    },
+    {
+      "name": "FontB.ftd",
+      "offset": 255995904,
+      "size": 23232,
+      "stamp": 944918203
+    },
+    {
+      "name": "FontB0.ftx",
+      "offset": 256020480,
+      "size": 359504,
+      "stamp": 953315792
+    },
+    {
+      "name": "FontB1.ftx",
+      "offset": 256380928,
+      "size": 1518672,
+      "stamp": 953315792
+    },
+    {
+      "name": "FontB2.ftx",
+      "offset": 257900544,
+      "size": 232016,
+      "stamp": 953315793
+    },
+    {
+      "name": "jis2ucs.bin",
+      "offset": 258134016,
+      "size": 131072,
+      "stamp": 844138525
+    },
+    {
+      "name": "keyword.dat",
+      "offset": 258265088,
+      "size": 18966,
+      "stamp": 953316489
+    },
+    {
+      "name": "logic.dat",
+      "offset": 258285568,
+      "size": 99956,
+      "stamp": 953316489
+    },
+    {
+      "name": "logicbg.txp",
+      "offset": 258385920,
+      "size": 8208,
+      "stamp": 953315777
+    },
+    {
+      "name": "logicmask.txp",
+      "offset": 258396160,
+      "size": 16400,
+      "stamp": 953315777
+    },
+    {
+      "name": "OccultFile.dat",
+      "offset": 258414592,
+      "size": 238156,
+      "stamp": 953316490
+    },
+    {
+      "name": "OFBG0.txp",
+      "offset": 258654208,
+      "size": 65296,
+      "stamp": 953315777
+    },
+    {
+      "name": "OFCard.txp",
+      "offset": 258719744,
+      "size": 11920,
+      "stamp": 953315777
+    },
+    {
+      "name": "playsave.png",
+      "offset": 258732032,
+      "size": 25048,
+      "stamp": 948072570
+    },
+    {
+      "name": "Selecter.dat",
+      "offset": 258758656,
+      "size": 800,
+      "stamp": 953316489
+    },
+    {
+      "name": "Selecter0.txp",
+      "offset": 258760704,
+      "size": 19472,
+      "stamp": 953315786
+    },
+    {
+      "name": "Selecter1.txp",
+      "offset": 258781184,
+      "size": 19472,
+      "stamp": 953315786
+    },
+    {
+      "name": "Selecter2.txp",
+      "offset": 258801664,
+      "size": 19472,
+      "stamp": 953315786
+    },
+    {
+      "name": "Selecter3.txp",
+      "offset": 258822144,
+      "size": 19472,
+      "stamp": 953315786
+    },
+    {
+      "name": "Selecter4.txp",
+      "offset": 258842624,
+      "size": 19472,
+      "stamp": 953315786
+    },
+    {
+      "name": "Selecter5.txp",
+      "offset": 258863104,
+      "size": 19472,
+      "stamp": 953315786
+    },
+    {
+      "name": "Selecter6.txp",
+      "offset": 258883584,
+      "size": 19472,
+      "stamp": 953315786
+    },
+    {
+      "name": "Selecter7.txp",
+      "offset": 258904064,
+      "size": 19472,
+      "stamp": 953315786
+    },
+    {
+      "name": "Selecter8.txp",
+      "offset": 258924544,
+      "size": 19472,
+      "stamp": 953315786
+    },
+    {
+      "name": "SelecterC.txp",
+      "offset": 258945024,
+      "size": 32784,
+      "stamp": 953315786
+    },
+    {
+      "name": "sndparts.txp",
+      "offset": 258979840,
+      "size": 16400,
+      "stamp": 953315777
+    },
+    {
+      "name": "static_se.pbd",
+      "offset": 258998272,
+      "size": 872912,
+      "stamp": 943633925
+    },
+    {
+      "name": "static_se.phd",
+      "offset": 259872768,
+      "size": 8228,
+      "stamp": 943633925
+    },
+    {
+      "name": "story.dat",
+      "offset": 259883008,
+      "size": 4637052,
+      "stamp": 953918483
+    },
+    {
+      "name": "story.did",
+      "offset": 264521728,
+      "size": 219324,
+      "stamp": 953918483
+    },
+    {
+      "name": "SYS2.txp",
+      "offset": 264742912,
+      "size": 65552,
+      "stamp": 953315777
+    },
+    {
+      "name": "systemsave.png",
+      "offset": 264810496,
+      "size": 26585,
+      "stamp": 948072590
+    },
+    {
+      "name": "txtwnd.txp",
+      "offset": 264837120,
+      "size": 1040,
+      "stamp": 953315777
+    },
+    {
+      "name": "wbg0.txp",
+      "offset": 264839168,
+      "size": 4112,
+      "stamp": 953315777
+    },
+    {
+      "name": "wbg1.txp",
+      "offset": 264845312,
+      "size": 4112,
+      "stamp": 953315777
+    },
+    {
+      "name": "wbg2.txp",
+      "offset": 264851456,
+      "size": 4112,
+      "stamp": 953315777
+    },
+    {
+      "name": "wfm0.txp",
+      "offset": 264857600,
+      "size": 9232,
+      "stamp": 953315777
+    },
+    {
+      "name": "wfm1.txp",
+      "offset": 264867840,
+      "size": 9232,
+      "stamp": 953315777
+    },
+    {
+      "name": "wfm2.txp",
+      "offset": 264878080,
+      "size": 9232,
+      "stamp": 953315777
+    }
+  ],
+  "storyRecordCount": 2120,
+  "keywords": [
+    {
+      "id": 4600,
+      "text": "小暮宗一郎",
+      "offset": 12136,
+      "uncertain": false
+    },
+    {
+      "id": 4601,
+      "text": "博彩",
+      "offset": 12170,
+      "uncertain": false
+    },
+    {
+      "id": 4603,
+      "text": "同学",
+      "offset": 12186,
+      "uncertain": false
+    },
+    {
+      "id": 4604,
+      "text": "初恋",
+      "offset": 12198,
+      "uncertain": false
+    },
+    {
+      "id": 4605,
+      "text": "春日雪乃",
+      "offset": 12208,
+      "uncertain": false
+    },
+    {
+      "id": 4606,
+      "text": "自殺",
+      "offset": 12234,
+      "uncertain": false
+    },
+    {
+      "id": 4607,
+      "text": "後援会",
+      "offset": 12244,
+      "uncertain": false
+    },
+    {
+      "id": 4608,
+      "text": "美術部",
+      "offset": 12262,
+      "uncertain": false
+    },
+    {
+      "id": 4609,
+      "text": "柔道部",
+      "offset": 12274,
+      "uncertain": false
+    },
+    {
+      "id": 4610,
+      "text": "日本画",
+      "offset": 12286,
+      "uncertain": false
+    },
+    {
+      "id": 4611,
+      "text": "画廊",
+      "offset": 12298,
+      "uncertain": false
+    },
+    {
+      "id": 4612,
+      "text": "蕎麦過敏",
+      "offset": 12308,
+      "uncertain": false
+    },
+    {
+      "id": 4613,
+      "text": "神符",
+      "offset": 12332,
+      "uncertain": false
+    },
+    {
+      "id": 4614,
+      "text": "女人的画像",
+      "offset": 12342,
+      "uncertain": false
+    },
+    {
+      "id": 4615,
+      "text": "犬童蘭子",
+      "offset": 12360,
+      "uncertain": false
+    },
+    {
+      "id": 4616,
+      "text": "雨月霜苑",
+      "offset": 12388,
+      "uncertain": false
+    },
+    {
+      "id": 4617,
+      "text": "春日圭一",
+      "offset": 12416,
+      "uncertain": false
+    },
+    {
+      "id": 4618,
+      "text": "賀茂泉冨薇",
+      "offset": 12444,
+      "uncertain": false
+    },
+    {
+      "id": 4619,
+      "text": "貧血",
+      "offset": 12472,
+      "uncertain": false
+    },
+    {
+      "id": 4620,
+      "text": "幽霊",
+      "offset": 12482,
+      "uncertain": false
+    },
+    {
+      "id": 4621,
+      "text": "観測者",
+      "offset": 12492,
+      "uncertain": false
+    },
+    {
+      "id": 4622,
+      "text": "科捜研",
+      "offset": 12504,
+      "uncertain": false
+    },
+    {
+      "id": 4623,
+      "text": "犯罪心理画像",
+      "offset": 12516,
+      "uncertain": false
+    },
+    {
+      "id": 4624,
+      "text": "隣居",
+      "offset": 12538,
+      "uncertain": false
+    },
+    {
+      "id": 4626,
+      "text": "古関太太的女児",
+      "offset": 12552,
+      "uncertain": false
+    },
+    {
+      "id": 4627,
+      "text": "今村浩二",
+      "offset": 12574,
+      "uncertain": false
+    },
+    {
+      "id": 4628,
+      "text": "古関静江",
+      "offset": 12602,
+      "uncertain": false
+    },
+    {
+      "id": 4629,
+      "text": "古関和子",
+      "offset": 12628,
+      "uncertain": false
+    },
+    {
+      "id": 4630,
+      "text": "小修",
+      "offset": 12654,
+      "uncertain": false
+    },
+    {
+      "id": 4631,
+      "text": "詛呪",
+      "offset": 12668,
+      "uncertain": false
+    },
+    {
+      "id": 4632,
+      "text": "心衰竭",
+      "offset": 12678,
+      "uncertain": false
+    },
+    {
+      "id": 4633,
+      "text": "餓死",
+      "offset": 12690,
+      "uncertain": false
+    },
+    {
+      "id": 4634,
+      "text": "失踪",
+      "offset": 12700,
+      "uncertain": false
+    },
+    {
+      "id": 4635,
+      "text": "脅同自殺",
+      "offset": 12710,
+      "uncertain": false
+    },
+    {
+      "id": 4636,
+      "text": "黒闇天",
+      "offset": 12724,
+      "uncertain": false
+    },
+    {
+      "id": 4637,
+      "text": "吉祥天",
+      "offset": 12748,
+      "uncertain": false
+    },
+    {
+      "id": 4638,
+      "text": "窮神",
+      "offset": 12774,
+      "uncertain": false
+    },
+    {
+      "id": 4639,
+      "text": "恋人",
+      "offset": 12786,
+      "uncertain": false
+    },
+    {
+      "id": 4640,
+      "text": "隠刃",
+      "offset": 12796,
+      "uncertain": false
+    },
+    {
+      "id": 4641,
+      "text": "伝聞",
+      "offset": 12814,
+      "uncertain": false
+    },
+    {
+      "id": 4642,
+      "text": "腎病",
+      "offset": 12822,
+      "uncertain": false
+    },
+    {
+      "id": 4643,
+      "text": "右坩",
+      "offset": 12838,
+      "uncertain": false
+    },
+    {
+      "id": 4644,
+      "text": "２０２号房",
+      "offset": 12848,
+      "uncertain": false
+    },
+    {
+      "id": 4645,
+      "text": "中上律子",
+      "offset": 12864,
+      "uncertain": false
+    },
+    {
+      "id": 4646,
+      "text": "小野佃晶",
+      "offset": 12888,
+      "uncertain": false
+    },
+    {
+      "id": 4647,
+      "text": "小野佃昭江",
+      "offset": 12916,
+      "uncertain": false
+    },
+    {
+      "id": 4648,
+      "text": "城崎豊",
+      "offset": 12946,
+      "uncertain": false
+    },
+    {
+      "id": 4649,
+      "text": "目的是保険金",
+      "offset": 12972,
+      "uncertain": false
+    },
+    {
+      "id": 4650,
+      "text": "家庭暴力",
+      "offset": 12990,
+      "uncertain": false
+    },
+    {
+      "id": 4651,
+      "text": "争禦",
+      "offset": 13000,
+      "uncertain": false
+    },
+    {
+      "id": 4652,
+      "text": "事故",
+      "offset": 13012,
+      "uncertain": false
+    },
+    {
+      "id": 4653,
+      "text": "胃薬",
+      "offset": 13022,
+      "uncertain": false
+    },
+    {
+      "id": 4654,
+      "text": "戦後",
+      "offset": 13032,
+      "uncertain": false
+    },
+    {
+      "id": 4655,
+      "text": "敏感",
+      "offset": 13042,
+      "uncertain": false
+    },
+    {
+      "id": 4656,
+      "text": "幻聴",
+      "offset": 13058,
+      "uncertain": false
+    },
+    {
+      "id": 4657,
+      "text": "相思病",
+      "offset": 13068,
+      "uncertain": false
+    },
+    {
+      "id": 4658,
+      "text": "黒衣女",
+      "offset": 13090,
+      "uncertain": false
+    },
+    {
+      "id": 4659,
+      "text": "顔料",
+      "offset": 13102,
+      "uncertain": false
+    },
+    {
+      "id": 4660,
+      "text": "贋品",
+      "offset": 13112,
+      "uncertain": false
+    },
+    {
+      "id": 4661,
+      "text": "毒素",
+      "offset": 13122,
+      "uncertain": false
+    },
+    {
+      "id": 4662,
+      "text": "願望",
+      "offset": 13132,
+      "uncertain": false
+    },
+    {
+      "id": 4663,
+      "text": "俣痕",
+      "offset": 13142,
+      "uncertain": false
+    },
+    {
+      "id": 4664,
+      "text": "死神",
+      "offset": 13154,
+      "uncertain": false
+    },
+    {
+      "id": 4665,
+      "text": "巴",
+      "offset": 13164,
+      "uncertain": false
+    },
+    {
+      "id": 4666,
+      "text": "人性",
+      "offset": 13178,
+      "uncertain": false
+    },
+    {
+      "id": 4667,
+      "text": "鬼哭寺",
+      "offset": 13190,
+      "uncertain": false
+    },
+    {
+      "id": 4668,
+      "text": "血液",
+      "offset": 13210,
+      "uncertain": false
+    },
+    {
+      "id": 4669,
+      "text": "魂",
+      "offset": 13220,
+      "uncertain": false
+    },
+    {
+      "id": 4670,
+      "text": "他殺",
+      "offset": 13228,
+      "uncertain": false
+    },
+    {
+      "id": 4671,
+      "text": "住持",
+      "offset": 13238,
+      "uncertain": false
+    },
+    {
+      "id": 4700,
+      "text": "小暮",
+      "offset": 13248,
+      "uncertain": false
+    },
+    {
+      "id": 4701,
+      "text": "予知夢",
+      "offset": 13258,
+      "uncertain": false
+    },
+    {
+      "id": 4702,
+      "text": "犬童",
+      "offset": 13270,
+      "uncertain": false
+    },
+    {
+      "id": 4703,
+      "text": "賀茂泉冨薇",
+      "offset": 13280,
+      "uncertain": false
+    },
+    {
+      "id": 4705,
+      "text": "愛操心",
+      "offset": 13298,
+      "uncertain": false
+    },
+    {
+      "id": 4706,
+      "text": "戦戦沖沖",
+      "offset": 13310,
+      "uncertain": false
+    },
+    {
+      "id": 4707,
+      "text": "被寅踪狂騒擾",
+      "offset": 13324,
+      "uncertain": false
+    },
+    {
+      "id": 4708,
+      "text": "動物観察",
+      "offset": 13344,
+      "uncertain": false
+    },
+    {
+      "id": 4709,
+      "text": "書信",
+      "offset": 13358,
+      "uncertain": false
+    },
+    {
+      "id": 4710,
+      "text": "単身生活",
+      "offset": 13368,
+      "uncertain": false
+    },
+    {
+      "id": 4711,
+      "text": "血書",
+      "offset": 13384,
+      "uncertain": false
+    },
+    {
+      "id": 4712,
+      "text": "血液恐惧症",
+      "offset": 13396,
+      "uncertain": false
+    },
+    {
+      "id": 4713,
+      "text": "父親",
+      "offset": 13412,
+      "uncertain": false
+    },
+    {
+      "id": 4714,
+      "text": "寅踪狂",
+      "offset": 13426,
+      "uncertain": false
+    },
+    {
+      "id": 4715,
+      "text": "解夢",
+      "offset": 13442,
+      "uncertain": false
+    },
+    {
+      "id": 4716,
+      "text": "宮本舞",
+      "offset": 13454,
+      "uncertain": false
+    },
+    {
+      "id": 4718,
+      "text": "管理員",
+      "offset": 13478,
+      "uncertain": false
+    },
+    {
+      "id": 4719,
+      "text": "伯父",
+      "offset": 13490,
+      "uncertain": false
+    },
+    {
+      "id": 4720,
+      "text": "曽我哲治",
+      "offset": 13500,
+      "uncertain": false
+    },
+    {
+      "id": 4721,
+      "text": "壷生",
+      "offset": 13524,
+      "uncertain": false
+    },
+    {
+      "id": 4722,
+      "text": "青梅竹馬",
+      "offset": 13534,
+      "uncertain": false
+    },
+    {
+      "id": 4723,
+      "text": "表姉妹",
+      "offset": 13548,
+      "uncertain": false
+    },
+    {
+      "id": 4724,
+      "text": "男客人",
+      "offset": 13560,
+      "uncertain": false
+    },
+    {
+      "id": 4725,
+      "text": "名士",
+      "offset": 13572,
+      "uncertain": false
+    },
+    {
+      "id": 4726,
+      "text": "狂言",
+      "offset": 13582,
+      "uncertain": false
+    },
+    {
+      "id": 4729,
+      "text": "娼言",
+      "offset": 13592,
+      "uncertain": false
+    },
+    {
+      "id": 4730,
+      "text": "野上和志",
+      "offset": 13600,
+      "uncertain": false
+    },
+    {
+      "id": 4731,
+      "text": "東京都議員",
+      "offset": 13626,
+      "uncertain": false
+    },
+    {
+      "id": 4732,
+      "text": "宮本篤",
+      "offset": 13642,
+      "uncertain": false
+    },
+    {
+      "id": 4733,
+      "text": "親子",
+      "offset": 13668,
+      "uncertain": false
+    },
+    {
+      "id": 4734,
+      "text": "醜聞",
+      "offset": 13678,
+      "uncertain": false
+    },
+    {
+      "id": 4735,
+      "text": "恐嚇信",
+      "offset": 13696,
+      "uncertain": false
+    },
+    {
+      "id": 4736,
+      "text": "寵物",
+      "offset": 13708,
+      "uncertain": false
+    },
+    {
+      "id": 4737,
+      "text": "式部人見",
+      "offset": 13720,
+      "uncertain": false
+    },
+    {
+      "id": 4738,
+      "text": "間宮悠香",
+      "offset": 13746,
+      "uncertain": false
+    },
+    {
+      "id": 4739,
+      "text": "霧崎水明",
+      "offset": 13768,
+      "uncertain": false
+    },
+    {
+      "id": 4740,
+      "text": "強迫症",
+      "offset": 13798,
+      "uncertain": false
+    },
+    {
+      "id": 4741,
+      "text": "窃聴",
+      "offset": 13812,
+      "uncertain": false
+    },
+    {
+      "id": 4742,
+      "text": "草壁太一",
+      "offset": 13822,
+      "uncertain": false
+    },
+    {
+      "id": 4743,
+      "text": "若菜",
+      "offset": 13850,
+      "uncertain": false
+    },
+    {
+      "id": 4745,
+      "text": "目撃",
+      "offset": 13860,
+      "uncertain": false
+    },
+    {
+      "id": 4746,
+      "text": "兇殺事件",
+      "offset": 13870,
+      "uncertain": false
+    },
+    {
+      "id": 4747,
+      "text": "友人与恋人之間",
+      "offset": 13884,
+      "uncertain": false
+    },
+    {
+      "id": 4748,
+      "text": "ＪＯＦ事件",
+      "offset": 13906,
+      "uncertain": false
+    },
+    {
+      "id": 4749,
+      "text": "中断",
+      "offset": 13922,
+      "uncertain": false
+    },
+    {
+      "id": 4750,
+      "text": "時効",
+      "offset": 13932,
+      "uncertain": false
+    },
+    {
+      "id": 4751,
+      "text": "穿黒雨衣的人",
+      "offset": 13942,
+      "uncertain": false
+    },
+    {
+      "id": 4752,
+      "text": "原刑警",
+      "offset": 13964,
+      "uncertain": false
+    },
+    {
+      "id": 4753,
+      "text": "辞職",
+      "offset": 13976,
+      "uncertain": false
+    },
+    {
+      "id": 4754,
+      "text": "神符",
+      "offset": 13986,
+      "uncertain": false
+    },
+    {
+      "id": 4755,
+      "text": "選挙",
+      "offset": 13996,
+      "uncertain": false
+    },
+    {
+      "id": 4757,
+      "text": "恋慕",
+      "offset": 14006,
+      "uncertain": false
+    },
+    {
+      "id": 4758,
+      "text": "表演性人格障碍",
+      "offset": 14016,
+      "uncertain": false
+    },
+    {
+      "id": 4759,
+      "text": "網球",
+      "offset": 14036,
+      "uncertain": false
+    },
+    {
+      "id": 4760,
+      "text": "道明寺秋彦",
+      "offset": 14048,
+      "uncertain": false
+    },
+    {
+      "id": 4761,
+      "text": "附身",
+      "offset": 14084,
+      "uncertain": false
+    },
+    {
+      "id": 4762,
+      "text": "喪失記憶",
+      "offset": 14094,
+      "uncertain": false
+    },
+    {
+      "id": 4763,
+      "text": "双重人格",
+      "offset": 14108,
+      "uncertain": false
+    },
+    {
+      "id": 4764,
+      "text": "原形不明",
+      "offset": 14122,
+      "uncertain": false
+    },
+    {
+      "id": 4765,
+      "text": "監視",
+      "offset": 14136,
+      "uncertain": false
+    },
+    {
+      "id": 4766,
+      "text": "圧力",
+      "offset": 14146,
+      "uncertain": false
+    },
+    {
+      "id": 4767,
+      "text": "不関心",
+      "offset": 14156,
+      "uncertain": false
+    },
+    {
+      "id": 4768,
+      "text": "輪換",
+      "offset": 14168,
+      "uncertain": false
+    },
+    {
+      "id": 4769,
+      "text": "自導自演",
+      "offset": 14184,
+      "uncertain": false
+    },
+    {
+      "id": 4770,
+      "text": "犯人",
+      "offset": 14198,
+      "uncertain": false
+    },
+    {
+      "id": 4771,
+      "text": "姪女",
+      "offset": 14208,
+      "uncertain": false
+    },
+    {
+      "id": 4772,
+      "text": "殺害",
+      "offset": 14216,
+      "uncertain": false
+    },
+    {
+      "id": 4800,
+      "text": "小暮",
+      "offset": 14226,
+      "uncertain": false
+    },
+    {
+      "id": 4801,
+      "text": "犬童蘭子",
+      "offset": 14242,
+      "uncertain": false
+    },
+    {
+      "id": 4802,
+      "text": "賀茂泉冨薇",
+      "offset": 14270,
+      "uncertain": false
+    },
+    {
+      "id": 4803,
+      "text": "佐佐木規行",
+      "offset": 14298,
+      "uncertain": false
+    },
+    {
+      "id": 4804,
+      "text": "千年紀劇団",
+      "offset": 14328,
+      "uncertain": false
+    },
+    {
+      "id": 4805,
+      "text": "安藤誠",
+      "offset": 14362,
+      "uncertain": false
+    },
+    {
+      "id": 4806,
+      "text": "失明",
+      "offset": 14388,
+      "uncertain": false
+    },
+    {
+      "id": 4807,
+      "text": "導演",
+      "offset": 14398,
+      "uncertain": false
+    },
+    {
+      "id": 4808,
+      "text": "霊異照片",
+      "offset": 14410,
+      "uncertain": false
+    },
+    {
+      "id": 4809,
+      "text": "五十嵐理緒",
+      "offset": 14424,
+      "uncertain": false
+    },
+    {
+      "id": 4810,
+      "text": "女主演",
+      "offset": 14452,
+      "uncertain": false
+    },
+    {
+      "id": 4811,
+      "text": "佐伯竜彦",
+      "offset": 14466,
+      "uncertain": false
+    },
+    {
+      "id": 4812,
+      "text": "他殺",
+      "offset": 14494,
+      "uncertain": false
+    },
+    {
+      "id": 4813,
+      "text": "Ｕ盤",
+      "offset": 14504,
+      "uncertain": false
+    },
+    {
+      "id": 4814,
+      "text": "吊架",
+      "offset": 14524,
+      "uncertain": false
+    },
+    {
+      "id": 4816,
+      "text": "寅踪狂",
+      "offset": 14536,
+      "uncertain": false
+    },
+    {
+      "id": 4817,
+      "text": "門竃",
+      "offset": 14552,
+      "uncertain": false
+    },
+    {
+      "id": 4820,
+      "text": "恐高症",
+      "offset": 14578,
+      "uncertain": false
+    },
+    {
+      "id": 4821,
+      "text": "投縁",
+      "offset": 14594,
+      "uncertain": false
+    },
+    {
+      "id": 4822,
+      "text": "初芝貴子",
+      "offset": 14604,
+      "uncertain": false
+    },
+    {
+      "id": 4825,
+      "text": "創作",
+      "offset": 14632,
+      "uncertain": false
+    },
+    {
+      "id": 4826,
+      "text": "坑嚼",
+      "offset": 14642,
+      "uncertain": false
+    },
+    {
+      "id": 4827,
+      "text": "瀬戸礼人",
+      "offset": 14652,
+      "uncertain": false
+    },
+    {
+      "id": 4828,
+      "text": "恋人",
+      "offset": 14676,
+      "uncertain": false
+    },
+    {
+      "id": 4829,
+      "text": "血",
+      "offset": 14686,
+      "uncertain": false
+    },
+    {
+      "id": 4831,
+      "text": "十沙耶佳",
+      "offset": 14694,
+      "uncertain": false
+    },
+    {
+      "id": 4832,
+      "text": "交通事故",
+      "offset": 14712,
+      "uncertain": false
+    },
+    {
+      "id": 4833,
+      "text": "作祟",
+      "offset": 14726,
+      "uncertain": false
+    },
+    {
+      "id": 4834,
+      "text": "民俗学",
+      "offset": 14736,
+      "uncertain": false
+    },
+    {
+      "id": 4835,
+      "text": "調査神秘事件的記者",
+      "offset": 14748,
+      "uncertain": false
+    },
+    {
+      "id": 4836,
+      "text": "多重曝光",
+      "offset": 14776,
+      "uncertain": false
+    },
+    {
+      "id": 4837,
+      "text": "論文",
+      "offset": 14790,
+      "uncertain": false
+    },
+    {
+      "id": 4838,
+      "text": "捜査一課",
+      "offset": 14800,
+      "uncertain": false
+    },
+    {
+      "id": 4839,
+      "text": "霧崎",
+      "offset": 14814,
+      "uncertain": false
+    },
+    {
+      "id": 4840,
+      "text": "悠香",
+      "offset": 14824,
+      "uncertain": false
+    },
+    {
+      "id": 4841,
+      "text": "詛呪",
+      "offset": 14836,
+      "uncertain": false
+    },
+    {
+      "id": 4842,
+      "text": "自我表現慾",
+      "offset": 14846,
+      "uncertain": false
+    },
+    {
+      "id": 4843,
+      "text": "拍売",
+      "offset": 14862,
+      "uncertain": false
+    },
+    {
+      "id": 4844,
+      "text": "岩永陽一",
+      "offset": 14872,
+      "uncertain": false
+    },
+    {
+      "id": 4845,
+      "text": "人見",
+      "offset": 14902,
+      "uncertain": false
+    },
+    {
+      "id": 4846,
+      "text": "失血死",
+      "offset": 14912,
+      "uncertain": false
+    },
+    {
+      "id": 4847,
+      "text": "酒精",
+      "offset": 14924,
+      "uncertain": false
+    },
+    {
+      "id": 4848,
+      "text": "発梳",
+      "offset": 14940,
+      "uncertain": false
+    },
+    {
+      "id": 4849,
+      "text": "回顧",
+      "offset": 14956,
+      "uncertain": false
+    },
+    {
+      "id": 4850,
+      "text": "恋慕",
+      "offset": 14968,
+      "uncertain": false
+    },
+    {
+      "id": 4851,
+      "text": "痴情的糾結",
+      "offset": 14984,
+      "uncertain": false
+    },
+    {
+      "id": 4852,
+      "text": "迹職",
+      "offset": 15010,
+      "uncertain": false
+    },
+    {
+      "id": 4853,
+      "text": "罷工",
+      "offset": 15024,
+      "uncertain": false
+    },
+    {
+      "id": 4854,
+      "text": "競争対手",
+      "offset": 15040,
+      "uncertain": false
+    },
+    {
+      "id": 4855,
+      "text": "視力",
+      "offset": 15058,
+      "uncertain": false
+    },
+    {
+      "id": 4856,
+      "text": "天才",
+      "offset": 15068,
+      "uncertain": false
+    },
+    {
+      "id": 4857,
+      "text": "秘密",
+      "offset": 15078,
+      "uncertain": false
+    },
+    {
+      "id": 4858,
+      "text": "亞客",
+      "offset": 15088,
+      "uncertain": false
+    },
+    {
+      "id": 4859,
+      "text": "摯友",
+      "offset": 15100,
+      "uncertain": false
+    },
+    {
+      "id": 4861,
+      "text": "復仇",
+      "offset": 15110,
+      "uncertain": false
+    },
+    {
+      "id": 4862,
+      "text": "延期",
+      "offset": 15120,
+      "uncertain": false
+    },
+    {
+      "id": 4863,
+      "text": "中止",
+      "offset": 15130,
+      "uncertain": false
+    },
+    {
+      "id": 4864,
+      "text": "郵件",
+      "offset": 15140,
+      "uncertain": false
+    },
+    {
+      "id": 4865,
+      "text": "附身",
+      "offset": 15152,
+      "uncertain": false
+    },
+    {
+      "id": 4867,
+      "text": "恋",
+      "offset": 15162,
+      "uncertain": false
+    },
+    {
+      "id": 4868,
+      "text": "公演",
+      "offset": 15170,
+      "uncertain": false
+    },
+    {
+      "id": 4900,
+      "text": "常世島",
+      "offset": 15180,
+      "uncertain": false
+    },
+    {
+      "id": 4901,
+      "text": "罷工",
+      "offset": 15202,
+      "uncertain": false
+    },
+    {
+      "id": 4902,
+      "text": "面具",
+      "offset": 15218,
+      "uncertain": false
+    },
+    {
+      "id": 4903,
+      "text": "遊覧勝地的旅館",
+      "offset": 15230,
+      "uncertain": false
+    },
+    {
+      "id": 4904,
+      "text": "幽霊",
+      "offset": 15250,
+      "uncertain": false
+    },
+    {
+      "id": 4905,
+      "text": "医院",
+      "offset": 15260,
+      "uncertain": false
+    },
+    {
+      "id": 4906,
+      "text": "患者之魂",
+      "offset": 15270,
+      "uncertain": false
+    },
+    {
+      "id": 4907,
+      "text": "土著宗教",
+      "offset": 15284,
+      "uncertain": false
+    },
+    {
+      "id": 4908,
+      "text": "経理",
+      "offset": 15298,
+      "uncertain": false
+    },
+    {
+      "id": 4909,
+      "text": "楡枝",
+      "offset": 15310,
+      "uncertain": false
+    },
+    {
+      "id": 4910,
+      "text": "柿崎幸之助",
+      "offset": 15328,
+      "uncertain": false
+    },
+    {
+      "id": 4911,
+      "text": "常客",
+      "offset": 15362,
+      "uncertain": false
+    },
+    {
+      "id": 4912,
+      "text": "谷",
+      "offset": 15374,
+      "uncertain": false
+    },
+    {
+      "id": 4913,
+      "text": "作家",
+      "offset": 15382,
+      "uncertain": false
+    },
+    {
+      "id": 4914,
+      "text": "単人房",
+      "offset": 15392,
+      "uncertain": false
+    },
+    {
+      "id": 4915,
+      "text": "配楼",
+      "offset": 15412,
+      "uncertain": false
+    },
+    {
+      "id": 4916,
+      "text": "海鉤",
+      "offset": 15422,
+      "uncertain": false
+    },
+    {
+      "id": 4917,
+      "text": "器官移植",
+      "offset": 15434,
+      "uncertain": false
+    },
+    {
+      "id": 4918,
+      "text": "護士",
+      "offset": 15448,
+      "uncertain": false
+    },
+    {
+      "id": 4919,
+      "text": "七原望",
+      "offset": 15460,
+      "uncertain": false
+    },
+    {
+      "id": 4920,
+      "text": "福井",
+      "offset": 15484,
+      "uncertain": false
+    },
+    {
+      "id": 4921,
+      "text": "医生",
+      "offset": 15494,
+      "uncertain": false
+    },
+    {
+      "id": 4922,
+      "text": "刑事部機動捜査隊隊長",
+      "offset": 15504,
+      "uncertain": false
+    },
+    {
+      "id": 4923,
+      "text": "道明寺警視",
+      "offset": 15530,
+      "uncertain": false
+    },
+    {
+      "id": 4924,
+      "text": "方便",
+      "offset": 15546,
+      "uncertain": false
+    },
+    {
+      "id": 4925,
+      "text": "大野原剛",
+      "offset": 15556,
+      "uncertain": false
+    },
+    {
+      "id": 4926,
+      "text": "双人房",
+      "offset": 15586,
+      "uncertain": false
+    },
+    {
+      "id": 4927,
+      "text": "忠犬",
+      "offset": 15604,
+      "uncertain": false
+    },
+    {
+      "id": 4928,
+      "text": "火蜥蜴",
+      "offset": 15614,
+      "uncertain": false
+    },
+    {
+      "id": 4929,
+      "text": "電話",
+      "offset": 15634,
+      "uncertain": false
+    },
+    {
+      "id": 4930,
+      "text": "手術痕跡",
+      "offset": 15644,
+      "uncertain": false
+    },
+    {
+      "id": 4931,
+      "text": "器官",
+      "offset": 15656,
+      "uncertain": false
+    },
+    {
+      "id": 4932,
+      "text": "青山医院",
+      "offset": 15666,
+      "uncertain": false
+    },
+    {
+      "id": 4933,
+      "text": "旅館老板",
+      "offset": 15680,
+      "uncertain": false
+    },
+    {
+      "id": 4934,
+      "text": "副経理",
+      "offset": 15696,
+      "uncertain": false
+    },
+    {
+      "id": 4935,
+      "text": "鳳",
+      "offset": 15710,
+      "uncertain": false
+    },
+    {
+      "id": 4936,
+      "text": "老江湖",
+      "offset": 15726,
+      "uncertain": false
+    },
+    {
+      "id": 4937,
+      "text": "中佃",
+      "offset": 15740,
+      "uncertain": false
+    },
+    {
+      "id": 4939,
+      "text": "商販之女",
+      "offset": 15750,
+      "uncertain": false
+    },
+    {
+      "id": 4940,
+      "text": "犯人",
+      "offset": 15764,
+      "uncertain": false
+    },
+    {
+      "id": 4941,
+      "text": "都市伝説",
+      "offset": 15774,
+      "uncertain": false
+    },
+    {
+      "id": 4942,
+      "text": "器官買売的椀客",
+      "offset": 15788,
+      "uncertain": false
+    },
+    {
+      "id": 4943,
+      "text": "茂原義和",
+      "offset": 15808,
+      "uncertain": false
+    },
+    {
+      "id": 4944,
+      "text": "豊島達志",
+      "offset": 15836,
+      "uncertain": false
+    },
+    {
+      "id": 4945,
+      "text": "河西真人",
+      "offset": 15864,
+      "uncertain": false
+    },
+    {
+      "id": 4946,
+      "text": "天羽修",
+      "offset": 15890,
+      "uncertain": false
+    },
+    {
+      "id": 4947,
+      "text": "榎儡",
+      "offset": 15914,
+      "uncertain": false
+    },
+    {
+      "id": 4948,
+      "text": "避人耳目的宿駅",
+      "offset": 15926,
+      "uncertain": false
+    },
+    {
+      "id": 4949,
+      "text": "鴨根大学附属医院",
+      "offset": 15946,
+      "uncertain": false
+    },
+    {
+      "id": 4950,
+      "text": "媒体宣伝策略",
+      "offset": 15968,
+      "uncertain": false
+    },
+    {
+      "id": 4951,
+      "text": "新宿",
+      "offset": 15986,
+      "uncertain": false
+    },
+    {
+      "id": 4952,
+      "text": "復活",
+      "offset": 15996,
+      "uncertain": false
+    },
+    {
+      "id": 4953,
+      "text": "実地調査",
+      "offset": 16006,
+      "uncertain": false
+    },
+    {
+      "id": 4954,
+      "text": "恋人",
+      "offset": 16028,
+      "uncertain": false
+    },
+    {
+      "id": 4955,
+      "text": "妹",
+      "offset": 16038,
+      "uncertain": false
+    },
+    {
+      "id": 4956,
+      "text": "僵屍",
+      "offset": 16046,
+      "uncertain": false
+    },
+    {
+      "id": 4957,
+      "text": "医療事故",
+      "offset": 16058,
+      "uncertain": false
+    },
+    {
+      "id": 4958,
+      "text": "治療",
+      "offset": 16072,
+      "uncertain": false
+    },
+    {
+      "id": 4959,
+      "text": "特快消息",
+      "offset": 16082,
+      "uncertain": false
+    },
+    {
+      "id": 4960,
+      "text": "偽証",
+      "offset": 16096,
+      "uncertain": false
+    },
+    {
+      "id": 4961,
+      "text": "流星号",
+      "offset": 16106,
+      "uncertain": false
+    },
+    {
+      "id": 4962,
+      "text": "策劃",
+      "offset": 16118,
+      "uncertain": false
+    },
+    {
+      "id": 4963,
+      "text": "旅館套間",
+      "offset": 16138,
+      "uncertain": false
+    },
+    {
+      "id": 4964,
+      "text": "人見",
+      "offset": 16158,
+      "uncertain": false
+    },
+    {
+      "id": 4965,
+      "text": "阻碍",
+      "offset": 16168,
+      "uncertain": false
+    },
+    {
+      "id": 4966,
+      "text": "安曇優",
+      "offset": 16178,
+      "uncertain": false
+    },
+    {
+      "id": 4967,
+      "text": "落合圭三",
+      "offset": 16202,
+      "uncertain": false
+    },
+    {
+      "id": 4968,
+      "text": "野狗",
+      "offset": 16232,
+      "uncertain": false
+    },
+    {
+      "id": 4969,
+      "text": "単人",
+      "offset": 16244,
+      "uncertain": false
+    },
+    {
+      "id": 4970,
+      "text": "徳増健二",
+      "offset": 16256,
+      "uncertain": false
+    },
+    {
+      "id": 4971,
+      "text": "青山",
+      "offset": 16284,
+      "uncertain": false
+    },
+    {
+      "id": 4972,
+      "text": "警部",
+      "offset": 16294,
+      "uncertain": false
+    },
+    {
+      "id": 4973,
+      "text": "小暮先生",
+      "offset": 16304,
+      "uncertain": false
+    },
+    {
+      "id": 4974,
+      "text": "賀茂泉警部補",
+      "offset": 16318,
+      "uncertain": false
+    },
+    {
+      "id": 4975,
+      "text": "冴冴",
+      "offset": 16336,
+      "uncertain": false
+    },
+    {
+      "id": 4976,
+      "text": "悠香女士",
+      "offset": 16348,
+      "uncertain": false
+    },
+    {
+      "id": 4977,
+      "text": "手記",
+      "offset": 16364,
+      "uncertain": false
+    },
+    {
+      "id": 4978,
+      "text": "地方病",
+      "offset": 16374,
+      "uncertain": false
+    },
+    {
+      "id": 4979,
+      "text": "感染",
+      "offset": 16386,
+      "uncertain": false
+    },
+    {
+      "id": 5000,
+      "text": "故郷",
+      "offset": 16396,
+      "uncertain": false
+    },
+    {
+      "id": 5001,
+      "text": "賀茂泉家",
+      "offset": 16414,
+      "uncertain": false
+    },
+    {
+      "id": 5002,
+      "text": "父親",
+      "offset": 16428,
+      "uncertain": false
+    },
+    {
+      "id": 5003,
+      "text": "母親",
+      "offset": 16440,
+      "uncertain": false
+    },
+    {
+      "id": 5004,
+      "text": "朋友",
+      "offset": 16452,
+      "uncertain": false
+    },
+    {
+      "id": 5005,
+      "text": "千鶴",
+      "offset": 16464,
+      "uncertain": false
+    },
+    {
+      "id": 5006,
+      "text": "家務助理",
+      "offset": 16480,
+      "uncertain": false
+    },
+    {
+      "id": 5007,
+      "text": "後嗣之女",
+      "offset": 16498,
+      "uncertain": false
+    },
+    {
+      "id": 5008,
+      "text": "祖母",
+      "offset": 16512,
+      "uncertain": false
+    },
+    {
+      "id": 5009,
+      "text": "座敷童子",
+      "offset": 16530,
+      "uncertain": false
+    },
+    {
+      "id": 5010,
+      "text": "妹",
+      "offset": 16552,
+      "uncertain": false
+    },
+    {
+      "id": 5011,
+      "text": "姉姉",
+      "offset": 16560,
+      "uncertain": false
+    },
+    {
+      "id": 5012,
+      "text": "壷生",
+      "offset": 16576,
+      "uncertain": false
+    },
+    {
+      "id": 5013,
+      "text": "恋人",
+      "offset": 16586,
+      "uncertain": false
+    },
+    {
+      "id": 5014,
+      "text": "妖怪",
+      "offset": 16596,
+      "uncertain": false
+    },
+    {
+      "id": 5015,
+      "text": "火災",
+      "offset": 16608,
+      "uncertain": false
+    },
+    {
+      "id": 5016,
+      "text": "縦火",
+      "offset": 16618,
+      "uncertain": false
+    },
+    {
+      "id": 5017,
+      "text": "小倉",
+      "offset": 16628,
+      "uncertain": false
+    },
+    {
+      "id": 5018,
+      "text": "封建的",
+      "offset": 16638,
+      "uncertain": false
+    },
+    {
+      "id": 5019,
+      "text": "老捗",
+      "offset": 16650,
+      "uncertain": false
+    },
+    {
+      "id": 5020,
+      "text": "鬼",
+      "offset": 16660,
+      "uncertain": false
+    },
+    {
+      "id": 5021,
+      "text": "小千的母親",
+      "offset": 16668,
+      "uncertain": false
+    },
+    {
+      "id": 5022,
+      "text": "犯人",
+      "offset": 16694,
+      "uncertain": false
+    },
+    {
+      "id": 5023,
+      "text": "好人",
+      "offset": 16704,
+      "uncertain": false
+    },
+    {
+      "id": 5024,
+      "text": "擁抱",
+      "offset": 16716,
+      "uncertain": false
+    },
+    {
+      "id": 5025,
+      "text": "人偶",
+      "offset": 16728,
+      "uncertain": false
+    },
+    {
+      "id": 5026,
+      "text": "警察",
+      "offset": 16740,
+      "uncertain": false
+    },
+    {
+      "id": 5027,
+      "text": "落伍",
+      "offset": 16756,
+      "uncertain": false
+    },
+    {
+      "id": 5028,
+      "text": "厳格",
+      "offset": 16770,
+      "uncertain": false
+    },
+    {
+      "id": 5029,
+      "text": "戒指",
+      "offset": 16780,
+      "uncertain": false
+    },
+    {
+      "id": 5030,
+      "text": "血縁",
+      "offset": 16790,
+      "uncertain": false
+    },
+    {
+      "id": 5031,
+      "text": "仇",
+      "offset": 16800,
+      "uncertain": false
+    },
+    {
+      "id": 5033,
+      "text": "山姥",
+      "offset": 16814,
+      "uncertain": false
+    },
+    {
+      "id": 5034,
+      "text": "親子",
+      "offset": 16824,
+      "uncertain": false
+    },
+    {
+      "id": 5035,
+      "text": "照片",
+      "offset": 16834,
+      "uncertain": false
+    },
+    {
+      "id": 5036,
+      "text": "辻子",
+      "offset": 16844,
+      "uncertain": false
+    },
+    {
+      "id": 5037,
+      "text": "政治婚姻",
+      "offset": 16854,
+      "uncertain": false
+    },
+    {
+      "id": 5038,
+      "text": "無用的東西",
+      "offset": 16868,
+      "uncertain": false
+    },
+    {
+      "id": 5039,
+      "text": "復仇",
+      "offset": 16884,
+      "uncertain": false
+    },
+    {
+      "id": 5040,
+      "text": "柾棄",
+      "offset": 16894,
+      "uncertain": false
+    },
+    {
+      "id": 5041,
+      "text": "神官",
+      "offset": 16906,
+      "uncertain": false
+    },
+    {
+      "id": 5042,
+      "text": "一模一様",
+      "offset": 16916,
+      "uncertain": false
+    },
+    {
+      "id": 5043,
+      "text": "小千",
+      "offset": 16930,
+      "uncertain": false
+    },
+    {
+      "id": 5044,
+      "text": "父親",
+      "offset": 16946,
+      "uncertain": false
+    },
+    {
+      "id": 5045,
+      "text": "神経過敏",
+      "offset": 16956,
+      "uncertain": false
+    },
+    {
+      "id": 5046,
+      "text": "唯命是従",
+      "offset": 16970,
+      "uncertain": false
+    },
+    {
+      "id": 5047,
+      "text": "一去不復返？",
+      "offset": 16984,
+      "uncertain": false
+    },
+    {
+      "id": 5048,
+      "text": "応該憎悪的？",
+      "offset": 17014,
+      "uncertain": false
+    },
+    {
+      "id": 5049,
+      "text": "有歴史的神社",
+      "offset": 17032,
+      "uncertain": false
+    },
+    {
+      "id": 5050,
+      "text": "一去不復返？",
+      "offset": 17052,
+      "uncertain": false
+    },
+    {
+      "id": 5051,
+      "text": "妾",
+      "offset": 17078,
+      "uncertain": false
+    },
+    {
+      "id": 5052,
+      "text": "遺産",
+      "offset": 17092,
+      "uncertain": false
+    },
+    {
+      "id": 5053,
+      "text": "情人",
+      "offset": 17102,
+      "uncertain": false
+    },
+    {
+      "id": 5054,
+      "text": "母親",
+      "offset": 17112,
+      "uncertain": false
+    },
+    {
+      "id": 5100,
+      "text": "警署",
+      "offset": 17126,
+      "uncertain": false
+    },
+    {
+      "id": 5101,
+      "text": "新手",
+      "offset": 17146,
+      "uncertain": false
+    },
+    {
+      "id": 5102,
+      "text": "幽霊",
+      "offset": 17156,
+      "uncertain": false
+    },
+    {
+      "id": 5103,
+      "text": "電梯",
+      "offset": 17166,
+      "uncertain": false
+    },
+    {
+      "id": 5104,
+      "text": "大出血",
+      "offset": 17184,
+      "uncertain": false
+    },
+    {
+      "id": 5105,
+      "text": "血液恐惧症",
+      "offset": 17196,
+      "uncertain": false
+    },
+    {
+      "id": 5106,
+      "text": "粘血",
+      "offset": 17212,
+      "uncertain": false
+    },
+    {
+      "id": 5107,
+      "text": "奇怪客人",
+      "offset": 17228,
+      "uncertain": false
+    },
+    {
+      "id": 5108,
+      "text": "警視庁",
+      "offset": 17242,
+      "uncertain": false
+    },
+    {
+      "id": 5109,
+      "text": "墓石鋪",
+      "offset": 17254,
+      "uncertain": false
+    },
+    {
+      "id": 5110,
+      "text": "美女",
+      "offset": 17266,
+      "uncertain": false
+    },
+    {
+      "id": 5111,
+      "text": "槻婦",
+      "offset": 17276,
+      "uncertain": false
+    },
+    {
+      "id": 5112,
+      "text": "管理員",
+      "offset": 17288,
+      "uncertain": false
+    },
+    {
+      "id": 5113,
+      "text": "御園雛子",
+      "offset": 17300,
+      "uncertain": false
+    },
+    {
+      "id": 5114,
+      "text": "警察証",
+      "offset": 17326,
+      "uncertain": false
+    },
+    {
+      "id": 5115,
+      "text": "捜査一課",
+      "offset": 17340,
+      "uncertain": false
+    },
+    {
+      "id": 5116,
+      "text": "佐佐木課長",
+      "offset": 17354,
+      "uncertain": false
+    },
+    {
+      "id": 5117,
+      "text": "秘密偵査",
+      "offset": 17370,
+      "uncertain": false
+    },
+    {
+      "id": 5118,
+      "text": "兇殺",
+      "offset": 17386,
+      "uncertain": false
+    },
+    {
+      "id": 5119,
+      "text": "内部告発",
+      "offset": 17396,
+      "uncertain": false
+    },
+    {
+      "id": 5120,
+      "text": "犯人",
+      "offset": 17410,
+      "uncertain": false
+    },
+    {
+      "id": 5121,
+      "text": "証物保管倉庫",
+      "offset": 17420,
+      "uncertain": false
+    },
+    {
+      "id": 5122,
+      "text": "合作者",
+      "offset": 17440,
+      "uncertain": false
+    },
+    {
+      "id": 5123,
+      "text": "年軽的刑警",
+      "offset": 17452,
+      "uncertain": false
+    },
+    {
+      "id": 5124,
+      "text": "原朋子",
+      "offset": 17468,
+      "uncertain": false
+    },
+    {
+      "id": 5125,
+      "text": "設施",
+      "offset": 17490,
+      "uncertain": false
+    },
+    {
+      "id": 5126,
+      "text": "研究所",
+      "offset": 17500,
+      "uncertain": false
+    },
+    {
+      "id": 5127,
+      "text": "超能力",
+      "offset": 17512,
+      "uncertain": false
+    },
+    {
+      "id": 5128,
+      "text": "心測術",
+      "offset": 17524,
+      "uncertain": false
+    },
+    {
+      "id": 5129,
+      "text": "請求合作",
+      "offset": 17544,
+      "uncertain": false
+    },
+    {
+      "id": 5130,
+      "text": "木乃伊",
+      "offset": 17558,
+      "uncertain": false
+    },
+    {
+      "id": 5131,
+      "text": "腐爛屍体",
+      "offset": 17570,
+      "uncertain": false
+    },
+    {
+      "id": 5132,
+      "text": "呉架事件",
+      "offset": 17584,
+      "uncertain": false
+    },
+    {
+      "id": 5133,
+      "text": "失踪",
+      "offset": 17598,
+      "uncertain": false
+    },
+    {
+      "id": 5134,
+      "text": "連環奇異兇殺事件",
+      "offset": 17608,
+      "uncertain": false
+    },
+    {
+      "id": 5135,
+      "text": "爆炸事故",
+      "offset": 17630,
+      "uncertain": false
+    },
+    {
+      "id": 5136,
+      "text": "同一個人",
+      "offset": 17644,
+      "uncertain": false
+    },
+    {
+      "id": 5137,
+      "text": "受害者",
+      "offset": 17658,
+      "uncertain": false
+    },
+    {
+      "id": 5138,
+      "text": "１０楼",
+      "offset": 17670,
+      "uncertain": false
+    },
+    {
+      "id": 5139,
+      "text": "１２楼",
+      "offset": 17682,
+      "uncertain": false
+    },
+    {
+      "id": 5140,
+      "text": "巨大的裂縫",
+      "offset": 17694,
+      "uncertain": false
+    },
+    {
+      "id": 5141,
+      "text": "ＪＯＦ事件",
+      "offset": 17712,
+      "uncertain": false
+    },
+    {
+      "id": 5142,
+      "text": "資料",
+      "offset": 17728,
+      "uncertain": false
+    },
+    {
+      "id": 5143,
+      "text": "兇殺現場",
+      "offset": 17738,
+      "uncertain": false
+    },
+    {
+      "id": 5144,
+      "text": "証拠",
+      "offset": 17752,
+      "uncertain": false
+    },
+    {
+      "id": 5145,
+      "text": "屍体",
+      "offset": 17762,
+      "uncertain": false
+    },
+    {
+      "id": 5200,
+      "text": "失踪事件",
+      "offset": 17772,
+      "uncertain": false
+    },
+    {
+      "id": 5201,
+      "text": "薫",
+      "offset": 17788,
+      "uncertain": false
+    },
+    {
+      "id": 5202,
+      "text": "佐倉前輩",
+      "offset": 17802,
+      "uncertain": false
+    },
+    {
+      "id": 5203,
+      "text": "美紀",
+      "offset": 17822,
+      "uncertain": false
+    },
+    {
+      "id": 5204,
+      "text": "霧崎水明",
+      "offset": 17832,
+      "uncertain": false
+    },
+    {
+      "id": 5205,
+      "text": "確定留級",
+      "offset": 17862,
+      "uncertain": false
+    },
+    {
+      "id": 5206,
+      "text": "湯川果歩",
+      "offset": 17876,
+      "uncertain": false
+    },
+    {
+      "id": 5207,
+      "text": "報告",
+      "offset": 17900,
+      "uncertain": false
+    },
+    {
+      "id": 5209,
+      "text": "藤原朝希",
+      "offset": 17914,
+      "uncertain": false
+    },
+    {
+      "id": 5210,
+      "text": "神秘事件愛好者",
+      "offset": 17942,
+      "uncertain": false
+    },
+    {
+      "id": 5211,
+      "text": "網友",
+      "offset": 17962,
+      "uncertain": false
+    },
+    {
+      "id": 5212,
+      "text": "郷音",
+      "offset": 17974,
+      "uncertain": false
+    },
+    {
+      "id": 5213,
+      "text": "精神創傷",
+      "offset": 17988,
+      "uncertain": false
+    },
+    {
+      "id": 5214,
+      "text": "狗山女校",
+      "offset": 18002,
+      "uncertain": false
+    },
+    {
+      "id": 5215,
+      "text": "乖僻",
+      "offset": 18018,
+      "uncertain": false
+    },
+    {
+      "id": 5217,
+      "text": "摯友",
+      "offset": 18028,
+      "uncertain": false
+    },
+    {
+      "id": 5218,
+      "text": "遺体",
+      "offset": 18038,
+      "uncertain": false
+    },
+    {
+      "id": 5219,
+      "text": "奇異的",
+      "offset": 18048,
+      "uncertain": false
+    },
+    {
+      "id": 5220,
+      "text": "妊娠",
+      "offset": 18060,
+      "uncertain": false
+    },
+    {
+      "id": 5221,
+      "text": "焚焼炉",
+      "offset": 18070,
+      "uncertain": false
+    },
+    {
+      "id": 5222,
+      "text": "学生",
+      "offset": 18082,
+      "uncertain": false
+    },
+    {
+      "id": 5223,
+      "text": "胎児",
+      "offset": 18092,
+      "uncertain": false
+    },
+    {
+      "id": 5224,
+      "text": "Ｂ事件",
+      "offset": 18102,
+      "uncertain": false
+    },
+    {
+      "id": 5225,
+      "text": "低級趣味",
+      "offset": 18114,
+      "uncertain": false
+    },
+    {
+      "id": 5226,
+      "text": "都市伝説",
+      "offset": 18126,
+      "uncertain": false
+    },
+    {
+      "id": 5227,
+      "text": "調査神秘事件的記者",
+      "offset": 18140,
+      "uncertain": false
+    },
+    {
+      "id": 5228,
+      "text": "掩蓋",
+      "offset": 18168,
+      "uncertain": false
+    },
+    {
+      "id": 5229,
+      "text": "搭乗",
+      "offset": 18184,
+      "uncertain": false
+    },
+    {
+      "id": 5230,
+      "text": "糾紛",
+      "offset": 18194,
+      "uncertain": false
+    },
+    {
+      "id": 5231,
+      "text": "魅力",
+      "offset": 18208,
+      "uncertain": false
+    },
+    {
+      "id": 5232,
+      "text": "憎悪",
+      "offset": 18218,
+      "uncertain": false
+    },
+    {
+      "id": 5233,
+      "text": "清桜女子大学",
+      "offset": 18228,
+      "uncertain": false
+    },
+    {
+      "id": 5234,
+      "text": "編纂室",
+      "offset": 18246,
+      "uncertain": false
+    },
+    {
+      "id": 5235,
+      "text": "慣犯",
+      "offset": 18258,
+      "uncertain": false
+    },
+    {
+      "id": 5236,
+      "text": "小暮",
+      "offset": 18270,
+      "uncertain": false
+    },
+    {
+      "id": 5237,
+      "text": "冨薇",
+      "offset": 18280,
+      "uncertain": false
+    },
+    {
+      "id": 5238,
+      "text": "哭喪噤",
+      "offset": 18292,
+      "uncertain": false
+    },
+    {
+      "id": 5239,
+      "text": "玩弄女性",
+      "offset": 18304,
+      "uncertain": false
+    },
+    {
+      "id": 5240,
+      "text": "須未乃大学",
+      "offset": 18318,
+      "uncertain": false
+    },
+    {
+      "id": 5242,
+      "text": "西京大学",
+      "offset": 18334,
+      "uncertain": false
+    },
+    {
+      "id": 5243,
+      "text": "生辰",
+      "offset": 18348,
+      "uncertain": false
+    },
+    {
+      "id": 5244,
+      "text": "婚約",
+      "offset": 18358,
+      "uncertain": false
+    },
+    {
+      "id": 5245,
+      "text": "恋人",
+      "offset": 18368,
+      "uncertain": false
+    },
+    {
+      "id": 5246,
+      "text": "練習",
+      "offset": 18378,
+      "uncertain": false
+    },
+    {
+      "id": 5247,
+      "text": "抹蝋",
+      "offset": 18388,
+      "uncertain": false
+    },
+    {
+      "id": 5248,
+      "text": "邪念与幻覚",
+      "offset": 18398,
+      "uncertain": false
+    },
+    {
+      "id": 5249,
+      "text": "言論",
+      "offset": 18414,
+      "uncertain": false
+    },
+    {
+      "id": 5250,
+      "text": "穂坂和臣",
+      "offset": 18424,
+      "uncertain": false
+    },
+    {
+      "id": 5251,
+      "text": "菱田桃代",
+      "offset": 18452,
+      "uncertain": false
+    },
+    {
+      "id": 5252,
+      "text": "偵査",
+      "offset": 18478,
+      "uncertain": false
+    },
+    {
+      "id": 5253,
+      "text": "下落不明",
+      "offset": 18488,
+      "uncertain": false
+    },
+    {
+      "id": 5254,
+      "text": "愛好者",
+      "offset": 18502,
+      "uncertain": false
+    },
+    {
+      "id": 5255,
+      "text": "覗生",
+      "offset": 18514,
+      "uncertain": false
+    },
+    {
+      "id": 5256,
+      "text": "復仇",
+      "offset": 18528,
+      "uncertain": false
+    },
+    {
+      "id": 5257,
+      "text": "尋壕滋事",
+      "offset": 18538,
+      "uncertain": false
+    }
+  ],
+  "images": [
+    {
+      "name": "PIC1.PNG",
+      "url": "PIC1.PNG"
+    },
+    {
+      "name": "ICON0.PNG",
+      "url": "ICON0.PNG"
+    },
+    {
+      "name": "background.png",
+      "url": "background.png"
+    },
+    {
+      "name": "playsave.png",
+      "url": "playsave.png"
+    },
+    {
+      "name": "systemsave.png",
+      "url": "systemsave.png"
+    }
+  ]
+}

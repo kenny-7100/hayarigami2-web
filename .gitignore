@@ -28,5 +28,4 @@ output/
 
 # Generated original game assets; regenerate from the local ISO
 /output/
-/public/game/
 __pycache__/
