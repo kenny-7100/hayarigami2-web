@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "evidence": "scripts/compile_chapter.py: keyword ranges and initial dictionary; script/logic dependencies are read from the production package, not inferred from chapter numbers",
+  "chapters": {
+    "1": {"keywordRange": null, "initialTerms": []},
+    "10001": {"keywordRange": [4600, 4700], "initialTerms": [1, 2, 3, 4, 108]},
+    "20001": {"keywordRange": [4700, 4800], "initialTerms": []},
+    "30001": {"keywordRange": [4800, 4900], "initialTerms": []},
+    "40001": {"keywordRange": [4900, 5000], "initialTerms": []},
+    "50001": {"keywordRange": [5100, 5200], "initialTerms": []},
+    "60001": {"keywordRange": [5000, 5100], "initialTerms": []},
+    "70001": {"keywordRange": [5200, 5300], "initialTerms": []},
+    "80001": {"keywordRange": null, "initialTerms": []},
+    "90001": {"keywordRange": null, "initialTerms": []}
+  }
+}

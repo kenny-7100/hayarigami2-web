@@ -22,6 +22,8 @@ export function checkChapterOne({ game, chapter, catalog, routes, coverage, game
   const logic = game.logics[3];
   for (const [id, source] of Object.entries(logic.descriptions)) required.push([`logic.3.description.${id}`, source]);
   for (const field of logic.fields) for (const c of field.choices) if(c.description.trim()) required.push([`logic.3.field.${field.id}.choice.${c.id}`, c.description]);
+  const labels = new Set(Object.values(game.scripts).filter(s => s.id >= 20000 && s.id < 30000).flatMap(s => s.instructions).filter(i => i.op === 1401 && i.label).map(i => i.label));
+  for (const label of labels) required.push([`label.${label}`, label]);
   required.push(['prompt.23000.139', game.scripts[23000].instructions[138].label]);
   for (const [key, source] of required) {
     assert.equal(typeof source, 'string', `Invalid source: ${key}`);

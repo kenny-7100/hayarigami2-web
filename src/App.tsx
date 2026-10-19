@@ -481,7 +481,7 @@ function ReaderContent({
                   })}
                 {state.overlay && (
                   <text x="24" y="24" fill="white" fontSize="14">
-                    {state.overlay}
+                    {g(`label.${state.overlay}`, state.overlay)}
                   </text>
                 )}
               </svg>

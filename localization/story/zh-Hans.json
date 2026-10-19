@@ -1561,6 +1561,26 @@
       "source": "これで決定でよろしいですか？",
       "text": "确定提交这份推理结果吗？",
       "status": "draft"
+    },
+    "label.【検証１】": {
+      "source": "【検証１】",
+      "text": "【验证１】",
+      "status": "draft"
+    },
+    "label.【検証２】": {
+      "source": "【検証２】",
+      "text": "【验证２】",
+      "status": "draft"
+    },
+    "label.【検証３】": {
+      "source": "【検証３】",
+      "text": "【验证３】",
+      "status": "draft"
+    },
+    "label.【検証４】": {
+      "source": "【検証４】",
+      "text": "【验证４】",
+      "status": "draft"
     }
   },
   "rich": {

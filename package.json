@@ -21,7 +21,10 @@
     "i18n:extract": "python3 scripts/extract_localization.py && node --experimental-strip-types scripts/extract_story_localization.mjs && node --experimental-strip-types scripts/collect_chapter_one_localization.mjs",
     "i18n:check": "node --experimental-strip-types scripts/audit_localization.mjs",
     "i18n:release-check": "node --experimental-strip-types scripts/audit_localization.mjs --complete",
-    "i18n:check:chapter-one": "node --experimental-strip-types scripts/check_chapter_one_translation.mjs"
+    "i18n:check:chapter-one": "node --experimental-strip-types scripts/check_chapter_one_translation.mjs",
+    "i18n:work": "node --experimental-strip-types scripts/translation_workbench.mjs",
+    "i18n:context": "node --experimental-strip-types scripts/translation_context.mjs",
+    "i18n:test": "node --experimental-strip-types --test tests/i18n.test.mjs tests/localization-routes.test.mjs tests/chapter-one-translation.test.mjs tests/translation-workbench.test.mjs"
   },
   "dependencies": {
     "react": "^19.2.8",

@@ -124,3 +124,11 @@ node --experimental-strip-types tests/generate-zh-hans-fixtures.mjs
 ```
 
 输出 `output/localization/chapter-one-source-coverage.json` 和 `chapter-one-zh-Hans.json`。固定种子 300 次完整路线、科学/灵异夹具、空推理提示，另以 isolated 标记源中未在路线运行的文本块。不将 isolated 当作可达剧情。`i18n:extract` 重建后自动运行采集器，避免覆盖回两条主线的小语料。删除译文、源文漂移、旧 game.json 指纹都会使门禁失败。此门禁是已撰写完整性门禁，不会把 draft 自动改为 reviewed，也不取代全游戏发布门禁。修改游戏源后，必须重新提取并调查基准变化。
+
+## 翻译工作台与连续上下文
+
+后续翻译先读 [TRANSLATION_WORKFLOW](TRANSLATION_WORKFLOW.md)。`npm run i18n:work -- status|prepare|check|apply` 统一正文、静态文本、显式修订和安全合并；按真实 `--entry` 选择章。`npm run i18n:context -- ...` 从指定夹具重放连续停顿。`npm run i18n:test` 是每批翻译的定向检查；章节完成仍运行完整 verify 和实际浏览器验收。
+
+`routes.jsonl.manifest.json` 绑定游戏包和语料文件 SHA，过期时必须重新 i18n:extract；不能只修改指纹让旧语料通过。固定种子第一话的可重放轨迹保存到 `output/localization/chapter-one-trials.json`，数值 trial 对应 routes 数组下标。新的 prompt 和所有场景 label 纳入源清单；章节索引及原始片段不是可直接翻译的完整句子。
+
+新增目录：`localization/glossaries/` 保存有出处的语言术语规则；`localization/task-archive/` 保存已应用任务输入与检查证据；`localization/templates/TRANSLATION_HANDOFF.md` 用于上下文交接、审校范围及媒体清单。工作中的任务放 output/localization/tasks/，避免将尚未填写的任务误当已应用源稿。

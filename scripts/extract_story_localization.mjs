@@ -4,6 +4,7 @@ import { createState, run, advance, submitName } from '../src/game/engine.ts';
 import { richKey, sourceSignature } from '../src/i18n/richText.ts';
 import { walk } from '../tests/chapter-walk.mjs';
 import { replayRoute } from './replay_route.mjs';
+import { stampCorpus } from './localization_provenance.mjs';
 import { localizationRoute } from './localization_routes.mjs';
 const data = JSON.parse(readFileSync('public/game/game.json', 'utf8'));
 const entries = new Map();
@@ -60,3 +61,5 @@ mkdirSync('output/localization', { recursive: true });
 const suffix = process.argv.includes('--prologue-only') ? 'prologue' : 'routes';
 writeFileSync(`output/localization/${suffix}.jsonl`, [...entries.values()].map(entry => JSON.stringify(entry)).join('\n') + '\n');
 console.log(`${entries.size} distinct rich passages collected (${suffix}); not a claim of all source variants.`);
+
+stampCorpus(`output/localization/${suffix}.jsonl`);

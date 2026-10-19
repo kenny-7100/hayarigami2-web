@@ -7,6 +7,7 @@
 | [PROJECT_STATUS](PROJECT_STATUS.md) | 当前完成范围、已知边界、下一章审计与待办 |
 | [CHAPTER_WORKFLOW](CHAPTER_WORKFLOW.md) | 从原始审计到章节验收的步骤与完成条件 |
 | [TOOLING](TOOLING.md) | 可复制命令、输入输出、失败诊断与通用浏览器入口 |
+| [TRANSLATION_WORKFLOW](TRANSLATION_WORKFLOW.md) | agent 翻译入口、第一话复盘、工作台、连续上下文、审校和交接 |
 | [I18N](I18N.md) | 多语言架构、翻译进度、验收缺口（进行中） |
 | [UI_DESIGN](UI_DESIGN.md) | 游戏界面设计约束、响应式布局和交互验收清单 |
 | [ARCHITECTURE](ARCHITECTURE.md) | 离线管线、运行时、数据与修改位置 |

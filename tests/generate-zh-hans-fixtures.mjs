@@ -34,5 +34,7 @@ for (const kind of ['science', 'occult']) {
  }});
  fixtures[`${kind}-ending`] = lastPage;
 }
+// Explicit layout boundary: a real source label on a real scene snapshot, not a reachable story assertion.
+fixtures['overlay-label-layout'] = validateSave(data, { ...fixtures['evidence-blood'], overlay: data.scripts[23081].instructions.find(i => i.op === 1401).label });
 writeFileSync('output/qa/zh-hans/fixtures.json', JSON.stringify(fixtures));
 console.log(`Extended checkpoints: ${Object.keys(fixtures).join(', ')}`);

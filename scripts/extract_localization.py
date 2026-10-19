@@ -27,15 +27,16 @@ def extract(game):
             context = dict(script=int(script_id), chapter=chapter, block=block, offset=ins['offset'],
                            sourceLanguage=script.get('language', 'mixed'),
                            before=instructions[max(0, index - 3):index], after=instructions[index + 1:index + 4])
+            if ins.get('op') == 1310:
+                add(f'prompt.{script_id}.{index + 1}', ins.get('label'), 'confirmation', **context)
             for field in ('text', 'label'):
                 if field in ins:
                     add(f'script.{script_id}.{ins["offset"]}.{field}', ins[field], 'script-fragment', **context)
-    # Runtime credits use full label text as their stable key; retain instruction records above for provenance.
-    credit_labels = sorted({ins['label'] for sid, script in game['scripts'].items()
-                            if 6100 <= int(sid) < 6300
-                            for ins in script['instructions'] if ins.get('label', '').strip()})
-    for label in credit_labels:
-        add(f'label.{label}', label, 'credit-label')
+    # Scene overlays and credits use full label text as their stable key; keep raw instruction provenance.
+    display_labels = sorted({ins['label'] for sid, script in game['scripts'].items()
+                            for ins in script['instructions'] if ins.get('op') == 1401 and ins.get('label', '').strip()})
+    for label in display_labels:
+        add(f'label.{label}', label, 'display-label')
     for collection in ('keywords', 'terms', 'definitions', 'pageText'):
         for key, text in game.get(collection, {}).items():
             add(f'{collection}.{key}', text, collection)

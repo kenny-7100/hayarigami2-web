@@ -2,6 +2,8 @@
 
 先读 [当前状态](docs/PROJECT_STATUS.md)、[章节实施流程](docs/CHAPTER_WORKFLOW.md) 和 [工具说明](docs/TOOLING.md)。按任务再读对应章节、渲染与逆向证据，避免全文扫描大型 JSON 或反汇编。文档索引在 [docs/README.md](docs/README.md)。历史验收记录的早期结论不能替代当前状态。
 
+翻译任务另先读 [翻译工作流](docs/TRANSLATION_WORKFLOW.md) 和对应语言规则；新批次使用 `npm run i18n:work`，不要全文扫描大型语料或用临时脚本绕过合并检查。上下文不明时用 `npm run i18n:context` 重放具体路线。结构校验不等于文学审校。
+
 ## 产品约束
 
 - 原生 Web 应用：React / TypeScript / HTML / CSS / SVG / Web 音频 / IndexedDB。允许保留原版剧情字节码并重写解释器；不实现 PSP 模拟器，不追求还原原作者源码。
